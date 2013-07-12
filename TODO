@@ -1,0 +1,46 @@
+TODO
+====
+
+SPONSORS
+c'est la grosse partie ! je vais essayer d'expliquer par écrit mais le plus simple et de se voir :)
+- Sur la home et en bas de chaque page, on met une brique pour chaque type de sponsors avec un logo aléatoire sur fond blanc (pas le choix :-/) :
+. Official > rectangle (google, intuiti, veolia eau, euptoyou + CCI + Région)
+. Gold > carré (8)
+. Silver > carré (10)
+. Friends > carré (Stereo, Trempo, machines de l'île, CC)
+. Media > carré (rude baguette, locita, frenchweb, petitweb, atelier bnp paribas, presseocean, telenantes, prun)
+. Orga > rectangle (Powered by + logo Atlantic2)
+Avec un lien à chaque fois vers la page sponsors
+
+
+
+
+!!!!! VERSION MOBILE ILLISIBLE !!!!!!
+Réduire le nombre de briques ?
+
+    => plus précisément ? (screenshot plz) j'ai demandé à Jordane de m'envoyer
+       ça ! L'idée c'est que sur mobile on reste sur une largeur de 4 carrées (en
+       horizontal). Du coup c'est vraiment trop petit, d'autant plus pour l'agenda
+
+
+Twitter widget :
+à faire à https://twitter.com/settings/widgets/
+heigth : 404
+Theme : Dark
+Domains : fr.linkedin.com, example.com, localhost.sounderbox.com, www.web2day-nantes.org
+
+
+Done
+====
+
+GENERAL
+- On peut intégrer une vidéo ? on a le teaser du web2day qui doit arriver.
+    => Oui, il suffit de mettre le HTML en dur // OK
+
+AGENDA
+- légende couleur pour les salles, on reprend les couleurs du logo :
+. bleu trempo
+. rose steve jobs
+. orange Aaron Swartz
+=> done
+

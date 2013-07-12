@@ -1,0 +1,10 @@
+BEGIN:VEVENT
+UID:$url$
+DTSTAMP:$iso8601_start$
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:$location$
+DTSTART:$iso8601_start$
+DTEND:$iso8601_end$
+SUMMARY:$title$
+DESCRIPTION:more info: http://scala.io$url$
+END:VEVENT
