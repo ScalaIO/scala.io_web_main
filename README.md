@@ -19,7 +19,7 @@ You need to have the haskell platform installed:
 Then, install hakyll:
 
     cabal update
-    cabal install hakyll
+    cabal install hakyll-4.2.2.0
 
 ### Less
 
@@ -44,4 +44,8 @@ To generate the static website (generated files are stored in `_site`):
 To preview the site on (the website will be available at `localhost: 8000`):
 
     make preview
+
+To publish the site on clever-cloud
+
+    make publish
 
