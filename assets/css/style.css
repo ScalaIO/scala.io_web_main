@@ -560,6 +560,11 @@ footer hr {
   background-color: #dddddd;
   /*background-color: #dbd8d4;*/
 }
+
+/********************************************************
+      public transportation
+********************************************************/
+
 i.icon-ok{
 background-image: url("../assets/images/glyphicons/glyphicons_206_ok_2.png");
 }
@@ -574,4 +579,14 @@ span.RERC{
 }
 span.RERE{
   background-color:   #D17FB5;
+}
+
+/********************************************************
+      speakers
+********************************************************/
+div.speaker{
+  padding-top: 90px;
+  display: inline-block;
+  max-height: 150px;
+  height:150px;
 }
