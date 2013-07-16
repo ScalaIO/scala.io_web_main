@@ -133,7 +133,7 @@ Become a Scala.IO sponsor and promote your services, products or simply increase
 		<td>0</td>
 	</tr>
 	<tr>		
-		<td class="rowlabel">Keynote mention of your support</td>
+		<td class="rowlabel">Keynote mention</td>
 		<td><i class="icon-ok"></td>
 		<td><i class="icon-ok"></td>
 		<td><i class="icon-ok"></td>
