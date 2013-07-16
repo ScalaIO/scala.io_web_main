@@ -1,3 +1,7 @@
+---
+title: F.A.Q.
+---
+
 # Frequently Asked Questions
 
 Who is behind the 2013 Scala.IO?
@@ -18,7 +22,7 @@ The Organizing Committee of the 2013 Scala.IO Conference is composed of:
 * Jonathan Winandy ([@ahoy_jon](http://twitter.com/ahoy_jon))
 
 Are you cool?
-
+---------------------------
 Yes we are!
 
 Do I need to speak French?
