@@ -6,18 +6,136 @@ Become a Scala.IO sponsor and promote your services, products or simply increase
 
 Contact sponsor@scala.io today and discuss the right sponsorship opportunity for you.
 
-| Benefit                                                                           | Gold                                                | Silver                                          |
-| --------------------------------------------------------------------------------- |:----------------------------------------------------|:------------------------------------------------|
-| Liste des participants                                							|<img src="assets/images/dot.png"/>                   |                                                 |
-| Logo et lien sur le site du sponsor sur le site de la conférence                  |<img src="assets/images/dot.png"/>, gros logo        |<img src="assets/images/dot.png"/> petit logo    |
-| Logo sur le modèle des présentations (slides)  									|<img src="assets/images/dot.png"/>                   |		                                            |
-| Rollup, si fournie par le sponsor, dans la salle de keynote  						|<img src="assets/images/dot.png"/>, gros logo        |<img src="assets/images/dot.png"/> petit logo    |
-| Logo sur la bannière de bienvenue à l’entrée des locaux de la conférence  		|<img src="assets/images/dot.png"/>                   |		                                            |
-| Remerciements lors des keynotes  													|<img src="assets/images/dot.png"/>                   |<img src="assets/images/dot.png"/>               |
-| Une interview pour la newsletter de la conférence  								|<img src="assets/images/dot.png"/>                   |		                                            |
-| Emplacement dans le programme de la conférence  							        |<img src="assets/images/dot.png"/>,1 page en couleur |<img src="assets/images/dot.png"/>,1 paragraphe  |
-| Goodies intégrables dans les sacs de la conférence fournis aux participants  		|<img src="assets/images/dot.png"/>                   |		                                            |
-| Ajout du logo de la société sur les sacs de la conférence à coté du logo Scala IO |<img src="assets/images/dot.png"/>                   |		                                            |
-| Stand at the conference                                                       	|<img src="assets/images/dot.png"/>Large with table(s)|<img src="assets/images/dot.png"/> Small no table|
-| Encarts et logos dans la newsletter  												|<img src="assets/images/dot.png"/>                   |		                                            |
-| Places offertes  																    |	5	                                              |	2                                               |							
+<table class="table table-bordered">
+	<thead>
+		<tr>
+			<th class="tablehead"></th>
+			<th class="tablehead">Gold</th>
+			<th class="tablehead">Silver</th>
+			<th class="tablehead">Mecene</th>
+		</tr>
+	<thead>
+	<tbody>
+	<tr>
+		<td class="tablesub">Company Logo</td>
+		<td class="tablesub"></td>
+		<td class="tablesub"></td>
+		<td class="tablesub"></td>
+	</tr>
+	<tr>	
+		<td class="rowlabel">On merchandising (t-shirt, welcome bag and block note)</td>		
+		<td><i class="icon-ok"></td>
+		<td></td>
+		<td></td>		
+	</tr>
+	<tr>
+		<td class="rowlabel">Newsletter Inserts</td>
+		<td><i class="icon-ok"></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>		
+		<td class="rowlabel">Logo on the scala.io website (with link)</td>
+		<td><i class="icon-ok"></td>
+		<td><i class="icon-ok"></td>
+		<td><i class="icon-ok"></td>
+	</tr>
+	<tr>		
+		<td class="rowlabel">Logo size on the scala.io website (with link)</td>
+		<td>Large</td>
+		<td>Small</td>
+		<td>Small</td>
+	</tr>
+	<tr>		
+		<td class="rowlabel">Logo on the presentation template</td>
+		<td><i class="icon-ok"></td>
+		<td></td>
+		<td></td>
+	</tr>	
+	<tr>
+		<td class="tablesub">Onsite advantages</td>
+		<td class="tablesub"></td>
+		<td class="tablesub"></td>
+		<td class="tablesub"></td>
+	</tr>
+	<tr>	
+		<td class="rowlabel">Booth</td>		
+		<td><i class="icon-ok"></td>
+		<td><i class="icon-ok"></td>
+		<td></td>		
+	</tr>
+	<tr>	
+		<td class="rowlabel">Booth size</td>		
+		<td>Large</td>
+		<td>Small</td>
+		<td></td>		
+	</tr>
+	<tr>		
+		<td class="rowlabel">Rollup in the keynote room</td>
+		<td><i class="icon-ok"></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>		
+		<td class="rowlabel">Logo on the conference rollup</td>
+		<td><i class="icon-ok"></td>
+		<td><i class="icon-ok"></td>
+		<td></td>
+	</tr>
+	<tr>		
+		<td class="rowlabel">Logo size on the conference rollup</td>
+		<td>Large</td>
+		<td>Small</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td class="tablesub">Welcome bag</td>
+		<td class="tablesub"></td>
+		<td class="tablesub"></td>
+		<td class="tablesub"></td>
+	</tr>
+	<tr>		
+		<td class="rowlabel">Branded items insert</td>
+		<td><i class="icon-ok"></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td class="tablesub">Public relations</td>
+		<td class="tablesub"></td>
+		<td class="tablesub"></td>
+		<td class="tablesub"></td>
+	</tr>
+	<tr>		
+		<td class="rowlabel">Interview for the newsletter</td>
+		<td><i class="icon-ok"></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>		
+		<td class="rowlabel">Conference program insert</td>
+		<td>Full page in color +logo</td>
+		<td>Paragraph+logo</td>
+		<td></td>
+	</tr>
+	<tr>		
+		<td class="rowlabel">Attendee list (name,email, company and country)</td>
+		<td><i class="icon-ok"></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>		
+		<td class="rowlabel">Free Passes</td>
+		<td>5</td>
+		<td>2</td>
+		<td>0</td>
+	</tr>
+	<tr>		
+		<td class="rowlabel">Keynote mention of your support</td>
+		<td><i class="icon-ok"></td>
+		<td><i class="icon-ok"></td>
+		<td><i class="icon-ok"></td>
+	</tr>
+	</tbody>
+</table>
+

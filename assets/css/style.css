@@ -542,3 +542,24 @@ footer hr {
   border-top: 1px solid #222;
 }
 
+/********************************************************
+      Sponsorship
+********************************************************/
+.table .tablehead{
+  background-color: #dddddd;
+}
+.table th,.table td {
+  text-align:center;
+}
+.table .rowlabel{
+  text-align: left;
+}
+.table .tablesub{
+  font-weight: bold;
+  text-align: left;
+  background-color: #dddddd;
+  /*background-color: #dbd8d4;*/
+}
+i.icon-ok{
+background-image: url("../assets/images/glyphicons/glyphicons_206_ok_2.png");
+}
