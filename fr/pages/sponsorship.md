@@ -26,21 +26,21 @@ Become a Scala.IO sponsor and promote your services, products or simply increase
 	</tr>
 	<tr>	
 		<td class="rowlabel">On merchandising (t-shirt, welcome bag and block note)</td>		
-		<td><i class="icon-ok"></td>
+		<td><img src="../assets/images/glyphicons/png/glyphicons_206_ok_2.png"></td>
 		<td></td>
 		<td></td>		
 	</tr>
 	<tr>
 		<td class="rowlabel">Newsletter Inserts</td>
-		<td><i class="icon-ok"></td>
+		<td><img src="../assets/images/glyphicons/png/glyphicons_206_ok_2.png"></td>
 		<td></td>
 		<td></td>
 	</tr>
 	<tr>		
 		<td class="rowlabel">Logo on the scala.io website (with link)</td>
-		<td><i class="icon-ok"></td>
-		<td><i class="icon-ok"></td>
-		<td><i class="icon-ok"></td>
+		<td><img src="../assets/images/glyphicons/png/glyphicons_206_ok_2.png"></td>
+		<td><img src="../assets/images/glyphicons/png/glyphicons_206_ok_2.png"></td>
+		<td><img src="../assets/images/glyphicons/png/glyphicons_206_ok_2.png"></td>
 	</tr>
 	<tr>		
 		<td class="rowlabel">Logo size on the scala.io website (with link)</td>
@@ -50,7 +50,7 @@ Become a Scala.IO sponsor and promote your services, products or simply increase
 	</tr>
 	<tr>		
 		<td class="rowlabel">Logo on the presentation template</td>
-		<td><i class="icon-ok"></td>
+		<td><img src="../assets/images/glyphicons/png/glyphicons_206_ok_2.png"></td>
 		<td></td>
 		<td></td>
 	</tr>	
@@ -62,8 +62,8 @@ Become a Scala.IO sponsor and promote your services, products or simply increase
 	</tr>
 	<tr>	
 		<td class="rowlabel">Booth</td>		
-		<td><i class="icon-ok"></td>
-		<td><i class="icon-ok"></td>
+		<td><img src="../assets/images/glyphicons/png/glyphicons_206_ok_2.png"></td>
+		<td><img src="../assets/images/glyphicons/png/glyphicons_206_ok_2.png"></td>
 		<td></td>		
 	</tr>
 	<tr>	
@@ -74,14 +74,14 @@ Become a Scala.IO sponsor and promote your services, products or simply increase
 	</tr>
 	<tr>		
 		<td class="rowlabel">Rollup in the keynote room</td>
-		<td><i class="icon-ok"></td>
+		<td><img src="../assets/images/glyphicons/png/glyphicons_206_ok_2.png"></td>
 		<td></td>
 		<td></td>
 	</tr>
 	<tr>		
 		<td class="rowlabel">Logo on the conference rollup</td>
-		<td><i class="icon-ok"></td>
-		<td><i class="icon-ok"></td>
+		<td><img src="../assets/images/glyphicons/png/glyphicons_206_ok_2.png"></td>
+		<td><img src="../assets/images/glyphicons/png/glyphicons_206_ok_2.png"></td>
 		<td></td>
 	</tr>
 	<tr>		
@@ -98,7 +98,7 @@ Become a Scala.IO sponsor and promote your services, products or simply increase
 	</tr>
 	<tr>		
 		<td class="rowlabel">Branded items insert</td>
-		<td><i class="icon-ok"></td>
+		<td><img src="../assets/images/glyphicons/png/glyphicons_206_ok_2.png"></td>
 		<td></td>
 		<td></td>
 	</tr>
@@ -110,7 +110,7 @@ Become a Scala.IO sponsor and promote your services, products or simply increase
 	</tr>
 	<tr>		
 		<td class="rowlabel">Interview for the newsletter</td>
-		<td><i class="icon-ok"></td>
+		<td><img src="../assets/images/glyphicons/png/glyphicons_206_ok_2.png"></td>
 		<td></td>
 		<td></td>
 	</tr>
@@ -122,7 +122,7 @@ Become a Scala.IO sponsor and promote your services, products or simply increase
 	</tr>
 	<tr>		
 		<td class="rowlabel">Attendee list (name,email, company and country)</td>
-		<td><i class="icon-ok"></td>
+		<td><img src="../assets/images/glyphicons/png/glyphicons_206_ok_2.png"></td>
 		<td></td>
 		<td></td>
 	</tr>
@@ -134,9 +134,9 @@ Become a Scala.IO sponsor and promote your services, products or simply increase
 	</tr>
 	<tr>		
 		<td class="rowlabel">Keynote mention</td>
-		<td><i class="icon-ok"></td>
-		<td><i class="icon-ok"></td>
-		<td><i class="icon-ok"></td>
+		<td><img src="../assets/images/glyphicons/png/glyphicons_206_ok_2.png"></td>
+		<td><img src="../assets/images/glyphicons/png/glyphicons_206_ok_2.png"></td>
+		<td><img src="../assets/images/glyphicons/png/glyphicons_206_ok_2.png"></td>
 	</tr>
 	</tbody>
 </table>
