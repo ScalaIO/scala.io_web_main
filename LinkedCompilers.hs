@@ -210,14 +210,14 @@ makePartnerList ps = do
 mkPartnerField :: String -> Context String
 mkPartnerField partnerType =
     let d = const $ do
-        ps <- getAllMetadata "fr/partners/*.md"
+        ps <- getAllMetadata "en/partners/*.md"
         makePartnerList $ getPartnersOfType partnerType ps
     in field ("partner-" ++ partnerType) d
 
 
 partnersCtx :: Context String
 partnersCtx =
-    let dirs = ["friends", "gold", "silver", "official", "media", "host", "annual"]
+    let dirs = ["friends", "gold", "silver", "media", "host", "mecene"]
 
     in mconcat $ map mkPartnerField dirs
 
