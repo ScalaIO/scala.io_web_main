@@ -590,3 +590,12 @@ div.speaker{
   max-height: 150px;
   height:150px;
 }
+.partner-host img{
+  max-width: 677px;
+}
+.partner-gold img{
+  max-width: 450px;
+}
+.partner-friends img{
+  max-width: 200px;
+}
