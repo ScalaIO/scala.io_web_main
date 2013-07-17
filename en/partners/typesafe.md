@@ -1,6 +1,6 @@
 ---
 name: Typesafe
-type: host
+type: friends
 logo: /assets/images/partners/friends/logo-typesafe.png
 site: http://www.typesafe.com
 ---
