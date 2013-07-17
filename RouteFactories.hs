@@ -16,8 +16,8 @@ import Utils
 
 import LinkedCompilers
 
-langs = ["fr", "en"]
-defaultLang = "fr"
+langs = ["en"]
+defaultLang = "en"
 
 langRoute = gsubRoute (defaultLang ++ "/") (const "")
 
