@@ -26,7 +26,7 @@ Workshops are 3 hours long. They aim to teach participant concrete skills about 
 
 Submission
 ================
-If you are interested in offering a talk, or nominating someone to do so, send an e-mail to cfp@scala.io with a short description in french or english of what you would like to talk about or what you think your nominee should give a talk about.
+If you are interested in offering a talk, or nominating someone to do so, send an e-mail to [cfp@scala.io](mailto:cfp@scala.io) with a short description in french or english of what you would like to talk about or what you think your nominee should give a talk about.
 
 Such description should be less than one page long.
 
