@@ -29,7 +29,7 @@ Do I need to speak French?
 ---------------------------
 You should not be worried if you speak English. We will try to make your journey as smooth as possible.
 
-Scala User Group
+Will there be something special for the Scala User Groups ?
 ---------------------------
 
 We would love to organise a special meetup at Scala.IO with all Scala User Groups. If you’re interested or want to propose a funky idea, feel free to contact us at [sug@scala.io](mailto:sug@scala.io).
