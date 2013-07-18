@@ -599,3 +599,7 @@ div.speaker{
 .partner-friends img{
   max-width: 200px;
 }
+
+.google-map{
+  width: 100%;
+}
