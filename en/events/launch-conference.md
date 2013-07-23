@@ -8,8 +8,7 @@ speaker: viktor-klang
 topic: Keynote
 ---
 
-You will have to see it to believe it !
-
+To let you best enjoy the content of this keynote, we prefer not to provide to many details. You really really don't want to miss it though !
 
 
 	
