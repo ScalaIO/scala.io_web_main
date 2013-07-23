@@ -596,6 +596,10 @@ div.speaker{
 .partner-gold img{
   max-width: 500px;
 }
+.span-gold{
+  float:none;
+  margin: 20px 0px;
+}
 .partner-friends img{
   max-width: 200px;
 }
