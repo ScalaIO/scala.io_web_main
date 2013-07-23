@@ -1,3 +1,4 @@
+@import "/assets/css/bootstrap/bootstrap.less";
 
 /********************************************************
       Sponsorship
@@ -53,10 +54,6 @@ div.speaker{
 .partner-gold img{
   max-width: 500px;
 }
-.span-gold{
-  float:none;
-  margin: 20px 0px;
-}
 .partner-friends img{
   max-width: 200px;
 }
@@ -65,3 +62,21 @@ div.speaker{
   width: 100%;
 }
 
+.partner-gold {
+    .makeColumn(8, 2);
+}
+
+.partner-silver {
+    .makeColumn(6, 0);
+}
+
+.partner-friends {
+    .makeColumn(3, 0);
+}
+.partner-host {
+    .makeColumn(3, 0);
+}
+
+.partner-mecene {
+    .makeColumn(3, 0);
+}

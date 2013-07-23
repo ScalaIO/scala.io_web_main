@@ -35,7 +35,7 @@ main = hakyll $ do
         compile getResourceBody
 
 
-    d <- makePatternDependency "assets/css/*.less"
+    d <- makePatternDependency "assets/css/**.less"
     rulesExtraDependencies [d] $ create ["assets/css/all.css"] $ do
         route idRoute
         compile $ loadBody "assets/css/main.less"
