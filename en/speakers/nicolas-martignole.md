@@ -3,7 +3,7 @@ firstname: Nicolas
 lastname: Martignole
 twitter: @nmartignole
 site: http://www.touilleur-express.fr/
-avatar: /assets/images/speakers/nicolas_martignole.jpg
+avatar: /assets/images/speakers/nicolas-martignole.png
 ---
 
 Je suis un développeur Web/Java/Scala indépendant, freelance depuis mi 2008. Après plusieurs expériences dans des startups, dans le monde de la finance et des banques, je suis passé indépendant. J’aime coder, travailler en équipe, et animer des communautés.

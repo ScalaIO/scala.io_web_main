@@ -1,5 +1,9 @@
 @import "/assets/css/bootstrap/bootstrap.less";
 
+body {
+    background: #F2F2F2;
+}
+
 /********************************************************
       Sponsorship
 ********************************************************/
@@ -39,28 +43,28 @@ span.RERE{
   background-color:   #D17FB5;
 }
 
-/********************************************************
-      speakers
-********************************************************/
-div.speaker{
-  padding-top: 90px;
-  display: inline-block;
-  max-height: 150px;
-  height:150px;
-}
-.partner-host img{
-  max-width: 677px;
-}
-.partner-gold img{
-  max-width: 500px;
-}
-.partner-friends img{
-  max-width: 200px;
-}
-
 .google-map{
   width: 100%;
 }
+
+/********************************************************
+      speakers
+********************************************************/
+.speaker img {
+    width: 100%;
+}
+
+.speaker-page img {
+    float: left;
+}
+
+.speaker-page .speaker-talks {
+    clear: left;
+}
+
+/********************************************************
+      partners
+********************************************************/
 
 .partner-gold {
     .makeColumn(8, 2);

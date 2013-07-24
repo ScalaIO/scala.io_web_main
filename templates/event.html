@@ -1,22 +1,28 @@
-<a href="$url$"><span>$title$</span></a>
-
-<a href="$gcal_url$" target="_blank"><h3>Add Event in my Google Calendar</h3></a>
+<h1>$title$</h1>
 
 
-<div class="eventbloc $eventcolor$">
-    <span class="type_event">$type$</span>
-    <span class="location">$location$</span>
-    <span class="start">$short_start$</span>
+$body$
+
+<div class="talk-info">
+    <h3>More info</h3>
+    <p>Event type: <strong>$type$</strong></p>
+    <p>Location: <strong>$location$</strong></p>
+    <p>Date / Time: <strong>$short_start$</strong></p>
+    <p><a href="$gcal_url$" target="_blank">Add Event in my Google Calendar</a></p>
 </div>
 
 
 <div class="extra">
 <h2>Speakers</h2>
+
+<ul class="thumbnails">
 $speakers$
+</ul>
 
 <h2>Track</h2>
 $topicBlock$
 
-$body$
+
+
 </div>
 
