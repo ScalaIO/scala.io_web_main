@@ -2,30 +2,30 @@
 title: CFP
 ---
 
-About
-================
+<em>About</em>
+----------------
 The annual Scala.IO conference is a place where people can see how others are using Scala language or functional programming languages to solve real world problems; where practitioners meet and collaborate; where language designers and users can share ideas about the future of their favorite languages; and where one can learn practical techniques and approaches for putting functional programming languages to work.
 
-Giving a Talk at Scala.IO
-================
+<em>Giving a Talk at Scala.IO</em>
+----------------
 If you have experience using Scala or functional programming languages in a practical setting, we invite you to submit a proposal to give a talk at the conference.
 
 We are looking for 3 kinds of talks:
 
-Long session (42 minutes)
-------------------
+### Long session (42 minutes)
+
 Long technical talks are around 42 minutes long, and should focus on teaching the audience something about a particular technique or methodology, from the point of view of someone who has seen it played out in practice. These talks could cover anything from techniques for building functional concurrent applications, to managing dynamic reconfigurations, to design recipes for using types effectively in large-scale applications. While these talks will often be based on a Scala language, they should be accessible to a broad range of programmers.
 
-Session (24 minutes)
-------------------
+### Session (24 minutes)
+
 Normal technical or report are typically 24 minutes long. They aim to inform participants about how Scala or a functional programming language plays out in real-world applications, focusing especially on lessons learned and insights gained. Experience reports do not need to be highly technical; reflections on the commercial, management, or software engineering aspects are, if anything, more important.
 
-Workshop (3h)
-------------------
+### Workshop (3h)
+
 Workshops are 3 hours long. They aim to teach participant concrete skills about Scala usage. Workshops are essentially practical sessions. Participants are expected to practice in live, on their own computer or a computer provided by Scala.io (if available). Workshops also are intended for the participants to share with the speakers.
 
-Submission
-================
+<em>Submission</em>
+----------------
 If you are interested in offering a talk, or nominating someone to do so, send an e-mail to [cfp@scala.io](mailto:cfp@scala.io) with a short description in french or english of what you would like to talk about or what you think your nominee should give a talk about.
 
 Such description should be less than one page long.
@@ -46,8 +46,8 @@ and for each speaker
 * a short bio and/or links to blog, twitter, linkedin etc.
 * an identity picture
 
-Timeline
-================
+<em>Timeline</em>
+----------------
 
 The Call for Proposal will:
 
@@ -55,8 +55,8 @@ The Call for Proposal will:
 * close Sunday August 25th, 2013
 * All selected talk are known by September 8th.
 
-More information
-================
+<em>More information</em>
+----------------
 
 For more information on Scala.IO, take a look at the Scala.IO website
 
@@ -64,8 +64,8 @@ Note that accepted (co)presenters (2 speakers max), will NOT need to register fo
 
 Presentations will be recorded and presenters will be expected to sign a copyright release form.
 
-Guidance on giving a great Scala.IO talk
-================
+<em>Guidance on giving a great Scala.IO talk</em>
+----------------
 
 Focus on the interesting bits: Think about what will distinguish your talk, and what will engage the audience, and focus there. There are a number of places to look for those interesting bits.
 

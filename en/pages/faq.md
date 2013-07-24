@@ -4,7 +4,7 @@ title: F.A.Q.
 
 # Frequently Asked Questions
 
-Who is behind the 2013 Scala.IO?
+<em>Who is behind the 2013 Scala.IO?</em>
 -------------------------
 The Organizing Committee of the 2013 Scala.IO Conference is composed of:
 
@@ -21,19 +21,19 @@ The Organizing Committee of the 2013 Scala.IO Conference is composed of:
 * François Sarradin ([@fsarradin](http://twitter.com/fsarradin))
 * Jonathan Winandy ([@ahoy_jon](http://twitter.com/ahoy_jon))
 
-Are you cool?
+<em>Are you cool?</em>
 ---------------------------
 Yes we are!
 
-Do I need to speak French?
+<em>Do I need to speak French?</em>
 ---------------------------
 You should not be worried if you speak English. We will try to make your journey as smooth as possible.
 
-Will there be something special for the Scala User Groups ?
+<em>Will there be something special for the Scala User Groups ?</em>
 ---------------------------
 
 We would love to organise a special meetup at Scala.IO with all Scala User Groups. If you’re interested or want to propose a funky idea, feel free to contact us at [sug@scala.io](mailto:sug@scala.io).
 
-Any other questions?
+<em>Any other questions?</em>
 ---------------------------
 Contact us at [mailto@scala.io](mailto:contact@scala.io) and we’ll try to help you as much as possible.
