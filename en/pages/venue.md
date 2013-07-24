@@ -2,7 +2,7 @@
 title: Infos & Access
 ---
 
-Scala.IO will be held in the school ’42’ !
+Scala.IO will be held in the school ’42’!
 ==========================================
 
 As The Hitchikers Guide to the Galaxy said, [’42’](http://www.42.fr/) is the “Answer to the Ultimate Question of Life, The Universe, and Everything”, so we could not have found a better place to organise such event!
