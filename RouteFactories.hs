@@ -99,6 +99,22 @@ makeIndexPage plural singular lang =
 
             makeItem ""
                 >>= loadAndApplyTemplate tplName elts
+                >>= loadAndApplyTemplate "templates/content-narrow.html" (globalContext lang)
+                >>= loadAndApplyTemplate "templates/default.html" (globalContext lang)
+                >>= relativizeUrls
+
+makeWideIndexPage plural singular lang =
+    create [fromFilePath (lang ++ "/"++ plural ++".html")] $ do
+        route $ (setExtension "html") `composeRoutes` langRoute
+        compile $ do
+            let elts =
+                    field plural (\_ -> elementList lang plural singular) `mappend`
+                    globalContext lang
+                tplName = fromFilePath ("templates/" ++ plural ++ "-page.html")
+
+            makeItem ""
+                >>= loadAndApplyTemplate tplName elts
+                >>= loadAndApplyTemplate "templates/content-wide.html" (globalContext lang)
                 >>= loadAndApplyTemplate "templates/default.html" (globalContext lang)
                 >>= relativizeUrls
 
@@ -110,6 +126,7 @@ makeElementsWithContext ctx plural singular lang = let
             compile $ pandocCompiler
                 >>= loadAndApplyTemplate (
                     fromFilePath $ "templates/"++ singular ++".html") bigCtx
+                >>= loadAndApplyTemplate "templates/content-narrow.html" bigCtx
                 >>= loadAndApplyTemplate "templates/default.html" bigCtx
                 >>= relativizeUrls
 
@@ -238,5 +255,6 @@ makeSinglePages lang =
         match (fromGlob $ lang ++ "/pages/*.md") $ do
         route $ r `composeRoutes` (setExtension "html") `composeRoutes` langRoute
         compile $ pandocCompiler
+            >>= loadAndApplyTemplate "templates/content-narrow.html" (globalContext lang)
             >>= loadAndApplyTemplate "templates/default.html" (globalContext lang)
             >>= relativizeUrls

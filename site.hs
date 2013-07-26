@@ -66,7 +66,7 @@ main = hakyll $ do
 -- Events
 --
 
-    forM_ langs $ makeIndexPage "events" "event"
+    forM_ langs $ makeWideIndexPage "events" "event"
 
     forM_ langs $ \lang -> (makeElementsWithContext (completeEventContext lang) "events" "event" lang)
 
@@ -88,7 +88,7 @@ main = hakyll $ do
 -- Speakers
 --
 
-    forM_ langs $ makeIndexPage "speakers" "speaker"
+    forM_ langs $ makeWideIndexPage "speakers" "speaker"
 
     forM_ langs $ \lang -> (makeElementsWithContext (completeSpeakerContext lang) "speakers" "speaker" lang)
 
@@ -114,7 +114,7 @@ main = hakyll $ do
 -- Partners
 --
 
-    forM_ langs $ makeIndexPage "partners" "partner"
+    forM_ langs $ makeWideIndexPage "partners" "partner"
 
     forM_ langs $ makeElements  "partners" "partner"
 
@@ -133,6 +133,7 @@ main = hakyll $ do
             route langRoute
             compile $ getResourceBody
                 >>= loadAndApplyTemplate "templates/index.html" (globalContext lang)
+                >>= loadAndApplyTemplate "templates/content-narrow.html" (globalContext lang)
                 >>= loadAndApplyTemplate "templates/default.html" (globalContext lang)
                 >>= relativizeUrls
 
