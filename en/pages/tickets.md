@@ -14,6 +14,19 @@ In the mean time, remember that speakers get a free pass, don't hesitate to subm
   <iframe src="http://www.eventbrite.com/tickets-external?eid=7490047935&ref=etckt" frameborder="0" height="200px" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="no" allowtransparency="true"></iframe>
 </div>
 
+<em>Discount tickets available!</em>
+------------------
+With the program starting to trickle in, you can now buy your place with at least an idea of the great talks you will be seing. 
+<div style="width:100%; text-align:left;">
+  <iframe src="http://www.eventbrite.com/tickets-external?eid=7490047935&ref=etckt" frameborder="0" height="200px" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="no" allowtransparency="true"></iframe>
+</div>
+
+<em>Regular tickets (TBA)</em>
+------------------
+Once the full program of the conference is announced, we will close the Discount tickets sale and open the regular ticket sale.
+<div style="width:100%; text-align:left;">
+  <iframe src="http://www.eventbrite.com/tickets-external?eid=7490047935&ref=etckt" frameborder="0" height="200px" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="no" allowtransparency="true"></iframe>
+</div>
 
 <em>Droit Individuel à la Formation</em>
 ------------------
