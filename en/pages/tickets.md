@@ -8,8 +8,8 @@ title: Tickets
 With the program starting to trickle in you can now buy your place with an idea of the great talks you will be seeing. 
 
 <div style="width:100%; text-align:left;">
-  <iframe src="http://www.eventbrite.com/tickets-external?eid=7490047935&ref=etckt&v=2" frameborder="0" height="200px" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="no" allowtransparency="true"></iframe>
-</div>
+  <iframe src="http://www.eventbrite.com/tickets-external?eid=7490047935&ref=etckt&v=2" frameborder="0" height="260px" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="no" allowtransparency="true"></iframe>
+</div> 
 
 <em>Regular tickets (TBA)</em>
 ------------------
