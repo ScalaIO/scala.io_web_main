@@ -1,9 +1,9 @@
 ---
-firstname: Stephan
+firstname: Stefan
 lastname: Zeiger
 twitter: 
 site: 
 avatar: /assets/images/speakers/stephan-zeiger.jpg
 ---
 
-Stephan Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Stefan Zeiger is the tech lead for Slick. He joined Typesafe in 2011 after developing ScalaQuery, the predecessor to Slick, in order to work on the new project full-time. He has been a user of Java and the JVM platform professionally since 1996, working on a diverse range of projects from web servers to GUI frameworks and programming language design, and moving on from Java to Scala since 2008.

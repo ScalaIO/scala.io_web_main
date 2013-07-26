@@ -10,3 +10,7 @@ Je suis un développeur Web/Java/Scala indépendant, freelance depuis mi 2008. A
 
 Je fais partie de l’équipe d’organisation du Paris Java User Group. Cela m’a permis de co-organiser la conférence Devoxx France en 2012. En 2010, j’ai lancé un site d’offres d’emploi et de mise en relation pour les développeurs,  l’eXpress-Board.fr que je continue à développer activement.
 
+J'ai débuté avec Scala en 2011. Depuis mai 2012, je travaille en tant que développeur principal pour Zaptravel.
+Nous développons avec Play2/Scala une plateforme simple et puissante pour préparer un voyage ou une idée
+de vacances. 
+
