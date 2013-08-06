@@ -4,7 +4,7 @@ location:
 start: 
 end: 
 type: Workshop
-speaker: age-mooij, raymond-roestenburg
+speaker: age-mooij,raymond-roestenburg
 topic: 
 ---
 
