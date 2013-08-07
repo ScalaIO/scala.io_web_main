@@ -5,7 +5,7 @@ title: Tickets
 
 <em>Discount tickets available!</em>
 ------------------
-With the program starting to trickle in you can now buy your place with an idea of the great talks you will be seeing. 
+The discount tickets will only be sold as long as the program is not completely known. Once the whole program has been announced, the discount will be removed and all remaining tickets will be full price.
 
 <div style="width:100%; text-align:left;">
   <iframe src="http://www.eventbrite.com/tickets-external?eid=7490047935&ref=etckt&v=2" frameborder="0" height="260px" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="no" allowtransparency="true"></iframe>
