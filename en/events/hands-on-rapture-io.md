@@ -8,4 +8,4 @@ speaker: jon-pretty
 topic: 
 ---
 
-n/a
+Coming soon.

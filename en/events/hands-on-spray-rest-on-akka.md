@@ -8,4 +8,4 @@ speaker: mathias-doenitz
 topic: 
 ---
 
-n/a
+Coming soon.
