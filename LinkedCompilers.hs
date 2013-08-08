@@ -57,7 +57,7 @@ getReducedSpeakerCompiler lang conf = do
     speakerList <- getSpeakerList conf
     speakers <- getSpeakers lang speakerList
     tpl <- loadBody "templates/speaker-light-item.html"
-    content <- applyTemplateListWithContexts tpl (makeItemContextPairList speakers)
+    content <- applyJoinTemplateListWithContexts ", " tpl (makeItemContextPairList speakers)
     return content 
 
 makeDefaultContext :: (Identifier, Metadata) -> Context String
