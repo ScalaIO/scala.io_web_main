@@ -6,6 +6,8 @@ end:
 type: Long
 speaker: runar-bjarnason
 topic: 
+level: 
+language: en
 ---
 
 Pure functional programming allows us to write clean and modular code. But to

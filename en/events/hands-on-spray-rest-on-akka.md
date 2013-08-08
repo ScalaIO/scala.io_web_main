@@ -6,6 +6,8 @@ end:
 type: Workshop
 speaker: mathias-doenitz
 topic: 
+level: 
+language: en
 ---
 
 Coming soon.

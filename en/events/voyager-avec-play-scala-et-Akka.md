@@ -6,6 +6,8 @@ end:
 type: Long
 speaker: nicolas-martignole
 topic: 
+level: 
+language: fr
 ---
 
 Un talk basé sur mon retour d'expérience sur Play2/Scala, présentant entre 8 et 10 cas d'usage différents de Play2 et Akka sur Zaptravel.

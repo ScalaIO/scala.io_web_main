@@ -6,6 +6,8 @@ end:
 type: Workshop
 speaker: jon-pretty
 topic: 
+level: 
+language: en
 ---
 
 Coming soon.

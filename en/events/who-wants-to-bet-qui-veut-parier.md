@@ -6,6 +6,8 @@ end:
 type: Long
 speaker: pascal-voitot,paul-dijou,stephane-godbillon
 topic: 
+level: 
+language: 
 ---
 
 ### English

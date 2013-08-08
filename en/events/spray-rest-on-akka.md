@@ -6,6 +6,8 @@ end:
 type: Long
 speaker: mathias-doenitz
 topic: 
+level: 
+language: 
 ---
 
 Coming soon.

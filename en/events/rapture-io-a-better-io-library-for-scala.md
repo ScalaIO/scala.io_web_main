@@ -6,6 +6,8 @@ end:
 type: Long
 speaker: jon-pretty
 topic: 
+level: 
+language: en
 ---
 
 Coming soon.
