@@ -52,7 +52,13 @@ getSpeakerNameCompiler lang conf =
         speakers <- getSpeakers lang speakerList
         return $ intercalate (", ") $ map getName speakers
 
-
+getReducedSpeakerCompiler lang conf = do
+    
+    speakerList <- getSpeakerList conf
+    speakers <- getSpeakers lang speakerList
+    tpl <- loadBody "templates/speaker-light-item.html"
+    content <- applyTemplateListWithContexts tpl (makeItemContextPairList speakers)
+    return content 
 
 makeDefaultContext :: (Identifier, Metadata) -> Context String
 makeDefaultContext (i, m) =

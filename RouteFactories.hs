@@ -32,7 +32,7 @@ globalContext lang =
 
 reducedEventContext :: String -> Context String
 reducedEventContext lang =
-    field "speakers-names" (\conf -> getSpeakerNameCompiler lang conf) `mappend`
+    field "speakers" (\conf -> getReducedSpeakerCompiler lang conf) `mappend`
     roomClassCtx `mappend`
     richEventTypeCtx `mappend`
     short_date lang `mappend`
