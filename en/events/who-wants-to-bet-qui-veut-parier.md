@@ -1,5 +1,5 @@
 ---
-title: "Who wants to bet?/Qui veut parier ?"
+title: Who wants to bet?/Qui veut parier ?
 location: 
 start: 
 end: 
