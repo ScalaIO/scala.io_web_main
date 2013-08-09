@@ -14,4 +14,4 @@ Comment le Garbage Collector se comporte avec votre code Scala ? Les collections
 
 Vous vous posez ces questions ? Ça tombe bien, on va en parler !
 
-Venez (re)découvrir les joies du tuning mémoire dans la JVM ! Dans ce slot, nous parlerons un peu de théorie, mais surtout de pratique, d'exemples de code, de retours d'expérience sur le tuning du GC et des erreurs à ne pas commettre ! Rejoignez la lutte contre les pauses ! Oui aux applications vélocent qui envoient du lourd !
+Venez (re)découvrir les joies du tuning mémoire dans la JVM ! Dans ce slot, nous parlerons un peu de théorie, mais surtout de pratique, d'exemples de code, de retours d'expérience sur le tuning du GC et des erreurs à ne pas commettre ! Rejoignez la lutte contre les pauses ! Oui aux applications véloces qui envoient du lourd !
