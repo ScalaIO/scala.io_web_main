@@ -3,7 +3,7 @@ title: Who wants to bet?/Qui veut parier ?
 location: 
 start: 
 end: 
-type: Long
+type: Workshop
 speaker: pascal-voitot,paul-dijou,stephane-godbillon
 topic: 
 level: 
