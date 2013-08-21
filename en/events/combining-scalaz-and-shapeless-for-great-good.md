@@ -4,7 +4,7 @@ location:
 start: 
 end: 
 type: Long
-speaker: Lars Hupel
+speaker: lars-hupel
 topic: 
 level: intermediate
 language: en
