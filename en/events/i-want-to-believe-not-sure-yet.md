@@ -1,4 +1,3 @@
-i-want-to-believe-not-sure-yet.md
 ---
 title: I Want to Believe (not sure yet) 
 location: 
