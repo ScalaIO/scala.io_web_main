@@ -6,7 +6,7 @@ end:
 type: Long
 speaker: xavier-bucchiotty
 topic: 
-level: begginner
+level: beginner
 language: fr
 ---
 
