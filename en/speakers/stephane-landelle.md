@@ -3,7 +3,7 @@ firstname: Stephane
 lastname: Landelle
 twitter: @slandelle
 site: 
-avatar: /assets/images/speakers/stephane-landelle.png
+avatar: /assets/images/speakers/stephane-landelle.jpg
 ---
 
 Je suis développeur Java/Scala et officie en tant que Directeur Technique d'eBiz.
