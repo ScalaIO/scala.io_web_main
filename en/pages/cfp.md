@@ -2,6 +2,9 @@
 title: CFP
 ---
 
+CFP CLOSED
+===========
+
 <em>About</em>
 ----------------
 The annual Scala.IO conference is a place where people can see how others are using Scala language or functional programming languages to solve real world problems; where practitioners meet and collaborate; where language designers and users can share ideas about the future of their favorite languages; and where one can learn practical techniques and approaches for putting functional programming languages to work.
@@ -26,25 +29,7 @@ Workshops are 2 hours and 30 minutes long. They aim to teach participant concret
 
 <em>Submission</em>
 ----------------
-If you are interested in offering a talk, or nominating someone to do so, send an e-mail to [cfp@scala.io](mailto:cfp@scala.io) with a short description in french or english of what you would like to talk about or what you think your nominee should give a talk about.
-
-Such description should be less than one page long.
-
-There will be a short scribes report of the presentations and discussions but not of the details of individual talks, as the meeting is intended to be more a discussion forum than a technical interchange. You do not need to submit a paper, just a proposal for your talk!
-
-Your submission should contain:
-
-* the title
-* the description
-* the type (long, normal, workshop)
-* a level (novice, intermediate, expert)
-
-and for each speaker
-
-* the firstname and lastname
-* an email
-* a short bio and/or links to blog, twitter, linkedin etc.
-* an identity picture
+The CFP for Scala IO closed on Sunday August 25th, you will have to wait for next year, start preparing your talks.
 
 <em>Timeline</em>
 ----------------
