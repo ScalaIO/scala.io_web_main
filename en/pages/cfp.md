@@ -20,9 +20,9 @@ Long technical talks are around 42 minutes long, and should focus on teaching th
 
 Normal technical or report are typically 24 minutes long. They aim to inform participants about how Scala or a functional programming language plays out in real-world applications, focusing especially on lessons learned and insights gained. Experience reports do not need to be highly technical; reflections on the commercial, management, or software engineering aspects are, if anything, more important.
 
-### Workshop (3h)
+### Workshop (2h30)
 
-Workshops are 3 hours long. They aim to teach participant concrete skills about Scala usage. Workshops are essentially practical sessions. Participants are expected to practice in live, on their own computer or a computer provided by Scala.io (if available). Workshops also are intended for the participants to share with the speakers.
+Workshops are 2 hours and 30 minutes long. They aim to teach participant concrete skills about Scala usage. Workshops are essentially practical sessions. Participants are expected to practice in live, on their own computer or a computer provided by Scala.io (if available). Workshops also are intended for the participants to share with the speakers.
 
 <em>Submission</em>
 ----------------
