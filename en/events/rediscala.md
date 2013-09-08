@@ -3,8 +3,8 @@ title: Rediscala
 location: 
 start: 
 end: 
-type: Workshop
-speaker: age-mooij,raymond-roestenburg
+type: Short
+speaker: valerian-barbot
 topic: 
 level: intermediate
 language: en
