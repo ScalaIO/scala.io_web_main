@@ -1,5 +1,5 @@
- ---
-f irstname: Mathieu
+---
+firstname: Mathieu
 lastname: Ancelin
 twitter: @TrevorReznik
 site: http://mathieuancelin.github.io/
