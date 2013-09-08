@@ -36,4 +36,4 @@ We would love to organise a special meetup at Scala.IO with all Scala User Group
 
 <em>Any other questions?</em>
 ---------------------------
-Contact us at [mailto@scala.io](mailto:contact@scala.io) and we’ll try to help you as much as possible.
+Contact us at [contact@scala.io](mailto:contact@scala.io) and we’ll try to help you as much as possible.
