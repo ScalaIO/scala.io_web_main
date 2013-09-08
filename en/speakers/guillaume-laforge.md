@@ -3,7 +3,7 @@ firstname: Guillaume
 lastname: Laforge
 twitter: @glaforge
 site: http://glaforge.appspot.com
-avatar: /assets/images/speakers/guillaume-laforge.png
+avatar: /assets/images/speakers/guillaume-laforge.jpg
 ---
 
 Guillaume Laforge is the project lead of the Groovy programming language. He works for Pivotal, a VMware / EMC / GE joint venture.
