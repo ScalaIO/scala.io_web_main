@@ -1,5 +1,5 @@
 ---
-title: Reactive Database Interactions – ReactiveMongo"
+title: Reactive Database Interactions – ReactiveMongo
 location: 
 start: 
 end: 
