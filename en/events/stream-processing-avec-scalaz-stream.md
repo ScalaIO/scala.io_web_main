@@ -3,7 +3,7 @@ title: Stream Processing avec Scalaz-Stream
 location: 
 start: 
 end: 
-type: Workshop
+type: Long
 speaker: yorick-laupa
 topic: 
 level: intermediate
