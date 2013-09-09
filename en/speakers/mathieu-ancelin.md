@@ -3,7 +3,7 @@ firstname: Mathieu
 lastname: Ancelin
 twitter: @TrevorReznik
 site: http://mathieuancelin.github.io/
-avatar: /assets/images/speakers/age-mooij.jpg
+avatar: /assets/images/speakers/mathieu-ancelin.jpg
 ---
 
 Mathieu ANCELIN est développeur à SERLI, spécialisé dans les technologies Java EE avec un fort intérêt pour la programmation web ainsi que pour les frameworks de composants léger. Mathieu est impliqué dans plusieurs projets open-source comme JOnAS et GlassFish, et en lead également quelques un comme Weld-OSGi, Play2 Couchbase et Play CDI; 
