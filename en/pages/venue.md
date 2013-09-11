@@ -32,5 +32,13 @@ As The Hitchikers Guide to the Galaxy said, [’42’](http://www.42.fr/) is the
  <li> <span class="RERE">RER E</span> + <span class="m13">Metro 13</span>
  </ul>
  <a href="http://www.ratp.fr/itineraires/en/ratp/recherche-avancee">More routes ...</a>
+
+ <h2><em>Hotels</em></h2>
+ We recommand:
+ <ul>
+ <li> TimHotel Bertier - <a href="http://www.timhotel.com/fr/nos-hotels-details/21-timhotel-berthier-paris-17.htm#tab-presentation">http://www.timhotel.com/</a> - really close to the conference venue
+ <li> Ibis Hotel - <a href="http://www.ibis.com/fr/hotel-2189-ibis-paris-berthier-porte-de-clichy/index.shtml">http://www.ibis.com/</a> - backup plan ;)
+ </ul>
+
 </div>
 </div>
