@@ -1,9 +1,10 @@
 {-# LANGUAGE OverloadedStrings #-}
 module RouteFactories where
 
+import           Control.Monad           (filterM)
 import           Data.List               (concat, intercalate)
 import qualified Data.Map                as M
-import           Data.Maybe              (fromMaybe)
+import           Data.Maybe              (fromMaybe, isJust)
 import           Data.Monoid             (mappend, mconcat, mempty)
 import           Data.Time.Clock         (UTCTime (..))
 import           Data.Time.LocalTime     (LocalTime, hoursToTimeZone, localTimeToUTC)
@@ -151,9 +152,17 @@ makeCalendar lang =
 calendarCompiler :: String -> Item a ->  Compiler (Item String)
 calendarCompiler lang item = do
     events <- loadAll $ fromGlob (lang ++ "/events/*.md")
+    eventsWithDates <- withDate events
     tpl <- loadBody "templates/ics-event"
-    contents <- applyTemplateList tpl (iso8601Ctx `mappend` globalContext lang) events
+    contents <- applyTemplateList tpl (iso8601Ctx `mappend` globalContext lang) eventsWithDates
     makeItem contents
+  where
+    withDate es = filterM hasDate es
+    hasDate i = do
+        sd <- getMetadataField (itemIdentifier i) "start"
+        ed <- getMetadataField (itemIdentifier i) "end"
+        return $ isValidDate sd && isValidDate ed
+    isValidDate ms = isJust $ ms >>= makeIso8601
 
 iso8601Ctx = (iso8601_date "start") `mappend` (iso8601_date "end")
 
