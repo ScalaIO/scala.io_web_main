@@ -1,13 +1,13 @@
 ---
 title: Who wants to bet?/Qui veut parier ?
-location: 
-start: 
-end: 
+location: Workshop
+start: 24-10-2013 10:15
+end: 24-10-2013 12:45
 type: Workshop
 speaker: pascal-voitot,paul-dijou,stephane-godbillon
 topic: 
 level: 
-language: 
+language: fr
 ---
 
 ### English

@@ -18,7 +18,7 @@ getRichEventType id = do
     return $ case (M.lookup "type" md) of
         Just "Long" -> "<a href=\"/cfp.html#long-session-42-minutes\">Long session (42 minutes)</a>"
         Just "Short" -> "<a href=\"/cfp.html#session-24-minutes\">Session (24 minutes)</a>"
-        Just "Workshop" -> "<a href=\"/cfp.html#workshop-3h\">Workshop (3h)</a>"
+        Just "Workshop" -> "<a href=\"/cfp.html#workshop-3h\">Workshop (2h30/3h)</a>"
         _ -> ""
 
 richEventTypeCtx = field "richtype" (getRichEventType . itemIdentifier)

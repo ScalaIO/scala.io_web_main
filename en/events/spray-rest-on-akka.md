@@ -1,9 +1,9 @@
 ---
 title: Spray: REST on Akka
-location: 
-start: 
-end: 
-type: Long
+location: Room 1
+start: 24-10-2013 11:15 
+end: 24-10-2013 12:00
+type: Short
 speaker: mathias-doenitz
 topic: 
 level: 

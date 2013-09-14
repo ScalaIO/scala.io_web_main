@@ -1,8 +1,8 @@
 ---
 title: Exploring the Web of Data with Scala
-location: 
-start: 
-end: 
+location: Room 1
+start: 24-10-2013 16:15
+end: 24-10-2013 17:15
 type: Long
 speaker: alexandre-bertails
 topic: 

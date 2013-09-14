@@ -1,9 +1,9 @@
 ---
 title: Extreme speedups and GPGPU: a tale of two practical uses of reified trees.
-location: 
-start: 
-end: 
-type: Long
+location: Room 1
+start: 24-10-2013 14:15
+end: 24-10-2013 15:00
+type: Short
 speaker: olivier-chafik
 topic: 
 level: intermediate to expert

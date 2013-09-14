@@ -1,8 +1,8 @@
 ---
 title: Real World Akka Recipes
-location: 
-start: 
-end: 
+location: Room 1
+start: 2013-10-24 10:15
+end: 2013-10-24 11:15
 type: Long
 speaker: jamie-allen
 topic: 

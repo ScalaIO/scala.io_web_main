@@ -1,9 +1,9 @@
 ---
 title: Scalaz "For the Rest of Us"
-location: 
-start: 
-end: 
-type: long
+location: Room 2
+start: 24-10-2013 11:15
+end: 24-10-2013 12:15
+type: Long
 speaker: adam-rosien
 topic: 
 level: intermediate

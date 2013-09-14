@@ -1,8 +1,8 @@
 ---
 title: De Maven à SBT
-location: 
-start: 
-end: 
+location: Room 2
+start: 24-10-2013 17:15
+end: 24-10-2013 18:15
 type: Long
 speaker: stephane-manciot
 topic: 

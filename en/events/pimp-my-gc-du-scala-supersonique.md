@@ -1,8 +1,8 @@
 ---
 title: Pimp my GC - du Scala supersonique
-location: 
-start: 
-end: 
+location: Room 2
+start: 24-10-2013 15:00
+end: 24-10-2013 16:00
 type: Long
 speaker: pierre-laporte
 topic: 

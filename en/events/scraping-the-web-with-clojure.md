@@ -1,8 +1,8 @@
 ---
 title: Scraping the web with clojure
-location: 
-start: 
-end: 
+location: Room 2
+start: 24-10-2013 13:30
+end: 24-10-2013 14:15
 type: Short
 speaker: arnaud-bailly
 topic: 

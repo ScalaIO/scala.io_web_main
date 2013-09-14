@@ -1,8 +1,8 @@
 ---
 title: The Functional-Relational Impedance Mismatch
-location: 
-start: 
-end: 
+location: Room 1
+start: 24-10-2013 13:30
+end: 24-10-2013 14:15
 type: Short
 speaker: flavio-brasil
 topic: persistence

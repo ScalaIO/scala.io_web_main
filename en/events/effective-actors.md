@@ -1,8 +1,8 @@
 ---
 title: Effective Actors
-location: 
-start: 
-end: 
+location: Room 3
+start: 24-10-2013 16:15
+end: 24-10-2013 17:15
 type: Long
 speaker: jamie-allen
 topic: 
