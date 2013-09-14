@@ -1,8 +1,8 @@
 ---
 title: Rediscala
 location: Room 3
-start: 24-10-2013 14:15
-end: 24-10-2013 15:00
+start: 2013-10-24 14:15
+end: 2013-10-24 15:00
 type: Short
 speaker: valerian-barbot
 topic: 

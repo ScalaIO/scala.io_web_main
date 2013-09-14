@@ -1,8 +1,8 @@
 ---
 title: Write you a Lisp in Scala
 location: Room 3
-start: 24-10-2013 11:15
-end: 24-10-2013 12:15
+start: 2013-10-24 11:15
+end: 2013-10-24 12:15
 type: Long
 speaker: stefan-chis
 topic: 

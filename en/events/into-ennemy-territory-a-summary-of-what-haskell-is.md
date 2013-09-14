@@ -1,8 +1,8 @@
 ---
 title: Into Enemy Territory: A Summary Of What Haskell Is And What Irreparable Sequelae It Did To My Brain
 location: Room 2
-start: 24-10-2013 16:15
-end: 24-10-2013 17:15
+start: 2013-10-24 16:15
+end: 2013-10-24 17:15
 type: Long
 speaker: yves-pares
 topic: 

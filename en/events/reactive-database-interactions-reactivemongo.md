@@ -1,8 +1,8 @@
 ---
 title: Reactive Database Interactions – ReactiveMongo
 location: Room 3
-start: 24-10-2013 15:00
-end: 24-10-2013 16:00
+start: 2013-10-24 15:00
+end: 2013-10-24 16:00
 type: Long
 speaker: stephane-godbillon
 topic: 

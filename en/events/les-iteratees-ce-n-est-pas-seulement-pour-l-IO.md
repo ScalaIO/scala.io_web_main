@@ -1,8 +1,8 @@
 ---
 title: Les Iteratees, ce n'est pas seulement pour l'I/O
 location: Room 3
-start: 24-10-2013 17:15
-end: 24-10-2013 18:15
+start: 2013-10-24 17:15
+end: 2013-10-24 18:15
 type: Long
 speaker: xavier-bucchiotty
 topic: 
