@@ -5,7 +5,7 @@ start: 2013-10-24 13:30
 end: 2013-10-24 14:15
 type: Short
 speaker: arnaud-bailly
-topic: 
+topic: other-languages
 level: 
 language: fr
 ---

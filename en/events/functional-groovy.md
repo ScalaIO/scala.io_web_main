@@ -5,7 +5,7 @@ start: 2013-10-25 11:15
 end: 2013-10-25 12:15
 type: Long
 speaker: guillaume-laforge
-topic: 
+topic: other-languages
 level: beginner
 language: en
 ---

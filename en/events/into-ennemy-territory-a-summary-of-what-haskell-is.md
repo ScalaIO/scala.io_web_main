@@ -5,7 +5,7 @@ start: 2013-10-24 16:15
 end: 2013-10-24 17:15
 type: Long
 speaker: yves-pares
-topic: 
+topic: other-languages
 level: beginner
 language: en
 ---
