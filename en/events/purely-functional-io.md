@@ -5,7 +5,7 @@ start: 2013-10-25 10:15
 end: 2013-10-25 11:15
 type: Long
 speaker: runar-bjarnason
-topic: 
+topic: typelevel
 level: 
 language: en
 ---

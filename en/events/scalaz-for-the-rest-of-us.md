@@ -5,7 +5,7 @@ start: 2013-10-24 11:15
 end: 2013-10-24 12:15
 type: Long
 speaker: adam-rosien
-topic: 
+topic: typelevel
 level: intermediate
 language: en
 ---

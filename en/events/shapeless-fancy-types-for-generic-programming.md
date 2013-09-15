@@ -5,7 +5,7 @@ start:
 end: 
 type: Long
 speaker: miles-sabin
-topic: 
+topic: typelevel
 level: 
 language: en
 ---

@@ -5,7 +5,7 @@ start: 2013-10-25 11:15
 end: 2013-10-25 12:00
 type: Short
 speaker: sean-parsons
-topic: 
+topic: typelevel
 level: intermediate
 language: en
 ---

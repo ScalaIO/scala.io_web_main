@@ -5,7 +5,7 @@ start: 2013-10-25 14:00
 end: 2013-10-25 15:00
 type: Long
 speaker: lars-hupel
-topic: 
+topic: typelevel
 level: intermediate
 language: en
 ---
