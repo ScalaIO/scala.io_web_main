@@ -7,7 +7,7 @@ type: Long
 speaker: sam-bessalah
 topic: 
 level: beginner
-language: fr
+language: en
 ---
 
 Big Data is all the rage these days, but people who talk about it  often forget to mention how not trivial it is, to extract value from all the stockpile of data at our disposal. Good tools are central to the success of data crunching at all scale. Scala being both functional and object oriented, with a powerful standard collection library , is one of the tools gaining popularity to dive into Big Data analytics.

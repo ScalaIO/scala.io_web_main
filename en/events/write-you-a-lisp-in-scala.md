@@ -7,7 +7,14 @@ type: Long
 speaker: stefan-chis
 topic: 
 level: beginner
-language: fr
+language: en
 ---
+Learn how to build an external DSL (Domain Specific Languages). When used judiciously a DSL offers advantages like expressivity, higher level of abstraction, simplified development.
+In this talk, we'll look at implementing a mini language. By way of code examples, we'll show how to incrementally build a Lisp dialect on top of Scala:
 
-Learn how to build an external DSL. Learn what parser combinators are and what they are good for. Incrementally build a Lisp language.
+* Parsing code with combinator parsers
+* Defining datatypes and functions
+* Evaluating expressions
+* Implementing Higher order functions
+
+By the end of the talk, you'll know to use (and abuse) DSLs.
