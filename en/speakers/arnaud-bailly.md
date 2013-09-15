@@ -3,7 +3,7 @@ firstname: Arnaud
 lastname: Bailly
 twitter: @abailly
 site: 
-avatar: /assets/images/speakers/arnaud-bailly.png
+avatar: /assets/images/speakers/arnaud-bailly.jpg
 ---
 
 Arnaud Bailly is a software engineering consultant with OQube. He helps development teams produce better quality software using tools and techniques taken from agility and freeware.
