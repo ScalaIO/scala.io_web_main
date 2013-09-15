@@ -1,8 +1,8 @@
 ---
 title: Implicitly explicit test code with ScalaTest 
-location: 
-start: 
-end: 
+location: Room 3
+start: 2013-10-25 14:00
+end: 2013-10-25 15:00
 type: Long
 speaker: xavier-bucchiotty
 topic: 

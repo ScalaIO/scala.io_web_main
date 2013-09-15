@@ -1,8 +1,8 @@
 ---
 title: How to survive one of the biggest spikes in e‐commerce ‐ The story of the Gilt Loadtesting Platform
-location: 
-start: 
-end: 
+location: Room 1
+start: 2013-10-25 16:15
+end: 2013-10-25 17:15
 type: Long
 speaker: roland-tritsch
 topic: 

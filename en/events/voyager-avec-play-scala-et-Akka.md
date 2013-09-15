@@ -1,8 +1,8 @@
 ---
 title: Voyager avec Play / Scala et Akka
-location: 
-start: 
-end: 
+location: Room 2
+start: 2013-10-25 15:00
+end: 2013-10-25 16:00
 type: Long
 speaker: nicolas-martignole
 topic: 

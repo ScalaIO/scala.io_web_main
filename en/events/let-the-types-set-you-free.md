@@ -1,9 +1,9 @@
 ---
 title: Let The Types Set You Free
-location: 
-start: 
-end: 
-type: Long
+location: Room 1
+start: 2013-10-25 11:15
+end: 2013-10-25 12:00
+type: Short
 speaker: sean-parsons
 topic: 
 level: intermediate

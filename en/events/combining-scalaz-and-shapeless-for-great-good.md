@@ -1,8 +1,8 @@
 ---
 title: Combining Scalaz and Shapeless for Great Good
-location: 
-start: 
-end: 
+location: Room 1
+start: 2013-10-25 14:00
+end: 2013-10-25 15:00
 type: Long
 speaker: lars-hupel
 topic: 

@@ -1,8 +1,8 @@
 ---
 title: M’enfin Scalac, où glandes-tu encore ?
-location: 
-start: 
-end: 
+location: Room 2
+start: 2013-10-25 11:15
+end: 2013-10-25 12:00
 type: Short
 speaker: francois-armand
 topic: 

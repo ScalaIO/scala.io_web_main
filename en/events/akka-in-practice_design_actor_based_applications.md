@@ -1,8 +1,8 @@
 ---
 title: Akka in Practice: Designing Actor-based Applications
-location: 
-start: 
-end: 
+location: Workshop
+start: 2013-10-25 13:30
+end: 2013-10-25 16:00
 type: Workshop
 speaker: age-mooij,raymond-roestenburg
 topic: 

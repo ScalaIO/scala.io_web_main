@@ -1,8 +1,8 @@
 ---
 title: Typesafing your blobs with Scala
-location: 
-start: 
-end: 
+location: Room 3
+start: 2013-10-25 15:00
+end: 2013-10-25 16:00
 type: Long
 speaker: pascal-voitot,julien-tournay
 topic: 

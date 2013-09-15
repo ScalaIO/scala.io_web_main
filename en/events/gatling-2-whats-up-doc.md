@@ -1,13 +1,13 @@
 ---
 title: Gatling 2, What's Up Doc?
-location: 
-start: 
-end: 
+location: Room 1
+start: 2013-10-25 13:15
+end: 2013-10-25 14:00
 type: Short
 speaker: stephane-landelle
 topic: 
 level: beginner
-language: fr
+language: en
 ---
 
 Nous avons commencé le projet Gatling en tant que 2 développeurs Java, sans aucune expérience de Scala ou de FP.

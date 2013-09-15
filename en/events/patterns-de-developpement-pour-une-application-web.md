@@ -1,8 +1,8 @@
 ---
 title: Patterns de développement pour une application Web réactive et concurrente
-location: 
-start: 
-end: 
+location: Room 2
+start: 2013-10-25 16:15
+end: 2013-10-25 17:15
 type: Long
 speaker: fabrice-croiseaux,antoine-detante
 topic: 

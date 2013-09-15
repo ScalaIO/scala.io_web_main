@@ -1,9 +1,9 @@
 ---
 title: Big Data + Scala
-location: 
-start: 
-end: 
-type: Short
+location: Room 2
+start: 2013-10-25 14:00
+end: 2013-10-25 15:00
+type: Long
 speaker: sam-bessalah
 topic: 
 level: beginner

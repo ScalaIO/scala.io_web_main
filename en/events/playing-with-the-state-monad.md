@@ -1,9 +1,9 @@
 ---
 title: Playing with the State Monad
-location: 
-start: 
-end: 
-type: Long
+location: Room 2
+start: 2013-10-25 13:15
+end: 2013-10-25 14:00
+type: Short
 speaker: david-galichet
 topic: 
 level: intermediate
