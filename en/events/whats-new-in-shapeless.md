@@ -7,7 +7,7 @@ type: Long
 speaker: miles-sabin
 topic: 
 level: 
-language: 
+language: en
 ---
 
 shapeless is a type class and dependent type based generic programming

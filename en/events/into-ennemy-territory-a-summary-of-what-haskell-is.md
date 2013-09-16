@@ -7,7 +7,7 @@ type: Long
 speaker: yves-pares
 topic: 
 level: beginner
-language: en
+language: fr
 ---
 
 This talk is the report of a battle. A battle against common sense. A battle of
