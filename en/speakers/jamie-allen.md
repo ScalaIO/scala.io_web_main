@@ -2,7 +2,7 @@
 firstname: Jamie
 lastname: Allen
 twitter: @jamie_allen
-https: http://github.com/jamie-allen‎
+site: https: http://github.com/jamie-allen
 avatar: /assets/images/speakers/jamie-allen.jpg
 ---
 

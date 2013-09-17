@@ -4,7 +4,7 @@ location: Workshop
 start: 2013-10-25 10:15
 end: 2013-10-25 12:45
 type: Workshop
-speaker: mathias-doenitz
+speaker: mathias-doenitz,johannes-rudolph
 topic: 
 level: 
 language: en

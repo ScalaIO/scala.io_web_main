@@ -2,7 +2,7 @@
 firstname: Stephane
 lastname: Landelle
 twitter: @slandelle
-site: 
+site: http://gatling-tool.org/
 avatar: /assets/images/speakers/stephane-landelle.jpg
 ---
 

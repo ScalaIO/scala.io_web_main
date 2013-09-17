@@ -1,8 +1,8 @@
 ---
 firstname: Stefan
 lastname: Zeiger
-twitter: 
-site: 
+twitter: @StefanZeiger
+site: https://github.com/szeiger
 avatar: /assets/images/speakers/stephan-zeiger.jpg
 ---
 
