@@ -7,7 +7,7 @@ type: Long
 speaker: alexandre-bertails
 topic: 
 level: beginer
-language: en
+language: fr
 ---
 
 Session de live coding : implémentation d'un client IRC en
