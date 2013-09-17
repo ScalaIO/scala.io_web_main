@@ -149,13 +149,9 @@ makeCalendar lang =
         makeItem ""
             >>= calendarCompilerJson lang
 
-calendarCompiler :: String -> Item a ->  Compiler (Item String)
-calendarCompiler lang item = do
+eventsWithDatesCompiler lang = do
     events <- loadAll $ fromGlob (lang ++ "/events/*.md")
-    eventsWithDates <- withDate events
-    tpl <- loadBody "templates/ics-event"
-    contents <- applyTemplateList tpl (iso8601Ctx `mappend` globalContext lang) eventsWithDates
-    makeItem contents
+    withDate events
   where
     withDate es = filterM hasDate es
     hasDate i = do
@@ -163,6 +159,13 @@ calendarCompiler lang item = do
         ed <- getMetadataField (itemIdentifier i) "end"
         return $ isValidDate sd && isValidDate ed
     isValidDate ms = isJust $ ms >>= makeIso8601
+
+calendarCompiler :: String -> Item a ->  Compiler (Item String)
+calendarCompiler lang item = do
+    events<- eventsWithDatesCompiler lang
+    tpl <- loadBody "templates/ics-event"
+    contents <- applyTemplateList tpl (iso8601Ctx `mappend` globalContext lang) events
+    makeItem contents
 
 iso8601Ctx = (iso8601_date "start") `mappend` (iso8601_date "end")
 
@@ -182,7 +185,7 @@ iso8601_date date =
 
 calendarCompilerJson :: String -> Item a ->  Compiler (Item String)
 calendarCompilerJson lang item = do
-    events <- loadAll $ fromGlob (lang ++ "/events/*.md")
+    events <- eventsWithDatesCompiler lang
     tpl <- loadBody "templates/event-json"
     contents <- applyJoinTemplateList ", " tpl (timestampCtx `mappend` globalContext lang) events
     makeItem $ "[" ++ contents ++ "]"
