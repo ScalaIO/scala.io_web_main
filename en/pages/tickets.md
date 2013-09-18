@@ -15,4 +15,15 @@ We offer discount price for 3, 5, 10 tickets package. Contact us at <a mailto:"c
 
 <em>Droit Individuel à la Formation</em>
 ------------------
-Registration will support DIF, so feel free to check with your HR if you can apply for it. It will only be opened after the program is up. 
+Pour bénéficier du Droit Individuel à la Formation (DIF) vous devez :
+
+* télécharger le **[formulaire de demande de DIF](/assets/pdf/LettreDemandeDIF.pdf)**,
+* télécharger le **[programme de la conférence](/assets/pdf/ProgrammeScalaIO.pdf)**,
+* remplir et signer la demande,
+* transmettre à votre responsable formation RH, le formulaire ET le programme,
+* votre responsable à 10 jours pour accepter/refuser votre demande,
+* en cas d'acceptation, votre responsable se met en relation avec XEBIA IT ARCHITECTS (n° d’agrément 11 92 164 1692) qui prend en charge la formation pour Scala.IO.
+
+
+
+

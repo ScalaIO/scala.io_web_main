@@ -31,6 +31,10 @@ main = hakyll $ do
         route   idRoute
         compile copyFileCompiler
 
+    match "assets/pdf/**" $ do
+        route   idRoute
+        compile copyFileCompiler
+
     match "assets/css/*.less" $ do
         compile getResourceBody
 
