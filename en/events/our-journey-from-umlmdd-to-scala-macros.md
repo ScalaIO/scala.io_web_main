@@ -1,8 +1,8 @@
 ---
 title: Our journey from UML/MDD to Scala macros
-location: Room 3
-start: 2013-10-25 10:15
-end: 2013-10-25 11:15
+location: Room 2
+start: 2013-10-24 17:15
+end: 2013-10-24 18:15
 type: Long
 speaker: hayssam-saleh
 topic: 
