@@ -1,8 +1,8 @@
 ---
 title: Failure: The Good Parts
 location: Room 1
-start: 2013-05-16 09:00
-end: 2013-05-16 10:00
+start: 2013-10-24 09:00
+end: 2013-10-24 10:00
 type: Panel
 speaker: viktor-klang
 topic: keynote
