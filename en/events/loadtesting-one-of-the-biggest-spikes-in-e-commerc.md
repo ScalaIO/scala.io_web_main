@@ -4,7 +4,7 @@ location: Room 1
 start: 2013-10-25 16:15
 end: 2013-10-25 17:15
 type: Long
-speaker: roland-tritsch
+speaker: andrew-duffy 
 topic: 
 level: intermediate
 language: en
