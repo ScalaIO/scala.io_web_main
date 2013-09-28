@@ -25,7 +25,7 @@ Become a Scala.IO sponsor and promote your services, products or simply increase
 		<td class="tablesub"></td>
 	</tr>
 	<tr>	
-		<td class="rowlabel">On merchandising (t-shirt, welcome bag and block note)</td>		
+		<td class="rowlabel">On merchandising (welcome bag)</td>		
 		<td><img src="../assets/images/glyphicons/png/glyphicons_206_ok_2.png"></td>
 		<td></td>
 		<td></td>		
