@@ -12,7 +12,7 @@ $(document).ready(function() {
                  firstHour: 9,
                  slotMinutes:10,
                  defaultView: 'agendaDay',
-                 events: ('/calendar.json'),
+                 events: 'https://www.google.com/calendar/feeds/1uirn9pn5spas6ov3m8nllv3smpbetav%40import.calendar.google.com/public/basic',
                  eventClick: function(event) {
                      window.location = event.url;
                  }//,
