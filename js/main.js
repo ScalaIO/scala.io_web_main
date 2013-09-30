@@ -1,18 +1,33 @@
 $(document).ready(function() {
      var opts = {
-                 height: 616,
+                 height: 900,
                  year:2013,
                  month:9,
                  date:24,
-                 //header:{
-                 //   left:   '',
-                 //   center: '',
-                 //   right:  ''
-                 //},
+                 header:{
+                    left:   '',
+                    center: 'title',
+                    right:  ''
+                 },
+                 minTime:'9:00',
+                 maxTime:'18:30',
                  firstHour: 9,
-                 slotMinutes:10,
+                 allDaySlot: false,
+                 slotEventOverlap:false,
+                 slotMinutes:15,
                  defaultView: 'agendaDay',
-                 events: 'https://www.google.com/calendar/feeds/1uirn9pn5spas6ov3m8nllv3smpbetav%40import.calendar.google.com/public/basic',
+                 //events: 'https://www.google.com/calendar/feeds/1uirn9pn5spas6ov3m8nllv3smpbetav%40import.calendar.google.com/public/basic',
+                 events: {
+                    url: '/calendar.json',
+                    type: 'GET',
+                    data: {                        
+                    },
+                    error: function(data) {
+                        alert('there was an error while fetching events!'+data);
+                    },
+                    color: 'lightblue',   // a non-ajax option
+                    textColor: 'black' // a non-ajax option
+                 },
                  eventClick: function(event) {
                      window.location = event.url;
                  }//,

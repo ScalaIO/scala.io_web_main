@@ -1,5 +1,5 @@
 ---
-title: Scalaz "For the Rest of Us"
+title: Scalaz &quote;For the Rest of Us&quote;
 location: Room 2
 start: 2013-10-24 11:15
 end: 2013-10-24 12:15
