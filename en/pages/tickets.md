@@ -22,7 +22,7 @@ Pour bénéficier du Droit Individuel à la Formation (DIF) vous devez :
 * remplir et signer la demande,
 * transmettre à votre responsable formation RH, le formulaire ET le programme,
 * votre responsable à 10 jours pour accepter/refuser votre demande,
-* en cas d'acceptation, votre responsable se met en relation avec XEBIA IT ARCHITECTS (n° d’agrément 11 92 164 1692) qui prend en charge la formation pour Scala.IO.
+* en cas d'acceptation, votre responsable se met en relation avec XEBIA IT ARCHITECTS (n° d’agrément 11 92 164 1692) qui prend en charge la formation pour Scala.IO. Le dossier peut être transmis par email à Hélène RAUTURIER / hrauturier (at) xebia.fr / +33 1 53 89 99 99
 
 
 
