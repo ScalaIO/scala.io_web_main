@@ -11,7 +11,9 @@ long and allow you to present briefly and synthetically an idea.
 With or without slides, go straight to the point and enlighten your
 audience!
 
-<a href="https://docs.google.com/forms/d/1CjObe4on6UEkZkpDVcXGQDKEUN36ZEwaMypsUpzHCUw/viewform">To apply, fill the form</a>
+
+<iframe class="lightning" seamless="seamless" src="https://docs.google.com/forms/d/1CjObe4on6UEkZkpDVcXGQDKEUN36ZEwaMypsUpzHCUw/viewform?embedded=true">Loading...</iframe>
+
 
 
 CFP CLOSED
