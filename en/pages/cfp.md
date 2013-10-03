@@ -2,6 +2,20 @@
 title: CFP
 ---
 
+Lightning Talks
+===============
+
+Attendees can apply for a lightning talk session. These sessions are 8 minute
+long and allow you to present briefly and synthetically an idea.
+
+With or without slides, go straight to the point and enlighten your
+audience!
+
+<iframe src="https://docs.google.com/forms/d/1CjObe4on6UEkZkpDVcXGQDKEUN36ZEwaMypsUpzHCUw/viewform" width="100%" height="700px">
+<a href="https://docs.google.com/forms/d/1CjObe4on6UEkZkpDVcXGQDKEUN36ZEwaMypsUpzHCUw/viewform">Fill the form</a>
+</iframe>
+
+
 CFP CLOSED
 ===========
 
