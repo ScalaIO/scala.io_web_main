@@ -41,8 +41,12 @@ attire, are not appropriate.
 ## Please contact us
 
 To discuss any incidents or behaviour in violation of this code of conduct,
-please contact Clément Delafargue, either in person at the organisers' booth or
-by email at <clement@delafargue.name>.
+please contact one of:
+
+- Clément Delafargue (+33616888524 <clement@delafargue.name>)
+- Olivier Girardot  (+33624091794 <o.girardot@lateral-thoughts.com>)
+
+either in person at the organisers' booth, by phone or by email.
 
 We will take any complaints seriously, and respond appropriately. Attendees,
 speakers, or exhibitors who violate this Code of Conduct may be asked to
