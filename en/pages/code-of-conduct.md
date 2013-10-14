@@ -5,7 +5,7 @@ expect presenters, exhibitors, and attendees to help make scala.io enjoyable
 for everyone, regardless of age, gender, sexuality, religious or ethnic
 identity, or ability.
 
-## All attendees
+## *All attendees*
 
 Please show respect for all attendees. In particular:
 
@@ -21,7 +21,7 @@ Please show respect for all attendees. In particular:
 - Support your friends and colleagues. If you see someone behaving badly,
   please let them know that you're not OK with it.
 
-## Speakers
+## *Speakers*
 
 Please ensure that your presentation does not stigmatise, alienate, or marginalise any individual or group. In particular:
 
@@ -31,14 +31,14 @@ Please ensure that your presentation does not stigmatise, alienate, or marginali
   to offer constructive improvements or alternatives as part of your talk.
 - Personal criticism and ad hominem attacks are never OK. 
 
-## Exhibitors
+## *Exhibitors*
 
 Scala.io is an all-ages, mixed-gender event. Please make sure your booth and
 party can be enjoyed by everyone. In particular, overtly sexualised booths or
 parties, including "booth babes" or hired entertainers in provocative/sexy
 attire, are not appropriate.
 
-## Please contact us
+## *Please contact us*
 
 To discuss any incidents or behaviour in violation of this code of conduct,
 please contact one of:
