@@ -1,7 +1,7 @@
 # Code of conduct
 
 Scala.io is an all-ages event for people from many different backgrounds. We
-expect presenters, exhibitors, and attendees to help make [event] enjoyable
+expect presenters, exhibitors, and attendees to help make scala.io enjoyable
 for everyone, regardless of age, gender, sexuality, religious or ethnic
 identity, or ability.
 
@@ -16,7 +16,7 @@ Please show respect for all attendees. In particular:
   on their appearance or background.
 - Remember that "no means no". If someone asks you to stop speaking about a
   particular subject, or to leave them alone, please do so.
-- There are many parties associated with [event], and these guidelines apply
+- There are many parties associated with scala.io, and these guidelines apply
   equally there. Please consume alcohol responsibly.
 - Support your friends and colleagues. If you see someone behaving badly,
   please let them know that you're not OK with it.
