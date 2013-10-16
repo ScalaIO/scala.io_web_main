@@ -1,8 +1,8 @@
 ---
 title: Libérez la puissance de Couchbase depuis votre application Play 2
-location: Room 3
-start: 2013-10-24 13:30
-end: 2013-10-24 14:15
+location: Room 2
+start: 2013-10-24 14:15
+end: 2013-10-24 15:00
 type: Short
 speaker: mathieu-ancelin
 topic: 

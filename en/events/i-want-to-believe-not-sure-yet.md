@@ -1,8 +1,8 @@
 ---
 title: I Want to Believe (not sure yet) 
-location: Room 2
-start: 2013-10-24 14:15
-end: 2013-10-24 15:00
+location: Room 1
+start: 2013-10-24 13:30
+end: 2013-10-24 14:15
 type: Short
 speaker: marc-daniel-ortega
 topic: 
