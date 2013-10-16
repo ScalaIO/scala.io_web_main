@@ -5,7 +5,7 @@ title: Tickets
 <em>Regular tickets</em>
 ------------------
 <div style="width:100%; text-align:left;">
-  <iframe src="http://www.eventbrite.com/tickets-external?eid=7490047935&ref=etckt&v=2" frameborder="0" height="260px" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="no" allowtransparency="true"></iframe>
+  <iframe src="http://www.eventbrite.com/tickets-external?eid=7490047935&ref=etckt&v=2" frameborder="0" height="360px" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="no" allowtransparency="true"></iframe>
 </div> 
 
 <em>Buying Tickets in Bulk</em>
