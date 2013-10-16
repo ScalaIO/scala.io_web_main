@@ -183,11 +183,28 @@ iso8601_date date =
         return $ fromMaybe "" $ M.lookup date metadata >>= makeIso8601
     )
 
+jsoniso8601Ctx = (jsoniso8601_date "start") `mappend` (jsoniso8601_date "end")
+
+makejsonIso8601 :: String -> Maybe String
+makejsonIso8601 =
+    let parser = parseTime defaultTimeLocale "%Y-%m-%d %H:%M" :: String -> Maybe LocalTime
+        addTimeZone = localTimeToUTC (hoursToTimeZone 0) -- /!\ Hard coded for May 2013
+        formatter = formatTime defaultTimeLocale "%Y-%m-%dT%H:%M:%S%z"
+    in fmap (formatter . addTimeZone) . parser
+
+jsoniso8601_date :: String -> Context String
+jsoniso8601_date date =
+    field ("jsoniso8601_"++ date) (\item -> do
+        metadata <- getMetadata $ itemIdentifier item
+        return $ fromMaybe "" $ M.lookup date metadata >>= makejsonIso8601
+    )
+
+
 calendarCompilerJson :: String -> Item a ->  Compiler (Item String)
 calendarCompilerJson lang item = do
     events <- eventsWithDatesCompiler lang
     tpl <- loadBody "templates/event-json"
-    contents <- applyJoinTemplateList ", " tpl (timestampCtx `mappend` globalContext lang) events
+    contents <- applyJoinTemplateList ", " tpl (jsoniso8601Ctx `mappend` globalContext lang) events
     makeItem $ "[" ++ contents ++ "]"
 
 timestampCtx = (timestamp_date "start") `mappend` (timestamp_date "end")

@@ -1,9 +1,10 @@
 {
     "title": "$title$",
-    "start": "$timestamp_start$",
-    "end": "$timestamp_end$",
+    "start": "$jsoniso8601_start$",
+    "end": "$jsoniso8601_end$",
     "url": "http://scala.io$url$",
     "location": "$location$",
     "allDay":false,
     "description": "more info: http://scala.io$url$"
+    
 }

@@ -19,6 +19,7 @@ $(document).ready(function() {
                  //events: 'https://www.google.com/calendar/feeds/1uirn9pn5spas6ov3m8nllv3smpbetav%40import.calendar.google.com/public/basic',
                  events: {
                     url: '/calendar.json',
+                    ignoreTimezone: 'true',
                     type: 'GET',
                     data: {                        
                     },
@@ -27,6 +28,12 @@ $(document).ready(function() {
                     },
                     color: 'lightblue',   // a non-ajax option
                     textColor: 'black' // a non-ajax option
+                 },                 
+                 eventDataTransform: function(event) {
+                    console.dir(event);
+                    console.log(event.start);
+                    console.log(event.end);
+                    return event;
                  },
                  eventClick: function(event) {
                      window.location = event.url;
