@@ -21,6 +21,10 @@ The Organizing Committee of the 2013 Scala.IO Conference is composed of:
 * François Sarradin ([@fsarradin](http://twitter.com/fsarradin))
 * Jonathan Winandy ([@ahoy_jon](http://twitter.com/ahoy_jon))
 
+<em>Is there a Code of Conduct</em>
+---------------------------
+Yes, there is a [Code of Conduct](/code-of-conduct.html)
+
 <em>Are you cool?</em>
 ---------------------------
 Yes we are!
