@@ -18,7 +18,7 @@ We offer discount price for 3, 5, 10 tickets package. Contact us at <a mailto:"c
 Pour bénéficier du Droit Individuel à la Formation (DIF) vous devez :
 
 * télécharger le **[formulaire de demande de DIF](/assets/pdf/LettreDemandeDIF.pdf)**,
-* télécharger le **[programme de la conférence](/assets/pdf/ProgrammeScalaIO.pdf)**,
+* télécharger le **[programme de la conférence](/assets/pdf/ProgrammeScalaIO-DIF.pdf)**,
 * remplir et signer la demande,
 * transmettre à votre responsable formation RH, le formulaire ET le programme,
 * votre responsable à 10 jours pour accepter/refuser votre demande,
