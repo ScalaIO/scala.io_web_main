@@ -8,6 +8,7 @@ speaker: yorick-laupa
 topic: typelevel
 level: intermediate
 language: fr
+slides: https://drive.google.com/file/d/0B0J_1BFqE2CYbk9XWmM2QnFmT0U/edit?usp=sharing
 ---
 
 Ce que les primitives du stream-processing peuvent apporter avec un parallèle sur d'autres API (plus connus) comme les Iteratees de Play ou encore  Scala-machines. Le reste reprendra certaines utilisations que nous avons en production chez Applicius avec Scalaz-stream.

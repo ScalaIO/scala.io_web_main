@@ -8,6 +8,7 @@ speaker: francois-armand
 topic: 
 level: intermediate
 language: fr
+slides: https://drive.google.com/file/d/0B0oSyglurCEgZC1wUFN0NmRZWVk/edit?usp=sharing
 ---
 
 TBA

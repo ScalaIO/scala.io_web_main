@@ -8,6 +8,7 @@ speaker: mathieu-ancelin
 topic: 
 level: intermediate
 language: fr
+slides: https://drive.google.com/file/d/0B0J_1BFqE2CYMERCb3lhNk5va28/edit?usp=sharing
 ---
 
 Cette présentation sera l'occasion de voir comment utiliser au mieux Couchbase depuis une application Play 2 en tant que Cache ou source de données principale tout en bénéficiant d'une intégration poussée avec la surpuissante API JSON, l'API asynchrone non bloquante et les Futures Scala, ainsi que des nombreux goodies fournis par le framework depuis Java ou Scala.

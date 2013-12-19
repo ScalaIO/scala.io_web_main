@@ -8,6 +8,7 @@ speaker: stefan-zeiger
 topic: persistence
 level: intermediate
 language: en
+slides: https://drive.google.com/file/d/0B0J_1BFqE2CYTzItX1JaVDQwc00/edit?usp=sharing
 ---
 
 Slick is Typesafe‘s modern database query and access library for Scala. It allows you to work with stored data almost as if you were using Scala collections while at the same time giving you full control over when a database access happens and which data is transferred.

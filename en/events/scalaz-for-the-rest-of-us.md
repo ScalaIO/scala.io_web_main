@@ -8,6 +8,7 @@ speaker: adam-rosien
 topic: typelevel
 level: intermediate
 language: en
+slides: https://drive.google.com/file/d/0B8njU6RwGyfHekVqZDRWYUo5X0k/edit?usp=sharing
 ---
 
 This talk provides an introduction to the amazing scalaz library - not through a brain-exploding introduction to category theory or monad laws, but via its simplest practical parts for a functional programming novice. You'll learn:

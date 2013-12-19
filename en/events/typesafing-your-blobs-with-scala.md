@@ -8,6 +8,7 @@ speaker: pascal-voitot,julien-tournay
 topic: 
 level: intermediate
 language: fr
+slides: https://drive.google.com/file/d/0B_CL_Rfe4O-wRk1kWEJ3cDRRcDQ/edit?usp=sharing
 ---
 
 The nature of development is shifting from good old, database centric applications, to distributed, fault-tolerant and highly connected architectures, consuming data from heterogeneous data-sources. We demand new libraries and tooling to validate and transform those nasty untrusted blobs, and map them to our beloved typesafe data structures.

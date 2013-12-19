@@ -8,6 +8,7 @@ speaker: guillaume-laforge
 topic: other-languages
 level: beginner
 language: en
+slides: https://drive.google.com/file/d/0B_CL_Rfe4O-wY0MwS180VkQwbWc/edit?usp=sharing
 ---
 
 Yes, Groovy is functional too!

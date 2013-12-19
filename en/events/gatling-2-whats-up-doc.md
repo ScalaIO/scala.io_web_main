@@ -8,6 +8,7 @@ speaker: stephane-landelle
 topic: 
 level: beginner
 language: en
+slides: https://drive.google.com/file/d/0B_CL_Rfe4O-wZURNdFhOMGl2NXM/edit?usp=sharing
 ---
 
 Nous avons commencé le projet Gatling en tant que 2 développeurs Java, sans aucune expérience de Scala ou de FP.

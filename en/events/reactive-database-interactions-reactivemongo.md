@@ -8,6 +8,7 @@ speaker: stephane-godbillon
 topic: 
 level: intermediate
 language: fr
+slides: https://drive.google.com/file/d/0B_CL_Rfe4O-wTWNxYW05blo5a0k/edit?usp=sharing
 ---
 
 Reactive Design enables to build very scalable web applications. However, in most cases consuming and storing data in a database are still blocking operations, and written in imperative style.

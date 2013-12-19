@@ -8,6 +8,7 @@ speaker: nicolas-martignole
 topic: 
 level: 
 language: fr
+slides: https://drive.google.com/file/d/0B_CL_Rfe4O-wZ3NLVEJwLVdUdG8/edit?usp=sharing
 ---
 
 Un talk basé sur mon retour d'expérience sur Play2/Scala, présentant entre 8 et 10 cas d'usage différents de Play2 et Akka sur Zaptravel.

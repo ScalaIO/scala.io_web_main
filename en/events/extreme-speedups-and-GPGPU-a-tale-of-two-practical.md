@@ -8,6 +8,7 @@ speaker: olivier-chafik
 topic: 
 level: intermediate to expert
 language: en
+slides: https://drive.google.com/file/d/0B0J_1BFqE2CYOFFhM0Rqd09ESlE/edit?usp=sharing
 ---
 
 With macros introduced experimentally in Scala 2.10, the sky is the limit for compiler hackers and libraries writers: it is trivial to access and modify sources during compilation, and so is it to retain ASTs for use during runtime (process known as reification).

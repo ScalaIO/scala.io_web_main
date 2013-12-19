@@ -8,6 +8,7 @@ speaker: age-mooij
 topic: 
 level: intermediate
 language: en
+slides: https://drive.google.com/file/d/0B0J_1BFqE2CYV2tBQzVSSUxOMjg/edit?usp=sharing
 ---
 
 If you have been learning the basics of Scala development and you find yourself looking for a good way to level up your skills but all those blogs about monads, functors, iteratees, etc. are way too academic for you, then this  talk is for you!

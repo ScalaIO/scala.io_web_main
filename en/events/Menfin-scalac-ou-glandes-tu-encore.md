@@ -8,6 +8,7 @@ speaker: francois-armand
 topic: 
 level: intermediate
 language: fr
+slides: https://drive.google.com/file/d/0B0oSyglurCEgdmo1WE1nSzJ2ZEk/edit?usp=sharing
 ---
 
 Scala est un super langage. Vraiment, son système de types extrêmement expressif permet de prouver tout un tas de propriétés sur notre cher code. D’ailleurs, on sent bien que le compilateur Scalac travaille pour nous. Qu’il travaille encore et encore... Certains vont jusqu’à dire que le réchauffement climatique s’est emballé depuis que Scala a commencé à rencontrer le succès.

@@ -8,6 +8,7 @@ speaker: valerian-barbot
 topic: 
 level: intermediate
 language: fr
+slides: https://drive.google.com/file/d/0B_CL_Rfe4O-wY1ZZbFFuVzFnMG8/edit?usp=sharing
 ---
 
 Rediscala is one of the fastest Redis client libraries. The talk will revealed the secret recipe between Akka, Akka IO and Scala to get a really fast redis client. Of course the results of the benchmarks with scalameter will be there to support the claims.

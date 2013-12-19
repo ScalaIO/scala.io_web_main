@@ -8,6 +8,7 @@ speaker: lars-hupel
 topic: typelevel
 level: intermediate
 language: en
+slides: https://drive.google.com/file/d/0B0J_1BFqE2CYOVc5SmZrWnI5RlU/edit?usp=sharing
 ---
 
 Scalaz is an extension to the Scala standard library providing purely

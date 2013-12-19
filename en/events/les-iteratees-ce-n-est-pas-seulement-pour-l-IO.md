@@ -8,6 +8,7 @@ speaker: xavier-bucchiotty
 topic: 
 level: intermediate
 language: fr
+slides: https://drive.google.com/file/d/0B_CL_Rfe4O-wMllmTHZUTlhfTE0/edit?usp=sharing
 ---
 
 Découvrir une utilisation du framework Iteratee de Play! Framework sur un autre domain que la consommation de WS. 

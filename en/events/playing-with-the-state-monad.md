@@ -8,6 +8,7 @@ speaker: david-galichet
 topic: 
 level: intermediate
 language: fr
+slides: https://drive.google.com/file/d/0B_CL_Rfe4O-wMUVkQU1FUFFvYUE/edit?usp=sharing
 ---
 
 During this session, we will discover what a state monad is and how it can resolve states manipulation problems in an elegant and purely functional way.

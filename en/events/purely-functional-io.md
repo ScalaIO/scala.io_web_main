@@ -8,6 +8,7 @@ speaker: runar-bjarnason
 topic: typelevel
 level: 
 language: en
+slides: https://drive.google.com/file/d/0B_CL_Rfe4O-wUjRtX0o4UmR0Sjg/edit?usp=sharing
 ---
 
 Pure functional programming allows us to write clean and modular code. But to

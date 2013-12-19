@@ -8,6 +8,7 @@ speaker: marc-daniel-ortega
 topic: 
 level: beginner
 language: en
+slides: https://drive.google.com/file/d/0B_CL_Rfe4O-wZURNdFhOMGl2NXM/edit?usp=sharing
 ---
 
 In Eligotech we have embraced the functional paradigm through a professional usage of Scala since almost 2 years now.

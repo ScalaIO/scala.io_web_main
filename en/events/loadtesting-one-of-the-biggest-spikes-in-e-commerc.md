@@ -8,6 +8,7 @@ speaker: andrew-duffy
 topic: 
 level: intermediate
 language: en
+slides: https://drive.google.com/file/d/0B_CL_Rfe4O-wVzRpVGQwZ2dzLUU/edit?usp=sharing
 ---
 Gilt is the market­leader for flash­sales in the US. Gilt has more than 6 million members and annual revenue of more than USD 600M. Every day at noon(est) our new sales campaigns go live and our members rush in to get the best deal (first come, first served). The site needs to be able to deal with an extreme spike in the traffic profile and needs to maintain high throughput/low response times all day and under all circumstances. Gilt is always looking to embrace leading­edge technology to deliver inspiring innovations to its members. 18 month ago Gilt started to explore how Scala can help to implement some key initiatives for the company and since then has adopted Scala and Scala­based tools as the primary language of choice for all new development.
 It is in the nature of the Gilt business model that our traffic ramps up very fast when our new sales campaigns go live and that we need to maintain very high throughput and low response times all day long. This talk is about the Gilt Load­ and Performance Testing platform. The platform needs to deliver on a couple of very challenging requirements, namely it needs to be able to uncover and detect system behaviors that put the scalability or the availability of the site at risk. The platform needs to be able to generate enough load and data to make it easy to analyze performance and identify problems before they impact our members. 

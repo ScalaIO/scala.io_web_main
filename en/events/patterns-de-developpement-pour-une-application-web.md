@@ -8,6 +8,7 @@ speaker: fabrice-croiseaux,antoine-detante
 topic: 
 level: beginner
 language: fr
+slides: https://drive.google.com/file/d/0B_CL_Rfe4O-wZnBicG9JVDEtZUE/edit?usp=sharing
 ---
 
 Nous avons remporté le deuxième prix du concours Typesafe grâce à l'application [Carracedashboard](https://github.com/intechgrp/CarRaceDashboard) dont l'objectif était de démontrer les possibilités du stack Typesafe.

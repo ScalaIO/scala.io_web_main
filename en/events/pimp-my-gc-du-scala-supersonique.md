@@ -8,6 +8,7 @@ speaker: pierre-laporte
 topic: 
 level: intermediate
 language: fr
+slides: https://drive.google.com/file/d/0B_CL_Rfe4O-wWEVURHpMWkhFaVU/edit?usp=sharing
 ---
 
 Comment le Garbage Collector se comporte avec votre code Scala ? Les collections persistentes qui filent dans la old-generation, info ou intox ? L'immutabilité, incompatible avec le GC ? Comment on tune la heap en prod ? Parallel, CMS ou G1 ?

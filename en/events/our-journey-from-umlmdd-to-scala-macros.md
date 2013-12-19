@@ -8,6 +8,7 @@ speaker: hayssam-saleh
 topic: 
 level: intermediate
 language: fr
+slides: https://drive.google.com/file/d/0B0J_1BFqE2CYUHlJOGdJM3BqX0U/edit?usp=sharing
 ---
 
 Ebiznext, the company I work for has built custom software for the past 
