@@ -9743,35 +9743,35 @@ button.close {
     display: none !important;
   }
 }
-/* line 19, ../../sass/main.scss */
+/* line 19, ../../src/sass/main.scss */
 .navbar .navbar-brand {
   font-weight: 200;
   font-size: 20px;
 }
 
-/* line 25, ../../sass/main.scss */
+/* line 25, ../../src/sass/main.scss */
 .twitter-share-button {
   margin-left: 12px;
 }
 
-/* line 29, ../../sass/main.scss */
+/* line 29, ../../src/sass/main.scss */
 .jumbotron {
   text-align: center;
 }
 
-/* line 33, ../../sass/main.scss */
+/* line 33, ../../src/sass/main.scss */
 .headline h1 {
   padding: 10px;
   font-size: 50px;
   line-height: 50px;
 }
-/* line 38, ../../sass/main.scss */
+/* line 38, ../../src/sass/main.scss */
 .headline h2 {
   font-size: 24px;
   line-height: 36px;
 }
 
-/* line 45, ../../sass/main.scss */
+/* line 45, ../../src/sass/main.scss */
 footer {
   width: auto;
   margin-top: 40px;
@@ -9780,24 +9780,24 @@ footer {
   border-top: 10px solid #000;
   background: #1a1a1a url("/assets/images/pattern-black.jpg");
 }
-/* line 52, ../../sass/main.scss */
+/* line 52, ../../src/sass/main.scss */
 footer .base {
   padding-top: 15px;
   padding-bottom: 8px;
   border-top: 1px solid #292929;
   background: #000;
 }
-/* line 58, ../../sass/main.scss */
+/* line 58, ../../src/sass/main.scss */
 footer p {
   color: #999999;
 }
 
-/* line 63, ../../sass/main.scss */
+/* line 63, ../../src/sass/main.scss */
 h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 }
 
-/* line 66, ../../sass/main.scss */
+/* line 66, ../../src/sass/main.scss */
 h1, h2, h3, h4, h5, em, strong, .call-to-action, .dropcap {
   font-family: "Lato", sans-serif;
 }

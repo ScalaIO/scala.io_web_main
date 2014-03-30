@@ -1,4 +1,5 @@
-name: Your New Jekyll Site
+name: Scala.IO
 markdown: redcarpet
 pygments: true
-exclude: [bower_components, Gemfile, Gruntfile.js, bower.json, package.json, node_modules,sass]
+source: src
+exclude: ['sass']
