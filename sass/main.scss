@@ -1,0 +1,68 @@
+$icon-font-path: "/bower_components/sass-bootstrap/fonts/";
+$fa-font-path: "//netdna.bootstrapcdn.com/font-awesome/4.0.3/fonts";
+
+$jumbotron-bg: black;
+$jumbotron-color: white;
+$navbar-height: 40px;
+$navbar-inverse-bg: #1B1B1B;
+$font-size-h3: 18px;
+$font-family-sans-serif: 'Ubuntu', sans-serif;
+
+@import url(https://fonts.googleapis.com/css?family=Lato:100,300,400,700,100italic,300italic,400italic,700italic);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700);
+@import '../bower_components/font-awesome/scss/font-awesome';
+@import '../bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap';
+// scalaio
+$heading-font-family: 'Lato', sans-serif;
+
+.navbar {
+  .navbar-brand{
+    font-weight: 200;
+    font-size: 20px;
+  }
+}
+
+.twitter-share-button {
+  margin-left: 12px;
+}
+
+.jumbotron{
+  text-align: center;
+}
+.headline {
+  h1 {
+    padding: 10px;
+    font-size: 50px;
+    line-height: 50px;
+  }
+  h2 {
+    font-size: 24px;
+    line-height: 36px;
+  }
+}
+
+
+footer {
+  width: auto;
+  margin-top: 40px;
+  margin-bottom: 0;
+  color: #F2F2F2;
+  border-top: 10px solid #000;
+  background: #1A1A1A url("/assets/images/pattern-black.jpg");
+  .base {
+    padding-top: 15px;
+    padding-bottom: 8px;
+    border-top: 1px solid #292929;
+    background: #000;
+  }
+  p{
+    color: $gray-light;
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+}
+h1, h2, h3, h4, h5, em, strong, .call-to-action, .dropcap{
+  font-family: $heading-font-family
+}

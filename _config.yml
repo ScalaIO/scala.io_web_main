@@ -1,0 +1,4 @@
+name: Your New Jekyll Site
+markdown: redcarpet
+pygments: true
+exclude: [bower_components, Gemfile, Gruntfile.js, bower.json, package.json, node_modules,sass]
