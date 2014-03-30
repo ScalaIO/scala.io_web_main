@@ -1,1 +1,6 @@
 _site
+node_modules
+bower_components
+.package
+.sass-cache
+.tmp
