@@ -4,3 +4,4 @@ bower_components
 .package
 .sass-cache
 .tmp
+.vagrant
