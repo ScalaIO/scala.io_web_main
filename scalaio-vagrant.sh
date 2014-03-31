@@ -10,8 +10,8 @@ cd /home/$USER
 su -l $USER -c 'echo "starting actions as $USER"'
 if [ 0 -eq $? ] ; then
   su -l $USER -c '\curl -sSL https://get.rvm.io | bash -s stable'
-  su -l $USER -c 'echo -e "Host github.com\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config'
-  su -l $USER -c 'git clone https://github.com/ScalaIO/scala.io_web_main.git scalaio'
+  #su -l $USER -c 'echo -e "Host github.com\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config'
+  #su -l $USER -c 'git clone https://github.com/ScalaIO/scala.io_web_main.git scalaio'
   su -l $USER -c 'cd scalaio; git checkout scalaio-2014;cd ..'
   su -l $USER -c 'rvm install `cat scalaio/.rbenv-version`'
   su -l $USER -c 'curl https://raw.github.com/creationix/nvm/v0.4.0/install.sh | sh'
