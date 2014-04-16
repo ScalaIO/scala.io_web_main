@@ -33,6 +33,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
     s.path = PIO_PROVISION
     s.args = PIO_PROVISION_ARGS
   end
+  config.vm.synced_folder ".", "/home/vagrant/scalaio"
   config.vm.network :forwarded_port, guest: 4000, host: 4090
   config.vm.network :forwarded_port, guest: 3000, host: 3090
 end
