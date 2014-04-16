@@ -9772,6 +9772,24 @@ button.close {
 }
 
 /* line 45, ../../src/sass/main.scss */
+.container .main_title {
+  font-size: 100px;
+  line-height: normal;
+  color: black;
+}
+/* line 50, ../../src/sass/main.scss */
+.container .main_heading {
+  font-size: 30px;
+  text-align: center;
+  line-height: normal;
+  color: black;
+}
+/* line 56, ../../src/sass/main.scss */
+.container ul.main_heading {
+  text-align: left;
+}
+
+/* line 60, ../../src/sass/main.scss */
 footer {
   width: auto;
   margin-top: 40px;
@@ -9780,24 +9798,24 @@ footer {
   border-top: 10px solid #000;
   background: #1a1a1a url("/assets/images/pattern-black.jpg");
 }
-/* line 52, ../../src/sass/main.scss */
+/* line 67, ../../src/sass/main.scss */
 footer .base {
   padding-top: 15px;
   padding-bottom: 8px;
   border-top: 1px solid #292929;
   background: #000;
 }
-/* line 58, ../../src/sass/main.scss */
+/* line 73, ../../src/sass/main.scss */
 footer p {
   color: #999999;
 }
 
-/* line 63, ../../src/sass/main.scss */
+/* line 78, ../../src/sass/main.scss */
 h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 }
 
-/* line 66, ../../src/sass/main.scss */
+/* line 81, ../../src/sass/main.scss */
 h1, h2, h3, h4, h5, em, strong, .call-to-action, .dropcap {
   font-family: "Lato", sans-serif;
 }

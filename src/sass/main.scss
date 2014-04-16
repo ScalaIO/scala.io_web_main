@@ -41,7 +41,22 @@ $heading-font-family: 'Lato', sans-serif;
   }
 }
 
-
+.container{
+  .main_title{
+    font-size: 100px;
+    line-height:normal;
+    color: #000
+  }
+  .main_heading{
+    font-size:30px;
+    text-align: center;
+    line-height:normal;
+    color: #000
+  }
+  ul.main_heading{    
+    text-align: left;
+  }
+}
 footer {
   width: auto;
   margin-top: 40px;
