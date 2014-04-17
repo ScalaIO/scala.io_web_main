@@ -60,6 +60,28 @@ module.exports = function(grunt) {
                   stderr: true,
                   failOnError: true
               }
+            },
+            publish:{
+              command: [
+                 "echo 'publish'"
+                ,"git stash save"
+                ,"git checkout publish || git checkout --orphan publish"
+                ,"find . -maxdepth 1 ! -name '.' ! -name '.git*' ! -name 'node_modules' ! -name 'bower_components' ! -name '_site' -exec rm -rf {} +"
+                ,"find _site -maxdepth 1 -exec mv {} . \\;"
+                ,"rmdir _site"
+                ,"git add -A && git commit -m \"Publish\" || true"
+                ,"git push -f git+ssh://git@push.clever-cloud.com/app_92ecb1de-67ea-442c-9178-8eea2eca7690.git publish:master"
+                ,"git checkout scalaio-2014"
+                ,"git clean -fd"
+                //,"npm install"
+                //,"bower install"
+                ,"git stash pop || true"
+              ].join('&&'),
+              options: {
+                  stdout: true,
+                  stderr: true,
+                  failOnError: true
+              }
             }
         },
         compass: {
@@ -128,4 +150,5 @@ module.exports = function(grunt) {
     grunt.registerTask( 'build', [ 'clean', 'compass','concat', 'cssmin', 'shell:jekyllBuild' ] )
     grunt.registerTask( 'deploy', ['clean', 'compass','concat', 'cssmin', 'shell:jekyllBuild' ] )
     grunt.registerTask( 'prepublish', [ 'clean', 'compass','concat', 'cssmin', 'shell:jekyllBuild','shell:publishPre' ] );
+    grunt.registerTask( 'publish', [ 'clean', 'compass','concat', 'cssmin', 'shell:jekyllBuild','shell:publish' ] );
 };
