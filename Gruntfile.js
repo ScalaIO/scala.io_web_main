@@ -12,29 +12,54 @@ module.exports = function(grunt) {
                 options : {
                     import : 2
                 },
-                src : [ 'src/assets/css/all.css' ]
+                src : [ 'assets/css/all.css' ]
             }
         },
         concat : {
             dist : {
                 src : [ '.tmp/css/*.css',
-                        'src/assets/css/libs/*.css',
-                        'src/assets/css/main.css' ],
-                dest : 'src/assets/css/all.css',
+                        'assets/css/libs/*.css',
+                        'assets/css/main.css' ],
+                dest : 'assets/css/all.css',
             }
         },
         cssmin : {
             dist : {
-                src : 'src/assets/css/all.css',
-                dest : 'src/assets/css/all.min.css'
+                src : 'assets/css/all.css',
+                dest : 'assets/css/all.min.css'
             }
         },
         shell : {
             jekyllBuild : {
                 command : 'jekyll build'
             },
+            jekyllPackage : {
+                command : 'jekyll build --destination=.package'
+            },
             jekyllServe : {
                 command : 'jekyll serve'
+            },
+            publishPre:{
+              command: [
+                 "echo 'prepublish'"
+                ,"git stash save"
+                ,"git checkout publish-ppd || git checkout --orphan publish-ppd"
+                ,"find . -maxdepth 1 ! -name '.' ! -name '.git*' ! -name 'node_modules' ! -name 'bower_components' ! -name '_site' -exec rm -rf {} +"
+                ,"find _site -maxdepth 1 -exec mv {} . \\;"
+                ,"rmdir _site"
+                ,"git add -A && git commit -m \"Publish ppd\" || true"
+                ,"git push -f git+ssh://git@push.clever-cloud.com/app_a65547d6-35fd-43fb-9e65-62e876a41c50 publish-ppd:master"
+                ,"git checkout scalaio-2014"
+                ,"git clean -fd"
+                //,"npm install"
+                //,"bower install"
+                ,"git stash pop || true"
+              ].join('&&'),
+              options: {
+                  stdout: true,
+                  stderr: true,
+                  failOnError: true
+              }
             }
         },
         compass: {
@@ -42,19 +67,19 @@ module.exports = function(grunt) {
                 sassDir: 'src/sass/',
                 cssDir: '.tmp/css',
                 generatedImagesDir: '.tmp/images/generated',
-                imagesDir: 'src/assets/images/',
-                javascriptsDir: 'src/assets/scripts/',
-                fontsDir: 'src/assets/fonts',
+                imagesDir: 'assets/images/',
+                javascriptsDir: 'assets/scripts/',
+                fontsDir: 'assets/fonts',
                 importPath: 'bower_components',
                 httpImagesPath: '/assets/images',
                 httpGeneratedImagesPath: '/assets/generated',
-                httpFontsPath: '/assets/fonts',
+                httpFontsPath: '/fonts',
                 relativeAssets: false,
                 assetCacheBuster: false
             },
             dist: {
                 options: {
-                    generatedImagesDir: 'src/assets'
+                    generatedImagesDir: '/assets'
                 }
             },
             server: {
@@ -64,13 +89,13 @@ module.exports = function(grunt) {
             }
         },
         watch : {
-            files : [ 'src/_layouts/*.html',
-                      'src/_posts/*.markdown',
-                      'src/sass/*.scss',
-                      'src/assets/images/*',
+            files : [ '_layouts/*.html',
+                      '_posts/*.markdown',
+                      'sass/*.scss',
+                      'assets/images/*',
                       '_config.yml',
-                      'src/*.html',
-                      'src/*.md' ],
+                      'index.html',
+                      '404.html' ],
             tasks : [ 'compass',
                       'concat',
                       'cssmin',
@@ -102,4 +127,5 @@ module.exports = function(grunt) {
     grunt.registerTask( 'test', [ 'csslint' ] );
     grunt.registerTask( 'build', [ 'clean', 'compass','concat', 'cssmin', 'shell:jekyllBuild' ] )
     grunt.registerTask( 'deploy', ['clean', 'compass','concat', 'cssmin', 'shell:jekyllBuild' ] )
+    grunt.registerTask( 'prepublish', [ 'clean', 'compass','concat', 'cssmin', 'shell:jekyllBuild','shell:publishPre' ] );
 };

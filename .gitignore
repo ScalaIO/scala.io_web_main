@@ -5,3 +5,4 @@ bower_components
 .sass-cache
 .tmp
 .vagrant
+assets
