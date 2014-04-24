@@ -1,0 +1,434 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hacksw/handcal//NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:/events/Menfin-scalac-ou-glandes-tu-encore.html
+DTSTAMP:20131025T091500Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 2
+DTSTART:20131025T091500Z+0000
+DTEND:20131025T100000Z+0000
+SUMMARY:M’enfin Scalac, où glandes-tu encore ?
+DESCRIPTION:more info: http://scala.io/events/Menfin-scalac-ou-glandes-tu-encore.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/akka-in-practice_design_actor_based_applications.html
+DTSTAMP:20131025T113000Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Workshop
+DTSTART:20131025T113000Z+0000
+DTEND:20131025T140000Z+0000
+SUMMARY:Akka in Practice: Designing Actor-based Applications
+DESCRIPTION:more info: http://scala.io/events/akka-in-practice_design_actor_based_applications.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/big-data-plus-scala.html
+DTSTAMP:20131025T120000Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 2
+DTSTART:20131025T120000Z+0000
+DTEND:20131025T130000Z+0000
+SUMMARY:Big Data + Scala
+DESCRIPTION:more info: http://scala.io/events/big-data-plus-scala.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/combining-scalaz-and-shapeless-for-great-good.html
+DTSTAMP:20131025T120000Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 1
+DTSTART:20131025T120000Z+0000
+DTEND:20131025T130000Z+0000
+SUMMARY:Combining Scalaz and Shapeless for Great Good
+DESCRIPTION:more info: http://scala.io/events/combining-scalaz-and-shapeless-for-great-good.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/database-access-with-slick.html
+DTSTAMP:20131025T130000Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 1
+DTSTART:20131025T130000Z+0000
+DTEND:20131025T140000Z+0000
+SUMMARY:Database Access with Slick
+DESCRIPTION:more info: http://scala.io/events/database-access-with-slick.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/de-maven-a-sbt.html
+DTSTAMP:20131025T081500Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 3
+DTSTART:20131025T081500Z+0000
+DTEND:20131025T091500Z+0000
+SUMMARY:De Maven à SBT
+DESCRIPTION:more info: http://scala.io/events/de-maven-a-sbt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/effective-actors.html
+DTSTAMP:20131024T141500Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 3
+DTSTART:20131024T141500Z+0000
+DTEND:20131024T151500Z+0000
+SUMMARY:Effective Actors
+DESCRIPTION:more info: http://scala.io/events/effective-actors.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/exploring-the-web-of-Data-with-scala.html
+DTSTAMP:20131024T141500Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 1
+DTSTART:20131024T141500Z+0000
+DTEND:20131024T151500Z+0000
+SUMMARY:Exploring the Web of Data with Scala
+DESCRIPTION:more info: http://scala.io/events/exploring-the-web-of-Data-with-scala.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/extreme-speedups-and-GPGPU-a-tale-of-two-practical.html
+DTSTAMP:20131024T121500Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 1
+DTSTART:20131024T121500Z+0000
+DTEND:20131024T130000Z+0000
+SUMMARY:Extreme speedups and GPGPU: a tale of two practical uses of reified trees.
+DESCRIPTION:more info: http://scala.io/events/extreme-speedups-and-GPGPU-a-tale-of-two-practical.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/functional-groovy.html
+DTSTAMP:20131025T091500Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 3
+DTSTART:20131025T091500Z+0000
+DTEND:20131025T101500Z+0000
+SUMMARY:Functional Groovy
+DESCRIPTION:more info: http://scala.io/events/functional-groovy.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/gatling-2-whats-up-doc.html
+DTSTAMP:20131025T111500Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 1
+DTSTART:20131025T111500Z+0000
+DTEND:20131025T120000Z+0000
+SUMMARY:Gatling 2, What's Up Doc?
+DESCRIPTION:more info: http://scala.io/events/gatling-2-whats-up-doc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/hands-on-spray-rest-on-akka.html
+DTSTAMP:20131025T081500Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Workshop
+DTSTART:20131025T081500Z+0000
+DTEND:20131025T104500Z+0000
+SUMMARY:Hand's on Spray: REST on Akka
+DESCRIPTION:more info: http://scala.io/events/hands-on-spray-rest-on-akka.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/i-want-to-believe-not-sure-yet.html
+DTSTAMP:20131024T113000Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 1
+DTSTART:20131024T113000Z+0000
+DTEND:20131024T121500Z+0000
+SUMMARY:I Want to Believe (not sure yet)
+DESCRIPTION:more info: http://scala.io/events/i-want-to-believe-not-sure-yet.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/implicitly-explicit-test-code-with-scalatest.html
+DTSTAMP:20131025T120000Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 3
+DTSTART:20131025T120000Z+0000
+DTEND:20131025T130000Z+0000
+SUMMARY:Implicitly explicit test code with ScalaTest
+DESCRIPTION:more info: http://scala.io/events/implicitly-explicit-test-code-with-scalatest.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/into-ennemy-territory-a-summary-of-what-haskell-is.html
+DTSTAMP:20131024T141500Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 2
+DTSTART:20131024T141500Z+0000
+DTEND:20131024T151500Z+0000
+SUMMARY:Into Enemy Territory: A Summary Of What Haskell Is And What Irreparable Sequelae It Did To My Brain
+DESCRIPTION:more info: http://scala.io/events/into-ennemy-territory-a-summary-of-what-haskell-is.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/launch-conference.html
+DTSTAMP:20131024T070000Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 1
+DTSTART:20131024T070000Z+0000
+DTEND:20131024T080000Z+0000
+SUMMARY:Failure: The Good Parts
+DESCRIPTION:more info: http://scala.io/events/launch-conference.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/les-iteratees-ce-n-est-pas-seulement-pour-l-IO.html
+DTSTAMP:20131024T151500Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 3
+DTSTART:20131024T151500Z+0000
+DTEND:20131024T161500Z+0000
+SUMMARY:Les Iteratees, ce n'est pas seulement pour l'I/O
+DESCRIPTION:more info: http://scala.io/events/les-iteratees-ce-n-est-pas-seulement-pour-l-IO.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/let-the-types-set-you-free.html
+DTSTAMP:20131025T091500Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 1
+DTSTART:20131025T091500Z+0000
+DTEND:20131025T100000Z+0000
+SUMMARY:Let The Types Set You Free
+DESCRIPTION:more info: http://scala.io/events/let-the-types-set-you-free.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/liberez-la-puissance-de-Couchbase-depuis-votre-appli.html
+DTSTAMP:20131024T121500Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 2
+DTSTART:20131024T121500Z+0000
+DTEND:20131024T130000Z+0000
+SUMMARY:Libérez la puissance de Couchbase depuis votre application Play 2
+DESCRIPTION:more info: http://scala.io/events/liberez-la-puissance-de-Couchbase-depuis-votre-appli.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/loadtesting-one-of-the-biggest-spikes-in-e-commerc.html
+DTSTAMP:20131025T141500Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 1
+DTSTART:20131025T141500Z+0000
+DTEND:20131025T151500Z+0000
+SUMMARY:How to survive one of the biggest spikes in e‐commerce ‐ The story of the Gilt Loadtesting Platform
+DESCRIPTION:more info: http://scala.io/events/loadtesting-one-of-the-biggest-spikes-in-e-commerc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/our-journey-from-umlmdd-to-scala-macros.html
+DTSTAMP:20131024T151500Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 2
+DTSTART:20131024T151500Z+0000
+DTEND:20131024T161500Z+0000
+SUMMARY:Our journey from UML/MDD to Scala macros
+DESCRIPTION:more info: http://scala.io/events/our-journey-from-umlmdd-to-scala-macros.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/patterns-de-developpement-pour-une-application-web.html
+DTSTAMP:20131025T141500Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 2
+DTSTART:20131025T141500Z+0000
+DTEND:20131025T151500Z+0000
+SUMMARY:Patterns de développement pour une application Web réactive et concurrente
+DESCRIPTION:more info: http://scala.io/events/patterns-de-developpement-pour-une-application-web.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/pimp-my-gc-du-scala-supersonique.html
+DTSTAMP:20131024T130000Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 2
+DTSTART:20131024T130000Z+0000
+DTEND:20131024T140000Z+0000
+SUMMARY:Pimp my GC - du Scala supersonique
+DESCRIPTION:more info: http://scala.io/events/pimp-my-gc-du-scala-supersonique.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/playframework-scala.html
+DTSTAMP:20131025T070000Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 1
+DTSTART:20131025T070000Z+0000
+DTEND:20131025T080000Z+0000
+SUMMARY:Playframework Scala: democratising functional programming for web developers
+DESCRIPTION:more info: http://scala.io/events/playframework-scala.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/playing-with-the-state-monad.html
+DTSTAMP:20131025T111500Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 2
+DTSTART:20131025T111500Z+0000
+DTEND:20131025T120000Z+0000
+SUMMARY:Playing with the State Monad
+DESCRIPTION:more info: http://scala.io/events/playing-with-the-state-monad.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/purely-functional-io.html
+DTSTAMP:20131025T081500Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 1
+DTSTART:20131025T081500Z+0000
+DTEND:20131025T091500Z+0000
+SUMMARY:Purely Functional I/O
+DESCRIPTION:more info: http://scala.io/events/purely-functional-io.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/rapture-io-a-better-io-library-for-scala.html
+DTSTAMP:20131024T130000Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 1
+DTSTART:20131024T130000Z+0000
+DTEND:20131024T140000Z+0000
+SUMMARY:Rapture I/O: Better I/O for Scala
+DESCRIPTION:more info: http://scala.io/events/rapture-io-a-better-io-library-for-scala.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/reactive-database-interactions-reactivemongo.html
+DTSTAMP:20131024T130000Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 3
+DTSTART:20131024T130000Z+0000
+DTEND:20131024T140000Z+0000
+SUMMARY:Reactive Database Interactions – ReactiveMongo
+DESCRIPTION:more info: http://scala.io/events/reactive-database-interactions-reactivemongo.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/real-world-akka-recipe.html
+DTSTAMP:20131024T081500Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 1
+DTSTART:20131024T081500Z+0000
+DTEND:20131024T091500Z+0000
+SUMMARY:Real World Akka Recipes
+DESCRIPTION:more info: http://scala.io/events/real-world-akka-recipe.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/rediscala.html
+DTSTAMP:20131024T121500Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 3
+DTSTART:20131024T121500Z+0000
+DTEND:20131024T130000Z+0000
+SUMMARY:Rediscala
+DESCRIPTION:more info: http://scala.io/events/rediscala.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/scala-design-patterns.html
+DTSTAMP:20131024T151500Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 1
+DTSTART:20131024T151500Z+0000
+DTEND:20131024T161500Z+0000
+SUMMARY:Scala design patterns
+DESCRIPTION:more info: http://scala.io/events/scala-design-patterns.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/scalaz-for-the-rest-of-us.html
+DTSTAMP:20131024T091500Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 2
+DTSTART:20131024T091500Z+0000
+DTEND:20131024T101500Z+0000
+SUMMARY:Scalaz 'For the Rest of Us'
+DESCRIPTION:more info: http://scala.io/events/scalaz-for-the-rest-of-us.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/scraping-the-web-with-clojure.html
+DTSTAMP:20131024T113000Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 2
+DTSTART:20131024T113000Z+0000
+DTEND:20131024T121500Z+0000
+SUMMARY:Scraping the web with clojure
+DESCRIPTION:more info: http://scala.io/events/scraping-the-web-with-clojure.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/shapeless-fancy-types-for-generic-programming.html
+DTSTAMP:20131024T113000Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Workshop
+DTSTART:20131024T113000Z+0000
+DTEND:20131024T140000Z+0000
+SUMMARY:Shapeless: fancy types for generic programming
+DESCRIPTION:more info: http://scala.io/events/shapeless-fancy-types-for-generic-programming.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/spray-rest-on-akka.html
+DTSTAMP:20131024T091500Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 1
+DTSTART:20131024T091500Z+0000
+DTEND:20131024T100000Z+0000
+SUMMARY:Spray: REST on Akka
+DESCRIPTION:more info: http://scala.io/events/spray-rest-on-akka.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/stream-processing-avec-scalaz-stream.html
+DTSTAMP:20131025T141500Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 3
+DTSTART:20131025T141500Z+0000
+DTEND:20131025T151500Z+0000
+SUMMARY:Stream Processing avec Scalaz-Stream
+DESCRIPTION:more info: http://scala.io/events/stream-processing-avec-scalaz-stream.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/typesafing-your-blobs-with-scala.html
+DTSTAMP:20131025T130000Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 3
+DTSTART:20131025T130000Z+0000
+DTEND:20131025T140000Z+0000
+SUMMARY:Typesafing your blobs with Scala
+DESCRIPTION:more info: http://scala.io/events/typesafing-your-blobs-with-scala.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/un-client-irc-avec-akka-io.html
+DTSTAMP:20131025T081500Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 2
+DTSTART:20131025T081500Z+0000
+DTEND:20131025T091500Z+0000
+SUMMARY:Un client IRC avec Akka IO
+DESCRIPTION:more info: http://scala.io/events/un-client-irc-avec-akka-io.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/voyager-avec-play-scala-et-Akka.html
+DTSTAMP:20131025T130000Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 2
+DTSTART:20131025T130000Z+0000
+DTEND:20131025T140000Z+0000
+SUMMARY:Voyager avec Play / Scala et Akka
+DESCRIPTION:more info: http://scala.io/events/voyager-avec-play-scala-et-Akka.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/whats-new-in-shapeless.html
+DTSTAMP:20131024T081500Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 2
+DTSTART:20131024T081500Z+0000
+DTEND:20131024T091500Z+0000
+SUMMARY:What's new in shapeless 2.0
+DESCRIPTION:more info: http://scala.io/events/whats-new-in-shapeless.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/who-wants-to-bet-qui-veut-parier.html
+DTSTAMP:20131024T081500Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Workshop
+DTSTART:20131024T081500Z+0000
+DTEND:20131024T104500Z+0000
+SUMMARY:Who wants to bet?/Qui veut parier ?
+DESCRIPTION:more info: http://scala.io/events/who-wants-to-bet-qui-veut-parier.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/write-you-a-lisp-in-scala.html
+DTSTAMP:20131024T091500Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 3
+DTSTART:20131024T091500Z+0000
+DTEND:20131024T101500Z+0000
+SUMMARY:Write you a Lisp in Scala
+DESCRIPTION:more info: http://scala.io/events/write-you-a-lisp-in-scala.html
+END:VEVENT
+BEGIN:VEVENT
+UID:/events/zeromq-et-scala.html
+DTSTAMP:20131024T081500Z+0000
+ORGANIZER;CN=scala.io:MAILTO:contact@scala.io
+LOCATION:Room 3
+DTSTART:20131024T081500Z+0000
+DTEND:20131024T091500Z+0000
+SUMMARY:ZeroMQ et Scala: évènements par-delà les frontières de la JVM
+DESCRIPTION:more info: http://scala.io/events/zeromq-et-scala.html
+END:VEVENT
+END:VCALENDAR

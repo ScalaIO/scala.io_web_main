@@ -1,0 +1,431 @@
+[{
+    "title": "M’enfin Scalac, où glandes-tu encore ?",
+    "start": "2013-10-25T11:15:00+0000",
+    "end": "2013-10-25T12:00:00+0000",
+    "url": "http://scala.io/events/Menfin-scalac-ou-glandes-tu-encore.html",
+    "location": "Room 2",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/Menfin-scalac-ou-glandes-tu-encore.html"
+    
+}
+, {
+    "title": "Akka in Practice: Designing Actor-based Applications",
+    "start": "2013-10-25T13:30:00+0000",
+    "end": "2013-10-25T16:00:00+0000",
+    "url": "http://scala.io/events/akka-in-practice_design_actor_based_applications.html",
+    "location": "Workshop",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/akka-in-practice_design_actor_based_applications.html"
+    
+}
+, {
+    "title": "Big Data + Scala",
+    "start": "2013-10-25T14:00:00+0000",
+    "end": "2013-10-25T15:00:00+0000",
+    "url": "http://scala.io/events/big-data-plus-scala.html",
+    "location": "Room 2",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/big-data-plus-scala.html"
+    
+}
+, {
+    "title": "Combining Scalaz and Shapeless for Great Good",
+    "start": "2013-10-25T14:00:00+0000",
+    "end": "2013-10-25T15:00:00+0000",
+    "url": "http://scala.io/events/combining-scalaz-and-shapeless-for-great-good.html",
+    "location": "Room 1",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/combining-scalaz-and-shapeless-for-great-good.html"
+    
+}
+, {
+    "title": "Database Access with Slick",
+    "start": "2013-10-25T15:00:00+0000",
+    "end": "2013-10-25T16:00:00+0000",
+    "url": "http://scala.io/events/database-access-with-slick.html",
+    "location": "Room 1",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/database-access-with-slick.html"
+    
+}
+, {
+    "title": "De Maven à SBT",
+    "start": "2013-10-25T10:15:00+0000",
+    "end": "2013-10-25T11:15:00+0000",
+    "url": "http://scala.io/events/de-maven-a-sbt.html",
+    "location": "Room 3",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/de-maven-a-sbt.html"
+    
+}
+, {
+    "title": "Effective Actors",
+    "start": "2013-10-24T16:15:00+0000",
+    "end": "2013-10-24T17:15:00+0000",
+    "url": "http://scala.io/events/effective-actors.html",
+    "location": "Room 3",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/effective-actors.html"
+    
+}
+, {
+    "title": "Exploring the Web of Data with Scala",
+    "start": "2013-10-24T16:15:00+0000",
+    "end": "2013-10-24T17:15:00+0000",
+    "url": "http://scala.io/events/exploring-the-web-of-Data-with-scala.html",
+    "location": "Room 1",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/exploring-the-web-of-Data-with-scala.html"
+    
+}
+, {
+    "title": "Extreme speedups and GPGPU: a tale of two practical uses of reified trees.",
+    "start": "2013-10-24T14:15:00+0000",
+    "end": "2013-10-24T15:00:00+0000",
+    "url": "http://scala.io/events/extreme-speedups-and-GPGPU-a-tale-of-two-practical.html",
+    "location": "Room 1",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/extreme-speedups-and-GPGPU-a-tale-of-two-practical.html"
+    
+}
+, {
+    "title": "Functional Groovy",
+    "start": "2013-10-25T11:15:00+0000",
+    "end": "2013-10-25T12:15:00+0000",
+    "url": "http://scala.io/events/functional-groovy.html",
+    "location": "Room 3",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/functional-groovy.html"
+    
+}
+, {
+    "title": "Gatling 2, What's Up Doc?",
+    "start": "2013-10-25T13:15:00+0000",
+    "end": "2013-10-25T14:00:00+0000",
+    "url": "http://scala.io/events/gatling-2-whats-up-doc.html",
+    "location": "Room 1",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/gatling-2-whats-up-doc.html"
+    
+}
+, {
+    "title": "Hand's on Spray: REST on Akka",
+    "start": "2013-10-25T10:15:00+0000",
+    "end": "2013-10-25T12:45:00+0000",
+    "url": "http://scala.io/events/hands-on-spray-rest-on-akka.html",
+    "location": "Workshop",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/hands-on-spray-rest-on-akka.html"
+    
+}
+, {
+    "title": "I Want to Believe (not sure yet)",
+    "start": "2013-10-24T13:30:00+0000",
+    "end": "2013-10-24T14:15:00+0000",
+    "url": "http://scala.io/events/i-want-to-believe-not-sure-yet.html",
+    "location": "Room 1",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/i-want-to-believe-not-sure-yet.html"
+    
+}
+, {
+    "title": "Implicitly explicit test code with ScalaTest",
+    "start": "2013-10-25T14:00:00+0000",
+    "end": "2013-10-25T15:00:00+0000",
+    "url": "http://scala.io/events/implicitly-explicit-test-code-with-scalatest.html",
+    "location": "Room 3",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/implicitly-explicit-test-code-with-scalatest.html"
+    
+}
+, {
+    "title": "Into Enemy Territory: A Summary Of What Haskell Is And What Irreparable Sequelae It Did To My Brain",
+    "start": "2013-10-24T16:15:00+0000",
+    "end": "2013-10-24T17:15:00+0000",
+    "url": "http://scala.io/events/into-ennemy-territory-a-summary-of-what-haskell-is.html",
+    "location": "Room 2",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/into-ennemy-territory-a-summary-of-what-haskell-is.html"
+    
+}
+, {
+    "title": "Failure: The Good Parts",
+    "start": "2013-10-24T09:00:00+0000",
+    "end": "2013-10-24T10:00:00+0000",
+    "url": "http://scala.io/events/launch-conference.html",
+    "location": "Room 1",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/launch-conference.html"
+    
+}
+, {
+    "title": "Les Iteratees, ce n'est pas seulement pour l'I/O",
+    "start": "2013-10-24T17:15:00+0000",
+    "end": "2013-10-24T18:15:00+0000",
+    "url": "http://scala.io/events/les-iteratees-ce-n-est-pas-seulement-pour-l-IO.html",
+    "location": "Room 3",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/les-iteratees-ce-n-est-pas-seulement-pour-l-IO.html"
+    
+}
+, {
+    "title": "Let The Types Set You Free",
+    "start": "2013-10-25T11:15:00+0000",
+    "end": "2013-10-25T12:00:00+0000",
+    "url": "http://scala.io/events/let-the-types-set-you-free.html",
+    "location": "Room 1",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/let-the-types-set-you-free.html"
+    
+}
+, {
+    "title": "Libérez la puissance de Couchbase depuis votre application Play 2",
+    "start": "2013-10-24T14:15:00+0000",
+    "end": "2013-10-24T15:00:00+0000",
+    "url": "http://scala.io/events/liberez-la-puissance-de-Couchbase-depuis-votre-appli.html",
+    "location": "Room 2",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/liberez-la-puissance-de-Couchbase-depuis-votre-appli.html"
+    
+}
+, {
+    "title": "How to survive one of the biggest spikes in e‐commerce ‐ The story of the Gilt Loadtesting Platform",
+    "start": "2013-10-25T16:15:00+0000",
+    "end": "2013-10-25T17:15:00+0000",
+    "url": "http://scala.io/events/loadtesting-one-of-the-biggest-spikes-in-e-commerc.html",
+    "location": "Room 1",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/loadtesting-one-of-the-biggest-spikes-in-e-commerc.html"
+    
+}
+, {
+    "title": "Our journey from UML/MDD to Scala macros",
+    "start": "2013-10-24T17:15:00+0000",
+    "end": "2013-10-24T18:15:00+0000",
+    "url": "http://scala.io/events/our-journey-from-umlmdd-to-scala-macros.html",
+    "location": "Room 2",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/our-journey-from-umlmdd-to-scala-macros.html"
+    
+}
+, {
+    "title": "Patterns de développement pour une application Web réactive et concurrente",
+    "start": "2013-10-25T16:15:00+0000",
+    "end": "2013-10-25T17:15:00+0000",
+    "url": "http://scala.io/events/patterns-de-developpement-pour-une-application-web.html",
+    "location": "Room 2",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/patterns-de-developpement-pour-une-application-web.html"
+    
+}
+, {
+    "title": "Pimp my GC - du Scala supersonique",
+    "start": "2013-10-24T15:00:00+0000",
+    "end": "2013-10-24T16:00:00+0000",
+    "url": "http://scala.io/events/pimp-my-gc-du-scala-supersonique.html",
+    "location": "Room 2",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/pimp-my-gc-du-scala-supersonique.html"
+    
+}
+, {
+    "title": "Playframework Scala: democratising functional programming for web developers",
+    "start": "2013-10-25T09:00:00+0000",
+    "end": "2013-10-25T10:00:00+0000",
+    "url": "http://scala.io/events/playframework-scala.html",
+    "location": "Room 1",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/playframework-scala.html"
+    
+}
+, {
+    "title": "Playing with the State Monad",
+    "start": "2013-10-25T13:15:00+0000",
+    "end": "2013-10-25T14:00:00+0000",
+    "url": "http://scala.io/events/playing-with-the-state-monad.html",
+    "location": "Room 2",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/playing-with-the-state-monad.html"
+    
+}
+, {
+    "title": "Purely Functional I/O",
+    "start": "2013-10-25T10:15:00+0000",
+    "end": "2013-10-25T11:15:00+0000",
+    "url": "http://scala.io/events/purely-functional-io.html",
+    "location": "Room 1",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/purely-functional-io.html"
+    
+}
+, {
+    "title": "Rapture I/O: Better I/O for Scala",
+    "start": "2013-10-24T15:00:00+0000",
+    "end": "2013-10-24T16:00:00+0000",
+    "url": "http://scala.io/events/rapture-io-a-better-io-library-for-scala.html",
+    "location": "Room 1",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/rapture-io-a-better-io-library-for-scala.html"
+    
+}
+, {
+    "title": "Reactive Database Interactions – ReactiveMongo",
+    "start": "2013-10-24T15:00:00+0000",
+    "end": "2013-10-24T16:00:00+0000",
+    "url": "http://scala.io/events/reactive-database-interactions-reactivemongo.html",
+    "location": "Room 3",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/reactive-database-interactions-reactivemongo.html"
+    
+}
+, {
+    "title": "Real World Akka Recipes",
+    "start": "2013-10-24T10:15:00+0000",
+    "end": "2013-10-24T11:15:00+0000",
+    "url": "http://scala.io/events/real-world-akka-recipe.html",
+    "location": "Room 1",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/real-world-akka-recipe.html"
+    
+}
+, {
+    "title": "Rediscala",
+    "start": "2013-10-24T14:15:00+0000",
+    "end": "2013-10-24T15:00:00+0000",
+    "url": "http://scala.io/events/rediscala.html",
+    "location": "Room 3",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/rediscala.html"
+    
+}
+, {
+    "title": "Scala design patterns",
+    "start": "2013-10-24T17:15:00+0000",
+    "end": "2013-10-24T18:15:00+0000",
+    "url": "http://scala.io/events/scala-design-patterns.html",
+    "location": "Room 1",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/scala-design-patterns.html"
+    
+}
+, {
+    "title": "Scalaz 'For the Rest of Us'",
+    "start": "2013-10-24T11:15:00+0000",
+    "end": "2013-10-24T12:15:00+0000",
+    "url": "http://scala.io/events/scalaz-for-the-rest-of-us.html",
+    "location": "Room 2",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/scalaz-for-the-rest-of-us.html"
+    
+}
+, {
+    "title": "Scraping the web with clojure",
+    "start": "2013-10-24T13:30:00+0000",
+    "end": "2013-10-24T14:15:00+0000",
+    "url": "http://scala.io/events/scraping-the-web-with-clojure.html",
+    "location": "Room 2",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/scraping-the-web-with-clojure.html"
+    
+}
+, {
+    "title": "Shapeless: fancy types for generic programming",
+    "start": "2013-10-24T13:30:00+0000",
+    "end": "2013-10-24T16:00:00+0000",
+    "url": "http://scala.io/events/shapeless-fancy-types-for-generic-programming.html",
+    "location": "Workshop",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/shapeless-fancy-types-for-generic-programming.html"
+    
+}
+, {
+    "title": "Spray: REST on Akka",
+    "start": "2013-10-24T11:15:00+0000",
+    "end": "2013-10-24T12:00:00+0000",
+    "url": "http://scala.io/events/spray-rest-on-akka.html",
+    "location": "Room 1",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/spray-rest-on-akka.html"
+    
+}
+, {
+    "title": "Stream Processing avec Scalaz-Stream",
+    "start": "2013-10-25T16:15:00+0000",
+    "end": "2013-10-25T17:15:00+0000",
+    "url": "http://scala.io/events/stream-processing-avec-scalaz-stream.html",
+    "location": "Room 3",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/stream-processing-avec-scalaz-stream.html"
+    
+}
+, {
+    "title": "Typesafing your blobs with Scala",
+    "start": "2013-10-25T15:00:00+0000",
+    "end": "2013-10-25T16:00:00+0000",
+    "url": "http://scala.io/events/typesafing-your-blobs-with-scala.html",
+    "location": "Room 3",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/typesafing-your-blobs-with-scala.html"
+    
+}
+, {
+    "title": "Un client IRC avec Akka IO",
+    "start": "2013-10-25T10:15:00+0000",
+    "end": "2013-10-25T11:15:00+0000",
+    "url": "http://scala.io/events/un-client-irc-avec-akka-io.html",
+    "location": "Room 2",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/un-client-irc-avec-akka-io.html"
+    
+}
+, {
+    "title": "Voyager avec Play / Scala et Akka",
+    "start": "2013-10-25T15:00:00+0000",
+    "end": "2013-10-25T16:00:00+0000",
+    "url": "http://scala.io/events/voyager-avec-play-scala-et-Akka.html",
+    "location": "Room 2",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/voyager-avec-play-scala-et-Akka.html"
+    
+}
+, {
+    "title": "What's new in shapeless 2.0",
+    "start": "2013-10-24T10:15:00+0000",
+    "end": "2013-10-24T11:15:00+0000",
+    "url": "http://scala.io/events/whats-new-in-shapeless.html",
+    "location": "Room 2",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/whats-new-in-shapeless.html"
+    
+}
+, {
+    "title": "Who wants to bet?/Qui veut parier ?",
+    "start": "2013-10-24T10:15:00+0000",
+    "end": "2013-10-24T12:45:00+0000",
+    "url": "http://scala.io/events/who-wants-to-bet-qui-veut-parier.html",
+    "location": "Workshop",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/who-wants-to-bet-qui-veut-parier.html"
+    
+}
+, {
+    "title": "Write you a Lisp in Scala",
+    "start": "2013-10-24T11:15:00+0000",
+    "end": "2013-10-24T12:15:00+0000",
+    "url": "http://scala.io/events/write-you-a-lisp-in-scala.html",
+    "location": "Room 3",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/write-you-a-lisp-in-scala.html"
+    
+}
+, {
+    "title": "ZeroMQ et Scala: évènements par-delà les frontières de la JVM",
+    "start": "2013-10-24T10:15:00+0000",
+    "end": "2013-10-24T11:15:00+0000",
+    "url": "http://scala.io/events/zeromq-et-scala.html",
+    "location": "Room 3",
+    "allDay":false,
+    "description": "more info: http://scala.io/events/zeromq-et-scala.html"
+    
+}
+]
