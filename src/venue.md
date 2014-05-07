@@ -30,5 +30,9 @@ Last year was sci-fi themed around The Hitchikers Guide to the Galaxy and the ma
  <li> <span class="RERC">RER B, D, E</span> - Gare du Nord/Magenta
  </ul>
  <a href="http://www.ratp.fr/itineraires/en/ratp/recherche-avancee">More routes ...</a>
+
+ <h2><em>Hotels</em></h2>
+<a href="http://www.tapisrouge.fr/images/informations/Liste%20hotels_Tapis%20Rouge.pdf">Hotels</a> close to Tapis Rouge.
+ 
 </div>
 </div>
