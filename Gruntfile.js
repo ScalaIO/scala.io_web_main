@@ -110,24 +110,46 @@ module.exports = function(grunt) {
                 }
             }
         },
+        express: {
+          all: {
+            options: {
+              port: 4000,
+              hostname: "0.0.0.0",
+              bases: ['_site/'],
+              spawn: false
+            }
+          }
+        },
+        jekyll: {                             // Task
+          options: {                          // Universal options
+            bundleExec: false,
+            src : 'src/',
+            dest: '_site/',
+            config: './_config.yml'
+          },
+          build:{
+            options:{
+            }
+          }
+        },
         watch : {
-            files : [ '_layouts/*.html',
-                      '_posts/*.markdown',
-                      'sass/*.scss',
-                      'assets/images/*',
-                      '_config.yml',
-                      'index.html',
-                      '404.html' ],
+          all: {
+            files : [ '!_site/',
+                        'src/**/*.md',
+                        'src/**/*.html'
+                      ],
             tasks : [ 'compass',
                       'concat',
                       'cssmin',
-                      'shell:jekyllServe' ],
+                      'shell:jekyllBuild'
+                      ],
             options : {
                 spawn : false,
                 interrupt : true,
                 atBegin : true,
                 livereload : true
             }
+          }
         },
         clean: {
             dist: {
@@ -146,6 +168,13 @@ module.exports = function(grunt) {
         },
     });
     // register custom grunt tasks
+    grunt.registerTask('server', [
+      'express',
+      'watch',
+      ,
+
+    ]);
+
     grunt.registerTask( 'test', [ 'csslint' ] );
     grunt.registerTask( 'build', [ 'clean', 'compass','concat', 'cssmin', 'shell:jekyllBuild' ] )
     grunt.registerTask( 'deploy', ['clean', 'compass','concat', 'cssmin', 'shell:jekyllBuild' ] )

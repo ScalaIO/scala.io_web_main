@@ -35,5 +35,5 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   end
   config.vm.synced_folder ".", "/home/vagrant/scalaio"
   config.vm.network :forwarded_port, guest: 4000, host: 4090
-  config.vm.network :forwarded_port, guest: 3000, host: 3090
+  config.vm.network :forwarded_port, guest: 35729, host: 35729
 end
