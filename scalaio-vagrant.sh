@@ -14,7 +14,7 @@ if [ 0 -eq $? ] ; then
   #su -l $USER -c 'git clone https://github.com/ScalaIO/scala.io_web_main.git scalaio'
   su -l $USER -c 'cd scalaio; git checkout scalaio-2014;cd ..'
   su -l $USER -c 'rvm install `cat scalaio/.rbenv-version`'
-  su -l $USER -c 'curl https://raw.github.com/creationix/nvm/v0.4.0/install.sh | sh'
+  su -l $USER -c '\curl https://raw.githubusercontent.com/creationix/nvm/v0.6.1/install.sh | sh'
   su -l $USER -c 'nvm install 0.10'
   su -l $USER -c 'nvm use 0.10'
   su -l $USER -c 'echo "nvm use 0.10" >> ~/.bash_profile'
