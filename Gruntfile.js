@@ -12,26 +12,26 @@ module.exports = function(grunt) {
                 options : {
                     import : 2
                 },
-                src : [ 'assets/css/all.css' ]
+                src : [ 'src/assets/css/all.css' ]
             }
         },
         concat : {
             dist : {
                 src : [ '.tmp/css/*.css',
-                        'assets/css/libs/*.css',
-                        'assets/css/main.css' ],
-                dest : 'assets/css/all.css',
+                        'src/assets/css/libs/*.css',
+                        'src/assets/css/main.css' ],
+                dest : 'src/assets/css/all.css',
             }
         },
         cssmin : {
             dist : {
-                src : 'assets/css/all.css',
-                dest : 'assets/css/all.min.css'
+                src : 'src/assets/css/all.css',
+                dest : 'src/assets/css/all.min.css'
             }
         },
         shell : {
             jekyllBuild : {
-                command : 'jekyll build'
+                command : 'jekyll build -V'
             },
             jekyllPackage : {
                 command : 'jekyll build --destination=.package'
@@ -89,9 +89,9 @@ module.exports = function(grunt) {
                 sassDir: 'src/sass/',
                 cssDir: '.tmp/css',
                 generatedImagesDir: '.tmp/images/generated',
-                imagesDir: 'assets/images/',
-                javascriptsDir: 'assets/scripts/',
-                fontsDir: 'assets/fonts',
+                imagesDir: 'src/assets/images/',
+                javascriptsDir: 'src/assets/scripts/',
+                fontsDir: 'src/assets/fonts',
                 importPath: 'bower_components',
                 httpImagesPath: '/assets/images',
                 httpGeneratedImagesPath: '/assets/generated',
@@ -101,7 +101,7 @@ module.exports = function(grunt) {
             },
             dist: {
                 options: {
-                    generatedImagesDir: '/assets'
+                    generatedImagesDir: 'src/assets'
                 }
             },
             server: {
@@ -135,8 +135,9 @@ module.exports = function(grunt) {
         watch : {
           all: {
             files : [ '!_site/',
-                        'src/**/*.md',
-                        'src/**/*.html'
+                      'src/**/*.md',
+                      'src/**/*.html',
+                      'src/sass/*.scss'
                       ],
             tasks : [ 'compass',
                       'concat',

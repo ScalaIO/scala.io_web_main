@@ -7,6 +7,7 @@ $navbar-height: 40px;
 $navbar-inverse-bg: #1B1B1B;
 $font-size-h3: 18px;
 $font-family-sans-serif: 'Ubuntu', sans-serif;
+$red: #A11B26;
 
 @import url(https://fonts.googleapis.com/css?family=Lato:100,300,400,700,100italic,300italic,400italic,700italic);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700);
@@ -45,7 +46,8 @@ $heading-font-family: 'Lato', sans-serif;
   .main_title{
     font-size: 100px;
     line-height:normal;
-    color: #000
+    color: #000;
+    text-align:center;
   }
   .main_heading{
     font-size:30px;
@@ -53,7 +55,12 @@ $heading-font-family: 'Lato', sans-serif;
     line-height:normal;
     color: #000
   }
-  ul.main_heading{    
+  .main_text{
+    font-size:30px;
+    line-height:normal;
+    color: #000
+  }
+  ul.main_heading{
     text-align: left;
   }
 }
@@ -75,9 +82,28 @@ footer {
   }
 }
 
+table.sponsorhip {
+  th {
+    background-color: $gray-light;
+  }
+  td {
+    width:15%;
+    text-align: center;
+  }
+  .rowlabel{
+    width:auto;
+    text-align: left;
+    vertical-align: middle;
+  }
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 }
 h1, h2, h3, h4, h5, em, strong, .call-to-action, .dropcap{
   font-family: $heading-font-family
+}
+
+span.red{
+  color: $red;
 }
