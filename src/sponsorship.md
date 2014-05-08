@@ -10,14 +10,14 @@ Become a Scala.IO sponsor and promote your services, products or simply increase
 
 [Contact us](mailto:sponsor@scala.io) today and discuss the right sponsorship opportunity for you.
 
-<table class="table table-bordered">
+<table class="table table-bordered sponsorhip">
 	<thead>
 		<tr>
-			<th class="tablehead"></th>
-			<th class="tablehead">Platine</th>
-			<th class="tablehead">Gold</th>
-			<th class="tablehead">Silver</th>
-			<th class="tablehead">Mecene</th>
+			<th class=""></th>
+			<th class="">Platine</th>
+			<th class="">Gold</th>
+			<th class="">Silver</th>
+			<th class="">Mecene</th>
 		</tr>
 	<thead>
 	<tbody>
