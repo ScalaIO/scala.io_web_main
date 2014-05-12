@@ -135,6 +135,9 @@ module.exports = function(grunt) {
         watch : {
           all: {
             files : [ '!_site/',
+                      'src/_data/*.yaml',
+                      'src/_data/*.json',
+                      'src/*.md',
                       'src/**/*.md',
                       'src/**/*.html',
                       'src/sass/*.scss'
