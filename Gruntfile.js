@@ -12,21 +12,32 @@ module.exports = function(grunt) {
                 options : {
                     import : 2
                 },
-                src : [ 'src/assets/css/all.css' ]
+                src : [ '.assets/css/all.css' ]
             }
         },
         concat : {
-            dist : {
+            css : {
                 src : [ '.tmp/css/*.css',
                         'src/assets/css/libs/*.css',
                         'src/assets/css/main.css' ],
-                dest : 'src/assets/css/all.css',
+                dest : '.tmp/all.css',
+            },
+            js : {
+                options:{
+                  separator: ';'+grunt.util.linefeed
+                },
+                src : [ 'bower_components/jquery/dist/jquery.js',
+                        'bower_components/**/bootstrap/button.js',
+                        'bower_components/**/bootstrap/collapse.js',
+                        'bower_components/**/bootstrap/dropdown.js',
+                         ],
+                dest : 'src/js/vendor.js',
             }
         },
         cssmin : {
             dist : {
-                src : 'src/assets/css/all.css',
-                dest : 'src/assets/css/all.min.css'
+                src : '.tmp/all.css',
+                dest : 'src/all.min.css'
             }
         },
         shell : {
@@ -135,8 +146,8 @@ module.exports = function(grunt) {
         watch : {
           all: {
             files : [ '!_site/',
-                      'src/_data/*.yaml',
-                      'src/_data/*.json',
+                      'src/_data/*.*',
+                      'src/asssets/images/**/*.*',
                       'src/*.md',
                       'src/**/*.md',
                       'src/**/*.html',

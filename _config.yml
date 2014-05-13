@@ -2,4 +2,4 @@ name: Scala.IO
 markdown: redcarpet
 pygments: true
 source: src
-exclude: ['sass']
+exclude: ['sass', 'assets/css']

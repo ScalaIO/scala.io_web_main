@@ -6,13 +6,14 @@
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="/assets/css/all.css">
+    <link rel="stylesheet" href="/all.min.css">
+
   </head>
   <body id="home" data-spy="scroll" data-target="#primary-nav">
   <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
     <div class="container">
        <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#primary-nav">
         <span class="sr-only">Menu</span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -22,16 +23,16 @@
     </div>
       <div id="primary-nav" class="collapse navbar-collapse">
         <ul class="nav navbar-nav">
-          <li><a href="./venue.html">Venue</a></li>
+          <li><a href="/venue.html">Venue</a></li>
 <!--           <li><a href="./events.html">Talks</a></li> -->
 <!--           <li><a href="./schedule.html">Schedule</a></li> -->
 <!--           <li><a href="./speakers.html">Speakers</a></li> -->
-           <li><a href="./partners.html">Partners</a></li>
+           <li><a href="/partners.html">Partners</a></li>
 <!--           <li><a href="./sponsors_word.html">Partners Interviews</a></li> -->
 <!--           <li><a href="./tickets.html">Tickets</a></li> -->
-          <li><a href="./cfp.html">CFP</a></li>
+          <li><a href="/cfp.html">CFP</a></li>
 <!--           <li><a href="./faq.html">F.A.Q.</a></li> -->
-           <li><a href="./sponsorship.html">Sponsorship</a></li>
+           <li><a href="/sponsorship.html">Sponsorship</a></li>
         </ul>
         <ul class="nav navbar-nav navbar-right">
         <li><a href="/2013">Scala.<span class="red">IO</span> 2013</a></li>
@@ -45,7 +46,7 @@
       <div class="row">
         <div class="col-xs-12 headline">
 
-          <img src="./assets/images/logos/scalaio/scalaio_medium.png" alt="Scala.IO logo" />
+          <img src="/assets/images/logos/scalaio/scalaio_medium.png" alt="Scala.IO logo" />
           <h1>The Scala and FPL friendly event in Paris! </h1>
           <h2 class="teaser-subtitle"><span class="teaser-subtitle-text">October 23th and 24th, 2014. Paris, France</span><a href="https://twitter.com/share" class="twitter-share-button" data-via="ScalaIO_FR" data-size="large" data-count="none"><span class="tsb1">Tweet</span></a></h2>
 
@@ -94,7 +95,7 @@
           </div>
           </form>
         </div>
-        <script type="text/javascript" src="./js/mailchimp.js"></script>
+        <script type="text/javascript" src="/js/mailchimp.js"></script>
       </div><!--/row-->
     </div> <!-- /container -->
     <div class="base">
@@ -103,5 +104,6 @@
       </div>
     </div>
   </footer>
+  <script src="/js/vendor.js"></script>
   </body>
 </html>
