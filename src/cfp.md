@@ -23,7 +23,7 @@ Normal technical or report are typically 20 minutes long. They aim to inform par
 
 ### Lightning talks (10 minutes - during lunch)
 
-Lightning talks are a great way to introduce a subject you love or deeply care about to a smaller audience. They are a great opportunity for every speakers to communicate at a more personnal level.
+Lightning talks are a great way to introduce a subject you like or deeply care about to a smaller audience. They are an opportunity for every speakers to communicate at a more personnal level.
 
 ### Workshop (3h00)
 
@@ -34,8 +34,9 @@ Workshops are 3 hours long. They aim to teach participant concrete skills about 
 
 The Call for Proposal will:
 
-* Open Tuesday 24th May 2014
+* Open Tuesday 27th May 2014
 * Close Sunday August 17th, 2014
+* We will disclose few selected talks on rolling basis
 * All selected talk will be announced by September 1st 2014.
 
 <em>Submission</em>
