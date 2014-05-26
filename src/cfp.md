@@ -9,6 +9,7 @@ The annual Scala.IO conference is a place where people can see how others are us
 <em>Giving a Talk at Scala.IO</em>
 ----------------
 If you have experience using Scala or functional programming languages in a practical setting, we invite you to submit a proposal to give a talk at the conference.
+Except for lightning talks, if your submission get accepted you'll get a free pass for the conference (up to 2 speakers).
 
 We are looking for 3 kinds of talks:
 
@@ -24,9 +25,9 @@ Normal technical or report are typically 20 minutes long. They aim to inform par
 
 Lightning talks are a great way to introduce a subject you love or deeply care about to a smaller audience. They are a great opportunity for every speakers to communicate at a more personnal level.
 
-### Workshop (3h00 - Saturday)
+### Workshop (3h00)
 
-Workshops are 2 hours and 30 minutes long. They aim to teach participant concrete skills about Scala usage. Workshops are essentially practical sessions. Participants are expected to practice in live, on their own computer or a computer provided by Scala.io (if available). Workshops also are intended for the participants to share with the speakers.
+Workshops are 3 hours long. They aim to teach participant concrete skills about Scala usage. Workshops are essentially practical sessions. Participants are expected to practice in live, on their own laptop or a computer provided by Scala.io (if available). Workshops also are intended for the participants to share with the speakers. Workshops will require a specific planning and setup (we are working on it), we will contact you for organisation details.
 
 <em>Timeline</em>
 ----------------
@@ -46,8 +47,6 @@ Head over to [cfp.scala.io](http://cfp.scala.io) to create your profile and subm
 ----------------
 
 For more information on Scala.IO, take a look at the Scala.IO website
-
-Note that accepted (co)presenters (2 speakers max), will NOT need to register for the event.
 
 Presentations will be recorded and presenters will be expected to sign a copyright release form.
 
