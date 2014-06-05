@@ -79,6 +79,10 @@ footer {
   }
   p{
     color: $gray-light;
+    vertical-align: middle;
+  }
+  .copyright{
+    padding-top: 8px;
   }
   .newsletter{
     color: $gray-light;
@@ -86,6 +90,7 @@ footer {
     font-family: Ubuntu, sans-serif;
     font-size: 14px;
     font-weight: normal;
+    margin-bottom: 0px;    
   }
   .partner-gold-logo-white {
     background-color: #FFF;
