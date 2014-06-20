@@ -2,9 +2,19 @@
 layout: default
 title: Partners
 ---
-Gold Sponsors
-================
 
+<h1 class="partner-heading">Platinum Sponsor</h1>
+
+{% for sponsor in site.data.sponsors.platinum %}
+<div class="partner-platinum span-platinum">
+  <a href="{{sponsor.url}}">
+    <img src="assets/images/partners/platinum/logo-{{ sponsor.name }}.png" alt="Logo {{ sponsor.name }}">
+  </a>
+</div>
+{% endfor %}
+
+
+<h1 class="partner-heading">Gold Sponsors</h1>
 {% for sponsor in site.data.sponsors.gold %}
 <div class="partner-gold span-gold">
   <a href="{{sponsor.url}}">
@@ -13,8 +23,7 @@ Gold Sponsors
 </div>
 {% endfor %}
 
-Silver Sponsors
-================
+<h1 class="partner-heading">Silver Sponsors</h1>
 
 {% for sponsor in site.data.sponsors.silver %}
 <div class="partner-silver span-silver">
