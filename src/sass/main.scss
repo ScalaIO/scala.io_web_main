@@ -74,6 +74,7 @@ footer {
   color: #F2F2F2;
   border-top: 10px solid #000;
   background: #1A1A1A url("/assets/images/pattern-black.jpg");
+
   .base {
     padding-top: 15px;
     padding-bottom: 8px;
@@ -95,18 +96,8 @@ footer {
     font-weight: normal;
     margin-bottom: 0px;
   }
-  .partner-gold-logo-white {
-    background-color: #FFF;
-  }
-  .partner-gold-logo {
-    width: 200px;
-    height: 100px;
-    margin: 10px;
-  }
-  .partner-platinum-logo-white {
-    background-color: #FFF;
-  }
   .sponsors{
+    background-color: #FFF;
     text-align: center;
   }
   .partner-platinum-logo {
@@ -115,6 +106,29 @@ footer {
     margin: 10px;
   }
 }
+.sponsors{
+  margin-top: 100px;
+  background-color: #FFF;
+  text-align: center;
+  .partner-platinum-logo {
+    width: 400px;
+    height: 200px;
+    margin: 10px;
+  }
+  .partner-gold-logo-white {
+    background-color: #FFF;
+  }
+  .partner-gold-logo {
+    margin: 10px 0px;
+    width: 200px;
+    height: 100px;
+  }
+  .partner-platinum-logo-white {
+    background-color: #FFF;
+  }
+
+}
+
 
 table.sponsorhip {
   th {
