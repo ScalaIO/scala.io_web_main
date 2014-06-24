@@ -66,6 +66,15 @@ $heading-font-family: 'Lato', sans-serif;
   .partner-platinum,.partner-heading  {
     text-align: center;
   }
+  .partner-friends{
+    float: left;
+    margin-left: 20px;
+    width: 220px;
+    img{
+      width: 200px;
+      height: 200px;
+    }
+  }
 }
 footer {
   width: auto;
@@ -154,4 +163,8 @@ h1, h2, h3, h4, h5, em, strong, .call-to-action, .dropcap{
 
 span.red{
   color: $red;
+}
+.more{
+  font-weight: bold;
+  font-size: 50px;
 }

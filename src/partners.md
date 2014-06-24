@@ -31,5 +31,24 @@ title: Partners
       <img src="assets/images/partners/silver/logo-{{ sponsor.name }}.png" alt="Logo {{ sponsor.name }}">
   </a>
 </div>
+{% endfor %}
 
+<h1 class="partner-heading">Partners</h1>
+
+{% for sponsor in site.data.sponsors.friends %}
+<div class="partner-friends span-friends">
+  <a href="{{sponsor.url}}">
+      <img src="assets/images/partners/friends/logo-{{ sponsor.name }}.png" alt="Logo {{ sponsor.name }}">
+  </a>
+</div>
+{% endfor %}
+
+<h1 class="partner-heading">Communication</h1>
+
+{% for sponsor in site.data.sponsors.communication %}
+<div class="partner-friends span-friends">
+  <a href="{{sponsor.url}}">
+      <img src="assets/images/partners/com/logo-{{ sponsor.name }}.png" alt="Logo {{ sponsor.name }}">
+  </a>
+</div>
 {% endfor %}

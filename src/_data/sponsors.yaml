@@ -7,3 +7,13 @@ gold:
 silver:
   - name: arolla
     url: http://www.arolla.fr
+friends:
+  - name: typesafe
+    url: http://www.typesafe.com
+  - name: clevercloud
+    url: http://www.clever-cloud.com
+  - name: lt
+    url: http://www.lateral-thoughts.com
+communication:
+  - name: 321idcom
+    url: http://www.321idcom.fr/
