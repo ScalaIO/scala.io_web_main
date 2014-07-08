@@ -151,6 +151,8 @@ module.exports = function(grunt) {
                       'src/*.md',
                       'src/**/*.md',
                       'src/**/*.html',
+                      'src/js/*.js',
+                      '!src/js/vendor.js',
                       'src/sass/*.scss'
                       ],
             tasks : [ 'compass',
