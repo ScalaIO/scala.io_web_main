@@ -5,21 +5,17 @@ title: F.A.Q.
 
 # Frequently Asked Questions
 
-<em>Who is behind the 2013 Scala.IO?</em>
+<em>Who is behind the 2014 Scala.IO?</em>
 -------------------------
-The Organizing Committee of the 2013 Scala.IO Conference is composed of:
+The Organizing Committee of the 2014 Scala.IO Conference is composed of:
 
 * Quentin Adam ([@waxzce](http://twitter.com/waxzce))
 * Alexis Agahi ([@aagahi](http://twitter.com/aagahi))
 * Mathieu Chataigner ([@mchataigner](http://twitter.com/mchataigner))
-* Adrien Crette ([@Dadzwhybe](http://twitter.com/Dadzwhybe))
 * Clement Delafargue ([@clementd](http://twitter.com/clementd))
 * Olivier Girardot ([@ogirardot](http://twitter.com/ogirardot))
 * Jean Helou ([@jeanhelou](http://twitter.com/jeanhelou))
 * Gabriel Kastenbaum ([@lambdadevfr](http://twitter.com/lambdadevfr))
-* Clement Nivolle ([@cnivolle](http://twitter.com/cnivolle))
-* Ludwine Probst ([@nivdul](http://twitter.com/nivdul))
-* François Sarradin ([@fsarradin](http://twitter.com/fsarradin))
 * Jonathan Winandy ([@ahoy_jon](http://twitter.com/ahoy_jon))
 
 Operations/Comm
