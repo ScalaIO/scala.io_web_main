@@ -12,7 +12,7 @@ The Organizing Committee of the 2014 Scala.IO Conference is composed of:
 * Alexis Agahi ([@aagahi](http://twitter.com/aagahi))
 * Benoit Lemoine ([@benoit_lemoine](http://twitter.com/benoit_lemoine))
 * Clement Delafargue ([@clementd](http://twitter.com/clementd))
-* Francois Garillot ([@@huitseeker ](http://twitter.com/huitseeker ))
+* Francois Garillot ([@huitseeker ](http://twitter.com/huitseeker ))
 * Gabriel Kastenbaum ([@lambdadevfr](http://twitter.com/lambdadevfr))
 * Geoffroy Couprie ([@gcouprie](http://twitter.com/gcouprie))
 * Jean Helou ([@jeanhelou](http://twitter.com/jeanhelou))
