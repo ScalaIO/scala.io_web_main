@@ -9,14 +9,19 @@ title: F.A.Q.
 -------------------------
 The Organizing Committee of the 2014 Scala.IO Conference is composed of:
 
-* Quentin Adam ([@waxzce](http://twitter.com/waxzce))
 * Alexis Agahi ([@aagahi](http://twitter.com/aagahi))
-* Mathieu Chataigner ([@mchataigner](http://twitter.com/mchataigner))
+* Benoit Lemoine ([@benoit_lemoine](http://twitter.com/benoit_lemoine))
 * Clement Delafargue ([@clementd](http://twitter.com/clementd))
-* Olivier Girardot ([@ogirardot](http://twitter.com/ogirardot))
-* Jean Helou ([@jeanhelou](http://twitter.com/jeanhelou))
+* Francois Garillot ([@@huitseeker ](http://twitter.com/huitseeker ))
 * Gabriel Kastenbaum ([@lambdadevfr](http://twitter.com/lambdadevfr))
+* Geoffroy Couprie ([@gcouprie](http://twitter.com/gcouprie))
+* Jean Helou ([@jeanhelou](http://twitter.com/jeanhelou))
 * Jonathan Winandy ([@ahoy_jon](http://twitter.com/ahoy_jon))
+* Mathieu Chataigner ([@mchataigner](http://twitter.com/mchataigner))
+* Olivier Girardot ([@ogirardot](http://twitter.com/ogirardot))
+* Quentin Adam ([@waxzce](http://twitter.com/waxzce))
+* Sam Bessalah ([@samklr](http://twitter.com/samklr))
+* Thibaut Nazare ([@tnazare](http://twitter.com/tnazare))
 
 Operations/Comm
 
@@ -34,7 +39,7 @@ Yes we are!
 ---------------------------
 You should not be worried if you speak English. We will try to make your journey as smooth as possible.
 
-<em>Will there be something special for the Scala User Groups ?</em>
+<em>Will there be something special for the Scala User Groups?</em>
 ---------------------------
 
 We would love to organise a special meetup at Scala.IO with all Scala User Groups. If you’re interested or want to propose a funky idea, feel free to contact us at [sug@scala.io](mailto:sug@scala.io).
