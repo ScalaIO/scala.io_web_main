@@ -166,7 +166,7 @@ table.sponsorhip {
   }
 }
 .speakers{
-  @extend .row;
+  @extend .container;
   img{
       width:100%;
   }
@@ -185,8 +185,11 @@ table.sponsorhip {
     background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(255,0,0,0.75), rgba(0,0,0,0));
     background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(255,0,0,0.75), rgba(0,0,0,0));
   }
+  .speaker_row{
+    @extend .row;
+  }
   .speaker{
-    @extend .col-md-2;
+    @extend .col-sm-2;
   }
 }
 h1, h2, h3, h4, h5, h6 {
