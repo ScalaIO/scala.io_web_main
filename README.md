@@ -29,4 +29,5 @@ Working on scalaio's website
 Deploying the website
 ==========
 
-To be decided
+`grunt prepublish` to deploy to preprod.scala.io
+`grunt publish` to deploy to scala.io
