@@ -44,6 +44,12 @@ You should not be worried if you speak English. We will try to make your journey
 
 We would love to organise a special meetup at Scala.IO with all Scala User Groups. If you’re interested or want to propose a funky idea, feel free to contact us at [sug@scala.io](mailto:sug@scala.io).
 
+<em>How do you spend the money?</em>
+---------------------------
+The conference is non-profit, organized by volunteers from the French Scala users community. The money from tickets sales and sponsors is used solely to pay for the conference hall, the food, the technical setup (speaker amplification, video projectors, video recording), some swag and as much as we can T&E for speakers who can't get backing from a company. Should there be remaining money after the conference it will be used to further compensate speakers. If there were still money left afterwards, it would be used for the next ScalaIO.
+
+Contact us at [contact@scala.io](mailto:contact@scala.io) if you want more information.
+
 <em>Any other questions?</em>
 ---------------------------
 Contact us at [contact@scala.io](mailto:contact@scala.io) and we’ll try to help you as much as possible.
