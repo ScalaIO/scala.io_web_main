@@ -46,7 +46,7 @@ We would love to organise a special meetup at Scala.IO with all Scala User Group
 
 <em>How do you spend the money?</em>
 ---------------------------
-The conference is non-profit, organized by volunteers from the French Scala users community. The money from tickets sales and sponsors is used solely to pay for the conference hall, the food, the technical setup (speaker amplification, video projectors, video recording), some swag and as much as we can T&E for speakers who can't get backing from a company. Should there be remaining money after the conference it will be used to further compensate speakers. If there were still money left afterwards, it would be used for the next ScalaIO.
+The conference is non-profit, organized by volunteers from the French Scala users community. The money from tickets sales and sponsors is used solely to pay for the conference hall, the food, the technical setup (speaker amplification, video projectors, video recording), some swag, and as much T&E covering as possible for speakers who can't get backing from a company. Should money remain after the conference, it will be used to further compensate speakers. In the event that there would still be some money left afterward, it would be used for the next ScalaIO.
 
 Contact us at [contact@scala.io](mailto:contact@scala.io) if you want more information.
 
