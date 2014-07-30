@@ -184,10 +184,16 @@ table.sponsorhip {
         text-align:justify;
         //overflow:hidden;
       }
+      .bio:after{
+        clear:both;
+        content:'';
+        display:block;
+      };
       hr{
         margin-top:20px;
       }
   }
+
   p{
     text-align:center;
     padding-top: 10px;
