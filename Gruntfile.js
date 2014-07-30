@@ -30,7 +30,10 @@ module.exports = function(grunt) {
                         'bower_components/**/bootstrap/button.js',
                         'bower_components/**/bootstrap/collapse.js',
                         'bower_components/**/bootstrap/dropdown.js',
-                         ],
+                        'bower_components/angular/angular.js',
+                        'bower_components/angular-resource/angular-resource.js',
+                        'bower_components/angular-route/angular-route.js'
+                      ],
                 dest : 'src/js/vendor.js',
             }
         },

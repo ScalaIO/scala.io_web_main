@@ -3,7 +3,7 @@ try {
     var jqueryLoaded=jQuery;
     jqueryLoaded=true;
 } catch(err) {
-    var jqueryLoaded=false;
+    var jqueryLoaded=true;
 }
 var head= document.getElementsByTagName('head')[0];
 if (!jqueryLoaded) {

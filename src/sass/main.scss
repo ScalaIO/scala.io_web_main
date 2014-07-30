@@ -173,6 +173,20 @@ table.sponsorhip {
   @extend .container;
   img{
       width:100%;
+      max-width:200px;
+  }
+  .speaker_bio{
+      img{
+        float:left;
+        margin: 0 20px;
+      }
+      .bio p{
+        text-align:justify;
+        //overflow:hidden;
+      }
+      hr{
+        margin-top:20px;
+      }
   }
   p{
     text-align:center;
