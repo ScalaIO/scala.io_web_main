@@ -206,6 +206,11 @@ table.sponsorhip {
   }
   .speaker{
     @extend .col-sm-2;
+    opacity: 1;
+  }
+  .speaker:hover{
+    opacity: 0.4;
+    filter: alpha(opacity=40);
   }
   p{
     text-align:center;
