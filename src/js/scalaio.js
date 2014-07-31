@@ -67,10 +67,10 @@ scalaio.controller('SpeakerCtrl', ['$scope','$routeParams','$sce','Speakers',fun
       $scope.speakerBio = $sce.trustAsHtml('<img class="avatar left" src="'+data.avatarURL+'"></img>'+data.bioAsHtml);
     });
   $scope.hasNoCompany=function(speaker){    console.dir(speaker);
-    return !speaker || !speaker.company || speaker.company.trim ==""
+    return !speaker || !speaker.company || speaker.company.trim() =="" || speaker.company.trim() =="-" || speaker.company.trim() ==" -"
   };
   $scope.hasNoTwitter=function(speaker){
-    return !speaker || !speaker.twitter || speaker.twitter.trim ==""
+    return !speaker || !speaker.twitter || speaker.twitter.trim() ==""
   };
 }]);
 scalaio.controller('TalkCtrl', function ($scope) {
