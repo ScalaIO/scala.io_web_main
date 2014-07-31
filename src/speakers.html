@@ -21,17 +21,19 @@ scripts: ["//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.3.0/handlebars.min.j
     </script>
 
     <script id="speaker-bio-template" type="text/ng-template">
+    <div class="row">
       <div class="speaker_bio">
         <h1>{{speaker.firstName}} {{speaker.lastName}}</h1>
-        <div class="bio" ng-bind-html="speakerBio">        
+        <div class="bio" ng-bind-html="speakerBio">
         </div>
         <hr/>
-        <h3>Talks</h3>
+        <h2>Talks</h2>
         <div ng-repeat="talk in speaker.acceptedTalks">
-          <ul>
-            <li>{{talk.title}}</li>
+          <ul class="talks">
+            <li class="talk"><h3>{{talk.title}}</h3><div ng-bind-html="talk.summaryAsHtml | unsafe"></div></li>
           </ul>
         </div>
+      </div>
       </div>
     </script>
   {% endraw %}

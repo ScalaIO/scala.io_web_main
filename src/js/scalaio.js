@@ -15,7 +15,11 @@ scalaio.config(['$routeProvider','$locationProvider',
       });
     $locationProvider.html5Mode(false);
   }]);
-
+scalaio.filter('unsafe', function($sce) {
+    return function(val) {
+        return $sce.trustAsHtml(val);
+    };
+});
 var scalaioServices=angular.module('scalaioServices', ['ngResource']);
 scalaioServices.factory('Speakers', ['$resource', function($resource){
   return $resource(
@@ -34,7 +38,7 @@ scalaioServices.factory('Talks', ['$resource', function($resource){
 scalaio.controller('SpeakersCtrl',['$scope','$location', 'Speakers', function($scope,$location, Speakers) {
   $scope.coucou="coucou"
   Speakers.query(function(data){
-    $scope.speakerGroups = $scope.grouped(5, data);
+    $scope.speakerGroups = $scope.grouped(6, data);
   });
   $scope.showSpeaker = function(speakerId){
     $location.path("/"+speakerId)
