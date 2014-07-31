@@ -30,7 +30,9 @@ scripts: ["//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.3.0/handlebars.min.j
         <h2>Talks</h2>
         <div ng-repeat="talk in speaker.acceptedTalks">
           <ul class="talks">
-            <li class="talk"><h3>{{talk.title}}</h3><div ng-bind-html="talk.summaryAsHtml | unsafe"></div></li>
+            <li class="talk" style="background-image: url(/assets/images/country/{{talk.talkLang}}.svg);"><h3>{{talk.title}}</h3>
+            <p class="details"> <span class="{{talk.audienceLevel}}">{{talk.audienceLevel}}</span> | {{talk.talkType}} | {{talk.track}} </p>
+            <div ng-bind-html="talk.summaryAsHtml | unsafe"></div></li>
           </ul>
         </div>
       </div>

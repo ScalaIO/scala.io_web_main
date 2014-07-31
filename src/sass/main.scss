@@ -177,9 +177,14 @@ table.sponsorhip {
   }
   .speaker_bio{
      @extend .col-md-12;
-      img{
+      img.avatar{
         float:left;
         margin: 0 20px;
+      }
+      img.lang{
+        width: 20px;
+        margin-right: 10px;
+        vertical-align: initial;
       }
       .bio p{
         text-align:justify;
@@ -194,7 +199,29 @@ table.sponsorhip {
         margin-top:20px;
       }
       .talks{
+         list-style-type: none;
+         padding: 10px;
         .talk{
+          background-repeat: no-repeat;
+          background-position: 0 3px;
+          padding-left: 30px;
+          background-size: 20px 13px;
+          .novice{
+            color: green;
+          }
+          .intermediate{
+            color: blue;
+          }
+          .expert{
+            color: red;
+          }
+          h3{
+            display: inline;
+          }
+          p.details{
+            display: inline;
+            margin-left: 20px;
+          }
           p{
             text-align:justify;
           }
