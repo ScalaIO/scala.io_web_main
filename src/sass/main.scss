@@ -177,6 +177,13 @@ table.sponsorhip {
   }
   .speaker_bio{
      @extend .col-md-12;
+      span.details{
+        font-weight: normal;
+        font-size: smaller;
+        font-style: italic;
+      }
+      h1 {
+      }
       img.avatar{
         float:left;
         margin: 0 20px;
