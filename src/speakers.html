@@ -14,7 +14,7 @@ scripts: ["//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.3.0/handlebars.min.j
       <div class="speaker_row" ng-repeat="speakers in speakerGroups">
         <div class="speaker" speakerId="{{speaker.uuid}}" ng-repeat="speaker in speakers" ng-click="showSpeaker(speaker.uuid)">
           <img class="avatar" ng-src="{{speaker.avatarURL}}" id="{{speaker.uuid}}"></img>
-          <p>{{speaker.firstName}} {{speaker.lastName}}</p>
+          <p class="name">{{speaker.firstName}} {{speaker.lastName}}</p>
           <hr/>
         </div>
       </div>

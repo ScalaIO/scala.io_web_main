@@ -213,7 +213,7 @@ table.sponsorhip {
           background-position: 0 3px;
           padding-left: 30px;
           background-size: 20px 13px;
-          
+
           h3{
             display: inline;
           }
@@ -232,16 +232,22 @@ table.sponsorhip {
   .speaker{
     @extend .col-sm-2;
     opacity: 1;
+    p.name{
+      text-align:center;
+      padding-top: 10px;
+      width: 100%;
+      min-height: 50px;
+      margin-bottom: 0px;
+    }
+    hr{
+      margin-top:0px;
+    }
   }
   .speaker:hover{
     opacity: 0.4;
     filter: alpha(opacity=40);
   }
-  p{
-    text-align:center;
-    padding-top: 10px;
-    width: 100%;
-  }
+
   hr{
     width: 100%;
     color: red;
