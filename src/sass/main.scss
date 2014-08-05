@@ -169,7 +169,34 @@ table.sponsorhip {
     vertical-align: middle;
   }
 }
-.speakers{
+ul.talks{
+   list-style-type: none;
+   padding: 10px;
+  li.talk{
+    background-repeat: no-repeat;
+    background-position: 0 3px;
+    padding-left: 30px;
+    background-size: 20px 13px;
+
+    h3{
+      display: inline;
+    }
+    p.details{
+      margin-left: 20px;
+      .speaker:after{
+        content:", "
+      }
+      .speaker:last-child:after{
+        content:""
+      }
+    }
+    p{
+      text-align:justify;
+    }
+  }
+}
+
+div.speakers{
   //@extend .container;
   img{
       width:100%;
@@ -205,26 +232,7 @@ table.sponsorhip {
       hr{
         margin-top:20px;
       }
-      .talks{
-         list-style-type: none;
-         padding: 10px;
-        .talk{
-          background-repeat: no-repeat;
-          background-position: 0 3px;
-          padding-left: 30px;
-          background-size: 20px 13px;
 
-          h3{
-            display: inline;
-          }
-          p.details{
-            margin-left: 20px;
-          }
-          p{
-            text-align:justify;
-          }
-        }
-      }
   }
   .speaker_row{
     @extend .row;
