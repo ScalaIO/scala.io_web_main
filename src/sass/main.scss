@@ -63,17 +63,27 @@ $heading-font-family: 'Lato', sans-serif;
   ul.main_heading{
     text-align: left;
   }
-  .partner-platinum,.partner-heading  {
-    text-align: center;
-  }
-  .partner-friends{
-    float: left;
-    margin-left: 20px;
-    width: 220px;
-    img{
-      width: 200px;
-      height: 200px;
+  .partners{
+    .partner-platinum,.partner-heading  {
+      text-align: center;
     }
+    .partner-friends{
+      float: left;
+      margin-left: 20px;
+      width: 220px;
+      img{
+        width: 200px;
+        height: 200px;
+      }
+    }
+    .partners-silver{
+      @extend .row;
+      text-align: center;
+      .partner-silver{
+        @extend .col-md-6;
+      }
+    }
+
   }
   .tickets{
     margin-top:0px;

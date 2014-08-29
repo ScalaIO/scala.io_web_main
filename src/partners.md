@@ -2,7 +2,7 @@
 layout: default
 title: Partners
 ---
-
+<div class="partners">
 <h1 class="partner-heading">Platinum Sponsor</h1>
 
 {% for sponsor in site.data.sponsors.platinum %}
@@ -24,14 +24,15 @@ title: Partners
 {% endfor %}
 
 <h1 class="partner-heading">Silver Sponsors</h1>
-
+<div class="partners-silver">
 {% for sponsor in site.data.sponsors.silver %}
-<div class="partner-silver span-silver">
+<div class="partner-silver">
   <a href="{{sponsor.url}}">
       <img src="assets/images/partners/silver/logo-{{ sponsor.name }}.png" alt="Logo {{ sponsor.name }}">
   </a>
 </div>
 {% endfor %}
+</div>
 
 <h1 class="partner-heading">Partners</h1>
 
@@ -52,3 +53,4 @@ title: Partners
   </a>
 </div>
 {% endfor %}
+</div>

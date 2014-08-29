@@ -7,6 +7,8 @@ gold:
 silver:
   - name: arolla
     url: http://www.arolla.fr
+  - name: github
+    url: http://www.github.com
 friends:
   - name: typesafe
     url: http://www.typesafe.com
