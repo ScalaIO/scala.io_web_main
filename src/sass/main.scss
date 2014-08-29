@@ -179,33 +179,47 @@ table.sponsorhip {
     vertical-align: middle;
   }
 }
-ul.talks{
-   list-style-type: none;
-   padding: 10px;
-  li.talk{
-    background-repeat: no-repeat;
-    background-position: 0 3px;
-    padding-left: 30px;
-    background-size: 20px 13px;
+.talks{
+  .row{
+    padding-top: 20px;
+  }
+  .row:first-child{
+    padding-top: 0px;
+  }
+  .talk-anchor{
+    display: block;
+    position: relative;
+    top: -40px;
+    visibility: hidden;
+  }
+  ul.talks{
+     list-style-type: none;
+     padding-left: 10px;
+     margin-bottom: 0px;
+    li.talk{
+      background-repeat: no-repeat;
+      background-position: 0 3px;
+      padding-left: 30px;
+      background-size: 20px 13px;
 
-    h3{
-      display: inline;
-    }
-    p.details{
-      margin-left: 20px;
-      .speaker:after{
-        content:", "
+      h3{
+        display: inline;
       }
-      .speaker:last-child:after{
-        content:""
+      p.details{
+        margin-left: 20px;
+        .speaker:after{
+          content:", "
+        }
+        .speaker:last-child:after{
+          content:""
+        }
       }
-    }
-    p{
-      text-align:justify;
+      p{
+        text-align:justify;
+      }
     }
   }
 }
-
 div.speakers{
   //@extend .container;
   img{
