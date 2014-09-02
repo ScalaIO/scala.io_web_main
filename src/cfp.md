@@ -37,7 +37,6 @@ The Call for Proposal will:
 * Open Tuesday 27th May 2014
 * Close Sunday August 17th, 2014
 * We will disclose few selected talks on rolling basis
-* All selected talk will be announced by September 1st 2014.
 
 <em>Submission</em>
 ----------------
