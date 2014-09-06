@@ -83,7 +83,13 @@ $heading-font-family: 'Lato', sans-serif;
         @extend .col-md-6;
       }
     }
-
+    .partners-gold{
+      @extend .row;
+      text-align: center;
+      .partner-gold{
+        @extend .col-md-6;
+      }
+    }
   }
   .tickets{
     margin-top:0px;

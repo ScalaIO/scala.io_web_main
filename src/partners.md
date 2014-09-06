@@ -15,13 +15,15 @@ title: Partners
 
 
 <h1 class="partner-heading">Gold Sponsors</h1>
+<div class="partners-gold">
 {% for sponsor in site.data.sponsors.gold %}
-<div class="partner-gold span-gold">
+<div class="partner-gold">
   <a href="{{sponsor.url}}">
     <img src="assets/images/partners/gold/logo-{{ sponsor.name }}.png" alt="Logo {{ sponsor.name }}">
   </a>
 </div>
 {% endfor %}
+</div>
 
 <h1 class="partner-heading">Silver Sponsors</h1>
 <div class="partners-silver">
