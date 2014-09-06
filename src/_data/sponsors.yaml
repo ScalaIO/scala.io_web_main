@@ -4,6 +4,8 @@ platinum:
 gold:
   - name: ebiznext
     url: http://www.ebiznext.com
+  - name: mfglabs
+    url: http://www.mfglabs.com
 silver:
   - name: arolla
     url: http://www.arolla.fr
