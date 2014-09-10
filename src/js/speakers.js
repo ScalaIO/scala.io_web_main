@@ -35,11 +35,14 @@ scalaioServices.factory('Talks', ['$resource', function($resource){
     {}
   );
 }]);
-scalaio.controller('SpeakersCtrl',['$scope','$location', 'Speakers', function($scope,$location, Speakers) {
-  $scope.coucou="coucou"
+scalaio.controller('SpeakersCtrl',['$scope','$location', 'Speakers','$rootScope', function($scope,$location, Speakers,$rootScope) {
+  $scope.speakerGroups=$rootScope.speakerGroups;
+  if(!$scope.speakerGroups){
   Speakers.query(function(data){
     $scope.speakerGroups = $scope.grouped(6, data);
+    $rootScope.speakerGroups = $scope.speakerGroups;    
   });
+  }
   $scope.showSpeaker = function(speakerId){
     $location.path("/"+speakerId)
   }
