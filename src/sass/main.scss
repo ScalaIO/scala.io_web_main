@@ -43,6 +43,9 @@ $heading-font-family: 'Lato', sans-serif;
 }
 
 .container{
+  .speaker-list-link{
+    color: #000000;
+  }
   .main_title{
     font-size: 50px;
     line-height:normal;
@@ -234,6 +237,7 @@ div.speakers{
   img{
       width:100%;
       max-width:200px;
+      max-height:200px;
   }
   .speaker_bio{
      @extend .col-md-12;
@@ -269,6 +273,11 @@ div.speakers{
   }
   .speaker_row{
     @extend .row;
+    img{
+        width:100%;
+        max-width:132px;
+        max-height:132px;
+    }
   }
   .speaker{
     @extend .col-sm-2;
