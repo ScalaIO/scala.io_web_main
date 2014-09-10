@@ -46,6 +46,16 @@ title: Partners
 </div>
 {% endfor %}
 
+<h1 class="partner-heading">User Groups</h1>
+
+{% for sponsor in site.data.sponsors.ug %}
+<div class="partner-friends span-friends">
+  <a href="{{sponsor.url}}">
+      <img src="assets/images/partners/ug/logo-{{ sponsor.name }}.png" alt="Logo {{ sponsor.name }}">
+  </a>
+</div>
+{% endfor %}
+
 <h1 class="partner-heading">Communication</h1>
 
 {% for sponsor in site.data.sponsors.communication %}
