@@ -23,7 +23,9 @@ ug:
     url: http://www.lyonjug.org/
   - name: duchessefr
     url: http://www.duchess-france.org/
-communication:
+  - name: marsjug
+    url: http://marsjug.org/
+ ommunication:
   - name: 321idcom
     url: http://www.321idcom.fr/
   - name: scalatimes
