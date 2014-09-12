@@ -37,7 +37,7 @@ title: Partners
 </div>
 
 <h1 class="partner-heading">Partners</h1>
-
+<div class="partners-friends">
 {% for sponsor in site.data.sponsors.friends %}
 <div class="partner-friends span-friends">
   <a href="{{sponsor.url}}">
@@ -45,9 +45,10 @@ title: Partners
   </a>
 </div>
 {% endfor %}
+</div>
 
 <h1 class="partner-heading">User Groups</h1>
-
+<div class="partners-friends">
 {% for sponsor in site.data.sponsors.ug %}
 <div class="partner-friends span-friends">
   <a href="{{sponsor.url}}">
@@ -55,9 +56,10 @@ title: Partners
   </a>
 </div>
 {% endfor %}
+</div>
 
 <h1 class="partner-heading">Communication</h1>
-
+<div class="partners-friends">
 {% for sponsor in site.data.sponsors.communication %}
 <div class="partner-friends span-friends">
   <a href="{{sponsor.url}}">
@@ -65,4 +67,5 @@ title: Partners
   </a>
 </div>
 {% endfor %}
+</div>
 </div>

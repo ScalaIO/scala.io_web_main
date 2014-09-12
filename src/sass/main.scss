@@ -70,6 +70,9 @@ $heading-font-family: 'Lato', sans-serif;
     .partner-platinum,.partner-heading  {
       text-align: center;
     }
+    .partners-friends{
+      @extend .row;
+    }
     .partner-friends{
       float: left;
       margin-left: 20px;
