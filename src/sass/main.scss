@@ -106,9 +106,9 @@ $heading-font-family: 'Lato', sans-serif;
     align:center;
     iframe{
       width:100%;
-      height: 400px;
+      min-height: 410px;
     }
-    .tickets_disclaimer{
+    .tickets_disclaimer{      
       font-style: italic;
       font-size: 12px;
     }
