@@ -32,6 +32,7 @@ Last year was sci-fi themed around The Hitchikers Guide to the Galaxy and the ma
  <a href="http://www.ratp.fr/itineraires/en/ratp/recherche-avancee">More routes ...</a>
 
  <h2><em>Hotels</em></h2>
- You can check hotels around <a href="http://goo.gl/sahDhQ">here</a> or <a href="https://www.google.com/maps/search/hotel+ibis/@48.8715073,2.3596374,15z/data=!3m1!4b1">here</a>.
+ <p>You can check hotels around <a href="http://goo.gl/sahDhQ">here</a> or <a href="https://www.google.com/maps/search/hotel+ibis/@48.8715073,2.3596374,15z/data=!3m1!4b1">here</a>.</p>
 </div>
+<div class="col-sm-12"><h2>The Tapis Rouge's Hall</h2><img src="assets/images/tapis_rouge_1.jpg"/></div>
 </div>
