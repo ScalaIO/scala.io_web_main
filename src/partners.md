@@ -47,6 +47,18 @@ title: Partners
 {% endfor %}
 </div>
 
+
+<h1 class="partner-heading">Scala User Groups</h1>
+<div class="partners-friends">
+{% for sponsor in site.data.sponsors.sug %}
+<div class="partner-friends span-friends">
+  <a href="{{sponsor.url}}">
+      <img src="assets/images/partners/sug/logo-{{ sponsor.name }}.png" alt="Logo {{ sponsor.name }}">
+  </a>
+</div>
+{% endfor %}
+</div>
+
 <h1 class="partner-heading">User Groups</h1>
 <div class="partners-friends">
 {% for sponsor in site.data.sponsors.ug %}

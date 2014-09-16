@@ -27,8 +27,21 @@ ug:
     url: http://marsjug.org/
   - name: montpellierjug
     url: http://www.jug-montpellier.org/
+sug:
+  - name: bescala
+    url: http://bescala.org
+  - name: krakow
+    url: http://krakowscala.pl
+  - name: playberlin
+    url: http://www.meetup.com/Play-Berlin-Brandenburg/
+  - name: london
+    url: http://www.meetup.com/london-scala
+  - name: berlin
+    url: http://www.meetup.com/Scala-Berlin-Brandenburg/
 communication:
   - name: 321idcom
     url: http://www.321idcom.fr/
   - name: scalatimes
     url: http://www.scalatimes.com/
+  - name: aftertheweb
+    url: http://aftertheweb.com/
