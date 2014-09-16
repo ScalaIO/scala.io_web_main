@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Code of conduct
 ---
 # Code of conduct
 

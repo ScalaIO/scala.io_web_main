@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CFP
+title: Venue
 ---
 Scala.IO will be held in the _Tapis Rouge_'s salons
 ==========================================
