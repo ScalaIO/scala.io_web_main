@@ -34,6 +34,8 @@ sug:
     url: http://krakowscala.pl
   - name: playberlin
     url: http://www.meetup.com/Play-Berlin-Brandenburg/
+  - name: kolnbonn
+    url: http://www.meetup.com/Scala-User-Group-Koln-Bonn/
   - name: london
     url: http://www.meetup.com/london-scala
   - name: berlin
