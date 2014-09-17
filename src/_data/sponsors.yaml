@@ -41,7 +41,7 @@ sug:
   - name: berlin
     url: http://www.meetup.com/Scala-Berlin-Brandenburg/
   - name: paris
-    url: http://www.meetup.com/Scala-Berlin-Brandenburg/
+    url: https://groups.google.com/forum/#!forum/paris-scala-user-group
 communication:
   - name: 321idcom
     url: http://www.321idcom.fr/
