@@ -36,6 +36,18 @@ title: Partners
 {% endfor %}
 </div>
 
+<h1 class="partner-heading">Mecenes</h1>
+<div class="partners-friends">
+{% for sponsor in site.data.sponsors.mecene %}
+<div class="partner-friends span-friends">
+  <a href="{{sponsor.url}}">
+      <img src="assets/images/partners/mecene/logo-{{ sponsor.name }}.png" alt="Logo {{ sponsor.name }}">
+  </a>
+</div>
+{% endfor %}
+</div>
+
+
 <h1 class="partner-heading">Partners</h1>
 <div class="partners-friends">
 {% for sponsor in site.data.sponsors.friends %}
