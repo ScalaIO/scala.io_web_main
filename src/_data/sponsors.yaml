@@ -42,6 +42,8 @@ sug:
     url: http://www.meetup.com/Geneva-Scala-Enthusiasts/events/204861442/
   - name: berlin
     url: http://www.meetup.com/Scala-Berlin-Brandenburg/
+  - name: czech
+    url: http://www.meetup.com/czech-scala-enthusiasts/
   - name: paris
     url: https://groups.google.com/forum/#!forum/paris-scala-user-group
 communication:
