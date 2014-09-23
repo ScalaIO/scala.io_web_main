@@ -11,6 +11,8 @@ silver:
     url: http://www.arolla.fr
   - name: github
     url: http://www.github.com
+  - name: soundcloud
+    url: http://www.soundcloud.com
 friends:
   - name: typesafe
     url: http://www.typesafe.com
