@@ -27,6 +27,8 @@ ug:
     url: http://marsjug.org/
   - name: montpellierjug
     url: http://www.jug-montpellier.org/
+  - name: poitoucharentesjug
+    url: http://www.poitoucharentesjug.org
 sug:
   - name: bescala
     url: http://bescala.org
