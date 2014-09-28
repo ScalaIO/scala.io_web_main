@@ -54,6 +54,8 @@ sug:
     url: http://www.scala-vienna.org/
   - name: paris
     url: https://groups.google.com/forum/#!forum/paris-scala-user-group
+  - name: stockholm
+    url: http://www.meetup.com/Scala-Stockholm/events/209062812/
 communication:
   - name: 321idcom
     url: http://www.321idcom.fr/
