@@ -7,24 +7,34 @@ title: F.A.Q.
 
 <em>Who is behind the 2014 Scala.IO?</em>
 -------------------------
-The Organizing Committee of the 2014 Scala.IO Conference is composed of:
+
+Core
 
 * Alexis Agahi ([@aagahi](http://twitter.com/aagahi))
+* Jean Helou ([@jeanhelou](http://twitter.com/jeanhelou))
+* Jonathan Winandy ([@ahoy_jon](http://twitter.com/ahoy_jon))
+* Olivier Girardot ([@ogirardot](http://twitter.com/ogirardot))
+
+CFP and Staff
+
 * Benoit Lemoine ([@benoit_lemoine](http://twitter.com/benoit_lemoine))
 * Clement Delafargue ([@clementd](http://twitter.com/clementd))
 * Francois Garillot ([@huitseeker ](http://twitter.com/huitseeker ))
 * Gabriel Kastenbaum ([@lambdadevfr](http://twitter.com/lambdadevfr))
 * Geoffroy Couprie ([@gcouprie](http://twitter.com/gcouprie))
-* Jean Helou ([@jeanhelou](http://twitter.com/jeanhelou))
-* Jonathan Winandy ([@ahoy_jon](http://twitter.com/ahoy_jon))
 * Iulian Dragoș ([@jaguarul](https://twitter.com/jaguarul))
 * Mathieu Chataigner ([@mchataigner](http://twitter.com/mchataigner))
-* Olivier Girardot ([@ogirardot](http://twitter.com/ogirardot))
 * Quentin Adam ([@waxzce](http://twitter.com/waxzce))
 * Sam Bessalah ([@samklr](http://twitter.com/samklr))
 * Thibaut Nazare ([@tnazare](http://twitter.com/tnazare))
 
-Operations/Comm
+Staff
+
+* Przemek Piotrowski ([@ppiotrow](http://twitter.com/ppiotrow))
+* Piotr Trzpil ([@PiotrTrzpil1](http://twitter.com/PiotrTrzpil1))
+* Mateusz Górski ([@goral09](http://twitter.com/goral09)
+
+Operations/Communications
 
 * Karine Vacca ([3-2-1 idCom](http://www.321idcom.fr))
 
