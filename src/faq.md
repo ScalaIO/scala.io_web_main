@@ -21,18 +21,18 @@ CFP and Staff
 * Clement Delafargue ([@clementd](http://twitter.com/clementd))
 * Francois Garillot ([@huitseeker ](http://twitter.com/huitseeker ))
 * Gabriel Kastenbaum ([@lambdadevfr](http://twitter.com/lambdadevfr))
-* Geoffroy Couprie ([@gcouprie](http://twitter.com/gcouprie))
-* Iulian Dragoș ([@jaguarul](https://twitter.com/jaguarul))
 * Mathieu Chataigner ([@mchataigner](http://twitter.com/mchataigner))
-* Quentin Adam ([@waxzce](http://twitter.com/waxzce))
 * Sam Bessalah ([@samklr](http://twitter.com/samklr))
-* Thibaut Nazare ([@tnazare](http://twitter.com/tnazare))
 
 Staff
 
+* Geoffroy Couprie ([@gcouprie](http://twitter.com/gcouprie))
+* Iulian Dragoș ([@jaguarul](https://twitter.com/jaguarul))
 * Przemek Piotrowski ([@ppiotrow](http://twitter.com/ppiotrow))
 * Piotr Trzpil ([@PiotrTrzpil1](http://twitter.com/PiotrTrzpil1))
 * Mateusz Górski ([@goral09](http://twitter.com/goral09)
+* Quentin Adam ([@waxzce](http://twitter.com/waxzce))
+* Thibaut Nazare ([@tnazare](http://twitter.com/tnazare))
 
 Operations/Communications
 
