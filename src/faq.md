@@ -17,6 +17,7 @@ The Organizing Committee of the 2014 Scala.IO Conference is composed of:
 * Geoffroy Couprie ([@gcouprie](http://twitter.com/gcouprie))
 * Jean Helou ([@jeanhelou](http://twitter.com/jeanhelou))
 * Jonathan Winandy ([@ahoy_jon](http://twitter.com/ahoy_jon))
+* Iulian Dragoș ([@jaguarul](https://twitter.com/jaguarul))
 * Mathieu Chataigner ([@mchataigner](http://twitter.com/mchataigner))
 * Olivier Girardot ([@ogirardot](http://twitter.com/ogirardot))
 * Quentin Adam ([@waxzce](http://twitter.com/waxzce))
