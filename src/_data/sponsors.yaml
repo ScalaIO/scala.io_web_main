@@ -68,6 +68,8 @@ sug:
 communication:
   - name: 321idcom
     url: http://www.321idcom.fr/
+  - name: oreilly
+    url: http://www.oreilly.com/
   - name: scalatimes
     url: http://www.scalatimes.com/
   - name: aftertheweb
