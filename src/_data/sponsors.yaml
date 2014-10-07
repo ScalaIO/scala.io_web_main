@@ -15,6 +15,8 @@ silver:
     url: http://www.github.com
   - name: soundcloud
     url: http://www.soundcloud.com
+  - name: captaindash
+    url: http://captaindash.com/
 mecene:
   - name: carbon-it
     url: http://www.carbon-it.fr
