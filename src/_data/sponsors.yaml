@@ -17,6 +17,8 @@ silver:
     url: http://www.soundcloud.com
   - name: captaindash
     url: http://captaindash.com/
+  - name: teads
+    url: http://teads.tv/
 mecene:
   - name: carbon-it
     url: http://www.carbon-it.fr
