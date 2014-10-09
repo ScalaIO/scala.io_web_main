@@ -19,6 +19,8 @@ silver:
     url: http://captaindash.com/
   - name: teads
     url: http://teads.tv/
+  - name: criteo
+    url: http://www.criteo.com
 mecene:
   - name: carbon-it
     url: http://www.carbon-it.fr
