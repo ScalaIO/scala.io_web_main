@@ -24,6 +24,8 @@ silver:
 mecene:
   - name: carbon-it
     url: http://www.carbon-it.fr
+  - name: twitter
+    url: http://about.twitter.com/careers
 friends:
   - name: typesafe
     url: http://www.typesafe.com
