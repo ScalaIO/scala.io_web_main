@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Speakers
-scripts: ["//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.3.0/handlebars.min.js","/js/speakers.js"]
+scripts: ["//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.3.0/handlebars.min.js","js/speakers.js"]
 ---
 <div ng-app="scalaio">
   <h3><em><a ng-href="#/" class="speaker-list-link">Full speaker list</a></em></h3>
@@ -34,7 +34,7 @@ scripts: ["//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.3.0/handlebars.min.j
         <h2>Talks</h2>
         <div ng-repeat="talk in speaker.acceptedTalks">
           <ul class="talks">
-            <li class="talk" style="background-image: url(/assets/images/country/{{talk.talkLang}}.svg);"><h3>{{talk.title}}</h3>
+            <li class="talk" style="background-image: url(assets/images/country/{{talk.talkLang}}.svg);"><h3>{{talk.title}}</h3>
             <p class="details"> {{talk.talkType}} | {{talk.track}} |  <span class="{{talk.audienceLevel}}">{{talk.audienceLevel}}</span> </p>
             <div ng-bind-html="talk.summaryAsHtml | unsafe"></div></li>
           </ul>
