@@ -4,7 +4,7 @@ title: F.A.Q.
 ---
 
 # Frequently Asked Questions
-
+<!-- 
 <em>Who is behind the 2014 Scala.IO?</em>
 -------------------------
 
@@ -36,7 +36,7 @@ Staff
 
 Operations/Communications
 
-* Karine Vacca ([3-2-1 idCom](http://www.321idcom.fr))
+* Karine Vacca ([3-2-1 idCom](http://www.321idcom.fr)) -->
 
 <em>Is there a Code of Conduct</em>
 ---------------------------

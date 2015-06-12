@@ -6,7 +6,7 @@ title: Sponsorship
 SPONSORSHIP OPPORTUNITIES
 ========================
 
-Become a Scala.IO sponsor and promote your services, products or simply increase your brand awareness with more than 300 passionate Scala and FP languages developpers !
+Become a Scala.IO sponsor and promote your services, products or simply increase your brand awareness with more than 400 passionate Scala, Spark, and FP languages developpers !
 
 [Contact us](mailto:sponsor@scala.io) today and discuss the right sponsorship opportunity for you.
 

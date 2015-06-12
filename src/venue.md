@@ -2,10 +2,14 @@
 layout: default
 title: Venue
 ---
-Scala.IO will be held in the _Tapis Rouge_'s salons
+TBA Venue in Paris
 ==========================================
 
-Last year was sci-fi themed around The Hitchikers Guide to the Galaxy and the magical [’42’](http://www.42.fr/) number. This year we go for charm and a rich history with the _Tapis Rouge_ salons.
+
+TBA 
+
+
+<!-- Last year was sci-fi themed around The Hitchikers Guide to the Galaxy and the magical [’42’](http://www.42.fr/) number. This year we go for charm and a rich history with the _Tapis Rouge_ salons.
 
 <div class="row">&nbsp;</div>
 <div class="row">
@@ -36,3 +40,4 @@ Last year was sci-fi themed around The Hitchikers Guide to the Galaxy and the ma
 </div>
 <div class="col-sm-12"><h2>The Tapis Rouge's Hall</h2><img src="assets/images/tapis_rouge_1.jpg"/></div>
 </div>
+ -->

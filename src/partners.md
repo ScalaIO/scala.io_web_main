@@ -2,6 +2,9 @@
 layout: default
 title: Partners
 ---
+
+TBA 
+<!-- 
 <div class="partners">
 <h1 class="partner-heading">Platinum Sponsor</h1>
 
@@ -93,3 +96,4 @@ title: Partners
 {% endfor %}
 </div>
 </div>
+ -->

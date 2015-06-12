@@ -34,14 +34,14 @@ Workshops are 3 hours long. They aim to teach participant concrete skills about 
 
 The Call for Proposal will:
 
-* Open Tuesday 27th May 2014
-* Close Sunday August 17th, 2014
+* Open Monday 22nd June 2015
+* Close Sunday 2nd August 2015
 * We will disclose few selected talks on rolling basis
 
 <em>Submission</em>
 ----------------
 
-Head over to [cfp.scala.io](http://cfp.scala.io) to create your profile and submit your talk.
+When open, head over to [cfp.scala.io](http://cfp.scala.io) to create your profile and submit your talk.
 
 <em>More information</em>
 ----------------
