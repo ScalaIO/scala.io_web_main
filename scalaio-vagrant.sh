@@ -28,6 +28,7 @@ if [ 0 -eq $? ] ; then
   su -l $USER -c 'cd scalaio;npm install -g bower grunt-cli;cd ..;'
   su -l $USER -c 'cd scalaio;npm install;cd ..;'
   su -l $USER -c 'cd scalaio;bower --config.interactive=false install;cd ..;'
+  su -l $USER -c 'cd scalaio;gem install bundler;cd ..;'
   su -l $USER -c 'cd scalaio;bundle install;cd ..;'
 else
   echo "failed to act as logged $USER"
