@@ -13,7 +13,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   # please see the online documentation at vagrantup.com.
 
   # Every Vagrant virtual environment requires a box to build off of.
-  config.vm.box = "precise64"
+  config.vm.box = "ubuntu-14.04-amd64-vbox.box"
 
   # The URL that the configured box can be found at.
   # If the box is not installed on the system, it will be retrieved from this URL when vagrant up is run.
