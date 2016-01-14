@@ -1,7 +1,7 @@
 {
   "name": "scala.io",
   "version": "0.1.0",
-  "description": "The Scala and FPL friendly event in Paris!",
+  "description": "The Scala and FPL friendly event in France!",
   "author": "Scala.io",
   "devDependencies": {
     "grunt": "~0.4.2",

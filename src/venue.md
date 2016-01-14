@@ -2,11 +2,11 @@
 layout: default
 title: Venue
 ---
-TBA Venue in Paris
+TBA Venue in France
 ==========================================
 
 
-TBA 
+TBA
 
 
 <!-- Last year was sci-fi themed around The Hitchikers Guide to the Galaxy and the magical [’42’](http://www.42.fr/) number. This year we go for charm and a rich history with the _Tapis Rouge_ salons.
