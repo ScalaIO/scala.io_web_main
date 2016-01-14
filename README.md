@@ -4,7 +4,7 @@ Setting up your dev environment
 * Install vagrant (depends on virtualbox)
 * Clone this repository and checkout branch scalaio-2014
 ```
-git clone -b  scalaio-2014 git@github.com:ScalaIO/scala.io_web_main.git
+git clone -b  scalaio-2016 git@github.com:ScalaIO/scala.io_web_main.git
 ```
 * cd into the cloned repository
 * run
