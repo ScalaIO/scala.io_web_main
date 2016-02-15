@@ -137,6 +137,24 @@ $heading-font-family: 'Lato', sans-serif;
       font-size: 12px;
     }
   }
+  .venue{
+    .fa {
+      font-size: larger;
+      padding-right: 10px;      
+    }
+    .maps-venue{
+      @media (max-width: $screen-xs-max) {
+        width:100%;
+        min-height: 450px;
+        height: 450px;
+      }
+      @media (min-width: $screen-md-min) {
+        width:($screen-md-min - 200)/2;
+        min-height: 450px;
+        height: 450px;
+      }
+    }
+  }
 }
 footer {
   width: auto;
