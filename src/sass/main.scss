@@ -140,7 +140,10 @@ $heading-font-family: 'Lato', sans-serif;
   .venue{
     .fa {
       font-size: larger;
-      padding-right: 10px;      
+      padding-right: 10px;
+    }
+    .access-instructions{
+      text-align: justify;
     }
     .maps-venue{
       @media (max-width: $screen-xs-max) {

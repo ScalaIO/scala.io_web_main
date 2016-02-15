@@ -15,7 +15,7 @@ title: Venue
   <div class="col-md-6">
     <iframe class="maps-venue" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50486.319066586424!2d4.802583601888816!3d45.757789676937286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ea977b847259%3A0x9efbb71d73134a76!2sCPE+Lyon!5e0!3m2!1sen!2sfr!4v1455557439697" width="375" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
   </div>
-  <div class="col-md-5">
+  <div class="col-md-5 access-instructions">
     <p><i class="fa fa-plane"></i> The Lyon Saint Exupery International airport is 30 minutes away from Lyon Part-Dieu using <a href="https://www.rhonexpress.fr/" alt="rhone express">Rhone-Express</a>.</p>
     <p>Once at Lyon Part Dieu, switch to T4 heading for La DOUA - I.U.T Feyssine and stop at La Doua - Gaston Berger.</p>
     <p>The T4 departs from the platform right next to the Rhone-Express stop.</p>
