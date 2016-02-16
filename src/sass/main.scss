@@ -56,7 +56,19 @@ $heading-font-family: 'Lato', sans-serif;
     font-size:30px;
     text-align: center;
     line-height:normal;
-    color: #000
+    color: #000;
+    .maps-landing{
+      @media (max-width: $screen-xs-max) {
+
+        width:100%;
+      }
+      @media (min-width: $screen-sm-min) {
+
+        width:50%;
+      }
+      margin-top: 10px;
+      min-height: 450px;
+    }
   }
   .main_text{
     font-size:30px;
