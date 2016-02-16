@@ -59,11 +59,11 @@ $heading-font-family: 'Lato', sans-serif;
     color: #000;
     .maps-landing{
       @media (max-width: $screen-xs-max) {
-
+        max-width: 450px;
         width:100%;
       }
       @media (min-width: $screen-sm-min) {
-
+        min-width: 450px;
         width:50%;
       }
       margin-top: 10px;
