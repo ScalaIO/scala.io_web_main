@@ -132,18 +132,7 @@ $heading-font-family: 'Lato', sans-serif;
     padding-bottom:0px;
     text-align:center;
     align:center;
-    iframe{
-      @media (max-width: $screen-xs-max) {
-        width:100%;
-        min-height: 1000px;
-        height: auto;
-      }
-      @media (min-width: $screen-sm-min) {
-        width:100%;
-        min-height: 700px;
-        height: auto;
-      }
-    }
+    
     .tickets_disclaimer{
       font-style: italic;
       font-size: 12px;
