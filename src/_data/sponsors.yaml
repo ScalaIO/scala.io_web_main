@@ -1,86 +1,20 @@
 platinum:
-  - name: zengularity
-    url: http://www.zengularity.com
-gold:
   - name: ebiznext
     url: http://www.ebiznext.com
-  - name: mfglabs
-    url: http://www.mfglabs.com
-  - name: axa
-    url: http://www.axa-groupsolutions.com
+gold:
+  - name: criteo-labs
+    url: http://labs.criteo.com/
 silver:
-  - name: arolla
-    url: http://www.arolla.fr
-  - name: github
-    url: http://www.github.com
-  - name: soundcloud
-    url: http://www.soundcloud.com
-  - name: captaindash
-    url: http://captaindash.com/
-  - name: teads
-    url: http://teads.tv/
-  - name: crito
-    url: http://www.criteo.com
 mecene:
-  - name: carbon-it
-    url: http://www.carbon-it.fr
-  - name: twitter
-    url: http://about.twitter.com/careers
 friends:
-  - name: typesafe
-    url: http://www.typesafe.com
   - name: clevercloud
     url: http://www.clever-cloud.com
-  - name: lt
-    url: http://www.lateral-thoughts.com
+  - name: goneo
+    url: http://www.goneo-expertise.com
 ug:
-  - name: lyonjug
-    url: http://www.lyonjug.org/
-  - name: duchessefr
-    url: http://www.duchess-france.org/
-  - name: marsjug
-    url: http://marsjug.org/
-  - name: montpellierjug
-    url: http://www.jug-montpellier.org/
-  - name: poitoucharentesjug
-    url: http://www.poitoucharentesjug.org
 sug:
-  - name: bescala
-    url: http://bescala.org
-  - name: krakow
-    url: http://krakowscala.pl
-  - name: playberlin
-    url: http://www.meetup.com/Play-Berlin-Brandenburg/
-  - name: kolnbonn
-    url: http://www.meetup.com/Scala-User-Group-Koln-Bonn/
-  - name: london
-    url: http://www.meetup.com/london-scala
-  - name: geneva
-    url: http://www.meetup.com/Geneva-Scala-Enthusiasts/events/204861442/
-  - name: berlin
-    url: http://www.meetup.com/Scala-Berlin-Brandenburg/
-  - name: czech
-    url: http://www.meetup.com/czech-scala-enthusiasts/
-  - name: amsterdam
-    url: http://www.meetup.com/amsterdam-scala
-  - name: vienna
-    url: http://www.scala-vienna.org/
   - name: paris
-    url: https://groups.google.com/forum/#!forum/paris-scala-user-group
-  - name: stockholm
-    url: http://www.meetup.com/Scala-Stockholm/events/209062812/
-  - name: italy
-    url: https://plus.google.com/communities/107201018445276034960
-  - name: warsaw
-    url: http://warszawscala.pl/en/index.html
+    url: http://www.meetup.com/Paris-Scala-User-Group-PSUG/
 communication:
-  - name: 321idcom
-    url: http://www.321idcom.fr/
   - name: oreilly
     url: http://www.oreilly.com/
-  - name: scalatimes
-    url: http://www.scalatimes.com/
-  - name: aftertheweb
-    url: http://aftertheweb.com/
-  - name: chooseyourboss
-    url: https://www.chooseyourboss.com/?utm_source=scala-io&utm_medium=link&utm_campaign=scala-io

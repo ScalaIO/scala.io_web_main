@@ -3,8 +3,6 @@ layout: default
 title: Partners
 ---
 
-TBA 
-<!-- 
 <div class="partners">
 <h1 class="partner-heading">Platinum Sponsor</h1>
 
@@ -28,6 +26,8 @@ TBA
 {% endfor %}
 </div>
 
+<!--
+
 <h1 class="partner-heading">Silver Sponsors</h1>
 <div class="partners-silver">
 {% for sponsor in site.data.sponsors.silver %}
@@ -50,6 +50,7 @@ TBA
 {% endfor %}
 </div>
 
+-->
 
 <h1 class="partner-heading">Partners</h1>
 <div class="partners-friends">
@@ -96,4 +97,3 @@ TBA
 {% endfor %}
 </div>
 </div>
- -->
