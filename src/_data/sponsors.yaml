@@ -4,6 +4,8 @@ platinum:
 gold:
   - name: criteo-labs
     url: http://labs.criteo.com/
+  - name: teads
+    url: http://teads.tv/
 silver:
 mecene:
 friends:
