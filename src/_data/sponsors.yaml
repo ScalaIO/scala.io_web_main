@@ -6,6 +6,8 @@ gold:
     url: http://labs.criteo.com/
   - name: teads
     url: http://teads.tv/
+  - name: valraiso
+    url: http://www.valraiso.net/
 silver:
 mecene:
 friends:
