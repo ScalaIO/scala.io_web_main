@@ -9,6 +9,8 @@ gold:
   - name: valraiso
     url: http://www.valraiso.net/
 silver:
+  - name: Zenika
+    url: http://zenika.com/
 mecene:
 friends:
   - name: clevercloud

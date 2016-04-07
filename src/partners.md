@@ -26,8 +26,6 @@ title: Partners
 {% endfor %}
 </div>
 
-<!--
-
 <h1 class="partner-heading">Silver Sponsors</h1>
 <div class="partners-silver">
 {% for sponsor in site.data.sponsors.silver %}
@@ -38,6 +36,9 @@ title: Partners
 </div>
 {% endfor %}
 </div>
+
+
+<!--
 
 <h1 class="partner-heading">Mecenes</h1>
 <div class="partners-friends">
