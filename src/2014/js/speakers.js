@@ -26,7 +26,7 @@ scalaioServices.factory('Speakers', ['$resource', function($resource){
     '/json/speakers/:speakerId',
     {speakerId:'@speakerId'},
     {
-      "query":{method:'GET', url:'json/speakers.json', isArray:true}
+      "query":{method:'GET', url:'2014/json/speakers.json', isArray:true}
     }
   );
 }]);
