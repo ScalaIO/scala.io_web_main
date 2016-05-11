@@ -11,6 +11,8 @@ gold:
 silver:
   - name: zenika
     url: http://zenika.com/
+  - name: colisweb
+    url: http://www.colisweb.com/
 mecene:
 friends:
   - name: clevercloud
