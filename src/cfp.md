@@ -4,22 +4,22 @@ title: CFP
 ---
 <em>About</em>
 ----------------
-The annual Scala.IO conference is a place where people can see how others are using Scala language or functional programming languages to solve real world problems; where practitioners meet and collaborate; where language designers and users can share ideas about the future of their favorite languages; and where one can learn practical techniques and approaches for putting functional programming languages to work.
+The annual Scala.IO conference is a place where people can see how others are using Scala or other functional programming languages to solve real   world problems; where practitioners meet and collaborate; where language designers and users can share ideas about the future of their favorite languages; and where one can learn practical techniques and approaches for putting functional programming languages to work.
 
 <em>Giving a Talk at Scala.IO</em>
 ----------------
-If you have experience using Scala or functional programming languages in a practical setting, we invite you to submit a proposal to give a talk at the conference.
-Except for lightning talks, if your submission get accepted you'll get a free pass for the conference (up to 2 speakers).
+If you have experience using Scala or a functional programming languages, we invite you to submit a proposal to give a talk at the conference.
+Except for lightning talks, if your submission gets accepted you'll get a free pass for the conference (up to 2 speakers).
 
-We are looking for 3 kinds of talks:
-
-### Conference (45 minutes)
-
-Long talks are around 45 minutes long, and should focus on teaching the audience something about a particular technique or methodology, from the point of view of someone who has seen it played out in practice. These talks could cover anything from techniques for building functional concurrent applications, to managing dynamic reconfigurations, to design recipes for using types effectively in large-scale applications. While these talks will often be based on a Scala language, they should be accessible to a broad range of programmers.
+<em>Kind of talks</em>
 
 ### Short Conference (20 minutes)
 
 Normal technical or report are typically 20 minutes long. They aim to inform participants about how Scala or a functional programming language plays out in real-world applications, focusing especially on lessons learned and insights gained. Experience reports do not need to be highly technical; reflections on the commercial, management, or software engineering aspects are, if anything, more important.
+
+### Conference (45 minutes)
+
+Long talks are around 45 minutes long, and should focus on teaching the audience something about a particular technique or methodology, from the point of view of someone who has seen it played out in practice. These talks could cover anything from techniques for building functional concurrent applications, to managing dynamic reconfigurations, to design recipes for using types effectively in large-scale applications. These talks should be accessible to a broad range of programmers.
 
 ### Lightning talks (10 minutes - during lunch)
 
@@ -29,14 +29,36 @@ Lightning talks are a great way to introduce a subject you like or deeply care a
 
 Workshops are 3 hours long. They aim to teach participant concrete skills about Scala usage. Workshops are essentially practical sessions. Participants are expected to practice in live, on their own laptop or a computer provided by Scala.io (if available). Workshops also are intended for the participants to share with the speakers. Workshops will require a specific planning and setup (we are working on it), we will contact you for organisation details.
 
+<em>Talks subjects</em>
+
+In the CFP application speakers will be asked to choose a category or "track" for their talks. This section gives some guidance on how to match your talk with the following categories. The categories are mostly here to help attendees make a quicker selection and for the cfp team to get a balanced content.
+Don't fret too much on finding the right category if you think your talk matches multiple categories. Just choose what you feel is the best match. The cfp team will discuss ambiguous proposals with the speaker(s) if needed.
+
+### Scala & ecosystem (scala, librarires, new projects, retours d'experience,etc)
+Of course Scala.IO has a special place for scala and the related ecosystem of libraries and projects. Talks presenting new scala features, scala tooling news, new libraries or experience summaries with using scala at work should probably go there.
+
+### Functional Languages
+Scala.IO is not only about scala. We consider that the scala and functional programming communities have a lot in common and can learn a lot from each other. Therefore talks presenting concepts or ideas or idiomatic ways to solve problems in other languages are welcome in this section.
+
+### Typelevel Functional programming
+Talks focusing on advanced scala features, meta programming with macros, complext type manipulation and computation, new type techniques, advanced functional programming and supporting libraries.
+
+### Big data / Machine learning
+Big data and machine learning are a big driver of the scala ecosystem. Spark based of course but also NLP and immutable graph processing, scaling architectures, etc, are probably a good fit for this category.
+
+### Scala University
+This is new this year, we have met many developers who have looked / are looking at scala but are unsure how to get started with it at work, how to introduce it to their team. This category is to create a "getting started" track for these people : from the scala basics to starting your project, how to integrate scala and the scala tests frameworks in a java project, how to organise a scala code base, which frameworks/libs can help bootstrap your use of scala, how to get started with functional programming, common patterns in scala, etc.
+Help us turn enthousiasts into evangelists ! :)
+
+
 <em>Timeline</em>
 ----------------
 
 The Call for Proposal will:
 
-* Open Monday 22nd June 2015
-* Close Sunday 2nd August 2015
-* We will disclose few selected talks on rolling basis
+* Open Wednesday 18th May 2016
+* Close Sunday 4th September 2016
+* We will disclose the selected talks on rolling basis
 
 <em>Submission</em>
 ----------------
