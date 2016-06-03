@@ -10,6 +10,10 @@ gold:
     url: http://www.valraiso.net/
   - name: lunatech
     url: http://lunatech.com/
+  - name: tabmo
+    url: http://tabmo.io/
+  - name: zengularity
+    url: http://www.zengularity.com/
 silver:
   - name: zenika
     url: http://zenika.com/
