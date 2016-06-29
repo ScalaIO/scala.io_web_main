@@ -34,7 +34,7 @@ Workshops are 3 hours long. They aim to teach participant concrete skills about 
 In the CFP application speakers will be asked to choose a category or "track" for their talks. This section gives some guidance on how to match your talk with the following categories. The categories are mostly here to help attendees make a quicker selection and for the cfp team to get a balanced content.
 Don't fret too much on finding the right category if you think your talk matches multiple categories. Just choose what you feel is the best match. The cfp team will discuss ambiguous proposals with the speaker(s) if needed.
 
-#### Scala & ecosystem (scala, librarires, new projects, retours d'experience,etc)
+#### Scala & ecosystem (scala, libraries, new projects, feedbacks, etc)
 Of course Scala.IO has a special place for scala and the related ecosystem of libraries and projects. Talks presenting new scala features, scala tooling news, new libraries or experience summaries with using scala at work should probably go there.
 
 #### Functional Languages
