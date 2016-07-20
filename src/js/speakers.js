@@ -23,14 +23,14 @@ scalaio.filter('unsafe', function($sce) {
 var scalaioServices=angular.module('scalaioServices', ['ngResource']);
 scalaioServices.factory('Speakers', ['$resource', function($resource){
   return $resource(
-    'http://cfp.scala.io/api/conferences/scalaIOFR2014/speakers/:speakerId',
+    'http://cfp.scala.io/api/conferences/ScalaIOFR2016/speakers/:speakerId',
     {speakerId:'@speakerId'},
     {}
   );
 }]);
 scalaioServices.factory('Talks', ['$resource', function($resource){
   return $resource(
-    'http://cfp.scala.io/api/conferences/scalaIOFR2014/speakers/:speakerId',
+    'http://cfp.scala.io/api/conferences/ScalaIOFR2016/speakers/:speakerId',
     {speakerId:'@speakerId'},
     {}
   );
@@ -40,7 +40,7 @@ scalaio.controller('SpeakersCtrl',['$scope','$location', 'Speakers','$rootScope'
   if(!$scope.speakerGroups){
   Speakers.query(function(data){
     $scope.speakerGroups = $scope.grouped(6, data);
-    $rootScope.speakerGroups = $scope.speakerGroups;    
+    $rootScope.speakerGroups = $scope.speakerGroups;
   });
   }
   $scope.showSpeaker = function(speakerId){
