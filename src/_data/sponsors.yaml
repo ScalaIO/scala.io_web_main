@@ -21,6 +21,8 @@ silver:
     url: http://zenika.com/
   - name: colisweb
     url: http://www.colisweb.com/
+  - name: fyber
+    url: http://www.fyber.com/
 mecene:
 friends:
   - name: clevercloud
