@@ -32,9 +32,11 @@ friends:
   - name: oreilly
     url: http://www.oreilly.com/
 ug:
-  - name: kolnbonn
-    url: http://www.meetup.com/Scala-User-Group-Koln-Bonn/
+  - name: duchessefr
+    url: http://www.duchess-france.org/
 sug:
   - name: paris
     url: http://www.meetup.com/Paris-Scala-User-Group-PSUG/
+  - name: kolnbonn
+    url: http://www.meetup.com/Scala-User-Group-Koln-Bonn/
 communication:
