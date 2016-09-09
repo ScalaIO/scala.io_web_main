@@ -39,6 +39,8 @@ sug:
     url: http://www.meetup.com/Paris-Scala-User-Group-PSUG/
   - name: kolnbonn
     url: http://www.meetup.com/Scala-User-Group-Koln-Bonn/
- - name: bescala
+  - name: bescala
     url: http://bescala.org
+  - name: amsterdam
+    url: http://www.meetup.com/amsterdam-scala
 communication:
