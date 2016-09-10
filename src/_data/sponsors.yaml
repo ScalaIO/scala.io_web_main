@@ -43,4 +43,6 @@ sug:
     url: http://bescala.org
   - name: amsterdam
     url: http://www.meetup.com/amsterdam-scala
+  - name: romandie
+    url: http://www.meetup.com/Scala-Romandie/
 communication:
