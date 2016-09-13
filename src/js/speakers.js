@@ -23,14 +23,14 @@ scalaio.filter('unsafe', function($sce) {
 var scalaioServices=angular.module('scalaioServices', ['ngResource']);
 scalaioServices.factory('Speakers', ['$resource', function($resource){
   return $resource(
-    'http://cfp.scala.io/api/conferences/ScalaIOFR2016/speakers/:speakerId',
+    'http://localhost:9000/api/conferences/ScalaIOFR2016/speakers/:speakerId',
     {speakerId:'@speakerId'},
     {}
   );
 }]);
 scalaioServices.factory('Talks', ['$resource', function($resource){
   return $resource(
-    'http://cfp.scala.io/api/conferences/ScalaIOFR2016/speakers/:speakerId',
+    'http://localhost:9000/api/conferences/ScalaIOFR2016/speakers/:speakerId',
     {speakerId:'@speakerId'},
     {}
   );
