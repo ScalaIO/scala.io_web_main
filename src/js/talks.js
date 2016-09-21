@@ -26,8 +26,10 @@ scalaioServices.factory('Talks', ['$resource', function($resource){
   );
 }]);
 scalaio.controller('TalksCtrl',['$scope','$location', 'Talks','$anchorScroll', function($scope,$location, Talks,$anchorScroll) {
+  
   Talks.query(function(data){
     $scope.talks = data;
+
   });
   $scope.hasNoCompany=function(speaker){
     return !speaker || !speaker.company || speaker.company.trim() =="" || speaker.company.trim() =="-" || speaker.company.trim() ==" -"
