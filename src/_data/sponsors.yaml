@@ -31,6 +31,8 @@ friends:
     url: http://www.goneo-expertise.com
   - name: oreilly
     url: http://www.oreilly.com/
+  - name: scalac
+    url: https://scalac.io
 tshirt:
   name: lightbend
   url: http://www.lightbend.com/    
