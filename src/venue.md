@@ -31,6 +31,6 @@ title: Venue
 <div class="row">
   <div class="col-md-12">
     <h2><em>Hotels</em></h2>
-    Coming soon...
+    We haven't been able to negociate an interesting group deal, you can check the <a href="https://www.google.fr/maps/search/hotel/@45.7839423,4.8602593,15z/data=!3m1!4b1">Hotels around the venue</a>
   </div>
 </div>
