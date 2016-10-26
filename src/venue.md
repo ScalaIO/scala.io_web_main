@@ -23,7 +23,7 @@ title: Venue
     <p><i class="fa fa-train"></i> CPE is a few stops away from the Lyon Part-Dieu train station using tram T1 or tram T4, heading for La DOUA - I.U.T Feyssine and stop at La Doua - Gaston Berger. (10-15 minutes).</p>
 
     <p><i class="fa fa-car"></i> Use the following address for your GPS :</p>
-     <p>43 Boulevard du 11 Novembre 1918, 69100 Villeurbanne.</p>
+     <p>CPE or 3 rue victor grignard, 69100 Villeurbanne.</p>
      </p> There should be enough parking space around the school.</p>
     <p><i class="fa fa-bicycle"></i> For the healthiest of us, there are numerous bike rental stations around and there is one very close to the CPE School (Velo'v DOUA/ Avenue des arts).</p>
   </div>
