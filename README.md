@@ -2,9 +2,9 @@ Setting up your dev environment
 ==========
 
 * Install vagrant (depends on virtualbox)
-* Clone this repository and checkout branch scalaio-2014
+* Clone this repository and checkout branch scalaio-2017
 ```
-git clone -b  scalaio-2016 git@github.com:ScalaIO/scala.io_web_main.git
+git clone -b  scalaio-2017 git@github.com:ScalaIO/scala.io_web_main.git
 ```
 * cd into the cloned repository
 * run
@@ -13,9 +13,9 @@ vagrant up
 vagrant ssh
 ````
 
-You should now have a VM with all the necessary tools* installed to generate the scalaio website
+You should now have a VM with all the necessary tools* installed to generate the ScalaIO website
 * node, grunt,bower, ruby, bundler. In case something goes wrong, as long as you have those 6, running `bower install`
-  and `bundle install` should install anything missing. 
+  and `bundle install` should install anything missing.
 
 
 Working on scalaio's website
