@@ -3,7 +3,7 @@ layout: default
 title: Venue
 ---
 
-<h2>Scala.IO will be held in the CPE School in Lyon, France</h2>
+<h2>ScalaIO will be held in the CPE School in Lyon, France</h2>
 <p>The venue, while less flashy than the last parisian venue is great for 300-500 people and perfectly equipped for conferences and hosts other international conferences.</p>
 <p>Should you have the time, we recommend extending your stay in Lyon beyond the conference to enjoy the city. It is famous all over the world for it's gastronomy and quality of life. It is also a large UNESCO World Heritage Site including Roman vestiges and still used Renaissance building and passageways.</p>
 
