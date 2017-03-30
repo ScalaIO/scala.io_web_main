@@ -4,7 +4,7 @@ title: Code of conduct
 ---
 # Code of conduct
 
-Scala.io is an all-ages event for people from many different backgrounds. We
+ScalaIO is an all-ages event for people from many different backgrounds. We
 expect presenters, exhibitors, and attendees to help make scala.io enjoyable
 for everyone, regardless of age, gender, sexuality, religious or ethnic
 identity, or ability.
@@ -13,7 +13,7 @@ identity, or ability.
 
 Please show respect for all attendees. In particular:
 
-- Offensive behaviour such as verbal abuse, intimidation, or harrassment will
+- Offensive behavior such as verbal abuse, intimidation, or harassment will
   not be tolerated.
 - Remember that all our attendees are here for similar reasons, and do not
   make assumptions about anyone's interests, skill level, or profession based
@@ -27,7 +27,7 @@ Please show respect for all attendees. In particular:
 
 ## *Speakers*
 
-Please ensure that your presentation does not stigmatise, alienate, or marginalise any individual or group. In particular:
+Please ensure that your presentation does not stigmatize, alienate, or marginalize any individual or group. In particular:
 
 - Keep your slide deck G-rated.
 - Anything beyond the occasional mild cuss word is not appropriate.
@@ -38,21 +38,21 @@ Please ensure that your presentation does not stigmatise, alienate, or marginali
 ## *Exhibitors*
 
 Scala.io is an all-ages, mixed-gender event. Please make sure your booth and
-party can be enjoyed by everyone. In particular, overtly sexualised booths or
+party can be enjoyed by everyone. In particular, overtly sexualized booths or
 parties, including "booth babes" or hired entertainers in provocative/sexy
 attire, are not appropriate.
 
 ## *Please contact us*
 
-To discuss any incidents or behaviour in violation of this code of conduct,
-please contact one of the organisers, at the booth, by phone or by email.
+To discuss any incidents or behavior in violation of this code of conduct,
+please contact one of the organizers, at the booth, by phone or by email.
 
 We will take any complaints seriously, and respond appropriately. Attendees,
 speakers, or exhibitors who violate this Code of Conduct may be asked to
-remedy their behaviour, apologise, leave the event, or may be banned from
+remedy their behavior, apologize, leave the event, or may be banned from
 future events.
 
 If you're unsure whether your presentation, booth, or party will be enjoyed by
-all, please check with the organisers: <cfp@scala.io>.
+all, please check with the organizers: <cfp@scala.io>.
 
 This code of conduct is adapted from <http://geekfeminism.wikia.com/wiki/Event_Guidelines>

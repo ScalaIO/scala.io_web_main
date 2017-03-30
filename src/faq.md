@@ -1,10 +1,10 @@
 ---
 layout: default
-title: F.A.Q.
+title: FAQ
 ---
 
 # Frequently Asked Questions
-<!-- 
+<!--
 <em>Who is behind the 2014 Scala.IO?</em>
 -------------------------
 
@@ -53,7 +53,7 @@ You should not be worried if you speak English. We will try to make your journey
 <em>Will there be something special for the Scala User Groups?</em>
 ---------------------------
 
-We would love to organise a special meetup at Scala.IO with all Scala User Groups. If you’re interested or want to propose a funky idea, feel free to contact us at [sug@scala.io](mailto:sug@scala.io).
+We would love to organise a special meetup at ScalaIO with all Scala User Groups. If you’re interested or want to propose a funky idea, feel free to contact us at [sug@scala.io](mailto:sug@scala.io).
 
 <em>How do you spend the money?</em>
 ---------------------------
