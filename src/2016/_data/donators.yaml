@@ -1,0 +1,22 @@
+ScalaIO2014:
+  - name: Andy HICKS
+    twitter: andy1138
+    avatar: https://pbs.twimg.com/profile_images/860854453/twitterProfilePhoto.jpg
+    company: Freelance
+  - name: Emmanuel FELLER
+    twitter: moyowi
+    avatar: https://pbs.twimg.com/profile_images/440525886916292608/3SvkyrDE.jpeg
+    company: innovation-box.fr
+  - name: Guillaume Badin
+    twitter: guillaumebadin
+    avatar: https://pbs.twimg.com/profile_images/441972902775103491/P1jBTmCx.png
+    company: ubilab.io
+ScalaIO2016:
+  - name: Emmanuel FELLER
+    twitter: moyowi
+    avatar: https://pbs.twimg.com/profile_images/440525886916292608/3SvkyrDE.jpeg
+    company: innovation-box.fr
+  - name: Andy HICKS
+    twitter: andy1138
+    avatar: https://pbs.twimg.com/profile_images/860854453/twitterProfilePhoto.jpg
+    company: Freelance
