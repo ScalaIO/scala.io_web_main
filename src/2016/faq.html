@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Speakers</title>
+    <title>F.A.Q.</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/png" href="assets/images/favicon.png">
     <meta name="google-site-verification" content="q9kbd8zzwYSnxUFM9WZZLgJ9NMvqrT-VWv9t449Wsic" />
@@ -62,47 +62,67 @@
   <div class="container">
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1">
-        <div ng-app="scalaio">
-  <h3><em><a ng-href="#/" class="speaker-list-link">Full speaker list</a></em></h3>
-  <hr/>
-  <div class="speakers" id="speakers" ng-view >Loading...</div>
+        <h1>Frequently Asked Questions</h1>
 
+<!-- 
+<em>Who is behind the 2014 Scala.IO?</em>
+-------------------------
 
-  
-    <script id="speakers-template" type="text/ng-template">
-      <div class="speaker_row" ng-repeat="speakers in speakerGroups">
-        <div class="speaker" speakerId="{{speaker.uuid}}" ng-repeat="speaker in speakers" ng-click="showSpeaker(speaker.uuid)">
-          <img class="avatar" ng-src="{{speaker.avatarURL}}" id="{{speaker.uuid}}"></img>
-          <p class="name">{{speaker.firstName}} {{speaker.lastName}}</p>
-          <hr/>
-        </div>
-      </div>
-    </script>
+Core
 
-    <script id="speaker-bio-template" type="text/ng-template">
-    <div class="row">
-      <div class="speaker_bio">
-        <h1 class="name">{{speaker.firstName}} {{speaker.lastName}}
-        <span class="details">
-        <a href="http://twitter.com/{{speaker.twitter}}" ng-show="!hasNoTwitter(speaker)"><i class="fa fa-twitter"></i></a>
-        <span class="company" ng-show="!hasNoCompany(speaker)"> - {{speaker.company}}</span>
-        </span>
-        </h1>
-        <div class="bio" ng-bind-html="speakerBio"> </div>
-        <hr/>
-        <h2>Talks</h2>
-        <div ng-repeat="talk in speaker.acceptedTalks">
-          <ul class="talks">
-            <li class="talk" style="background-image: url(assets/images/country/{{talk.talkLang}}.svg);"><h3>{{talk.title}}</h3>
-            <p class="details"> {{talk.talkType}} | {{talk.track}} |  <span class="{{talk.audienceLevel}}">{{talk.audienceLevel}}</span> </p>
-            <div ng-bind-html="talk.summaryAsHtml | unsafe"></div></li>
-          </ul>
-        </div>
-      </div>
-      </div>
-    </script>
-  
-</div>
+* Alexis Agahi ([@aagahi](http://twitter.com/aagahi))
+* Jean Helou ([@jeanhelou](http://twitter.com/jeanhelou))
+* Jonathan Winandy ([@ahoy_jon](http://twitter.com/ahoy_jon))
+* Olivier Girardot ([@ogirardot](http://twitter.com/ogirardot))
+
+CFP and Staff
+
+* Benoit Lemoine ([@benoit_lemoine](http://twitter.com/benoit_lemoine))
+* Clement Delafargue ([@clementd](http://twitter.com/clementd))
+* Francois Garillot ([@huitseeker ](http://twitter.com/huitseeker ))
+* Gabriel Kastenbaum ([@lambdadevfr](http://twitter.com/lambdadevfr))
+* Mathieu Chataigner ([@mchataigner](http://twitter.com/mchataigner))
+* Sam Bessalah ([@samklr](http://twitter.com/samklr))
+
+Staff
+
+* Geoffroy Couprie ([@gcouprie](http://twitter.com/gcouprie))
+* Iulian Dragoș ([@jaguarul](https://twitter.com/jaguarul))
+* Przemek Piotrowski ([@ppiotrow](http://twitter.com/ppiotrow))
+* Piotr Trzpil ([@PiotrTrzpil1](http://twitter.com/PiotrTrzpil1))
+* Mateusz Górski ([@goral09](http://twitter.com/goral09)
+* Quentin Adam ([@waxzce](http://twitter.com/waxzce))
+* Thibaut Nazare ([@tnazare](http://twitter.com/tnazare))
+
+Operations/Communications
+
+* Karine Vacca ([3-2-1 idCom](http://www.321idcom.fr)) -->
+
+<h2><em>Is there a Code of Conduct</em></h2>
+
+<p>Yes, there is a <a href="/code-of-conduct.html">Code of Conduct</a></p>
+
+<h2><em>Are you cool?</em></h2>
+
+<p>Yes we are!</p>
+
+<h2><em>Do I need to speak French?</em></h2>
+
+<p>You should not be worried if you speak English. We will try to make your journey as smooth as possible.</p>
+
+<h2><em>Will there be something special for the Scala User Groups?</em></h2>
+
+<p>We would love to organise a special meetup at Scala.IO with all Scala User Groups. If you’re interested or want to propose a funky idea, feel free to contact us at <a href="mailto:sug@scala.io">sug@scala.io</a>.</p>
+
+<h2><em>How do you spend the money?</em></h2>
+
+<p>The conference is non-profit, organized by volunteers from the French Scala users community. The money from tickets sales and sponsors is used solely to pay for the conference hall, the food, the technical setup (speaker amplification, video projectors, video recording), some swag, and as much T&amp;E covering as possible for speakers who can&#39;t get backing from a company. Should money remain after the conference, it will be used to further compensate speakers. In the event that there would still be some money left afterward, it would be used for the next ScalaIO.</p>
+
+<p>Contact us at <a href="mailto:contact@scala.io">contact@scala.io</a> if you want more information.</p>
+
+<h2><em>Any other questions?</em></h2>
+
+<p>Contact us at <a href="mailto:contact@scala.io">contact@scala.io</a> and we’ll try to help you as much as possible.</p>
 
       </div>
     </div>
@@ -169,12 +189,6 @@
     </div> <!-- base -->
   </footer>
   <script src="js/vendor.js"></script>
-  
-  
-    <script src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.3.0/handlebars.min.js"></script>
-  
-    <script src="js/speakers.js"></script>
-  
   
   <script type="text/javascript" src="js/mailchimp.js"></script>
   <script>

@@ -20,7 +20,7 @@ scalaio.filter('unsafe', function($sce) {
 var scalaioServices=angular.module('scalaioServices', ['ngResource']);
 scalaioServices.factory('Talks', ['$resource', function($resource){
   return $resource(
-    'http://cfp.scala.io/api/conferences/ScalaIOFR2016/talks/:speakerId',
+    'talks.json',
     {talkId:'@talkId'},
     {}
   );

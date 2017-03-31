@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Speakers</title>
+    <title>Partners</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/png" href="assets/images/favicon.png">
     <meta name="google-site-verification" content="q9kbd8zzwYSnxUFM9WZZLgJ9NMvqrT-VWv9t449Wsic" />
@@ -62,47 +62,189 @@
   <div class="container">
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1">
-        <div ng-app="scalaio">
-  <h3><em><a ng-href="#/" class="speaker-list-link">Full speaker list</a></em></h3>
-  <hr/>
-  <div class="speakers" id="speakers" ng-view >Loading...</div>
+        <div class="partners">
+<h1 class="partner-heading">Platinum Sponsor</h1>
 
 
-  
-    <script id="speakers-template" type="text/ng-template">
-      <div class="speaker_row" ng-repeat="speakers in speakerGroups">
-        <div class="speaker" speakerId="{{speaker.uuid}}" ng-repeat="speaker in speakers" ng-click="showSpeaker(speaker.uuid)">
-          <img class="avatar" ng-src="{{speaker.avatarURL}}" id="{{speaker.uuid}}"></img>
-          <p class="name">{{speaker.firstName}} {{speaker.lastName}}</p>
-          <hr/>
-        </div>
-      </div>
-    </script>
-
-    <script id="speaker-bio-template" type="text/ng-template">
-    <div class="row">
-      <div class="speaker_bio">
-        <h1 class="name">{{speaker.firstName}} {{speaker.lastName}}
-        <span class="details">
-        <a href="http://twitter.com/{{speaker.twitter}}" ng-show="!hasNoTwitter(speaker)"><i class="fa fa-twitter"></i></a>
-        <span class="company" ng-show="!hasNoCompany(speaker)"> - {{speaker.company}}</span>
-        </span>
-        </h1>
-        <div class="bio" ng-bind-html="speakerBio"> </div>
-        <hr/>
-        <h2>Talks</h2>
-        <div ng-repeat="talk in speaker.acceptedTalks">
-          <ul class="talks">
-            <li class="talk" style="background-image: url(assets/images/country/{{talk.talkLang}}.svg);"><h3>{{talk.title}}</h3>
-            <p class="details"> {{talk.talkType}} | {{talk.track}} |  <span class="{{talk.audienceLevel}}">{{talk.audienceLevel}}</span> </p>
-            <div ng-bind-html="talk.summaryAsHtml | unsafe"></div></li>
-          </ul>
-        </div>
-      </div>
-      </div>
-    </script>
-  
+<div class="partner-platinum span-platinum">
+  <a href="http://www.ebiznext.com">
+    <img src="assets/images/partners/platinum/logo-ebiznext.png" alt="Logo ebiznext">
+  </a>
 </div>
+
+<h1 class="partner-heading">Gold Sponsors</h1>
+
+<div class="partners-gold">
+
+<div class="partner-gold">
+  <a href="http://labs.criteo.com/">
+    <img src="assets/images/partners/gold/logo-criteo-labs.png" alt="Logo criteo-labs">
+  </a>
+</div>
+
+<div class="partner-gold">
+  <a href="http://teads.tv/">
+    <img src="assets/images/partners/gold/logo-teads.png" alt="Logo teads">
+  </a>
+</div>
+
+<div class="partner-gold">
+  <a href="http://www.valraiso.net/">
+    <img src="assets/images/partners/gold/logo-valraiso.png" alt="Logo valraiso">
+  </a>
+</div>
+
+<div class="partner-gold">
+  <a href="http://lunatech.com/">
+    <img src="assets/images/partners/gold/logo-lunatech.png" alt="Logo lunatech">
+  </a>
+</div>
+
+<div class="partner-gold">
+  <a href="http://hawk-platform.io/">
+    <img src="assets/images/partners/gold/logo-tabmo.png" alt="Logo tabmo">
+  </a>
+</div>
+
+<div class="partner-gold">
+  <a href="http://www.zengularity.com/">
+    <img src="assets/images/partners/gold/logo-zengularity.png" alt="Logo zengularity">
+  </a>
+</div>
+
+<div class="partner-gold">
+  <a href="http://mfglabs.com/">
+    <img src="assets/images/partners/gold/logo-mfglabs.png" alt="Logo mfglabs">
+  </a>
+</div>
+
+<p></div></p>
+
+<h1 class="partner-heading">Silver Sponsors</h1>
+
+<div class="partners-silver">
+
+<div class="partner-silver">
+  <a href="http://zenika.com/">
+      <img src="assets/images/partners/silver/logo-zenika.png" alt="Logo zenika">
+  </a>
+</div>
+
+<div class="partner-silver">
+  <a href="http://www.colisweb.com/">
+      <img src="assets/images/partners/silver/logo-colisweb.png" alt="Logo colisweb">
+  </a>
+</div>
+
+<div class="partner-silver">
+  <a href="http://www.fyber.com/">
+      <img src="assets/images/partners/silver/logo-fyber.png" alt="Logo fyber">
+  </a>
+</div>
+
+<p></div></p>
+
+<h1 class="partner-heading">T-Shirt sponsor</h1>
+
+<div class="partners-friends">
+  <div class="partner-tshirt span-tshirt">
+    <a href="http://www.lightbend.com/">
+      <img src="assets/images/partners/tshirt/logo-lightbend.png" alt="Logo lightbend">
+    </a>
+  </div>
+</div>
+
+<h1 class="partner-heading">Partners</h1>
+
+<div class="partners-friends">
+
+<div class="partner-friends span-friends">
+  <a href="http://www.clever-cloud.com">
+      <img src="assets/images/partners/friends/logo-clevercloud.png" alt="Logo clevercloud">
+  </a>
+</div>
+
+<div class="partner-friends span-friends">
+  <a href="http://www.goneo-expertise.com">
+      <img src="assets/images/partners/friends/logo-goneo.png" alt="Logo goneo">
+  </a>
+</div>
+
+<div class="partner-friends span-friends">
+  <a href="http://www.oreilly.com/">
+      <img src="assets/images/partners/friends/logo-oreilly.png" alt="Logo oreilly">
+  </a>
+</div>
+
+<div class="partner-friends span-friends">
+  <a href="https://scalac.io">
+      <img src="assets/images/partners/friends/logo-scalac.png" alt="Logo scalac">
+  </a>
+</div>
+
+<p></div></p>
+
+<h1 class="partner-heading">Scala User Groups</h1>
+
+<div class="partners-friends">
+
+<div class="partner-ug">
+  <a href="http://www.meetup.com/Paris-Scala-User-Group-PSUG/">
+      <img src="assets/images/partners/sug/logo-paris.png" alt="Logo paris">
+  </a>
+</div>
+
+<div class="partner-ug">
+  <a href="http://www.meetup.com/Scala-User-Group-Koln-Bonn/">
+      <img src="assets/images/partners/sug/logo-kolnbonn.png" alt="Logo kolnbonn">
+  </a>
+</div>
+
+<div class="partner-ug">
+  <a href="http://bescala.org">
+      <img src="assets/images/partners/sug/logo-bescala.png" alt="Logo bescala">
+  </a>
+</div>
+
+<div class="partner-ug">
+  <a href="http://www.meetup.com/amsterdam-scala">
+      <img src="assets/images/partners/sug/logo-amsterdam.png" alt="Logo amsterdam">
+  </a>
+</div>
+
+<div class="partner-ug">
+  <a href="http://www.meetup.com/Scala-Romandie/">
+      <img src="assets/images/partners/sug/logo-romandie.png" alt="Logo romandie">
+  </a>
+</div>
+
+<div class="partner-ug">
+  <a href="http://www.meetup.com/ScalaWAW/">
+      <img src="assets/images/partners/sug/logo-scalawaw.png" alt="Logo scalawaw">
+  </a>
+</div>
+
+<p></div></p>
+
+<h1 class="partner-heading">User Groups</h1>
+
+<div class="partners-friends">
+
+<div class="partner-ug">
+  <a href="http://www.duchess-france.org/">
+      <img src="assets/images/partners/ug/logo-duchessefr.png" alt="Logo duchessefr">
+  </a>
+</div>
+
+<p></div></p>
+
+<h1 class="partner-heading">Communication</h1>
+
+<div class="partners-friends">
+
+</div>
+
+<p></div></p>
 
       </div>
     </div>
@@ -169,12 +311,6 @@
     </div> <!-- base -->
   </footer>
   <script src="js/vendor.js"></script>
-  
-  
-    <script src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.3.0/handlebars.min.js"></script>
-  
-    <script src="js/speakers.js"></script>
-  
   
   <script type="text/javascript" src="js/mailchimp.js"></script>
   <script>

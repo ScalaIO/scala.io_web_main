@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Speakers</title>
+    <title>CFP</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/png" href="assets/images/favicon.png">
     <meta name="google-site-verification" content="q9kbd8zzwYSnxUFM9WZZLgJ9NMvqrT-VWv9t449Wsic" />
@@ -30,7 +30,7 @@
          <li><a href="schedule.html">Schedule</a></li>
          <li><a href="speakers.html">Speakers</a></li>
          <li><a href="partners.html">Partners</a></li>
-         <!-- <li><a href="./sponsors_word.html">Partners Interviews</a></li> -->
+         <!-- <li><a href="./sponsors_word.html">Partners Interviews</a></li> -->          
            <li><a href="cfp.html">CFP</a></li>
            <li><a href="faq.html">F.A.Q.</a></li>
            <li><a href="sponsorship.html">Sponsorship</a></li>
@@ -62,47 +62,88 @@
   <div class="container">
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1">
-        <div ng-app="scalaio">
-  <h3><em><a ng-href="#/" class="speaker-list-link">Full speaker list</a></em></h3>
-  <hr/>
-  <div class="speakers" id="speakers" ng-view >Loading...</div>
+        <h2><em>About</em></h2>
 
+<p>The annual Scala.IO conference is a place where people can see how others are using Scala or other functional programming languages to solve real   world problems; where practitioners meet and collaborate; where language designers and users can share ideas about the future of their favorite languages; and where one can learn practical techniques and approaches for putting functional programming languages to work.</p>
 
-  
-    <script id="speakers-template" type="text/ng-template">
-      <div class="speaker_row" ng-repeat="speakers in speakerGroups">
-        <div class="speaker" speakerId="{{speaker.uuid}}" ng-repeat="speaker in speakers" ng-click="showSpeaker(speaker.uuid)">
-          <img class="avatar" ng-src="{{speaker.avatarURL}}" id="{{speaker.uuid}}"></img>
-          <p class="name">{{speaker.firstName}} {{speaker.lastName}}</p>
-          <hr/>
-        </div>
-      </div>
-    </script>
+<h2><em>Giving a Talk at Scala.IO</em></h2>
 
-    <script id="speaker-bio-template" type="text/ng-template">
-    <div class="row">
-      <div class="speaker_bio">
-        <h1 class="name">{{speaker.firstName}} {{speaker.lastName}}
-        <span class="details">
-        <a href="http://twitter.com/{{speaker.twitter}}" ng-show="!hasNoTwitter(speaker)"><i class="fa fa-twitter"></i></a>
-        <span class="company" ng-show="!hasNoCompany(speaker)"> - {{speaker.company}}</span>
-        </span>
-        </h1>
-        <div class="bio" ng-bind-html="speakerBio"> </div>
-        <hr/>
-        <h2>Talks</h2>
-        <div ng-repeat="talk in speaker.acceptedTalks">
-          <ul class="talks">
-            <li class="talk" style="background-image: url(assets/images/country/{{talk.talkLang}}.svg);"><h3>{{talk.title}}</h3>
-            <p class="details"> {{talk.talkType}} | {{talk.track}} |  <span class="{{talk.audienceLevel}}">{{talk.audienceLevel}}</span> </p>
-            <div ng-bind-html="talk.summaryAsHtml | unsafe"></div></li>
-          </ul>
-        </div>
-      </div>
-      </div>
-    </script>
-  
-</div>
+<p>If you have experience using Scala or a functional programming languages, we invite you to submit a proposal to give a talk at the conference.
+Except for lightning talks, if your submission gets accepted you&#39;ll get a free pass for the conference (up to 2 speakers).</p>
+
+<h3>Kind of talks</h3>
+
+<h4>Short Conference (20 minutes)</h4>
+
+<p>Normal technical or report are typically 20 minutes long. They aim to inform participants about how Scala or a functional programming language plays out in real-world applications, focusing especially on lessons learned and insights gained. Experience reports do not need to be highly technical; reflections on the commercial, management, or software engineering aspects are, if anything, more important.</p>
+
+<h4>Conference (45 minutes)</h4>
+
+<p>Long talks are around 45 minutes long, and should focus on teaching the audience something about a particular technique or methodology, from the point of view of someone who has seen it played out in practice. These talks could cover anything from techniques for building functional concurrent applications, to managing dynamic reconfigurations, to design recipes for using types effectively in large-scale applications. These talks should be accessible to a broad range of programmers.</p>
+
+<h4>Lightning talks (10 minutes - during lunch)</h4>
+
+<p>Lightning talks are a great way to introduce a subject you like or deeply care about to a smaller audience. They are an opportunity for every speakers to communicate at a more personnal level.</p>
+
+<h4>Workshop (3h00)</h4>
+
+<p>Workshops are 3 hours long. They aim to teach participant concrete skills about Scala usage. Workshops are essentially practical sessions. Participants are expected to practice in live, on their own laptop or a computer provided by Scala.io (if available). Workshops also are intended for the participants to share with the speakers. Workshops will require a specific planning and setup (we are working on it), we will contact you for organisation details.</p>
+
+<h3>Talks subjects</h3>
+
+<p>In the CFP application speakers will be asked to choose a category or &quot;track&quot; for their talks. This section gives some guidance on how to match your talk with the following categories. The categories are mostly here to help attendees make a quicker selection and for the cfp team to get a balanced content.
+Don&#39;t fret too much on finding the right category if you think your talk matches multiple categories. Just choose what you feel is the best match. The cfp team will discuss ambiguous proposals with the speaker(s) if needed.</p>
+
+<h4>Scala &amp; ecosystem (scala, libraries, new projects, feedbacks, etc)</h4>
+
+<p>Of course Scala.IO has a special place for scala and the related ecosystem of libraries and projects. Talks presenting new scala features, scala tooling news, new libraries or experience summaries with using scala at work should probably go there.</p>
+
+<h4>Functional Languages</h4>
+
+<p>Scala.IO is not only about scala. We consider that the scala and functional programming communities have a lot in common and can learn a lot from each other. Therefore talks presenting concepts or ideas or idiomatic ways to solve problems in other languages are welcome in this section.</p>
+
+<h4>Typelevel Functional programming</h4>
+
+<p>Talks focusing on advanced scala features, meta programming with macros, complext type manipulation and computation, new type techniques, advanced functional programming and supporting libraries.</p>
+
+<h4>Big data / Machine learning</h4>
+
+<p>Big data and machine learning are a big driver of the scala ecosystem. Spark based of course but also NLP and immutable graph processing, scaling architectures, etc, are probably a good fit for this category.</p>
+
+<h4>Scala University</h4>
+
+<p>This is new this year, we have met many developers who have looked / are looking at scala but are unsure how to get started with it at work, how to introduce it to their team. This category is to create a &quot;getting started&quot; track for these people : from the scala basics to starting your project, how to integrate scala and the scala tests frameworks in a java project, how to organise a scala code base, which frameworks/libs can help bootstrap your use of scala, how to get started with functional programming, common patterns in scala, etc.
+Help us turn enthousiasts into evangelists ! :)</p>
+
+<h2><em>Timeline</em></h2>
+
+<p>The Call for Proposal will:</p>
+
+<ul>
+<li>Open Wednesday 18th May 2016</li>
+<li>Close Sunday 4th September 2016</li>
+<li>We will disclose the selected talks on rolling basis</li>
+</ul>
+
+<h2><em>Submission</em></h2>
+
+<p>When open, head over to <a href="http://cfp.scala.io">cfp.scala.io</a> to create your profile and submit your talk.</p>
+
+<h2><em>More information</em></h2>
+
+<p>For more information on Scala.IO, take a look at the Scala.IO website</p>
+
+<p>Presentations will be recorded and presenters will be expected to sign a copyright release form.</p>
+
+<h2><em>Guidance on giving a great Scala.IO talk</em></h2>
+
+<p>Focus on the interesting bits: Think about what will distinguish your talk, and what will engage the audience, and focus there. There are a number of places to look for those interesting bits.</p>
+
+<p>The Scala.IO audience is hungry to learn about how Scala techniques work in practice. What design have you applied, and to what areas? Did you use functional programming pattern, or DSLs, or fault-tolerant actors for large scale data processing? Teach us something about the techniques you used, and why we should consider using them ourselves.</p>
+
+<p>Getting things done: How did you deal with large software development in the absence of wide developer adoption of pre-existing support that are often expected in larger commercial environments (IDEs, coverage tools, debuggers, profilers) and without larger, proven bodies of libraries? Did you hit any brick walls that required support from the community?</p>
+
+<p>Be critical: It&#39;s easy to write a rah-rah talk about how well Scala worked for you, but Scala.IO is more interesting when the talks also spend time on what doesn&#39;t work. Even when the results were all great, you should spend more time on the challenges along the way than on the parts that went smoothly.</p>
 
       </div>
     </div>
@@ -169,12 +210,6 @@
     </div> <!-- base -->
   </footer>
   <script src="js/vendor.js"></script>
-  
-  
-    <script src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.3.0/handlebars.min.js"></script>
-  
-    <script src="js/speakers.js"></script>
-  
   
   <script type="text/javascript" src="js/mailchimp.js"></script>
   <script>
