@@ -9,7 +9,7 @@ var head= document.getElementsByTagName('head')[0];
 if (!jqueryLoaded) {
     var script = document.createElement('script');
     script.type = 'text/javascript';
-    script.src = 'http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js';
+    script.src = 'https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js';
     head.appendChild(script);
     if (script.readyState && script.onload!==null){
         script.onreadystatechange= function () {
@@ -19,7 +19,7 @@ if (!jqueryLoaded) {
 }
 var script = document.createElement('script');
 script.type = 'text/javascript';
-script.src = 'http://downloads.mailchimp.com/js/jquery.form-n-validate.js';
+script.src= '//s3.amazonaws.com/downloads.mailchimp.com/js/jquery.form-n-validate.js';
 head.appendChild(script);
 var err_style = '';
 try{
