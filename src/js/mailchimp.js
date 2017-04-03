@@ -61,7 +61,7 @@ function mce_init_form(){
       var options = { errorClass: 'mce_inline_error', errorElement: 'div', onkeyup: function(){}, onfocusout:function(){}, onblur:function(){}  };
       var mce_validator = $("#mc-embedded-subscribe-form").validate(options);
       $("#mc-embedded-subscribe-form").unbind('submit');//remove the validator so we can get into beforeSubmit on the ajaxform, which then calls the validator
-      options = { url: 'http://scala.us7.list-manage.com/subscribe/post-json?u=d1e91c63df589371ca4d8a48e&id=8ea1a2ab18&c=?', type: 'GET', dataType: 'json', contentType: "application/json; charset=utf-8",
+      options = { url: 'https://scala.us7.list-manage.com/subscribe/post-json?u=d1e91c63df589371ca4d8a48e&id=8ea1a2ab18&c=?', type: 'GET', dataType: 'json', contentType: "application/json; charset=utf-8",
                     beforeSubmit: function(){
                         $('#mce_tmp_error_msg').remove();
                         $('.datefield','#mc_embed_signup').each(
