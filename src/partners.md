@@ -3,8 +3,6 @@ layout: default
 title: Partners
 ---
 
-To come...
-
 <div class="partners">
 <h1 class="partner-heading">Platinum Sponsor</h1>
 
