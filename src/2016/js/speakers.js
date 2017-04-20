@@ -23,9 +23,11 @@ scalaio.filter('unsafe', function($sce) {
 var scalaioServices=angular.module('scalaioServices', ['ngResource']);
 scalaioServices.factory('Speakers', ['$resource', function($resource){
   return $resource(
-    'speakers.json',
+    'json/speakers/:speakerId.json',
     {speakerId:'@speakerId'},
-    {}
+    {
+      "query":{method:'GET', url:'json/speakers.json', isArray:true}
+    }
   );
 }]);
 scalaioServices.factory('Talks', ['$resource', function($resource){
