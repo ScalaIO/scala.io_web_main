@@ -15,7 +15,7 @@ vagrant ssh
 
 You should now have a VM with all the necessary tools* installed to generate the ScalaIO website
 * node, grunt,bower, ruby, bundler. In case something goes wrong, as long as you have those 6, running `bower install`
-  and `bundle install` should install anything missing.
+  and `bundle install` should install anything missing.  
 
 
 Working on scalaio's website
