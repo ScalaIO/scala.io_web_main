@@ -13,7 +13,11 @@ silver:
     url: http://www.neolynk.fr
 mecene:
 friends:
+  - name: clevercloud
+    url: https://www.clever-cloud.com/
 tshirt:
+  - name: ebiznext
+    url: http://www.ebiznext.com
 ug:
 sug:
 communication:
