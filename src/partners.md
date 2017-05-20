@@ -41,11 +41,11 @@ title: Partners
 
 <h1 class="partner-heading">T-Shirt sponsor</h1>
 <div class="partners-friends">
-  <!--<div class="partner-tshirt span-tshirt">
+  <div class="partner-tshirt span-tshirt">
     <a href="{{site.data.sponsors.tshirt.url}}">
       <img src="assets/images/partners/tshirt/logo-{{ site.data.sponsors.tshirt.name }}.png" alt="Logo {{ site.data.sponsors.tshirt.name }}">
     </a>
-  </div>-->
+  </div>
 </div>
 
 
