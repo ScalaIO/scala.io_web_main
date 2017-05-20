@@ -56,14 +56,14 @@ Help us turn enthusiasts into evangelists ! :)
 
 The Call for Proposal will:
 
-* Open \[to be announced\]
-* Close \[to be announced\]
+* Open 2017-05-16
+* Close 2017-09-08
 * We will disclose the selected talks on rolling basis
 
 <em>Submission</em>
 ----------------
 
-When open, head over to \[to be announced\] to create your profile and submit your talk.
+When open, head over to [cfp.scala.io](http://cfp.scala.io) to create your profile and submit your talk.
 
 <em>More information</em>
 ----------------
