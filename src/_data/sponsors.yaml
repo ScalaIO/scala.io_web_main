@@ -6,6 +6,8 @@ gold:
     url: http://www.ebiznext.com
   - name: lunatech
     url: http://www.lunatech.com
+  - name: tinyclues
+    url: https://www.tinyclues.com
 silver:
   - name: carbonit
     url: http://carbon-it.fr/
