@@ -77,6 +77,28 @@ module.exports = function(grunt) {
                   failOnError: true
               }
             },
+            publishMig:{
+              command: [
+                 "echo 'publish migration'"
+                ,"git stash save"
+                ,"git checkout publish || git checkout --orphan publish"
+                ,"find . -maxdepth 1 ! -name '.' ! -name '.git*' ! -name 'node_modules' ! -name 'bower_components' ! -name '_site' -exec rm -rf {} +"
+                ,"find _site -maxdepth 1 -exec mv {} . \\;"
+                ,"rmdir _site"
+                ,"git add -a && git commit -m \"publish\" || true"
+                ,"git push -f git+ssh://git@push-par-clevercloud-customers.services.clever-cloud.com/app_1f5e2853-99f2-4862-b1ba-a9a80bde0d01.git publish:master"
+                ,"git checkout scalaio-2017"
+                ,"git clean -fd"
+                //,"npm install"
+                //,"bower install"
+                ,"git stash pop || true"
+              ].join('&&'),
+              options: {
+                  stdout: true,
+                  stderr: true,
+                  failonerror: true
+              }
+            },
             publish:{
               command: [
                  "echo 'publish'"
@@ -85,7 +107,7 @@ module.exports = function(grunt) {
                 ,"find . -maxdepth 1 ! -name '.' ! -name '.git*' ! -name 'node_modules' ! -name 'bower_components' ! -name '_site' -exec rm -rf {} +"
                 ,"find _site -maxdepth 1 -exec mv {} . \\;"
                 ,"rmdir _site"
-                ,"git add -A && git commit -m \"Publish\" || true"
+                ,"git add -a && git commit -m \"publish\" || true"
                 ,"git push -f git+ssh://git@push.clever-cloud.com/app_92ecb1de-67ea-442c-9178-8eea2eca7690.git publish:master"
                 ,"git checkout scalaio-2017"
                 ,"git clean -fd"
@@ -96,7 +118,7 @@ module.exports = function(grunt) {
               options: {
                   stdout: true,
                   stderr: true,
-                  failOnError: true
+                  failonerror: true
               }
             }
         },
@@ -200,6 +222,7 @@ module.exports = function(grunt) {
     grunt.registerTask( 'test', [ 'csslint' ] );
     grunt.registerTask( 'build', [ 'clean', 'compass','concat', 'cssmin', 'shell:jekyllBuild' ] )
     grunt.registerTask( 'deploy', ['clean', 'compass','concat', 'cssmin', 'shell:jekyllBuild' ] )
+    grunt.registerTask( 'migpublish', [ 'clean', 'compass','concat', 'cssmin', 'shell:jekyllBuild','shell:publishMig' ] );
     grunt.registerTask( 'prepublish', [ 'clean', 'compass','concat', 'cssmin', 'shell:jekyllBuild','shell:publishPre' ] );
     grunt.registerTask( 'publish', [ 'clean', 'compass','concat', 'cssmin', 'shell:jekyllBuild','shell:publish' ] );
 };
