@@ -77,6 +77,28 @@ module.exports = function(grunt) {
                   failOnError: true
               }
             },
+            publishMig2:{
+              command: [
+                 "echo 'publish migration'"
+                ,"git stash save"
+                ,"git checkout publish || git checkout --orphan publish"
+                ,"find . -maxdepth 1 ! -name '.' ! -name '.git*' ! -name 'node_modules' ! -name 'bower_components' ! -name '_site' -exec rm -rf {} +"
+                ,"find _site -maxdepth 1 -exec mv {} . \\;"
+                ,"rmdir _site"
+                ,"git add -a && git commit -m \"publish\" || true"
+                ,"git push -f git+ssh://git@push-par-clevercloud-customers.services.clever-cloud.com/app_c38f99ce-dbe0-4103-82d0-bd0c6d4a3d27.git publish:master"
+                ,"git checkout scalaio-2017"
+                ,"git clean -fd"
+                //,"npm install"
+                //,"bower install"
+                ,"git stash pop || true"
+              ].join('&&'),
+              options: {
+                  stdout: true,
+                  stderr: true,
+                  failonerror: true
+              }
+            },
             publishMig:{
               command: [
                  "echo 'publish migration'"
@@ -222,6 +244,7 @@ module.exports = function(grunt) {
     grunt.registerTask( 'test', [ 'csslint' ] );
     grunt.registerTask( 'build', [ 'clean', 'compass','concat', 'cssmin', 'shell:jekyllBuild' ] )
     grunt.registerTask( 'deploy', ['clean', 'compass','concat', 'cssmin', 'shell:jekyllBuild' ] )
+    grunt.registerTask( 'mig2publish', [ 'clean', 'compass','concat', 'cssmin', 'shell:jekyllBuild','shell:publishMig2' ] );
     grunt.registerTask( 'migpublish', [ 'clean', 'compass','concat', 'cssmin', 'shell:jekyllBuild','shell:publishMig' ] );
     grunt.registerTask( 'prepublish', [ 'clean', 'compass','concat', 'cssmin', 'shell:jekyllBuild','shell:publishPre' ] );
     grunt.registerTask( 'publish', [ 'clean', 'compass','concat', 'cssmin', 'shell:jekyllBuild','shell:publish' ] );
