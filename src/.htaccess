@@ -1,3 +1,6 @@
 RewriteEngine On
+RewriteCond %{HTTP_HOST} !http://preprod.scala.io$
+RewriteCond %{HTTP_HOST} !preprod.scala.io$
+RewriteCond %{HTTP_HOST} !scalaio-teasing.cleverapps.io$
 RewriteCond %{HTTP:X-Forwarded-Proto} !https
 RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
