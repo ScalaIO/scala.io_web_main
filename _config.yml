@@ -3,4 +3,4 @@ markdown: redcarpet
 pygments: true
 source: src
 exclude: ['sass', 'assets/css']
-include: [".well-known"]
+include: [".well-known",".htaccess"]
