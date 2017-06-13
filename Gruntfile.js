@@ -85,7 +85,7 @@ module.exports = function(grunt) {
                 ,"find . -maxdepth 1 ! -name '.' ! -name '.git*' ! -name 'node_modules' ! -name 'bower_components' ! -name '_site' -exec rm -rf {} +"
                 ,"find _site -maxdepth 1 -exec mv {} . \\;"
                 ,"rmdir _site"
-                ,"git add -a && git commit -m \"publish\" || true"
+                ,"git add -A && git commit -m \"publish\" || true"
                 ,"git push -f git+ssh://git@push-par-clevercloud-customers.services.clever-cloud.com/app_c38f99ce-dbe0-4103-82d0-bd0c6d4a3d27.git publish:master"
                 ,"git checkout scalaio-2017"
                 ,"git clean -fd"
