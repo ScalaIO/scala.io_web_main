@@ -10,6 +10,8 @@ gold:
     url: https://www.tinyclues.com
   - name: criteo-labs
     url: http://labs.criteo.com/
+  - name: teads
+    url: http://teads.tv/
 silver:
   - name: carbonit
     url: http://carbon-it.fr/
