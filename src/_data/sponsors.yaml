@@ -26,4 +26,8 @@ tshirt:
   url: http://www.ebiznext.com
 ug:
 sug:
+  - name: paris
+    url: http://www.meetup.com/Paris-Scala-User-Group-PSUG/
+  - name: lyon 
+    url: http://www.meetup.com/suglyon/
 communication:
