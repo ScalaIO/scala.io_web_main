@@ -10,8 +10,12 @@ gold:
     url: https://www.tinyclues.com
   - name: criteo-labs
     url: http://labs.criteo.com/
+  - name: vente-privee
+    url: http://vente-privee.com/
   - name: teads
     url: http://teads.tv/
+  - name: valraiso
+    url: https://www.valraiso.net/
 silver:
   - name: carbonit
     url: http://carbon-it.fr/
@@ -30,4 +34,6 @@ sug:
     url: http://www.meetup.com/Paris-Scala-User-Group-PSUG/
   - name: lyon 
     url: http://www.meetup.com/suglyon/
+  - name: koln-bonn
+    url: https://www.meetup.com/scala-hamburg/
 communication:
