@@ -21,6 +21,8 @@ silver:
     url: http://carbon-it.fr/
   - name: neolynk
     url: http://www.neolynk.fr
+  - name: content-square
+    url: https://www.contentsquare.com
 mecene:
 friends:
   - name: clevercloud
