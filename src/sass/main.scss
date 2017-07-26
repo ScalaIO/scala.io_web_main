@@ -255,27 +255,24 @@ footer {
   .gold {
     display: flex;
     flex-direction: column;
-    .gold-row{
-      display: flex;
-      @media (min-width: $screen-md-min) {
-        flex-direction: row;
-      }
-      @media (max-width: $screen-md-min) {
-        flex-direction: column;
-      }
-      img{
-        @media (min-width: $screen-md-min) {
-          max-width: 165px;
-        }
-        @media (max-width: $screen-md-min) {
-           max-width: 200px;
-        }
-        margin: 0 10px;
-      } 
+    @media (min-width: $screen-md-min) {
+      flex-direction: row;        
+      flex-wrap: wrap;
+    }
+    @media (max-width: $screen-md-min) {
+      flex-direction: column;
     }
     
-  }
-  
+    img{
+      @media (min-width: $screen-md-min) {
+        max-width: 165px;
+      }
+      @media (max-width: $screen-md-min) {
+          max-width: 200px;
+      }
+      margin: 0 10px;
+    }     
+  }  
 }
 
 
