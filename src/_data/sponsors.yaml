@@ -17,7 +17,9 @@ gold:
   - name: valraiso
     url: https://www.valraiso.net/
   - name: lizeo
-    url: http://www.lizeo-online-media-group.com/
+    url: http://www.lizeo-online-media-group.com/  
+  - name: mfglabs
+    url: http://mfglabs.com/
 silver:
   - name: carbonit
     url: http://carbon-it.fr/
@@ -25,6 +27,8 @@ silver:
     url: http://www.neolynk.fr
   - name: content-square
     url: https://www.contentsquare.com
+  - name: norauto
+    url: http://www.norauto.com/
 mecene:
 friends:
   - name: clevercloud
