@@ -14,4 +14,7 @@ Prominent maintainers of each project will be there to help you help them. They'
 
 So come with us getting some PR submitted, and you'll go back with a rad Scala Contributor tee-shirt.
 
-It's time to give back to the community!
+## It's time to give back to the community!
+
+PS : If you're interested, please register to the [meetup event](https://www.meetup.com/fr-FR/suglyon/events/244079069/), that will help us know how much beverage, cookies, and, more importantly, T-shirts will be necessary. 
+
