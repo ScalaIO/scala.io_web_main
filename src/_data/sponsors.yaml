@@ -2,8 +2,8 @@ platinum:
   - name: lunatech
     url: https://www.lunatech.com
 gold:
-  #  - name: ebiznext
-  #   url: http://www.ebiznext.com
+  - name: ebiznext
+    url: http://www.ebiznext.com
   # - name: lunatech
   #   url: http://www.lunatech.com
   # - name: tinyclues
@@ -34,8 +34,8 @@ friends:
   - name: clevercloud
     url: https://www.clever-cloud.com/
 tshirt:
-#  name: ebiznext
-#  url: http://www.ebiznext.com
+  name: ebiznext
+  url: http://www.ebiznext.com
 ug:
   - name: paris
     url: http://www.meetup.com/Paris-Scala-User-Group-PSUG/
