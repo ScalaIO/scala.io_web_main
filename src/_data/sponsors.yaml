@@ -21,8 +21,8 @@ gold:
   # - name: mfglabs
 #    url: http://mfglabs.com/
 silver:
-  # - name: carbonit
-  #   url: http://carbon-it.fr/
+  - name: fabernovel
+    url: https://technologies.fabernovel.com/
   # - name: neolynk
   #   url: http://www.neolynk.fr
   # - name: content-square
