@@ -15,11 +15,19 @@ module.exports = function(grunt) {
                 src : [ '.assets/css/all.css' ]
             }
         },
+        copy:{
+          main:{
+            expand: true,
+            cwd: 'bower_components/font-awesome',
+            src : ['svg-with-js/**'],
+            dest:'src/assets/font-awesome/'
+          }
+        },
         concat : {
             css : {
                 src : [ '.tmp/css/*.css',
                         'src/assets/css/libs/*.css',
-                          'src/assets/css/all.css' ],
+                        'src/assets/css/all.css' ],
                 dest : '.tmp/all.css',
             },
             js : {
@@ -27,9 +35,6 @@ module.exports = function(grunt) {
                   separator: ';'+grunt.util.linefeed
                 },
                 src : [ 'bower_components/jquery/dist/jquery.js',
-                        'bower_components/**/bootstrap/button.js',
-                        'bower_components/**/bootstrap/collapse.js',
-                        'bower_components/**/bootstrap/dropdown.js',
                         'bower_components/angular/angular.js',
                         'bower_components/angular-resource/angular-resource.js',
                         'bower_components/angular-route/angular-route.js'
@@ -100,32 +105,6 @@ module.exports = function(grunt) {
               }
             }
         },
-        // compass: {
-        //     options: {
-        //         sassDir: 'src/sass/',
-        //         cssDir: '.tmp/css',
-        //         generatedImagesDir: '.tmp/images/generated',
-        //         imagesDir: 'src/assets/images/',
-        //         javascriptsDir: 'src/assets/scripts/',
-        //         fontsDir: 'src/assets/fonts',
-        //         importPath: 'bower_components',
-        //         httpImagesPath: '/assets/images',
-        //         httpGeneratedImagesPath: '/assets/generated',
-        //         httpFontsPath: '/fonts',
-        //         relativeAssets: false,
-        //         assetCacheBuster: false
-        //     },
-        //     dist: {
-        //         options: {
-        //             generatedImagesDir: 'src/assets'
-        //         }
-        //     },
-        //     server: {
-        //         options: {
-        //             debugInfo: true
-        //         }
-        //     }
-        // },
         express: {
           all: {
             options: {
@@ -160,7 +139,7 @@ module.exports = function(grunt) {
                       'src/js/*.js',
                       '!src/js/vendor.js'
                       ],
-            tasks : [
+            tasks : [ 'copy',
                       'concat',
                       'cssmin',
                       'shell:jekyllBuild'
@@ -189,12 +168,11 @@ module.exports = function(grunt) {
             server: '.tmp'
         },
     });
+
     // register custom grunt tasks
     grunt.registerTask('server', [
       'express',
-      'watch',
-      ,
-
+      'watch'
     ]);
 
     grunt.registerTask( 'test', [ 'csslint' ] );
