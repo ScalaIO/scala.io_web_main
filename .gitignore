@@ -6,7 +6,6 @@ bower_components
 .sass-cache
 .tmp
 .vagrant
-src/assets/css
 src/js/vendor.js
 src/all*.css
 npm-debug.log

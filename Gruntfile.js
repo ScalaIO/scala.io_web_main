@@ -19,7 +19,7 @@ module.exports = function(grunt) {
             css : {
                 src : [ '.tmp/css/*.css',
                         'src/assets/css/libs/*.css',
-                        'src/assets/css/main.css' ],
+                          'src/assets/css/all.css' ],
                 dest : '.tmp/all.css',
             },
             js : {
@@ -100,32 +100,32 @@ module.exports = function(grunt) {
               }
             }
         },
-        compass: {
-            options: {
-                sassDir: 'src/sass/',
-                cssDir: '.tmp/css',
-                generatedImagesDir: '.tmp/images/generated',
-                imagesDir: 'src/assets/images/',
-                javascriptsDir: 'src/assets/scripts/',
-                fontsDir: 'src/assets/fonts',
-                importPath: 'bower_components',
-                httpImagesPath: '/assets/images',
-                httpGeneratedImagesPath: '/assets/generated',
-                httpFontsPath: '/fonts',
-                relativeAssets: false,
-                assetCacheBuster: false
-            },
-            dist: {
-                options: {
-                    generatedImagesDir: 'src/assets'
-                }
-            },
-            server: {
-                options: {
-                    debugInfo: true
-                }
-            }
-        },
+        // compass: {
+        //     options: {
+        //         sassDir: 'src/sass/',
+        //         cssDir: '.tmp/css',
+        //         generatedImagesDir: '.tmp/images/generated',
+        //         imagesDir: 'src/assets/images/',
+        //         javascriptsDir: 'src/assets/scripts/',
+        //         fontsDir: 'src/assets/fonts',
+        //         importPath: 'bower_components',
+        //         httpImagesPath: '/assets/images',
+        //         httpGeneratedImagesPath: '/assets/generated',
+        //         httpFontsPath: '/fonts',
+        //         relativeAssets: false,
+        //         assetCacheBuster: false
+        //     },
+        //     dist: {
+        //         options: {
+        //             generatedImagesDir: 'src/assets'
+        //         }
+        //     },
+        //     server: {
+        //         options: {
+        //             debugInfo: true
+        //         }
+        //     }
+        // },
         express: {
           all: {
             options: {
@@ -155,12 +155,12 @@ module.exports = function(grunt) {
                       'src/asssets/images/**/*.*',
                       'src/*.md',
                       'src/**/*.md',
+                      'src/assets/css/all.css',
                       'src/**/*.html',
                       'src/js/*.js',
-                      '!src/js/vendor.js',
-                      'src/sass/*.scss'
+                      '!src/js/vendor.js'
                       ],
-            tasks : [ 'compass',
+            tasks : [
                       'concat',
                       'cssmin',
                       'shell:jekyllBuild'
@@ -198,8 +198,8 @@ module.exports = function(grunt) {
     ]);
 
     grunt.registerTask( 'test', [ 'csslint' ] );
-    grunt.registerTask( 'build', [ 'clean', 'compass','concat', 'cssmin', 'shell:jekyllBuild' ] )
-    grunt.registerTask( 'deploy', ['clean', 'compass','concat', 'cssmin', 'shell:jekyllBuild' ] )
-    grunt.registerTask( 'prepublish', [ 'clean', 'compass','concat', 'cssmin', 'shell:jekyllBuild','shell:publishPre' ] );
-    grunt.registerTask( 'publish', [ 'clean', 'compass','concat', 'cssmin', 'shell:jekyllBuild','shell:publish' ] );
+    grunt.registerTask( 'build', [ 'clean','concat', 'cssmin', 'shell:jekyllBuild' ] )
+    grunt.registerTask( 'deploy', ['clean','concat', 'cssmin', 'shell:jekyllBuild' ] )
+    grunt.registerTask( 'prepublish', [ 'clean', 'concat', 'cssmin', 'shell:jekyllBuild','shell:publishPre' ] );
+    grunt.registerTask( 'publish', [ 'clean', 'concat', 'cssmin', 'shell:jekyllBuild','shell:publish' ] );
 };

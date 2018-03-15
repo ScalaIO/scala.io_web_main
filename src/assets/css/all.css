@@ -1,0 +1,248 @@
+
+/* variables */
+:root {
+  --scala-io-red: #BC1321;
+  --max-width: 1170px;
+}
+
+/* Setup */
+html{
+  min-height: 100vh;
+}
+
+body{
+  display: flex;
+  flex-direction: column;
+  overflow: auto;
+  margin: 0;
+  min-height: 100vh;
+  font-size: 100%;
+  font-family: Montserrat, sans-serif;
+}
+
+body, caption, th, td, input, textarea, select, option, legend, fieldset, h1, h2, h3, h4, h5, h6 {
+  font-size-adjust: 0.5;
+}
+
+h1 {
+  font-size: 2rem;
+  /* 2x body copy size = 32px */
+  line-height: 1.25;
+  /* 45px / 36px */
+}
+
+@media (min-width: 43.75em) {
+  h1 {
+    font-size: 2.5rem;
+    /* 2.5x body copy size = 40px */
+    line-height: 1.125;
+  }
+}
+
+@media (min-width: 56.25em) {
+  h1 {
+    font-size: 3em;
+    /* 3x body copy size = 48px */
+    line-height: 1.05;
+    /* keep to a multiple of the 20px line height and something more appropriate for display headings */
+  }
+}
+
+h2 {
+  font-size: 1.625em;
+  /* 1.625x body copy size = 26px */
+  line-height: 1.15384615;
+  /* 30px / 26px */
+}
+
+@media (min-width: 43.75em) {
+  h2 {
+    font-size: 2em;
+    /* 2x body copy size = 32px */
+    line-height: 1.25;
+  }
+}
+
+@media (min-width: 56.25em) {
+  h2 {
+    font-size: 2.25em;
+    /* 2.25x body copy size = 36px */
+    line-height: 1.25;
+  }
+}
+
+h3 {
+  font-size: 1.375em;
+  /* 1.375x body copy size = 22px */
+  line-height: 1.13636364;
+  /* 25px / 22px */
+}
+
+@media (min-width: 43.75em) {
+  h3 {
+    font-size: 1.5em;
+    /* 1.5x body copy size = 24px */
+    line-height: 1.25;
+  }
+}
+
+@media (min-width: 56.25em) {
+  h3 {
+    font-size: 1.75em;
+    /* 1.75x body copy size = 28px */
+    line-height: 1.25;
+  }
+}
+
+h4 {
+  font-size: 1.125em;
+  /* 1.125x body copy size = 18px */
+  line-height: 1.11111111;
+}
+
+@media (min-width: 43.75em) {
+  h4 {
+    line-height: 1.22222222;
+    /* (22px / 18px */
+  }
+}
+
+blockquote {
+  font-size: 1.25em;
+  /* 20px / 16px */
+  line-height: 1.25;
+  /* 25px / 20px */
+}
+
+@media (min-width: 43.75em) {
+  blockquote {
+    font-size: 1.5em;
+    /* 24px / 16px = */
+    line-height: 1.45833333;
+    /* 35px / 24px */
+  }
+}
+
+/* commons */
+
+.red {
+  color: var(--scala-io-red);
+}
+
+/* header */
+.header {
+  color: white;
+  background-color: black;
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header img{
+  width: 65%;
+}
+.header h1{
+  margin-top: 0;
+  padding-top: 0;
+}
+.header .teaser{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-grow: 1;
+  margin-top: 0;
+  padding-top: 0;
+}
+.header .teaser .twitter-share-button{
+  margin-left: 0.1em;
+}
+.header .teaser .twitter-share-button .tsb1{
+  font-size: 0.5em;
+}
+@media (min-width: 43.75em) {
+  .header img{
+    width: 50%;
+  }
+}
+
+/* main */
+body .main{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 1.8rem;
+}
+
+body .main div{
+  max-width: var(--max-width);
+}
+
+/* sponsors */
+
+body .sponsors{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 5px;
+}
+
+body .sponsors .gold{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+body .sponsors .platinum{
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+  align-items: center;
+}
+
+body .sponsors .platinum img{
+  display: flex;
+  overflow: hidden;
+  width: 99vw;
+  max-width: 600px;
+}
+
+body .sponsors .gold a{
+  margin-left:  5px;
+  margin-right:  5px;
+}
+
+body .sponsors .gold img{
+  display: flex;
+  width: 66vw;
+  max-width: 300px;
+}
+
+/* footer */
+footer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: black;
+  color: white;
+}
+
+footer .row{
+  display: flex;
+  flex-direction: row;
+  max-width: var(--max-width);
+  background-color: black;
+  color: white;
+  justify-content: space-evenly;
+}
+footer .social{
+  
+}
+
+
+footer .copyright{
+  width: 100%;
+  max-width: var(--max-width);
+
+}
