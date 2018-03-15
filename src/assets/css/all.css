@@ -5,6 +5,7 @@
 :root {
   --scala-io-red: #BC1321;
   --max-width: 1170px;
+  --half-max-width: 585px;
 }
 
 /* Setup */
@@ -171,7 +172,7 @@ blockquote {
 }
 
 /* main */
-body .main{
+content{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -179,46 +180,46 @@ body .main{
   padding: 0 5px;
 }
 
-body .main div{
+content div{
   max-width: var(--max-width);
 }
 
 /* sponsors */
 
-body .sponsors{
+sponsors{
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 0 5px;
 }
 
-body .sponsors .gold{
+sponsors .gold{
   display: flex;
   flex-direction: row;
   justify-content: center;
   flex-wrap: wrap;
 }
 
-body .sponsors .platinum{
+sponsors .platinum{
   display: flex;
   flex-grow: 1;
   flex-direction: column;
   align-items: center;
 }
 
-body .sponsors .platinum img{
+sponsors .platinum img{
   display: flex;
   overflow: hidden;
   width: 99vw;
   max-width: 600px;
 }
 
-body .sponsors .gold a{
+sponsors .gold a{
   margin-left:  5px;
   margin-right:  5px;
 }
 
-body .sponsors .gold img{
+sponsors .gold img{
   display: flex;
   width: 66vw;
   max-width: 300px;
@@ -227,28 +228,28 @@ body .sponsors .gold img{
 /* footer */
 footer{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  background-color: black;
-  color: white;
-}
-
-footer .row{
-  display: flex;
   flex-direction: row;
-  max-width: var(--max-width);
+  justify-content: center;
   background-color: black;
   color: white;
-  justify-content: space-evenly;
+  padding: 0 5px;
 }
 
 footer .social{
-
+  width: 50%;
+  max-width: var(--half-max-width);
 }
 footer .social a{
   color: #428bca;
-  text-decoration: none;  
+  text-decoration: none;
 }
+
+footer .newsletter{
+  width: 50%;
+  text-align: right;
+  max-width: var(--half-max-width);
+}
+
 copyright{
   width: 100%;
   background-color: black;
