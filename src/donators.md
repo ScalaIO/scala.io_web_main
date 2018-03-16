@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Partners
 ---
 Buy a "Generous donator" pass to get your name displayed on this page as one of the absolute Scala.IO supporter !

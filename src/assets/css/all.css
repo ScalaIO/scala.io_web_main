@@ -172,9 +172,13 @@ blockquote {
 }
 
 /* main */
-content{
+content {
   display: flex;
   flex-direction: column;
+  max-width: var(--max-width);
+  align-self: center;
+}
+content.index{
   align-items: center;
   font-size: 1.8rem;
   padding: 0 5px;
