@@ -4,6 +4,12 @@
 /* variables */
 :root {
   --scala-io-red: #BC1321;
+  --social-blue: #428bca;
+  --dark: #333;
+  --black: black;
+  --grey: #999;
+  --light: #F1F1F1;
+  --white: white;
   --max-width: 1170px;
   --half-max-width: 585px;
 }
@@ -21,6 +27,7 @@ body{
   min-height: 100vh;
   font-size: 100%;
   font-family: Montserrat, sans-serif;
+  color: var(--dark);
 }
 
 body, caption, th, td, input, textarea, select, option, legend, fieldset, h1, h2, h3, h4, h5, h6 {
@@ -135,7 +142,7 @@ blockquote {
 /* header */
 .header {
   color: white;
-  background-color: black;
+  background-color: var(--black);
   display: flex;
   flex-grow: 1;
   flex-direction: column;
@@ -206,7 +213,6 @@ sponsors .gold{
 
 sponsors .platinum{
   display: flex;
-  flex-grow: 1;
   flex-direction: column;
   align-items: center;
 }
@@ -226,15 +232,26 @@ sponsors .gold a{
 sponsors .gold img{
   display: flex;
   width: 66vw;
-  max-width: 300px;
+  max-width: 200px;
 }
-
+@media (min-width: 1170px) {
+  sponsors{
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  sponsors .gold{
+    max-width: 600px;
+  }
+  sponsors .gold img{
+    max-width: 165px;
+  }
+}
 /* footer */
 footer{
   display: flex;
   flex-direction: row;
   justify-content: center;
-  background-color: black;
+  background-color: var(--black);
   color: white;
   padding: 0 5px;
 }
@@ -244,7 +261,7 @@ footer .social{
   max-width: var(--half-max-width);
 }
 footer .social a{
-  color: #428bca;
+  color: var(--social-blue);
   text-decoration: none;
 }
 
@@ -256,8 +273,8 @@ footer .newsletter{
 
 copyright{
   width: 100%;
-  background-color: black;
-  color: white;
+  background-color: var(--black);
+  color: var(--grey);
   display: flex;
   flex-direction: column;
   align-items: center;
