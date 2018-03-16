@@ -58,6 +58,30 @@ module.exports = function(grunt) {
             jekyllServe : {
                 command : 'jekyll serve'
             },
+            stage:{
+              command: [
+                 "echo 'stage'"
+                ,"git stash save"
+                ,"git checkout publish-staging || git checkout --orphan publish-staging"
+                ,"find . -maxdepth 1 ! -name '.' ! -name '.git*' ! -name 'node_modules' ! -name 'bower_components' ! -name '_site' -exec rm -rf {} +"
+                ,"find _site -maxdepth 1 -exec mv {} . \\;"
+                ,"echo \"rmdir _site\""
+                ,"rmdir _site"
+                ,"git add -A && git commit -m \"Publish staging\" || true"
+                ,"echo \"git push -f git+ssh://git@push-par-clevercloud-customers.services.clever-cloud.com/app_b98cc3f2-8df8-43c3-84fa-66a3e52aec20.git publish-staging:master\""
+                ,"git push -f git+ssh://git@push-par-clevercloud-customers.services.clever-cloud.com/app_b98cc3f2-8df8-43c3-84fa-66a3e52aec20.git publish-staging:master"
+                ,"git checkout scalaio-2018"
+                ,"git clean -fd"
+                //,"npm install"
+                //,"bower install"
+                ,"git stash pop || true"
+              ].join('&&'),
+              options: {
+                  stdout: true,
+                  stderr: true,
+                  failOnError: true
+              }
+            },
             publishPre:{
               command: [
                  "echo 'prepublish'"
