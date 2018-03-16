@@ -70,7 +70,7 @@ module.exports = function(grunt) {
                 ,"git add -A && git commit -m \"Publish staging\" || true"
                 ,"echo \"git push -f git+ssh://git@push-par-clevercloud-customers.services.clever-cloud.com/app_b98cc3f2-8df8-43c3-84fa-66a3e52aec20.git publish-staging:master\""
                 ,"git push -f git+ssh://git@push-par-clevercloud-customers.services.clever-cloud.com/app_b98cc3f2-8df8-43c3-84fa-66a3e52aec20.git publish-staging:master"
-                ,"git checkout scalaio-2018"
+                ,"git checkout scalaio-2018-rework"
                 ,"git clean -fd"
                 //,"npm install"
                 //,"bower install"
