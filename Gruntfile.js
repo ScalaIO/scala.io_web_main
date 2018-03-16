@@ -204,4 +204,5 @@ module.exports = function(grunt) {
     grunt.registerTask( 'deploy', ['clean','concat', 'cssmin', 'shell:jekyllBuild' ] )
     grunt.registerTask( 'prepublish', [ 'clean', 'concat', 'cssmin', 'shell:jekyllBuild','shell:publishPre' ] );
     grunt.registerTask( 'publish', [ 'clean', 'concat', 'cssmin', 'shell:jekyllBuild','shell:publish' ] );
+    grunt.registerTask( 'stage', [ 'clean', 'concat', 'cssmin', 'shell:jekyllBuild','shell:stage' ] );
 };
