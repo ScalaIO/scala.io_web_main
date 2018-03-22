@@ -9,7 +9,7 @@ title: Partners
 {% for sponsor in site.data.sponsors.platinum %}
 <div class="partner-platinum span-platinum">
   <a href="{{sponsor.url}}">
-    <img src="assets/images/partners/platinum/logo-{{ sponsor.name }}.png" alt="Logo {{ sponsor.name }}">
+    <img src="assets/images/partners/logo-{{ sponsor.name }}.svg" alt="Logo {{ sponsor.name }}">
   </a>
 </div>
 {% endfor %}
@@ -20,7 +20,7 @@ title: Partners
 {% for sponsor in site.data.sponsors.gold %}
 <div class="partner-gold">
   <a href="{{sponsor.url}}">
-    <img src="assets/images/partners/gold/logo-{{ sponsor.name }}.png" alt="Logo {{ sponsor.name }}">
+    <img src="assets/images/partners/logo-{{ sponsor.name }}.svg" alt="Logo {{ sponsor.name }}">
   </a>
 </div>
 {% endfor %}
@@ -31,7 +31,7 @@ title: Partners
 {% for sponsor in site.data.sponsors.silver %}
 <div class="partner-silver">
   <a href="{{sponsor.url}}">
-      <img src="assets/images/partners/silver/logo-{{ sponsor.name }}.png" alt="Logo {{ sponsor.name }}">
+      <img src="assets/images/partners/logo-{{ sponsor.name }}.svg" alt="Logo {{ sponsor.name }}">
   </a>
 </div>
 {% endfor %}
