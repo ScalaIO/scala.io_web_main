@@ -139,25 +139,22 @@ blockquote {
 .red {
   color: var(--scala-io-red);
 }
+
 /* nav */
 nav{
   position: fixed;
-
   top: 0;
-  width: 100%;
-  z-index: 1030;
+  width: 100vw;
   display: flex;
   flex-direction: column;
   background-color: var(--bg-lighter);
-  height: auto;
 }
 nav header{
   display: flex;
   flex-direction: row;
-  align-content: stretch;
   align-items: center;
   justify-content: space-between;
-  min-height: 40px;
+  height: 40px;
 }
 nav header a.brand{
   font-size: 1.4em;
@@ -166,23 +163,26 @@ nav header a.brand{
 nav header button{
   margin-right: 5px;
   background-color: var(--bg-lighter);
-  color: var(--grey);
+  color: var(--white);
+  border-color: var(--grey);
+  border-radius: 4px;
+  font-size: 1.3em;
 }
-nav header button span{
-  margin: 5px;
+nav header button fa-bars{
+  width: 22px;
 }
+
 nav ul{
-  margin: 0 5px 0 5px;
+  /*margin: 0 5px 0 5px;*/
   padding: 0;
+  margin: 0 5px 0 0;
   width: 100%;
   max-width: 1170px;
   display: flex;
   flex-direction: column;
   border-top: solid 1px #090909;
   box-shadow: inset 0 1px 0 rgba(255,255,255,.1);
-
 }
-
 nav ul li{
   margin: 5px 0;
   display: flex;
@@ -196,14 +196,6 @@ nav #menu-items.hidden{
   display: none;
 }
 
-nav button#menu{
-    border-radius: 4px;
-    font-size: 1.3em;
-    color: white
-}
-nav button#menu fa-bars{
-  width: 22px;
-}
 @media (min-width: 56.25em) {
   nav{
     flex-direction: row;
@@ -212,6 +204,7 @@ nav button#menu fa-bars{
   nav ul{
     flex-direction: row;
     align-items: center;
+    margin: 0 0 0 5px;
   }
   nav ul li:last-child{
     justify-content: flex-end;
@@ -219,6 +212,9 @@ nav button#menu fa-bars{
   }
   nav #menu-items.hidden{
     display: flex;
+    border-top: none;
+    box-shadow: none;
+
   }
   nav button#menu{
     display: none;
@@ -237,8 +233,8 @@ nav a {
   flex-direction: column;
   align-items: center;
   padding: 0 5px;
-  padding-top: 48px;
   text-align: center;
+  margin-top: 40px;
 }
 
 .header img{
