@@ -285,12 +285,30 @@ content div{
 }
 
 /* sponsors */
-
 sponsors{
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 0 5px;
+}
+
+sponsors .platinum{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  max-width: 600px;
+}
+sponsors .platinum a{
+  height: 200px;
+  display: flex;
+  width: 100%;
+}
+sponsors .platinum img{
+  display: flex;
+  overflow: hidden;
+  width: 100%;
 }
 
 sponsors .gold{
@@ -301,22 +319,12 @@ sponsors .gold{
   flex-wrap: wrap;
 }
 
-sponsors .platinum{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-sponsors .platinum img{
-  display: flex;
-  overflow: hidden;
-  width: 99vw;
-  max-width: 600px;
-}
-
 sponsors .gold a{
   margin-left:  5px;
   margin-right:  5px;
+  min-width: 190px;
+  min-height: 60px;
+  display: flex;
 }
 
 sponsors .gold img{
@@ -324,16 +332,10 @@ sponsors .gold img{
   width: 66vw;
   max-width: 200px;
 }
+
 @media (min-width: 1170px) {
-  sponsors{
-    flex-direction: row;
-    justify-content: space-around;
-  }
   sponsors .gold{
-    max-width: 600px;
-  }
-  sponsors .gold img{
-    max-width: 165px;
+    max-width: 1170px;
   }
 }
 /* footer */
