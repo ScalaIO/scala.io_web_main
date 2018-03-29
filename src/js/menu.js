@@ -1,5 +1,5 @@
 function toggleMenu(evt){
-  let menuItems=document.getElementById("menu-items");
+  let menuItems=document.getElementById(event.currentTarget.id+"-items");
   let toggle=menuItems.className;
   switch(toggle){
     case "hidden":
@@ -11,3 +11,4 @@ function toggleMenu(evt){
   }
 }
 document.getElementById("menu").addEventListener('click', toggleMenu);
+document.getElementById("previous-editions").addEventListener('click', toggleMenu);

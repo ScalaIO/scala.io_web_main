@@ -189,10 +189,16 @@ nav ul li{
   padding-right: 10px;
   justify-content: flex-end;
 }
-nav #menu-items.visible{
+nav ul li.previous-editions{
+  flex-direction: column;
+  align-items:flex-end;
+}
+nav #menu-items.visible
+nav #previous-editions-items.hidden{
   display: flex;
 }
-nav #menu-items.hidden{
+nav #menu-items.hidden,
+nav #previous-editions-items.hidden{
   display: none;
 }
 
@@ -200,6 +206,7 @@ nav #menu-items.hidden{
   nav{
     flex-direction: row;
     justify-content: center;
+    height: 40px;
   }
   nav ul{
     flex-direction: row;
@@ -207,7 +214,6 @@ nav #menu-items.hidden{
     margin: 0 0 0 5px;
   }
   nav ul li:last-child{
-    justify-content: flex-end;
     flex-grow: 1;
   }
   nav #menu-items.hidden{
@@ -219,8 +225,25 @@ nav #menu-items.hidden{
   nav button#menu{
     display: none;
   }
+  nav .previous-editions{
+    justify-content: center;
+  }
+  nav #previous-editions-items{
+    display: flex;
+    flex-direction: column;
+    position:absolute;
+    align-items: flex-end;
+    width: auto;
+    top: 40px;
+    background-color: var(--bg-lighter);
+  }
+  nav #previous-editions-items li{
+    padding: 0 5px 0 5px;
+    width: 100%
+  }
 }
-nav a {
+nav a,
+nav .previous-editions > span{
   color: var(--grey);
   text-decoration: none;
 }
