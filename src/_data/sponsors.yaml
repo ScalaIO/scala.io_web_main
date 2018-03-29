@@ -23,8 +23,8 @@ gold:
 silver:
   - name: fabernovel
     url: https://technologies.fabernovel.com/
-  # - name: neolynk
-  #   url: http://www.neolynk.fr
+  - name: kaizen
+    url: https://kaizen-solutions.net
   # - name: content-square
   #   url: https://www.contentsquare.com
   # - name: norauto
