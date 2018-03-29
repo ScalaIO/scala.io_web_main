@@ -397,6 +397,16 @@ content .sponsors .silver img{
     max-width: 1170px;
   }
 }
+
+ul.donators{
+  font-weight: 700;
+  font-size: 1.6em;
+  list-style: none;
+}
+ul.donators .details{
+  font-weight: normal;
+  font-style: italic;
+}
 /* footer */
 footer{
   display: flex;
