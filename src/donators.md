@@ -39,7 +39,7 @@ Scala.IO 2017
   <div class="speaker_bio col-sm-offset-1">
     <h2 class="name">{{donator.name}}
     <span class="details">
-    <a href="http://twitter.com/{{donator.twitter}}"><i "></i></a>
+    <a href="http://twitter.com/{{donator.twitter}}"><i class="fa fa-twitter"></i></a>
     <span class="company">{{donator.company}}</span>
     </span>
     </h2>
