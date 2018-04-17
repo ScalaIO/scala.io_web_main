@@ -4,8 +4,8 @@ platinum:
 gold:
   - name: ebiznext
     url: http://www.ebiznext.com
-  # - name: lunatech
-  #   url: http://www.lunatech.com
+  - name: neolynk
+    url: http://www.neolynk.fr/
   # - name: tinyclues
   #   url: https://www.tinyclues.com
   # - name: criteo-labs
