@@ -8,8 +8,8 @@ gold:
     url: http://www.neolynk.fr/
   # - name: tinyclues
   #   url: https://www.tinyclues.com
-  # - name: criteo-labs
-  #   url: http://labs.criteo.com/
+  - name: criteo-labs
+    url: http://labs.criteo.com/
   # - name: vente-privee
   #   url: http://vente-privee.com/
   # - name: teads
