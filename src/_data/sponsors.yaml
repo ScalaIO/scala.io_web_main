@@ -12,8 +12,8 @@ gold:
     url: http://labs.criteo.com/
   # - name: vente-privee
   #   url: http://vente-privee.com/
-  # - name: teads
-  #   url: http://teads.tv/
+  - name: teads
+    url: http://teads.tv/
   # - name: valraiso
   #   url: https://www.valraiso.net/
   # - name: lizeo
