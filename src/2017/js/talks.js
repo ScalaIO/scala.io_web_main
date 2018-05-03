@@ -20,13 +20,13 @@ scalaio.filter('unsafe', function($sce) {
 var scalaioServices=angular.module('scalaioServices', ['ngResource']);
 scalaioServices.factory('Talks', ['$resource', function($resource){
   return $resource(
-    'https://cfp.scala.io/api/conferences/ScalaIOFR2017/talks/:speakerId',
+    'json/talks.json',
     {talkId:'@talkId'},
     {}
   );
 }]);
 scalaio.controller('TalksCtrl',['$scope','$location', 'Talks','$anchorScroll', function($scope,$location, Talks,$anchorScroll) {
-  
+
   Talks.query(function(data){
     $scope.talks = data;
 

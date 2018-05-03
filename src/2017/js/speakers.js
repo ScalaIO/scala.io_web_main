@@ -23,16 +23,11 @@ scalaio.filter('unsafe', function($sce) {
 var scalaioServices=angular.module('scalaioServices', ['ngResource']);
 scalaioServices.factory('Speakers', ['$resource', function($resource){
   return $resource(
-    'https://cfp.scala.io/api/conferences/ScalaIOFR2017/speakers/:speakerId',
+    'json/speakers/:speakerId.json',
     {speakerId:'@speakerId'},
-    {}
-  );
-}]);
-scalaioServices.factory('Talks', ['$resource', function($resource){
-  return $resource(
-    'https://cfp.scala.io/api/conferences/ScalaIOFR2017/speakers/:speakerId',
-    {speakerId:'@speakerId'},
-    {}
+    {
+      "query":{method:'GET', url:'json/speakers.json', isArray:true}
+    }
   );
 }]);
 scalaio.controller('SpeakersCtrl',['$scope','$location', 'Speakers','$rootScope', function($scope,$location, Speakers,$rootScope) {
