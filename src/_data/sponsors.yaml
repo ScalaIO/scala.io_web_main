@@ -16,15 +16,14 @@ gold:
     url: http://www.lizeo-group.com/
   - name: ercom
     url: https://www.ercom.fr/
+  - name: norauto
+    url: https://www.norauto.com/
 silver:
   - name: fabernovel
     url: https://technologies.fabernovel.com/
   - name: kaizen
     url: https://kaizen-solutions.net
-  # - name: content-square
-  #   url: https://www.contentsquare.com
-  # - name: norauto
-  #   url: http://www.norauto.com/
+  
 mecene:
 friends:
   - name: clevercloud
