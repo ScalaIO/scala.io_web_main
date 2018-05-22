@@ -13,9 +13,9 @@ gold:
   - name: iadvize
     url: http://www.iadvize.com/  
   - name: lizeo
-    url: http://www.lizeo-online-media-group.com/ 
-  # - name: mfglabs
-#    url: http://mfglabs.com/
+    url: http://www.lizeo-group.com/
+  - name: ercom
+    url: https://www.ercom.fr/
 silver:
   - name: fabernovel
     url: https://technologies.fabernovel.com/
