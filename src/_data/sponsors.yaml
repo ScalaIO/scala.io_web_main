@@ -5,17 +5,13 @@ gold:
   - name: ebiznext
     url: http://www.ebiznext.com
   - name: neolynk
-    url: http://www.neolynk.fr/
-  # - name: tinyclues
-  #   url: https://www.tinyclues.com
+    url: http://www.neolynk.fr/ 
   - name: criteo-labs
     url: http://labs.criteo.com/
-  # - name: vente-privee
-  #   url: http://vente-privee.com/
   - name: teads
-    url: http://teads.tv/
-  # - name: valraiso
-  #   url: https://www.valraiso.net/
+    url: http://teads.tv/  
+  - name: iadvize
+    url: http://www.iadvize.com/  
   # - name: lizeo
   #   url: http://www.lizeo-online-media-group.com/
   # - name: mfglabs
