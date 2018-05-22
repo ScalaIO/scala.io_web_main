@@ -12,8 +12,8 @@ gold:
     url: http://teads.tv/  
   - name: iadvize
     url: http://www.iadvize.com/  
-  # - name: lizeo
-  #   url: http://www.lizeo-online-media-group.com/
+  - name: lizeo
+    url: http://www.lizeo-online-media-group.com/ 
   # - name: mfglabs
 #    url: http://mfglabs.com/
 silver:
