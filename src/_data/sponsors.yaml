@@ -27,6 +27,8 @@ silver:
     url : https://reachfive.co/
   - name: carbonit
     url : http://carbon-it.fr/
+  - name: colisweb
+    url : http://colisweb.com/
 mecene:
 friends:
   - name: clevercloud
