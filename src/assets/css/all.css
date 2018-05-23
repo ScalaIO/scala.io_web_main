@@ -303,7 +303,12 @@ content.index{
   font-size: 1.8rem;
   padding: 0 5px;
 }
-
+content.index .tickets_disclaimer{
+  font-size: 1rem;
+}
+content.index .tickets{
+  text-align: center;
+}
 content div{
   max-width: var(--max-width);
 }
