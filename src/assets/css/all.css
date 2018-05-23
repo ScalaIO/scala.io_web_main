@@ -165,6 +165,7 @@ nav header button{
   background-color: var(--bg-lighter);
   color: var(--white);
   border-color: var(--grey);
+  border-width: 1px;
   border-radius: 4px;
   font-size: 1.3em;
 }
@@ -284,6 +285,7 @@ nav .previous-editions > span{
   -webkit-box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3);
   -moz-box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3);
   box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3);
+  border: 0;
 }
 /* header */
 .header {
