@@ -1,7 +1,11 @@
 Setting up your dev environment
 ==========
 
-For now, you need ruby 2.0 and node 0.10. I strongly suggest using [rvm](https://rvm.io/) to manage the ruby version and [nvm](https://github.com/creationix/nvm) or [nodeenv](http://ekalinin.github.io/nodeenv/) to manage the node version and avoid polluting you main system.
+For now, you need ruby 2.0 and node 0.10. I strongly suggest using 
+[rvm](https://rvm.io/) to manage the ruby version and 
+[nvm](https://github.com/creationix/nvm) or 
+[nodeenv](http://ekalinin.github.io/nodeenv/) to manage the node version and 
+avoid polluting you main system.
 
 Working on scalaio's website
 ==========
