@@ -116,7 +116,7 @@ module.exports = function(grunt) {
                 ,"rmdir _site"
                 ,"git add -A && git commit -m \"publish\" || true"
                 ,"git push -f git+ssh://git@push-par-clevercloud-customers.services.clever-cloud.com/app_c38f99ce-dbe0-4103-82d0-bd0c6d4a3d27.git publish:master"
-                ,"git checkout scalaio-2018"
+                ,"git checkout scalaio-2018-rework"
                 ,"git clean -fd"
                 //,"npm install"
                 //,"bower install"
