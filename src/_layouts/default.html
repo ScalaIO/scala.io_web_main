@@ -75,11 +75,14 @@
   {{ content }}
   <sponsors>
     <div class="platinum">
-      <a href="https://lunatech.com/" target="_blank"><img class="partner-platinum-logo partner-platinum-logo-white" src="./assets/images/partners/logo-lunatech.svg"></a>
+      <a href="https://lunatech.com/" target="_blank"><img class="partner-platinum-logo partner-platinum-logo-white" src="assets/images/partners/logo-lunatech.svg"></a>
     </div>
     <div class="gold">
-        <a href="http://www.ebiznext.com" target="_blank"><img class="partner-gold-logo partner-gold-logo-white" src="./assets/images/partners/logo-ebiznext.svg"></a>
-        <!-- <a href="http://www.lunatech.com" target="_blank"><img class="partner-gold-logo partner-gold-logo-white" src="./assets/images/partners/logo-lunatech.svg"></a>
+        {% for sponsor in site.data.sponsors.gold %}
+        <a href="{{sponsor.url}}" target="_blank"><img class="partner-gold-logo partner-gold-logo-white" src="assets/images/partners/logo-{{ sponsor.name }}.svg" alt="Logo {{ sponsor.name }}"></a>        
+        {% endfor %}
+        <!--<a href="http://www.ebiznext.com" target="_blank"><img class="partner-gold-logo partner-gold-logo-white" src="./assets/images/partners/logo-ebiznext.svg"></a>
+         <a href="http://www.lunatech.com" target="_blank"><img class="partner-gold-logo partner-gold-logo-white" src="./assets/images/partners/logo-lunatech.svg"></a>
         <a href="https://www.tinyclues.com" target="_blank"><img class="partner-gold-logo partner-gold-logo-white" src="./assets/images/partners/logo-tinyclues.svg"></a>
         <a href="http://labs.criteo.com" target="_blank"><img class="partner-gold-logo partner-gold-logo-white" src="./assets/images/partners/logo-criteo-labs.svg"></a>
         <a href="http://vente-privee.com" target="_blank"><img class="partner-gold-logo partner-gold-logo-white" src="./assets/images/partners/logo-vente-privee.svg"></a>
