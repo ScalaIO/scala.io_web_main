@@ -501,6 +501,10 @@ footer .newsletter{
   max-width: var(--half-max-width);
 }
 
+footer .newsletter .mc-field-group input{
+  max-width: 100%;
+}
+
 copyright{
   width: 100%;
   background-color: var(--black);
