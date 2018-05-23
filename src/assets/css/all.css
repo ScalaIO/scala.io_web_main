@@ -341,7 +341,7 @@ content {
 content.index{
   align-items: center;
   font-size: 1.8rem;
-  padding: 0 5px;
+  padding: 0;
 }
 content.index .tickets_disclaimer{
   font-size: 1rem;
