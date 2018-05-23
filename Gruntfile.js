@@ -94,7 +94,7 @@ module.exports = function(grunt) {
                 ,"git add -A && git commit -m \"Publish ppd\" || true"
                 ,"echo \"git push -f git+ssh://git@push-par-clevercloud-customers.services.clever-cloud.com/app_9c4640d9-c4ae-4b93-8a00-99ca579faf33.git publish-ppd:master\""
                 ,"git push -f git+ssh://git@push-par-clevercloud-customers.services.clever-cloud.com/app_9c4640d9-c4ae-4b93-8a00-99ca579faf33.git publish-ppd:master"
-                ,"git checkout scalaio-2018"
+                ,"git checkout scalaio-2018-rework"
                 ,"git clean -fd"
                 //,"npm install"
                 //,"bower install"
