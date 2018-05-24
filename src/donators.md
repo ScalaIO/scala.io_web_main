@@ -8,15 +8,15 @@ Scala.IO 2018
 ===============
 
 {% if site.data.donators.ScalaIO2018 %}  
-  <ul class="donators">
-  {% for donator in site.data.donators.ScalaIO2016 %}
-    <li>{{donator.name}} <span class="details">
-      <a href="http://twitter.com/{{donator.twitter}}"><i class="fab fa-twitter"></i></a>
-      <span class="company">{{donator.company}}</span>
-      </span>
-    </li>
-  {% endfor %}
-  </ul>
+<ul class="donators">
+{% for donator in site.data.donators.ScalaIO2018 %}
+  <li>{{donator.name}} <span class="details">
+    <a href="http://twitter.com/{{donator.twitter}}"><i class="fab fa-twitter"></i></a>
+    <span class="company">{{donator.company}}</span>
+    </span>
+  </li>
+{% endfor %}
+</ul>
 {% else %}
 <h2>Be the first for Scala.IO 2018 !</h2>  
 {% endif %}
