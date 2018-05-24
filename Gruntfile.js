@@ -15,11 +15,19 @@ module.exports = function(grunt) {
                 src : [ '.assets/css/all.css' ]
             }
         },
+        copy:{
+          main:{
+            expand: true,
+            cwd: 'bower_components/font-awesome',
+            src : ['svg-with-js/**'],
+            dest:'src/assets/font-awesome/'
+          }
+        },
         concat : {
             css : {
                 src : [ '.tmp/css/*.css',
                         'src/assets/css/libs/*.css',
-                        'src/assets/css/main.css' ],
+                        'src/assets/css/all.css' ],
                 dest : '.tmp/all.css',
             },
             js : {
@@ -27,9 +35,6 @@ module.exports = function(grunt) {
                   separator: ';'+grunt.util.linefeed
                 },
                 src : [ 'bower_components/jquery/dist/jquery.js',
-                        'bower_components/**/bootstrap/button.js',
-                        'bower_components/**/bootstrap/collapse.js',
-                        'bower_components/**/bootstrap/dropdown.js',
                         'bower_components/angular/angular.js',
                         'bower_components/angular-resource/angular-resource.js',
                         'bower_components/angular-route/angular-route.js'
@@ -53,6 +58,30 @@ module.exports = function(grunt) {
             jekyllServe : {
                 command : 'jekyll serve'
             },
+            stage:{
+              command: [
+                 "echo 'stage'"
+                ,"git stash save"
+                ,"git checkout publish-staging || git checkout --orphan publish-staging"
+                ,"find . -maxdepth 1 ! -name '.' ! -name '.git*' ! -name 'node_modules' ! -name 'bower_components' ! -name '_site' -exec rm -rf {} +"
+                ,"find _site -maxdepth 1 -exec mv {} . \\;"
+                ,"echo \"rmdir _site\""
+                ,"rmdir _site"
+                ,"git add -A && git commit -m \"Publish staging\" || true"
+                ,"echo \"git push -f git+ssh://git@push-par-clevercloud-customers.services.clever-cloud.com/app_b98cc3f2-8df8-43c3-84fa-66a3e52aec20.git publish-staging:master\""
+                ,"git push -f git+ssh://git@push-par-clevercloud-customers.services.clever-cloud.com/app_b98cc3f2-8df8-43c3-84fa-66a3e52aec20.git publish-staging:master"
+                ,"git checkout scalaio-2018-rework"
+                ,"git clean -fd"
+                //,"npm install"
+                //,"bower install"
+                ,"git stash pop || true"
+              ].join('&&'),
+              options: {
+                  stdout: true,
+                  stderr: true,
+                  failOnError: true
+              }
+            },
             publishPre:{
               command: [
                  "echo 'prepublish'"
@@ -65,7 +94,7 @@ module.exports = function(grunt) {
                 ,"git add -A && git commit -m \"Publish ppd\" || true"
                 ,"echo \"git push -f git+ssh://git@push-par-clevercloud-customers.services.clever-cloud.com/app_9c4640d9-c4ae-4b93-8a00-99ca579faf33.git publish-ppd:master\""
                 ,"git push -f git+ssh://git@push-par-clevercloud-customers.services.clever-cloud.com/app_9c4640d9-c4ae-4b93-8a00-99ca579faf33.git publish-ppd:master"
-                ,"git checkout scalaio-2018"
+                ,"git checkout scalaio-2018-rework"
                 ,"git clean -fd"
                 //,"npm install"
                 //,"bower install"
@@ -87,7 +116,7 @@ module.exports = function(grunt) {
                 ,"rmdir _site"
                 ,"git add -A && git commit -m \"publish\" || true"
                 ,"git push -f git+ssh://git@push-par-clevercloud-customers.services.clever-cloud.com/app_c38f99ce-dbe0-4103-82d0-bd0c6d4a3d27.git publish:master"
-                ,"git checkout scalaio-2018"
+                ,"git checkout scalaio-2018-rework"
                 ,"git clean -fd"
                 //,"npm install"
                 //,"bower install"
@@ -98,32 +127,6 @@ module.exports = function(grunt) {
                   stderr: true,
                   failonerror: true
               }
-            }
-        },
-        compass: {
-            options: {
-                sassDir: 'src/sass/',
-                cssDir: '.tmp/css',
-                generatedImagesDir: '.tmp/images/generated',
-                imagesDir: 'src/assets/images/',
-                javascriptsDir: 'src/assets/scripts/',
-                fontsDir: 'src/assets/fonts',
-                importPath: 'bower_components',
-                httpImagesPath: '/assets/images',
-                httpGeneratedImagesPath: '/assets/generated',
-                httpFontsPath: '/fonts',
-                relativeAssets: false,
-                assetCacheBuster: false
-            },
-            dist: {
-                options: {
-                    generatedImagesDir: 'src/assets'
-                }
-            },
-            server: {
-                options: {
-                    debugInfo: true
-                }
             }
         },
         express: {
@@ -155,12 +158,12 @@ module.exports = function(grunt) {
                       'src/asssets/images/**/*.*',
                       'src/*.md',
                       'src/**/*.md',
+                      'src/assets/css/all.css',
                       'src/**/*.html',
                       'src/js/*.js',
-                      '!src/js/vendor.js',
-                      'src/sass/*.scss'
+                      '!src/js/vendor.js'
                       ],
-            tasks : [ 'compass',
+            tasks : [ 'copy',
                       'concat',
                       'cssmin',
                       'shell:jekyllBuild'
@@ -189,17 +192,17 @@ module.exports = function(grunt) {
             server: '.tmp'
         },
     });
+
     // register custom grunt tasks
     grunt.registerTask('server', [
       'express',
-      'watch',
-      ,
-
+      'watch'
     ]);
 
     grunt.registerTask( 'test', [ 'csslint' ] );
-    grunt.registerTask( 'build', [ 'clean', 'compass','concat', 'cssmin', 'shell:jekyllBuild' ] )
-    grunt.registerTask( 'deploy', ['clean', 'compass','concat', 'cssmin', 'shell:jekyllBuild' ] )
-    grunt.registerTask( 'prepublish', [ 'clean', 'compass','concat', 'cssmin', 'shell:jekyllBuild','shell:publishPre' ] );
-    grunt.registerTask( 'publish', [ 'clean', 'compass','concat', 'cssmin', 'shell:jekyllBuild','shell:publish' ] );
+    grunt.registerTask( 'build', [ 'clean','concat', 'cssmin', 'shell:jekyllBuild' ] )
+    grunt.registerTask( 'deploy', ['clean','concat', 'cssmin', 'shell:jekyllBuild' ] )
+    grunt.registerTask( 'prepublish', [ 'clean', 'concat', 'cssmin', 'shell:jekyllBuild','shell:publishPre' ] );
+    grunt.registerTask( 'publish', [ 'clean', 'concat', 'cssmin', 'shell:jekyllBuild','shell:publish' ] );
+    grunt.registerTask( 'stage', [ 'clean', 'concat', 'cssmin', 'shell:jekyllBuild','shell:stage' ] );
 };

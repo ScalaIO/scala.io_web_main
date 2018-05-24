@@ -1,84 +1,57 @@
 ---
-layout: default
+layout: page
 title: Partners
 ---
 Buy a "Generous donator" pass to get your name displayed on this page as one of the absolute Scala.IO supporter !
 
-
 Scala.IO 2018
 ===============
 
-<div class="speakers">
-{% if site.data.donators.ScalaIO2018 %}
-  {% for donator in site.data.donators.ScalaIO2018 %}
-  <div class="row">
-    <div class="speaker_bio col-sm-offset-1">
-      <h2 class="name">{{donator.name}}
-      <span class="details">
-      <a href="http://twitter.com/{{donator.twitter}}"><i class="fa fa-twitter"></i></a>
-      <span class="company">{{donator.company}}</span>
-      </span>
-      </h2>
-    </div>
-  </div>
-  {% endfor %}
+{% if site.data.donators.ScalaIO2018 %}  
+<ul class="donators">
+{% for donator in site.data.donators.ScalaIO2018 %}
+  <li>{{donator.name}} <span class="details">
+    <a href="http://twitter.com/{{donator.twitter}}"><i class="fab fa-twitter"></i></a>
+    <span class="company">{{donator.company}}</span>
+    </span>
+  </li>
+{% endfor %}
+</ul>
 {% else %}
-  <div class="row">
-    <div class="speaker_bio col-sm-offset-1">
-      <h2>Be the first for Scala.IO 2018 !</h2>
-    </div>
-  </div>
+<h2>Be the first for Scala.IO 2018 !</h2>  
 {% endif %}
-</div>
+
 Scala.IO 2017
 ===============
 
-<div class="speakers">
+<ul class="donators">
 {% for donator in site.data.donators.ScalaIO2017 %}
-<div class="row">
-  <div class="speaker_bio col-sm-offset-1">
-    <h2 class="name">{{donator.name}}
-    <span class="details">
-    <a href="http://twitter.com/{{donator.twitter}}"><i class="fa fa-twitter"></i></a>
-    <span class="company">{{donator.company}}</span>
-    </span>
-    </h2>
-  </div>
-</div>
+<li>{{donator.name}} <span class="details"> <a href="http://twitter.com/{{donator.twitter}}"><i class="fab fa-twitter"></i></a> <span class="company">{{donator.company}}</span>
+</li>
 {% endfor %}
+</ul>
 
 Scala.IO 2016
 ===============
 
-<div class="speakers">
+<ul class="donators">
 {% for donator in site.data.donators.ScalaIO2016 %}
-<div class="row">
-  <div class="speaker_bio col-sm-offset-1">
-    <h2 class="name">{{donator.name}}
-    <span class="details">
-    <a href="http://twitter.com/{{donator.twitter}}"><i class="fa fa-twitter"></i></a>
+  <li>{{donator.name}} <span class="details">
+    <a href="http://twitter.com/{{donator.twitter}}"><i class="fab fa-twitter"></i></a>
     <span class="company">{{donator.company}}</span>
     </span>
-    </h2>
-  </div>
-</div>
+  </li>
 {% endfor %}
-
+</ul>
 Scala.IO 2014
 ===============
 
-<div class="speakers">
+<ul class="donators">
 {% for donator in site.data.donators.ScalaIO2014 %}
-<div class="row">
-  <div class="speaker_bio col-sm-offset-1">
-    <h2 class="name">{{donator.name}}
-    <span class="details">
-    <a href="http://twitter.com/{{donator.twitter}}"><i class="fa fa-twitter"></i></a>
+  <li>{{donator.name}} <span class="details">
+    <a href="http://twitter.com/{{donator.twitter}}"><i class="fab fa-twitter"></i></a>
     <span class="company">{{donator.company}}</span>
     </span>
-    </h2>
-  </div>
-</div>
+  </li>
 {% endfor %}
-</div>
-</div>
+</ul>
