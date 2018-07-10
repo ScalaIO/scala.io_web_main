@@ -18,6 +18,8 @@ gold:
     url: https://www.ercom.fr/
   - name: norauto
     url: https://www.norauto.com/
+  - name: ledger
+    url: https://www.ledger.fr/
 silver:
   - name: fabernovel
     url: https://technologies.fabernovel.com/
