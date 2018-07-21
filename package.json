@@ -5,7 +5,7 @@
   "author": "Scala.io",
   "devDependencies": {
     "bower": "~1.8.0",
-    "grunt": "~1.0.1",
+    "grunt": "~0.4.5",
     "grunt-contrib-clean": "~1.0.0",
     "grunt-contrib-compass": "~1.0.0",
     "grunt-contrib-concat": "~1.0.0",
