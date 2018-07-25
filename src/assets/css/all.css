@@ -543,3 +543,35 @@ copyright p {
   width: 100%;
   max-width: var(--max-width);
 }
+.talks {
+  list-style-type: none;
+}
+li.talk{
+  background-repeat: no-repeat;
+  background-position: 0 10px;
+  background-size: 20px 13px;
+  padding-left: 30px;
+}
+.talks .talk-title {
+  color: #000;
+  text-decoration: none;
+}
+.talks .speaker a{
+  color: #428bca;
+  text-decoration: none;
+}
+.talks h3{
+  margin: 0px;
+}
+.talks .details{
+  margin-left: 20px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+.talks .abstract p{
+  margin: 0px 0px 10px 0px;
+}
+a.filter{
+  color: #428bca;
+  text-decoration: none;
+}
