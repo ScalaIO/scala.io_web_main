@@ -36,8 +36,4 @@ scalaio.controller('TalksCtrl', ['$scope', '$location', 'Talks', '$anchorScroll'
     $scope.hasNoTwitter = function(speaker) {
         return !speaker ||  !speaker.twitter || speaker.twitter.trim() == ""
     };
-    $scope.scroll = function() {
-        console.log("scrolling to hash anchor")
-        $anchorScroll();
-    };
 }]);
