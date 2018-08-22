@@ -11,9 +11,10 @@ Working on scalaio's website
 ==========
 * Ensure you have the latest js dependencies: `bower install`
 * Ensure you have the required node tools installed: `npm install`
+* Ensure you have the required ruby gems installed: `bundle install`
 * Build the website : `grunt build`
 * Start working on the website : `grunt server` (with livereload and fs monitoring)
-* Access the watched site from the host : 'http://localhost:4090'
+* Access the watched site from the host : 'http://localhost:4000'
 
 
 Deploying the website
