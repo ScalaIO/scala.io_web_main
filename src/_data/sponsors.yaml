@@ -20,6 +20,8 @@ gold:
     url: https://www.norauto.com/
   - name: ledger
     url: https://www.ledger.fr/
+  - name: tinyclues
+    url: https://www.tinyclues.com/
 silver:
   - name: fabernovel
     url: https://technologies.fabernovel.com/
