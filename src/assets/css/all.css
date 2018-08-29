@@ -461,6 +461,7 @@ sponsors .gold img,
 }
 content .sponsors .gold img{
   max-width: 400px;
+  height: 200px;
 }
 sponsors .silver,
 .sponsors .silver{
@@ -485,6 +486,7 @@ sponsors .silver img,
 }
 content .sponsors .silver img{
   max-width: 300px;
+  height: 150px;
 }
 @media (min-width: 1170px) {
   sponsors .gold,
