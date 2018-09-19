@@ -12,7 +12,7 @@ scripts: ["//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.3.0/handlebars.min.j
     <script id="speakers-template" type="text/ng-template">
       <div class="speakers" ng-repeat="speakers in speakerGroups">
         <div class="speaker" speakerId="{{speaker.uuid}}" ng-repeat="speaker in speakers" ng-click="showSpeaker(speaker.uuid)">
-          <img class="avatar" ng-src="{{speaker.avatarURL}}" id="{{speaker.uuid}}"></img>
+          <img class="avatar" ng-src="assets/images/speakers/{{speaker.uuid}}.jpeg" id="{{speaker.uuid}}"></img>
           <p class="name">{{speaker.firstName}} {{speaker.lastName}}</p>
           <hr/>
         </div>
