@@ -1,14 +1,8 @@
 ---
-layout: schedule
+layout: page
 title: Schedule
 ---
 
-# ScalaIO 2017 Schedule
+# ScalaIO 2018 Schedule
 
-## Day 1 — Thursday November 2nd 2017
-
-<a href="assets/images/schedule/thursday_nov_2.pdf"><img src="assets/images/schedule/thursday_nov_2.svg"></a>
-
-## Day 2 — Friday November 3rd 2017
-
-<a href="assets/images/schedule/friday_nov_3.pdf"><img src="assets/images/schedule/friday_nov_3.svg"></a>
+<iframe height="800px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlQN_LD4heaITNEswLzTzQXoSC8E3wGQ5IZS0QYHUuxPDi00Hy6ZjU7X8JyNsH-W95Kgi0fxdkRwn-/pubhtml?widget=true&amp;headers=false"></iframe>
