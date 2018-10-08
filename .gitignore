@@ -8,5 +8,4 @@ bower_components
 .vagrant
 src/js/vendor.js
 src/all*.css
-src/assets/font-awesome
 npm-debug.log
