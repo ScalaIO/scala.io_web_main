@@ -35,10 +35,15 @@ title: Partners
   <h1 >T-Shirt sponsor</h1>
   <div class="tshirt">  
     <a href="{{site.data.sponsors.tshirt.url}}">
-        <img src="assets/images/partners/tshirt/logo-{{ site.data.sponsors.tshirt.name }}.png" alt="Logo {{ site.data.sponsors.tshirt.name }}">
+        <img src="assets/images/partners/logo-{{ site.data.sponsors.tshirt.name }}.svg" alt="Logo {{ site.data.sponsors.tshirt.name }}">
       </a>
   </div>
-
+  <h1 >Bag sponsor</h1>
+  <div class="tshirt">  
+    <a href="{{site.data.sponsors.tshirt.url}}">
+        <img src="assets/images/partners/logo-{{ site.data.sponsors.tshirt.name }}.svg" alt="Logo {{ site.data.sponsors.tshirt.name }}">
+      </a>
+  </div>
 
   <h1>Partners</h1>
   <div class="friends">

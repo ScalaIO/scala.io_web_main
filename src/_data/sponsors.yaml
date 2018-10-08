@@ -40,7 +40,10 @@ friends:
 tshirt:
   name: ebiznext
   url: http://www.ebiznext.com
-ug:
+bags:
+  name: adneom
+  url: https://www.adneom.com/fr
+uug:
   - name: paris
     url: http://www.meetup.com/Paris-Scala-User-Group-PSUG/
   - name: lyon
