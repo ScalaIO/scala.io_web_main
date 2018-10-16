@@ -28,12 +28,15 @@ scalaio.controller('TalksCtrl', ['$scope', '$location', 'Talks', '$anchorScroll'
 
     Talks.query(function(data) {
         $scope.talks = data;
-
     });
     $scope.hasNoCompany = function(speaker) {
         return !speaker ||  !speaker.company || speaker.company.trim() == "" || speaker.company.trim() == "-" || speaker.company.trim() == " -"
     };
     $scope.hasNoTwitter = function(speaker) {
         return !speaker ||  !speaker.twitter || speaker.twitter.trim() == ""
+    };
+    $scope.scroll = function() {
+        console.log("scrolling to hash anchor" + $location.hash());
+        $anchorScroll();
     };
 }]);
