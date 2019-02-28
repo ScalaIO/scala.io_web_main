@@ -1,48 +1,48 @@
 platinum:
-  - name: lunatech
-    url: https://www.lunatech.com
+ #   name: lunatech
+ #   url: https://www.lunatech.com
 gold:
-  - name: ebiznext
-    url: http://www.ebiznext.com
-  - name: neolynk
-    url: http://www.neolynk.fr/ 
-  - name: criteo-labs
-    url: http://labs.criteo.com/
-  - name: teads
-    url: http://teads.tv/  
-  - name: iadvize
-    url: http://www.iadvize.com/  
-  - name: lizeo
-    url: http://www.lizeo-group.com/
-  - name: ercom
-    url: https://www.bleckwen.ai/
-  - name: norauto
-    url: https://www.norauto.com/
-  - name: ledger
-    url: https://www.ledger.fr/
-  - name: tinyclues
-    url: https://www.tinyclues.com/
+ # - name: ebiznext
+ #   url: http://www.ebiznext.com
+ # - name: neolynk
+ #   url: http://www.neolynk.fr/ 
+ # - name: criteo-labs
+ #   url: http://labs.criteo.com/
+ # - name: teads
+ #   url: http://teads.tv/  
+ # - name: iadvize
+ #   url: http://www.iadvize.com/  
+ # - name: lizeo
+ #   url: http://www.lizeo-group.com/
+ # - name: ercom
+ #   url: https://www.bleckwen.ai/
+ # - name: norauto
+ #   url: https://www.norauto.com/
+ # - name: ledger
+ #   url: https://www.ledger.fr/
+ # - name: tinyclues
+ #   url: https://www.tinyclues.com/
 silver:
-  - name: fabernovel
-    url: https://technologies.fabernovel.com/
-  - name: kaizen
-    url: https://kaizen-solutions.net
-  - name: reach5
-    url : https://reachfive.co/
-  - name: carbonit
-    url : http://carbon-it.fr/
-  - name: colisweb
-    url : http://colisweb.com/
+ # - name: fabernovel
+ #   url: https://technologies.fabernovel.com/
+ # - name: kaizen
+ #   url: https://kaizen-solutions.net
+ # - name: reach5
+ #   url: https://reachfive.co/
+ # - name: carbonit
+ #   url: http://carbon-it.fr/
+ # - name: colisweb
+ #   url: http://colisweb.com/
 mecene:
 friends:
   - name: clevercloud
     url: https://www.clever-cloud.com/
 tshirt:
-  name: ebiznext
-  url: http://www.ebiznext.com
+ # - name: ebiznext
+ #   url: http://www.ebiznext.com
 bag:
-  name: adneom
-  url: https://www.adneom.com/fr
+ # - name: adneom
+ #   url: https://www.adneom.com/fr
 uug:
   - name: paris
     url: http://www.meetup.com/Paris-Scala-User-Group-PSUG/

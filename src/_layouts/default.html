@@ -13,34 +13,36 @@
 
     <script defer src="assets/font-awesome/svg-with-js/js/fontawesome-all.min.js"></script>
     <script defer src="js/menu.js"></script>
-  </head>
-  <body id="home" data-spy="scroll" data-target="#primary-nav">
-  <nav>
-    <header>
-    <a class="brand" href="/">Scala<span class="red">IO</span></a>
-    <button id="menu"><span class="fa fa-bars"></span></button>
-    </header>
-    <ul id="menu-items" class="hidden">
-      <li><a href="venue.html">Venue</a></li>
-      <li><a href="speakers.html">Speakers</a></li>
-      <li><a href="partners.html">Partners</a></li>
-      <li><a href="talks.html">Talks</a></li>
-      <li><a href="schedule.html">Schedule</a></li>
-      <!-- <li><a href="/#tickets">Tickets</a></li> -->
-      <!-- <li><a href="spree.html">FLOSS Spree</a></li> -->
-      <li><a href="faq.html">FAQ</a></li>
-      <li><a href="donators.html">Hall of fame</a></li>
-      <li class="previous-editions">
-        <span id="previous-editions">Previous editions  <i class="fas fa-angle-down"></i></span>
-        <ul id="previous-editions-items" class="hidden">
-          <li><a href="2013">Scala.<span class="red">IO</span> 2013</a></li>
-          <li><a href="2014">Scala.<span class="red">IO</span> 2014</a></li>
-          <li><a href="2016">Scala.<span class="red">IO</span> 2016</a></li>
-          <li><a href="2017">Scala.<span class="red">IO</span> 2017</a></li>
+</head>
+
+<body id="home" data-spy="scroll" data-target="#primary-nav">
+    <nav>
+        <header>
+            <a class="brand" href="/">Scala<span class="red">IO</span></a>
+            <button id="menu"><span class="fa fa-bars"></span></button>
+        </header>
+        <ul id="menu-items" class="hidden">
+            <li><a href="venue.html">Venue</a></li>
+            <!-- <li><a href="speakers.html">Speakers</a></li> -->
+            <li><a href="partners.html">Partners</a></li>
+            <!-- <li><a href="talks.html">Talks</a></li> -->
+            <!-- <li><a href="schedule.html">Schedule</a></li> -->
+            <!-- <li><a href="/#tickets">Tickets</a></li> -->
+            <!-- <li><a href="spree.html">FLOSS Spree</a></li> -->
+            <li><a href="faq.html">FAQ</a></li>
+            <li><a href="donators.html">Hall of fame</a></li>
+            <li class="previous-editions">
+                <span id="previous-editions">Previous editions  <i class="fas fa-angle-down"></i></span>
+                <ul id="previous-editions-items" class="hidden">
+                    <li><a href="2013">Scala.<span class="red">IO</span> 2013</a></li>
+                    <li><a href="2014">Scala.<span class="red">IO</span> 2014</a></li>
+                    <li><a href="2016">Scala.<span class="red">IO</span> 2016</a></li>
+                    <li><a href="2017">Scala.<span class="red">IO</span> 2017</a></li>
+                    <li><a href="2018">Scala.<span class="red">IO</span> 2018</a></li>
+                </ul>
+            </li>
         </ul>
-      </li>
-    </ul>    
-    <!--
+        <!--
     <navitem class="brand"><a href="/">Scala<span class="red">IO</span></a></navitem>
     <navitem><a href="venue.html">Venue</a></navitem>
     <navitem><a href="partners.html">Partners</a></navitem>
@@ -58,30 +60,39 @@
             </ul>
           </li>
         </ul> -->
-  </nav>
-  <!-- <div class="cfp-open"></div><div class="ribbon"><a href="https://cfp.scala.io">CFP Open !</a></div></div>--> 
-  <!--<div class="ribbon"><a href="https://cfp.scala.io">CFP Open !</a></div>-->
-  <div class="header">
-    <img src="assets/images/logos/scalaio/scalaio_black.svg" alt="Scala.IO logo" />    
-          <h1>The Scala event in France!</h1>
-          <h2 class="teaser">
-            <p>October 29th - 31th, 2018 - <span class="red">Lyon</span>, France</p>
-            <a href="https://twitter.com/share" class="twitter-share-button" data-text="ScalaIO conference 29th - 31th October 2018" data-via="ScalaIO_FR"data-size="large" data-count="none" target="_blank"><span class="tsb1">Tweet</span></a>            
-          </h2>
-          <script>
-          !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
-          </script>
-  </div>
-  {{ content }}
-  <sponsors>
-    <div class="platinum">
-      <a href="https://lunatech.com/" target="_blank"><img class="partner-platinum-logo partner-platinum-logo-white" src="assets/images/partners/logo-lunatech.svg"></a>
+    </nav>
+    <!-- <div class="cfp-open"></div><div class="ribbon"><a href="https://cfp.scala.io">CFP Open !</a></div></div>-->
+    <!--<div class="ribbon"><a href="https://cfp.scala.io">CFP Open !</a></div>-->
+    <div class="header">
+        <img src="assets/images/logos/scalaio/scalaio_black.svg" alt="Scala.IO logo" />
+        <h1>The Scala event in France!</h1>
+        <h2 class="teaser">
+            <p>Will be announced soon - <span class="red">Lyon</span>, France</p>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-text="ScalaIO conference 29th - 31th October 2018" data-via="ScalaIO_FR" data-size="large" data-count="none" target="_blank"><span class="tsb1">Tweet</span></a>
+        </h2>
+        <script>
+            ! function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0],
+                    p = /^http:/.test(d.location) ? 'http' : 'https';
+                if (!d.getElementById(id)) {
+                    js = d.createElement(s);
+                    js.id = id;
+                    js.src = p + '://platform.twitter.com/widgets.js';
+                    fjs.parentNode.insertBefore(js, fjs);
+                }
+            }(document, 'script', 'twitter-wjs');
+        </script>
     </div>
-    <div class="gold">
-        {% for sponsor in site.data.sponsors.gold %}
-        <a href="{{sponsor.url}}" target="_blank"><img class="partner-gold-logo partner-gold-logo-white" src="assets/images/partners/logo-{{ sponsor.name }}.svg" alt="Logo {{ sponsor.name }}"></a>        
-        {% endfor %}
-        <!--<a href="http://www.ebiznext.com" target="_blank"><img class="partner-gold-logo partner-gold-logo-white" src="./assets/images/partners/logo-ebiznext.svg"></a>
+    {{ content }}
+    <sponsors>
+        <div class="platinum">
+            <!-- <a href="https://lunatech.com/" target="_blank"><img class="partner-platinum-logo partner-platinum-logo-white" src="assets/images/partners/logo-lunatech.svg"></a> -->
+        </div>
+        <div class="gold">
+            {% for sponsor in site.data.sponsors.gold %}
+            <a href="{{sponsor.url}}" target="_blank"><img class="partner-gold-logo partner-gold-logo-white" src="assets/images/partners/logo-{{ sponsor.name }}.svg" alt="Logo {{ sponsor.name }}"></a>
+            {% endfor %}
+            <!--<a href="http://www.ebiznext.com" target="_blank"><img class="partner-gold-logo partner-gold-logo-white" src="./assets/images/partners/logo-ebiznext.svg"></a>
          <a href="http://www.lunatech.com" target="_blank"><img class="partner-gold-logo partner-gold-logo-white" src="./assets/images/partners/logo-lunatech.svg"></a>
         <a href="https://www.tinyclues.com" target="_blank"><img class="partner-gold-logo partner-gold-logo-white" src="./assets/images/partners/logo-tinyclues.svg"></a>
         <a href="http://labs.criteo.com" target="_blank"><img class="partner-gold-logo partner-gold-logo-white" src="./assets/images/partners/logo-criteo-labs.svg"></a>
@@ -90,59 +101,64 @@
         <a href="https://www.valraiso.net" target="_blank"><img class="partner-gold-logo partner-gold-logo-white" src="./assets/images/partners/logo-valraiso.svg"></a>
         <a href="http://www.lizeo-online-media-group.com" target="_blank"><img class="partner-gold-logo partner-gold-logo-white" src="./assets/images/partners/logo-lizeo.svg"></a>
         <a href="http://mfglabs.com" target="_blank"><img class="partner-gold-logo partner-gold-logo-white" src="./assets/images/partners/logo-mfglabs.svg"></a> -->
-      </div>
-  </sponsors>
-
-  <footer>
-       <div class="social">
-           <h3>Social Networks</h3>
-           <ul>
-             <li><a href="https://twitter.com/ScalaIO_FR" title="" class="social-footer-link" target="_blank"><i class="fab fa-twitter"></i> Twitter</a></li>
-             <li><a href="https://plus.google.com/107460043818092638551" title="" class="social-footer-link" target="_blank"><i class="fab fa-google-plus"></i> Google+</a></li>
-           </ul>
-         </div>
-       <div class="newsletter">
-          <h3>Newsletter</h3>
-          <p>Subscribe to our newsletter and be the first to know about our news !</p>
-          <!-- Begin MailChimp Signup Form -->
-          <form action="https://scala.us7.list-manage.com/subscribe/post?u=d1e91c63df589371ca4d8a48e&amp;id=8ea1a2ab18" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
-          <div class="controls mc-field-group">
-            <div class="form-group">
-              <label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label>
-              <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL">
-            </div>
-            <!--/row-->
         </div>
-        <!-- /container -->
-        <div class="base">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-3 copyright">
-                        <p>Scala<span class="red">IO</span> conference, All Rights Reserved.</p>
-                    </div>
-                </div>
-                <!-- row -->
-            </div>
-            <input class="btn btn-danger" type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe">
-          </div>
-          </form>
-         </div>
-  </footer>
-  <copyright>
-    <p>Scala<span class="red">IO</span> conference, All Rights Reserved.</p>
-  </copyright>
+    </sponsors>
 
-  
-  <script defer type="text/javascript" src="js/vendor.js"></script>
-  <script defer type="text/javascript" src="js/mailchimp.js"></script>
-  {% if page.scripts %}
-  {% for script in page.scripts %}
+    <footer>
+        <div class="social">
+            <h3>Social Networks</h3>
+            <ul>
+                <li><a href="https://twitter.com/ScalaIO_FR" title="" class="social-footer-link" target="_blank"><i class="fab fa-twitter"></i> Twitter</a></li>
+                <li><a href="https://plus.google.com/107460043818092638551" title="" class="social-footer-link" target="_blank"><i class="fab fa-google-plus"></i> Google+</a></li>
+            </ul>
+        </div>
+        <div class="newsletter">
+            <h3>Newsletter</h3>
+            <p>Subscribe to our newsletter and be the first to know about our news !</p>
+            <!-- Begin MailChimp Signup Form -->
+            <form action="https://scala.us7.list-manage.com/subscribe/post?u=d1e91c63df589371ca4d8a48e&amp;id=8ea1a2ab18" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+                <div class="controls mc-field-group">
+                    <div class="form-group">
+                        <label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label>
+                        <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL">
+                    </div>
+                    <!--/row-->
+                </div>
+                <!-- /container -->
+                <div class="base">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-3 copyright">
+                                <p>Scala<span class="red">IO</span> conference, All Rights Reserved.</p>
+                            </div>
+                        </div>
+                        <!-- row -->
+                    </div>
+                    <input class="btn btn-danger" type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe">
+                </div>
+            </form>
+        </div>
+    </footer>
+    <copyright>
+        <p>Scala<span class="red">IO</span> conference, All Rights Reserved.</p>
+    </copyright>
+
+
+    <script defer type="text/javascript" src="js/vendor.js"></script>
+    <script defer type="text/javascript" src="js/mailchimp.js"></script>
+    {% if page.scripts %} {% for script in page.scripts %}
     <script defer src="{{script}}"></script>
-  {% endfor %}
-  {% endif %}
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-</html>
+    {% endfor %} {% endif %}
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga'); <
+        /html>

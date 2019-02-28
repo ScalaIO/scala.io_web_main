@@ -34,15 +34,19 @@ title: Partners
 
   <h1 >T-Shirt sponsor</h1>
   <div class="gold">  
-    <a href="{{site.data.sponsors.tshirt.url}}">
+  {% for sponsor in site.data.sponsors.tshirt %}
+    <a href="{{sponsors.tshirt.url}}">
         <img src="assets/images/partners/logo-{{ site.data.sponsors.tshirt.name }}.svg" alt="Logo {{ site.data.sponsors.tshirt.name }}">
-      </a>
+    </a>
+  {% endfor %}
   </div>
   <h1 >Bag sponsor</h1>
   <div class="gold">  
-    <a href="{{site.data.sponsors.bag.url}}">
-        <img src="assets/images/partners/logo-{{ site.data.sponsors.bag.name }}.svg" alt="Logo {{ site.data.sponsors.bag.name }}">
+  {% for sponsor in site.data.sponsors.bag %}
+    <a href="{{sponsor.url}}">
+        <img src="assets/images/partners/logo-{{ sponsor.name }}.svg" alt="Logo {{ sponsor.name }}">
       </a>
+  {% endfor %}
   </div>
 
   <h1>Partners</h1>
