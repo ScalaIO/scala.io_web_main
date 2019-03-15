@@ -4,8 +4,8 @@ platinum:
 gold:
   - name: ebiznext
     url: http://www.ebiznext.com
- # - name: neolynk
- #   url: http://www.neolynk.fr/ 
+  - name: kelkoo
+    url: https://www.kelkoo.fr/ 
  # - name: criteo-labs
  #   url: http://labs.criteo.com/
  # - name: teads
