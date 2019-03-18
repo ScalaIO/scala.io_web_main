@@ -1,4 +1,4 @@
-function toggleMenu(evt){
+function toggleMenu(event){
   let menuItems=document.getElementById(event.currentTarget.id+"-items");
   let toggle=menuItems.className;
   switch(toggle){
