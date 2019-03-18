@@ -38,8 +38,8 @@ friends:
   - name: clevercloud
     url: https://www.clever-cloud.com/
 tshirt:
- # - name: ebiznext
- #   url: http://www.ebiznext.com
+  - name: ebiznext
+    url: http://www.ebiznext.com
 bag:
  # - name: adneom
  #   url: https://www.adneom.com/fr

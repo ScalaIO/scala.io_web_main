@@ -35,8 +35,8 @@ title: Partners
   <h1 >T-Shirt sponsor</h1>
   <div class="gold">  
   {% for sponsor in site.data.sponsors.tshirt %}
-    <a href="{{sponsors.tshirt.url}}">
-        <img src="assets/images/partners/logo-{{ site.data.sponsors.tshirt.name }}.svg" alt="Logo {{ site.data.sponsors.tshirt.name }}">
+    <a href="{{sponsor.tshirt.url}}">
+        <img src="assets/images/partners/logo-{{ sponsor.name }}.svg" alt="Logo {{ sponsor.name }}">
     </a>
   {% endfor %}
   </div>
