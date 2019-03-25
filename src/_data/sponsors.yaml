@@ -8,8 +8,8 @@ gold:
     url: https://www.kelkoo.fr/ 
  # - name: criteo-labs
  #   url: http://labs.criteo.com/
- # - name: teads
- #   url: http://teads.tv/  
+  - name: teads
+    url: http://teads.tv/  
  # - name: iadvize
  #   url: http://www.iadvize.com/  
  # - name: lizeo
