@@ -6,6 +6,6 @@ title: Sponsorship
 SPONSORSHIP OPPORTUNITIES
 ========================
 
-Become a ScalaIO 2017 sponsor and promote your services, products or simply increase your brand awareness with more than 300 passionate Scala, Spark, and FP languages developpers!
+Become a ScalaIO 2019 sponsor and promote your services, products or simply increase your brand awareness with more than 350 passionate Scala, Spark, and FP languages developers!
 
-We offer multiple sponsorship opportunities which are detailed in the [following brochure](/assets/pdf/ScalaIO - Sponsorship 2018.pdf). You can also contact us to discuss your sponsorship: [sponsors2017@scala.io](mailto:sponsors2017@scala.io?subject=ScalaIO sponsorship).
+We offer multiple sponsorship opportunities which are detailed in the [following brochure](/assets/pdf/ScalaIO - Sponsorship 2019.pdf). You can also contact us to discuss your sponsorship: [sponsors@scala.io](mailto:sponsors@scala.io?subject=ScalaIO sponsorship).
