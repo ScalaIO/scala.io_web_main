@@ -23,8 +23,8 @@ gold:
  # - name: tinyclues
  #   url: https://www.tinyclues.com/
 silver:
- # - name: fabernovel
- #   url: https://technologies.fabernovel.com/
+  - name: fabernovel
+    url: https://technologies.fabernovel.com/
   - name: kaizen
     url: https://kaizen-solutions.net
  # - name: reach5
