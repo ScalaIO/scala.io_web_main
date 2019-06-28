@@ -9,7 +9,9 @@ gold:
  # - name: criteo-labs
  #   url: http://labs.criteo.com/
   - name: teads
-    url: http://teads.tv/  
+    url: http://teads.tv/
+  - name: reach5
+    url: https://reachfive.co/  
  # - name: iadvize
  #   url: http://www.iadvize.com/  
  # - name: lizeo
@@ -27,8 +29,6 @@ silver:
     url: https://technologies.fabernovel.com/
   - name: kaizen
     url: https://kaizen-solutions.net
- # - name: reach5
- #   url: https://reachfive.co/
  # - name: carbonit
  #   url: http://carbon-it.fr/
  # - name: colisweb
