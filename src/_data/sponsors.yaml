@@ -14,8 +14,8 @@ gold:
     url: https://reachfive.co/
   - name: lunatech
     url: https://www.lunatech.fr
- # - name: iadvize
- #   url: http://www.iadvize.com/  
+  - name: iadvize
+    url: http://www.iadvize.com/  
  # - name: lizeo
  #   url: http://www.lizeo-group.com/
  # - name: ercom
