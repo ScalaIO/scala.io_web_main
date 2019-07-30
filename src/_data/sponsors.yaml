@@ -6,8 +6,6 @@ gold:
     url: http://www.ebiznext.com
   - name: kelkoo
     url: https://www.kelkoo.fr/ 
- # - name: criteo-labs
- #   url: http://labs.criteo.com/
   - name: teads
     url: http://teads.tv/
   - name: reach5
@@ -15,7 +13,9 @@ gold:
   - name: lunatech
     url: https://www.lunatech.fr
   - name: iadvize
-    url: http://www.iadvize.com/  
+    url: http://www.iadvize.com/
+  - name: criteo-labs
+    url: http://labs.criteo.com/  
  # - name: lizeo
  #   url: http://www.lizeo-group.com/
  # - name: ercom
