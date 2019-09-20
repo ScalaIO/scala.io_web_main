@@ -4,12 +4,12 @@ platinum:
 gold:
   - name: ebiznext
     url: http://www.ebiznext.com
+  - name: reach5
+    url: https://reachfive.co/
   - name: kelkoo
     url: https://www.kelkoo.fr/ 
   - name: teads
     url: http://teads.tv/
-  - name: reach5
-    url: https://reachfive.co/
   - name: lunatech
     url: https://www.lunatech.fr
   - name: iadvize
