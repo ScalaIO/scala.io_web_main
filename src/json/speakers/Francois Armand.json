@@ -1,0 +1,24 @@
+{
+    "name": "Francois Armand",
+    "bio": "[FR] François Armand, papa x3, développeur passionné, est persuadé que les logiciels libres et les développement soutenable sont notre avenir, Scala depuis 2006, fan de FP (je suis tombé dans OCaml et COQ lorsque j'étais petit) et de ZIO, co-fondateur & CTO de Rudder, continuous audit & configuration.\r\n\r\n[En] François Armand, dad x3, passionate dev, convinced that Free Software and sustainable development are our future, Scala since 2006, ZIO and FP fan (I fall into OCaml and COQ when I was a kid), co-founder and CTO of Rudder, the continuous audit & configuration solution.",
+    "twitter": "fanf42",
+    "company": "rudder.io",
+    "url": "https://medium.com/@fanf42/",
+    "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/48592/moi.png",
+    "talks": [
+        {
+            "title": "On a porté Rudder sur ZIO - Stratégie de gestion d’erreurs dans une application complexe",
+            "description": "Cette présentation vous montrera ce que nous avons appris lors de la migration de Rudder, une application Scala vieille de 10 ans et forte de 100 000 lignes de code, pas du tout développée en programmation fonctionnelle pure (pas de Tagless Final ni de Free Monad, par exemple), à ZIO.\r\n\r\nBien sûr, je présenterai rapidement ZIO, mais en me concentrant sur la partie qui a motivé l’utilisation de ce framework révolutionnaire dans Rudder: comment gère-t-on des erreurs dans une application complexe, et plus particulièrement une application serveur en Scala ?\r\nNous en profiterons pour aborder des questions que l'on se pose régulièrement en tant que développeurs: quelle est la différence entre erreurs et défauts  ? Est-ce que toutes les parties d’une application, ou même différentes applications réagissent de la même façon à la même erreur ? Et d’ailleurs, nous gérons les erreurs pour qui ? Nous-mêmes, les dev ? Les ops ? Les utilisateurs finaux ?\r\n\r\nEt nous verrons finalement, parce que c’est tout de même le point original de cette présentation comment ZIO peut vous aider à mieux\r\ngérer les erreurs dans vos applications, et quelles sont les bonnes pratiques à mettre en place afin que ZIO puisse réellement vous aider, sans boilerplate ?\r\n",
+            "abstract": "\"Notre métier de développeur consiste essentiellement à anticiper et gérer les cas non nominaux d'une application”.\nCet état d’esprit est central dans le développement de Rudder et c’est aussi la source d'un bon nombre de nos choix techniques, dont le dernier en date: ZIO. Je vous explique pourquoi",
+            "audience_level": "All",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "zio",
+                "architecture",
+                "erreurs",
+                "effect-systems",
+                "🇫🇷"
+            ]
+        }
+    ]
+}

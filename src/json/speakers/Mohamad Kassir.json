@@ -1,0 +1,23 @@
+{
+    "name": "Mohamad Kassir",
+    "bio": "",
+    "twitter": "_mhdkassir",
+    "company": "Ebiznext",
+    "url": "",
+    "avatar": "https://secure.gravatar.com/avatar/853d447258b0cca20a91b1ead5370b84?s=500",
+    "talks": [
+        {
+            "title": "Refined, des Types sur mesure",
+            "description": "Dans ce talk je présenterai les Refined Types dans Scala: comment ça marche, à quel besoin ça répond, et comment les utiliser.\r\nNous verrons des exemples avec la librairie de base et un retour d'expérience sur l'intégration avec Play dans dans un API REST.\r\n",
+            "abstract": "Même dans un langage typé on est amené à faire de la validation des données car les types basiques comme String restent très permissifs. Refined Types permettent d'intégrer les règles de validation dans la définition des types ce qui réduit le boilerplate et renforce la type safety avantageusement !",
+            "audience_level": "Beginner",
+            "talk_format": "Short Talk (20 minutes)",
+            "tags": [
+                "🇫🇷",
+                "scala",
+                "refined",
+                "play"
+            ]
+        }
+    ]
+}

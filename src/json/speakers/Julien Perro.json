@@ -1,0 +1,26 @@
+{
+    "name": "Julien Perro",
+    "bio": "Pragmatic programmer, functional enthusiast, interested in building helpful abstractions, slightly obsessed with their composability and testability.\r\n\r\nI've worked in different fields, but somehow always ended up handling huge amounts of sensor data. Currently doing so at [Sqooba.io](https://sqooba.io).\r\n\r\nAnd to be totally open: I largely prefer spaces over tabs, but if you disagree I'd still be happy to see you at my talk :)",
+    "twitter": "",
+    "company": "Sqooba AG",
+    "url": "",
+    "avatar": "https://secure.gravatar.com/avatar/585aef3f94c7e63f4df5f71fa0a890a9?s=500",
+    "talks": [
+        {
+            "title": "Everything is a time-series. Where are the corresponding abstractions? How to (almost) hide away a heterogeneous reality.",
+            "description": "Did you ever have to combine multiple sources of time-series like data that were:\r\n\r\n  - misaligned\r\n  - had different sampling frequencies\r\n  - a lot of missing measures?\r\n\r\nThis kind of situations generated enough frustration for us to come up with an abstraction to hide all this under the rug:\r\n\r\nWe present a small library, [scala-timeseries-lib](https://github.com/Sqooba/scala-timeseries-lib), that abstracts the discreet and flaky nature of \r\ntime-series data away, looking instead at them as functions of time, which can be arbitrarily combined.\r\n\r\nMultiplying, summing, ... over your heterogeneous series is a breeze, while you can build series of any objects and define your own operators between them.\r\n\r\nIn essence, you can do:\r\n\r\n`val externalTemp: TimeSeries[Double] = ...` // load data from your favourite weather service\r\n\r\n`val internalTemp: TimeSeries[Double] = ...` // load data from your indoor sensor\r\n\r\n`val difference = internalTemp - externalTemp` // And very easily compute the difference.\r\n\r\n... and stop worrying about the details once and for all.",
+            "abstract": "Sensor data, system metrics, user events:  manipulating and using this data is our daily bread and butter.\n\nBut where are the abstractions that allow us to reason purely in terms of time-series, even if they are flaky, irregularly sampled and misaligned?\n\nWe present a tiny library that may help.",
+            "audience_level": "All",
+            "talk_format": "Short Talk (20 minutes)",
+            "tags": [
+                "time-series",
+                "functional",
+                "abstraction",
+                "stateless event processing",
+                "🇬🇧",
+                "🇫🇷",
+                "distributed-data-processing"
+            ]
+        }
+    ]
+}

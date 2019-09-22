@@ -1,0 +1,21 @@
+{
+    "name": "François Sarradin",
+    "bio": "",
+    "twitter": "",
+    "company": "",
+    "url": "",
+    "avatar": "https://secure.gravatar.com/avatar/fa3d0249159281beafb1f149889c2dd4?s=500",
+    "talks": [
+        {
+            "title": "SBT, monorepo et livraison",
+            "description": "À travers notre vécu chez mes clients et dans mes projets OSS, je vous propose une énumération d'outils et plugins étonnants, ainsi qu'un retour d'expérience sur leur mise en place.\r\n\r\nDans ce talk, nous verrons plus particulièrement :\r\n\r\n* sbt-dynver pour utiliser les tag git pour gérer les numéros de version,\r\n* sbt-release-early pour gérer la livraison dans OSSRH ou JCenter,\r\n* l'intérêt de CircleCI pour les projets OSS,\r\n* l'intérêt de créer ses propres plugins pour avoir des build.sbt plus déclaratifs, notamment chez des clients\r\n* pourquoi faire du monorepo, dans quel cadre et comment configurer sont pour que ça marche",
+            "abstract": "Comment se débrouille-t-on en 2019 avec Scala, SBT et ses divers plugins pour gérer des projets ? Peut-on faire du monorepo avec ça ? Et enfin, peut-on faire de la livraison continue avec Scala en OSS ou dans des SI ? C'est ce que nous verrons dans ce talk.",
+            "audience_level": "Intermediate",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "tooling-and-build-systems",
+                "🇫🇷"
+            ]
+        }
+    ]
+}

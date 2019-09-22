@@ -1,0 +1,25 @@
+{
+    "name": "Menestret Martin",
+    "bio": "Data software engineer and ambassador @Ebiznext, France.\r\nI am a furiously enthusiastic functional programming learner. \r\nI love to teach nearly as much as I love to learn !",
+    "twitter": "mmenestret",
+    "company": "Ebiznext",
+    "url": "http://geekocephale.com/blog/",
+    "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/44432/moi.jpeg",
+    "talks": [
+        {
+            "title": "Functeurs, en theorie et en pratique !",
+            "description": "L'idée de ce talk est de faire en parallèle entre la théorie et la pratique et montrer comment les 2 aspects se rejoignent.\r\n\r\n# Intuition\r\n\r\n- Je donnerai des exemples afin de faire toucher du doigt une intuition et un pattern commun\r\n- Nous verrons comment ce pattern, cette abstraction, est encodée en Scala\r\n\r\n# Theorie\r\n\r\n- J'expliquerai progressivement pourquoi les foncteurs sont définis comme un mapping entre deux catégories\r\n    - En expliquant ce qu'est une catégorie et la théorie des catégories\r\n    - En montrant le rapport entre la programmation fonctionnelle en Scala et la théorie des catégories\r\n    - En expliquant ce qu'est un mapping entre deux catégories et les impacts dans en programmation fonctionnelle\r\n\r\n# Pratique\r\n\r\n- Nous résumerons ce que nous apporte les foncteurs dans notre pratique au quotidien\r\n\r\n# Conclusion\r\n\r\nMerci beaucoup !",
+            "abstract": "Les foncteurs... au delà d'un factoïd pour briller en société, que sont-ils ?\nIls représentent un concept central de la programmation fonctionnelle, nous verrons ce qu'ils sont en pratique mais également leurs racines théoriques en théorie de catégories puis comment les deux mondes se rejoignent !",
+            "audience_level": "Beginner",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "Scala",
+                "Functional programming",
+                "Category theory",
+                "🇫🇷",
+                "🇬🇧",
+                "effect-systems"
+            ]
+        }
+    ]
+}

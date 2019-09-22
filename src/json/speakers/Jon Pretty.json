@@ -1,0 +1,22 @@
+{
+    "name": "Jon Pretty",
+    "bio": "Jon has been having fun riding the bleeding edge of Scala for fifteen years, and he's not finished yet! While he's not travelling the world attending Scala conferences, or organising Scala World, Jon spends his time working on a variety of open-source Scala tools and libraries, and providing professional Scala training services.",
+    "twitter": "propensive",
+    "company": "Propensive",
+    "url": "https://propensive.com/",
+    "avatar": "https://secure.gravatar.com/avatar/8cfd5a526d84b6fe7977e91ebbab43de?s=500",
+    "talks": [
+        {
+            "title": "Running Amok: Igniting a Documentation Revolution",
+            "description": "Why is our ecosystem littered with so much incomplete, out-of-date and inadequate documentation? Why can't we check a library's v1.3.5 docs and read about how it contains a bug that's fixed in v1.3.6? Why can't a humble user contribute an improvement to the docs without involving the project maintainer, and having a new release made? Why does the documentation contain examples which don't compile? Why must we wait longer for a release of a library when only its docs are missing?\r\n\r\nDocumentation needs to evolve faster, and to continue improving even after the software it describes has stopped. We need a documentation revolution!\r\n\r\nThis talk will take a philosophical analysis of the causes of our industry's bad documentation culture and how our incumbent tooling and practises aren't helping. I will introduce Amok, a revolutionary new documentation management tool built upon Fury, for creating, maintaining, evolving, linking, versioning and checking documentation. Amok will take advantage of static build information which is now available thanks to Fury, and provide solutions to all the awkward questions above.",
+            "abstract": "Docs for Scala projects leave a lot to be desired: they're too often out-of-date, unmaintained and inaccurate. The problem is that our current tooling is built around some bad ideas we cling onto. Documentation tooling needs a revolution, and Amok—a tool made possible by Fury—offers a solution.",
+            "audience_level": "Beginner",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "tooling",
+                "documentation",
+                "🇬🇧"
+            ]
+        }
+    ]
+}

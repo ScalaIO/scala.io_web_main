@@ -1,0 +1,25 @@
+{
+    "name": "Himanshu Arora",
+    "bio": "Himanshu Arora is a passionate Lead Data Engineer from Paris working at NeoLynk. He has been using Scala, Reactive systems and Big data stack for a few years now in production to help enterprises accelerate digital transformation. He is a Lightbend certified expert on Scala, Play, Akka and FastData and Databricks certified Spark developer. He loves to be a reactive and FP advocate. He contributes time to time in open source community and participates as well as speaks in scala, data and reactive conferences around the globe.",
+    "twitter": "him_aro",
+    "company": "Neolynk",
+    "url": "https://github.com/HimanshuArora1234",
+    "avatar": "https://secure.gravatar.com/avatar/6ad681b64c09eeeb7b37b7b241d14d34?s=500",
+    "talks": [
+        {
+            "title": "So long untyped actors, make way for Akka-Typed",
+            "description": "In this talk we will learn about all new features that have been added in the akka framework to make actors type safe. Learn the difference between untyped and typed actors. Discover the API of Akka-Typed, typed actors' communication patterns, lifecycle and supervision etc.",
+            "abstract": "Static typing is one of the many reasons you love coding in Scala but while mixing Akka actors with your scala code brings you down a bit as they accept Any and return Unit. Don’t worry Akka-Typed is here to remedy that.",
+            "audience_level": "Beginner",
+            "talk_format": "Short Talk (20 minutes)",
+            "tags": [
+                "distributed-data-processing",
+                "akka",
+                "typesafe",
+                "reactive-systems",
+                "🇬🇧",
+                "🇫🇷"
+            ]
+        }
+    ]
+}

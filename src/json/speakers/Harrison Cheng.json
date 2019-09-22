@@ -1,0 +1,21 @@
+{
+    "name": "Harrison Cheng",
+    "bio": "",
+    "twitter": "",
+    "company": "Univalence",
+    "url": "",
+    "avatar": "https://secure.gravatar.com/avatar/d939c82a31accb2df1c0e752f124212d?s=500",
+    "talks": [
+        {
+            "title": "Des tests Spark simples et efficaces avec Spark-Test",
+            "description": "Les tests unitaires, bien que primordiaux, sont dans la plupart des cas très peu exploités. Spark tout particulièrement ne fournit pas directement d'outils de test. Chaque membre d'une équipe se retrouve ainsi à utiliser sa propre pratique des tests unitaires (c'est-à-dire parfois, rien !), ce qui amène différentes approches de tests dans le projet et donc à une hétérogénéité dans le code.\r\nDans ce talk, nous allons d'abord voir les raisons qui nous ont poussés à créer la librairie Spark-Test. Puis, nous verrons les différentes features de celle-ci, comme l'égalité entre deux dataframes donnant plus de détails sur l'échec des tests.",
+            "abstract": "Vous voulez mettre en place des tests Spark en comparant Dataframe/Dataset ? Les erreurs et exceptions ne vous fournissent pas assez de détails en cas d'échec ? Ce talk a pour but de vous faire découvrir Spark-Test, une lib dont l'objectif est d'améliorer et d'encourager la création de tests Spark.",
+            "audience_level": "Intermediate",
+            "talk_format": "Short Talk (20 minutes)",
+            "tags": [
+                "distributed-data-processing",
+                "🇫🇷"
+            ]
+        }
+    ]
+}

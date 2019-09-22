@@ -1,0 +1,23 @@
+{
+    "name": "Loïc Descotte",
+    "bio": "Scala developer since 2012 and trainer since 2016, I'm interested by FP, effect systems and Web architectures.\r\n",
+    "twitter": "loic_d",
+    "company": "kaizen solutions",
+    "url": "http://loicdescotte.github.io/",
+    "avatar": "https://secure.gravatar.com/avatar/84fc2547ce1026dfb6379cc15def4a7d?s=500",
+    "talks": [
+        {
+            "title": "How to build a purely functional webapp in Scala with HTTP4S and ZIO",
+            "description": "We will build a an HTTP4s app from scratch, then a database connection, write some simple queries using Doobie and wrapping the effects in ZIO Task[A].\r\nThan we will see how to use ZIO IO[E,A] type to manage and compose errors.\r\nFinally we will add another type parameter to use ZIO[R,E,A] . R will represent the runtime environment and we will use it to inject dependencies in our app and write tests easily. \r\nIf we have enough time we will also use streams to read a service response in streaming and mix its data with the database results.",
+            "abstract": "In this workshop, you will learn to write a purely functional webapp in Scala using technologies like HTTP4S, Doobie and ZIO. \nWe will see how to consume data from external services in streaming and how to create a dynamic application. We will also see how to make our app testable.",
+            "audience_level": "Intermediate",
+            "talk_format": "Workshop (3 hours)",
+            "tags": [
+                "effect-systems",
+                "webapp",
+                "functional programming",
+                "🇫🇷"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Christophe Calvès",
+    "bio": "Christophe is a R&D Data-Engineer at MFG Labs. Passionate about solving problems he uses types and functional programming to build fast and reliable software. He likes to share with others experience and knowledge (and beer!). He especially focus on giving new comers the keys to feel comfortable with intimidating concepts.",
+    "twitter": "chrilves",
+    "company": "MFG Labs",
+    "url": "https://chrilves.github.io",
+    "avatar": "https://secure.gravatar.com/avatar/24ef18021486d7d91350b230825513b0?s=500",
+    "talks": [
+        {
+            "title": "10 tips to write fast stack-safe functional code in Scala: the automatic-batching library experience report",
+            "description": "Have you ever heard the belief of functional programming being slow? Have you ever been caught by a `StackOverflowError` in your recursive functions? Have you ever rewritten your functional code into imperative style to make it fast and stack-safe? What if i told you how to write fast and stack-safe functional code? Even for non tail-recursive functions! ;)\r\n\r\nIn this talk i'll present you 10 tips to write fast and stack-safe functional code. It is based on my experience implementing [Auto-Batch](https://github.com/chrilves/auto-batch), a pure functional-programming Scala library to automatically batch API calls.\r\n\r\nThrough these 10 tips, we'll discuss many subjects together: what `@tailrec` really means and how to bypass it, how to make most functions tail-recursive, how to be sure your code is really stack-safe, which free data-structure to choose for your need, how to use smart constructors to speed things up, \"hidden\" features of the IO monads, applicatives vs monads, why parametricity is your friend, are Generalized Algebraic Data Types really useful (spoiler alert, they are!), is there a concrete use-case of continuation-passing style, ...",
+            "abstract": "You like writing elegant functional code but you need it to be fast? You enjoy recursion but fear the big bad stack-overflow?\nFear no more! In this talk i'll present you 10 tips i've used in Auto-Batch, a Scala FP library for automatically batching\napi calls, to make it fast and safe.",
+            "audience_level": "Intermediate",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "effect-systems",
+                "taming-recursion",
+                "🇬🇧",
+                "functional programming"
+            ]
+        }
+    ]
+}

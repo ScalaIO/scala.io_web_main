@@ -1,0 +1,22 @@
+{
+    "name": "Sergei Shabanau",
+    "bio": "I am a life-long learner. Several years ago I have discovered FP by accident, while attempting to simplify the codebase I have joined to work with. Since then I enjoy learning FP, working with FP and climbing the FP ladder, all with the help of Scala. \r\nI go after the order and correctness as a software craftsman, and search for chaos as a mountain biker.",
+    "twitter": "SShabanau",
+    "company": "B-Yond",
+    "url": "https://github.com/sergei-shabanau",
+    "avatar": "https://secure.gravatar.com/avatar/ef3fcdb89a9dbc304e1eb48f95a3515a?s=500",
+    "talks": [
+        {
+            "title": "Invertible Programs",
+            "description": "Parsing functionality is commonly available for many languages. Taking text and converting it to the desired structure is a long solved problem. \r\n\r\nInvertible parsing is (almost) unavailable. Taking text and converting it to structured data or taking structure and presenting it as text in coherent manner using the same program is solved only in theory.\r\n\r\nUntil recently. __Invertible__ simply means __can run in both ways__. With `parserz` parser combinators library in Scala one can do just that: go from program text to abstract syntax tree and print programs back after optimization done on a tree; or express a web server and get a web client for free by simply running the parser logic backwards; or even print the description of the parsing program itself to serve as documentation. \r\n\r\nWelcome version 0.2 of the library with simpler API, new features and, as usual, made with love.",
+            "abstract": "In crowded space of parsers there is a library that helps you do way more than text-to-structure conversion. Use it to go from program text to abstract syntax tree and print programs back after tree optimization; or express a web server and get a web client by simply running the parser backwards.",
+            "audience_level": "All",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "Scala",
+                "FP",
+                "🇬🇧"
+            ]
+        }
+    ]
+}

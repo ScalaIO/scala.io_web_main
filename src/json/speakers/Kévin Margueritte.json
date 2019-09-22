@@ -1,0 +1,26 @@
+{
+    "name": "Kévin Margueritte",
+    "bio": "",
+    "twitter": "KevinMarguo",
+    "company": "Teads",
+    "url": "",
+    "avatar": "https://secure.gravatar.com/avatar/b1dfd128d2330d5838fb85efc64a95bd?s=500",
+    "talks": [
+        {
+            "title": "Les structures fonctionnelles incontournables : Functor, Applicative et Traverse ",
+            "description": "Je vous propose un aperçu sur les structures fonctionnelles incontournables : Functor/Applicative/Traverse. Le tout en Scala bien évidemment. Je vais vous prouver qu’elles sont partout et qu’elles facilitent la vie des développeurs.\r\nSi vous pensez qu’un Functor est un animal aquatique nocturne, que l’Applicative est un plat asiatique … ou que vous avez simplement besoin de vous rafraîchir la mémoire; ce talk est fait pour vous !!",
+            "abstract": "L'objectif est de découvrir les structures fonctionnelles : Functor, Applicative & Traverse. Ce talk est destiné aussi bien aux débutants qu'aux Scala addicts.",
+            "audience_level": "Beginner",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "Scala",
+                "cats",
+                "functor",
+                "applicative",
+                "traverse",
+                "functionnal programming",
+                "🇫🇷"
+            ]
+        }
+    ]
+}

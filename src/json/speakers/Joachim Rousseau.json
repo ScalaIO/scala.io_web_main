@@ -1,0 +1,24 @@
+{
+    "name": "Joachim Rousseau",
+    "bio": "Développeur de plus de 15 ans d'expérience, consultant chez Xebia puis Publicis Sapient depuis le rachat de Xebia France par le groupe Publicis. Mes sujets favoris sont les architectures Web, le Scala, la programmation fonctionnelle et le principe de typage fort. Et parfois le Java car c'est le langage qui m'a élevé et on ne renie jamais ses parents !\r\n\r\nSéduit par les microservices, j'ai eu l'occasion d'y toucher sur un gros projet et désormais j'en redemande.\r\n\r\nAccessoirement référence vivante du HTTP RESTful et de l'encodage/décodage de caractère auprès de mes collègues. ;)",
+    "twitter": "__jro",
+    "company": "Publicis Sapient (Xebia France)",
+    "url": "",
+    "avatar": "https://secure.gravatar.com/avatar/a2e58f072e849b3837396e5041feed1b?s=500",
+    "talks": [
+        {
+            "title": "Jouer avec Play JSON",
+            "description": "Note: Workshop README is in english, english speaker wellcome !\r\n\r\nCet atelier propose la découverte de Play JSON, ce mapper modèle<-->JSON historiquement extrait de Playframework et désormais indépendant (en terme de dépendances). Il s'adresse à toutes celles et ceux qui veulent un départ-catapulte pour être immédiatement opérationnels, ou pour ceux qui voudraient comparer son usage à celui d'autres bibliothèques.\r\n\r\nLes fonctionnalités classiques exposées par la doc officielle (JSON path, Reads, Writes, Transformers) seront balayées (\"traversées\", devrais-je dire ? ;)), mais les exemples de code vont plus loin. Ces exemples permettront aux débutants en Scala / FP de pouvoir prendre en main Play JSON même dans des cas un peu plus complexes que d'habitude. Il se veut suffisamment complet pour servir par la suite de \"référence\" à celles et ceux qui auraient à l'utiliser au quotidien.",
+            "abstract": "Venez essayer Play JSON, l'une des meilleures bibliothèques pour gérer le mapping JSON/modèle Scala.\nPour un \"from zero to hero\" ou pour comparer avec d'autres bibliothèques que vous connaissez, cet atelier est pour vous !\n\nCet atelier va plus loin que la doc officielle en terme d'exemples.",
+            "audience_level": "Beginner",
+            "talk_format": "Workshop (3 hours)",
+            "tags": [
+                "Scala",
+                "JSON",
+                "🇫🇷",
+                "🇬🇧",
+                "Playframework"
+            ]
+        }
+    ]
+}

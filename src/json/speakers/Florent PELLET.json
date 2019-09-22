@@ -1,0 +1,24 @@
+{
+    "name": "Florent PELLET",
+    "bio": "DDD Addict.  \r\nSoftware crafters freelance in Lyon.  \r\nCo-leader of MUG Lyon, DDD Lyon and Software Crafters Lyon usergroups.",
+    "twitter": "florentpellet",
+    "company": "KickBanking",
+    "url": "https://www.florentpellet.fr/",
+    "avatar": "https://secure.gravatar.com/avatar/40ecc4b6f07c79f534471e82f021dd0d?s=500",
+    "talks": [
+        {
+            "title": "Introduction au T(ype)DD avec F# et web app réactive avec Fable.io",
+            "description": "La programmation fonctionnelle est de plus en plus mise en avant, mais pourquoi? Qu’y a-t-il de différent avec la POO?\r\n\r\nNous vous proposons de partir d’un kata bien connu pour illustrer les différences (implémentations en C# existantes) et dédiaboliser la soi-disant complexité de la programmation fonctionnelle. Les différences de notation forment le principal obstacle, une fois passée, la programmation fonctionnelle n’est pas plus compliquée. Nous aborderons le langage F# pas à pas en illustrant notamment le système de type (dit de “types algébriques”) pour avoir un design piloté par les types (TypeDD).\r\n\r\nEn bonus, nous vous montrerons comment créer une web app réactive du kata en F# avec Fable.io (transpiler F# vers JavaScript) et Elmish (oui la référence au langage Elm est fait exprès).",
+            "abstract": "Dans le même esprit que TDD, pourquoi ne pas guider nos développements grâce aux types en interdisant les cas interdits notamment.  \nCette session se déroulera en livecoding. Nous comparons différentes implémentations et nous apprendrons à nous aider du compilateur pour faciliter nos développements",
+            "audience_level": "Beginner",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "fsharp",
+                ".net",
+                "type",
+                "TypeDD",
+                "🇫🇷"
+            ]
+        }
+    ]
+}

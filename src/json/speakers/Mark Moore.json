@@ -1,0 +1,26 @@
+{
+    "name": "Mark Moore",
+    "bio": "Emigrating to the US from Ireland, Mark has been a Scala developer for over 5 years. After initially teaching himself to program and a few years experience in the industry he earned a Masters in Computer Science from Texas Southern University. He currently works for iOFFICE and attempts to bring the principles of Functional Programming into practical application in their Integrated Workplace Management System.",
+    "twitter": "",
+    "company": "iOFFICE",
+    "url": "",
+    "avatar": "https://secure.gravatar.com/avatar/9ba5862bd06ed58daef0b0592e2971b9?s=500",
+    "talks": [
+        {
+            "title": "Whirlwind tour of the Scala Functional Programming ecosystem",
+            "description": "Let's go on a whirlwind tour of the FP library ecosystem as we implement a text messaging service that mirrors one currently in production at iOFFICE. We will start with the design of the application and abstract over the outside world to create our business logic in a purely functional, easily testable way. We will then utilize the rich library ecosystem to implement the means by which our application will interact with the world whilst retaining its pure nature. Finally, we will wire everything together and have an example of a Strongly Typed Pure Functional Application that is ready to deploy!\r\n\r\nRequired Knowledge\r\nFoundational level of Scala syntax is all that is expected from the attendees\r\n\r\nLearning Objectives\r\nProvide the motivation for designing an application that abstracts over specific effect types\r\nDemonstrate how far the Scala FP ecosystem has come by using the latest and greatest libraries to interact with the outside world.\r\nShow how the power of abstraction has enabled the authors of these libraries to build on a core set of fundamental concepts that allow these libraries to be perfectly composable while having zero dependencies on each other.\r\nSome of the libraries we will encounter are:\r\n\r\nScalaz, which defines a set of foundational type classes and provides purely functional data structures to complement those from the Scala standard library\r\n\r\nZIO, which is a general purpose effect monad, and associated abstractions that provide type-safe, composable concurrency for Scala\r\n\r\nHttp4s, a minimal idiomatic Scala interface for Http Services\r\n\r\nDoobie, a pure functional JDBC layer for Scala\r\n\r\nFS2, a compositional, streaming I/O library for Scala\r\n\r\n",
+            "abstract": "Let's go on a whirlwind tour of the Scala FP ecosystem as we create an SMS service that mirrors one currently in production at iOFFICE. We will show the motivation for abstracting over effects while laying out our business logic before using ZIO to provide the pure interface with the outside world",
+            "audience_level": "Beginner",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "scala",
+                "library",
+                "use case",
+                "application",
+                "case study",
+                "inspiration",
+                "🇬🇧"
+            ]
+        }
+    ]
+}

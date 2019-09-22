@@ -1,0 +1,35 @@
+{
+    "name": "John Ⓐ De Goes",
+    "bio": "A mathematician by training but a software engineer by vocation, John A. De Goes has been professionally writing software for more than 25 years. John has contributed to dozens of open source projects written in functional programming languages, including ZIO, a library for asynchronous and concurrent programming in functional Scala. In addition to speaking at Strata, OSCON, BigData TechCon, NEScala, ScalaWorld, Scala IO, flatMap, Scalar Conf, LambdaConf, and many other conferences, John also published a variety of books on programming. Currently, John consults at De Goes Consulting, a consultancy committed to solving hard business problems using the power of pure functional programming.",
+    "twitter": "jdegoes",
+    "company": "",
+    "url": "http://degoes.net",
+    "avatar": "https://secure.gravatar.com/avatar/6fbccc0537949767c52dfc210003ec9d?s=500",
+    "talks": [
+        {
+            "title": "Learning ZIO through Game Programming",
+            "description": "ZIO is one of the fastest-growing libraries in the Scala ecosystem, with a growing number of companies choosing to power their async and concurrent applications with ZIO. Sometimes sold as a better Future, ZIO brings much more to the table, including asynchronous and concurrent structures, software transactional memory, production-grade error and thread management, and incremental testability.\r\n\r\nIn this three hour workshop, you will get a chance to code along with John A. De Goes, as you learn enough about ZIO to build an interactive game! In the process of developing this game, you'll pick up tricks and techniques for working with ZIO and writing functional Scala, and you'll absorb common patterns in building modern applications. Finally, when you're done, you'll see how features built into ZIO make testing code a breeze, without any additional effort or ceremony.",
+            "abstract": "ZIO is a powerful library for async and concurrent programming in Scala, but learning the library can be a little intimidating. But no longer—in this three hour workshop, you'll learn how to build testable, functional, type-safe programs in ZIO by building your own interactive game!",
+            "audience_level": "Intermediate",
+            "talk_format": "Workshop (3 hours)",
+            "tags": [
+                "🇬🇧"
+            ]
+        },
+        {
+            "title": "Scala vs Kotlin",
+            "description": "Kotlin is perhaps the fastest growing language in the history of the JVM, and seems poised to take increasing market share from Java. Kotlin combines a variety of new language features, cross-platform support, and an emphasis on tooling to deliver a compelling package for many commercial software developers.\r\n\r\nIn this presentation, you'll get a chance to learn what all the hype is about, as you explore the Kotlin language, tooling, libraries, and community, all from the perspective of a Scala developer. Learn how Kotlin stacks up against Scala, and in which situations you might choose Kotlin, and which others you might choose Scala.",
+            "abstract": "Kotlin's meteoric rise has sent shock waves through the JVM ecosystem, and left many teams scrambling to figure out which language to use in which situation. Bring popcorn to watch as Scala and Kotlin battle it out in an epic clash—covering language, tooling, libraries, and community!",
+            "audience_level": "All",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "scala",
+                "kotlin",
+                "functional programming",
+                "fp",
+                "jvm",
+                "🇬🇧"
+            ]
+        }
+    ]
+}

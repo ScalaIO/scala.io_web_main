@@ -1,0 +1,22 @@
+{
+    "name": "Guillaume Galy",
+    "bio": "I have been a software engineer for 6 years, and after starting out with Java, I quickly fell in love with Scala. I currently work for Fabernovel (formerly Zengularity), using technologies such as Scala, Play! or Akka to build modern, reactive applications that fit each of our clients' specific needs.",
+    "twitter": "guilgaly",
+    "company": "Fabernovel",
+    "url": "",
+    "avatar": "https://secure.gravatar.com/avatar/86bcbfd795cb64ac0a5f10c6ff64758c?s=500",
+    "talks": [
+        {
+            "title": "A live-coding introduction to Mill: finally a build tool we can all understand!",
+            "description": "In this talk, I will start by giving a very short presentation of the Mill build tool: what does it do, where does it come from, what are its core design philosophies and main strengths?\r\n\r\nI will then proceed to a live-coding demo for most of the talk duration. It will be based on a simplified version of a personal project, https://github.com/guilgaly/cowsay4s; for the purpose of the demo I will focus mainly on writing the actual build definition while the code of the library itself will be mostly copy-pasted.\r\n\r\nDuring the demo, I will successively:\r\n\r\n- create a basic Mill project from scratch\r\n- cross-build for different Scala versions\r\n- cross-build for JVM/JS targets\r\n- write a custom build task (to do some simple code generation)\r\n- publish to a maven repository\r\n\r\nAlong the way, I will demonstrate some nice advantages of Mill, such as the ability to simply navigate through the build definition in an IDE or easily inspect JSON-formatted task results.",
+            "abstract": "Confused by SBT? Here enters Li Haoyi’s Mill, a build tool that human beings can actually understand! In this mostly live-coding session, we’ll go from zero to cross-building a project for Scala.js and writing our own custom build tasks, getting you ready to give Mill a spin on your own projects.",
+            "audience_level": "All",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "tooling-and-build-systems",
+                "🇬🇧",
+                "🇫🇷"
+            ]
+        }
+    ]
+}

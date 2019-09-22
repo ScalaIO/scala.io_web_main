@@ -1,0 +1,24 @@
+{
+    "name": "Fred \"Azarty\" CECILIA",
+    "bio": "Hi, my name is Fred, Data Driven Consultant. \r\n\r\nI put data in the center of application design. I'm a big fan of  functional programming, real-time distributed systems, and also creative coding and  electronic music production.  I am also a speaker, trainer and also Creative Coding Paris team member. \r\n\r\nTagline: Respect your data, they will give you back! ",
+    "twitter": "naikyworld",
+    "company": "",
+    "url": "http://www.naikyworld.com",
+    "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/51224/IMG_2106_BW.png",
+    "talks": [
+        {
+            "title": "A functional developer in the world of Game",
+            "description": "I started my career as a Java developer and after 7 years of Object Oriented development. 4 years ago,  I literally fell in love with the Functional Programming paradigm when I discovered Scala. Since, I work to figure out how to improve my skill in this subject. \r\n\r\nBut in parallel, I started having fun in the world of Creative Coding/Creative Technology.  And recently I had the opportunity to work on an interactive installation (Visual/Sound/Light) where I was in charge of the \"game\" development using the Game Engine Unity.\r\n\r\nThat was like discovering a new world, a mixture of excitement, disappointment, WTF, and OMG! \r\nThe goal of this talk is to share this journey and especially show how Functional programming start inspire Game Dev environment like Unity3D.",
+            "abstract": "That's the story of a functional developer discovering the world of \"Game Developpement\": Mutability everywhere, no lambda, no monad 😱! \nIn this talk, I  will tell you about this journey and expose my plan to make FP conquer this gaming world!... or not",
+            "audience_level": "All",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "#Unity3D",
+                "FP",
+                "GameDev",
+                "🇬🇧",
+                "🇫🇷"
+            ]
+        }
+    ]
+}

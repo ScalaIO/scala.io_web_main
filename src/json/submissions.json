@@ -7,7 +7,6 @@
             "🇬🇧",
             "functional programming"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Christophe Calvès",
             "bio": "Christophe is a R&D Data-Engineer at MFG Labs. Passionate about solving problems he uses types and functional programming to build fast and reliable software. He likes to share with others experience and knowledge (and beer!). He especially focus on giving new comers the keys to feel comfortable with intimidating concepts.",
@@ -16,6 +15,7 @@
             "url": "https://chrilves.github.io",
             "avatar": "https://secure.gravatar.com/avatar/24ef18021486d7d91350b230825513b0?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "10 tips to write fast stack-safe functional code in Scala: the automatic-batching library experience report",
             "description": "Have you ever heard the belief of functional programming being slow? Have you ever been caught by a `StackOverflowError` in your recursive functions? Have you ever rewritten your functional code into imperative style to make it fast and stack-safe? What if i told you how to write fast and stack-safe functional code? Even for non tail-recursive functions! ;)\r\n\r\nIn this talk i'll present you 10 tips to write fast and stack-safe functional code. It is based on my experience implementing [Auto-Batch](https://github.com/chrilves/auto-batch), a pure functional-programming Scala library to automatically batch API calls.\r\n\r\nThrough these 10 tips, we'll discuss many subjects together: what `@tailrec` really means and how to bypass it, how to make most functions tail-recursive, how to be sure your code is really stack-safe, which free data-structure to choose for your need, how to use smart constructors to speed things up, \"hidden\" features of the IO monads, applicatives vs monads, why parametricity is your friend, are Generalized Algebraic Data Types really useful (spoiler alert, they are!), is there a concrete use-case of continuation-passing style, ...",
@@ -33,7 +33,6 @@
             "🇬🇧",
             "🇫🇷"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Fred \"Azarty\" CECILIA",
             "bio": "Hi, my name is Fred, Data Driven Consultant. \r\n\r\nI put data in the center of application design. I'm a big fan of  functional programming, real-time distributed systems, and also creative coding and  electronic music production.  I am also a speaker, trainer and also Creative Coding Paris team member. \r\n\r\nTagline: Respect your data, they will give you back! ",
@@ -42,6 +41,7 @@
             "url": "http://www.naikyworld.com",
             "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/51224/IMG_2106_BW.png"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "A functional developer in the world of Game",
             "description": "I started my career as a Java developer and after 7 years of Object Oriented development. 4 years ago,  I literally fell in love with the Functional Programming paradigm when I discovered Scala. Since, I work to figure out how to improve my skill in this subject. \r\n\r\nBut in parallel, I started having fun in the world of Creative Coding/Creative Technology.  And recently I had the opportunity to work on an interactive installation (Visual/Sound/Light) where I was in charge of the \"game\" development using the Game Engine Unity.\r\n\r\nThat was like discovering a new world, a mixture of excitement, disappointment, WTF, and OMG! \r\nThe goal of this talk is to share this journey and especially show how Functional programming start inspire Game Dev environment like Unity3D.",
@@ -59,7 +59,6 @@
             "Algebras",
             "🇬🇧"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Harry Laoulakos",
             "bio": "Senior software engineer / functional programmer, with solid working experience and a strong educational background. Enjoying programming in Scala, Play framework, Akka, Typelevel stack: cats, shapeless, etc. ",
@@ -68,6 +67,7 @@
             "url": "",
             "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/26379/harry.jpg"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Algebraic Data Types in Scala . Where is the algebra ? What other algebras are there ?",
             "description": "**Abstract**\r\nTuples (and case classes) and sealed traits are common data structures in Scala. Sometimes called products and coproducts, they define algebraic data types. They are called ADTs in abbreviation. But where is the algebra in them? \r\nIn this talk, I will demonstrate the correspondence of data structures that we use every day in Scala to simple high-school algebra, and you will learn why these are called algebraic.  \r\n\r\n**Required Knowledge**\r\nNone. Even people that know nothing of Scala can follow the talk. \r\n\r\n**Learning Objectives**\r\nTo understand the term algebra in the context of functional programming. ",
@@ -84,7 +84,6 @@
             "Kubernetes",
             "🇬🇧"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Roksolana Diachuk",
             "bio": "I have been working as a Data Engineer on multiple projects in the Big Data field. I am passionate about Big Data, Scala, and Kubernetes and I always love to learn something new. I am one of the Women Who Code Kyiv leads so I enjoy organizing events as well as speaking at such events. My huge hobby is discovering new cities by traveling",
@@ -93,6 +92,7 @@
             "url": "https://www.linkedin.com/in/roksolanadiachuk/",
             "avatar": "https://secure.gravatar.com/avatar/c7ea3920ee0fde5f731518a6f69b12dd?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Alice in the world of pods and higher order functions",
             "description": "We have many reasons to love functional programming. But have you thought that functional programming can be really close to the containers world?\r\nYou might have heard about Kubernetes, everyone's buzzing about it. Kubernetes may sound complex especially if you’ve never worked with containers. A surprising thing is that you can actually apply your knowledge of functional programming to understand how Kubernetes works. If you want to know more about the bridge between these two worlds follow me on that path.\r\n",
@@ -108,7 +108,6 @@
             "🇬🇧",
             "🇫🇷"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Guillaume Galy",
             "bio": "I have been a software engineer for 6 years, and after starting out with Java, I quickly fell in love with Scala. I currently work for Fabernovel (formerly Zengularity), using technologies such as Scala, Play! or Akka to build modern, reactive applications that fit each of our clients' specific needs.",
@@ -117,6 +116,7 @@
             "url": "",
             "avatar": "https://secure.gravatar.com/avatar/86bcbfd795cb64ac0a5f10c6ff64758c?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "A live-coding introduction to Mill: finally a build tool we can all understand!",
             "description": "In this talk, I will start by giving a very short presentation of the Mill build tool: what does it do, where does it come from, what are its core design philosophies and main strengths?\r\n\r\nI will then proceed to a live-coding demo for most of the talk duration. It will be based on a simplified version of a personal project, https://github.com/guilgaly/cowsay4s; for the purpose of the demo I will focus mainly on writing the actual build definition while the code of the library itself will be mostly copy-pasted.\r\n\r\nDuring the demo, I will successively:\r\n\r\n- create a basic Mill project from scratch\r\n- cross-build for different Scala versions\r\n- cross-build for JVM/JS targets\r\n- write a custom build task (to do some simple code generation)\r\n- publish to a maven repository\r\n\r\nAlong the way, I will demonstrate some nice advantages of Mill, such as the ability to simply navigate through the build definition in an IDE or easily inspect JSON-formatted task results.",
@@ -133,7 +133,6 @@
             "🇫🇷",
             "Big Data"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Nastasia Saby",
             "bio": "Développeur, consultante Zenika, je suis membre des Software Crafters de Lyon, fan de craft et de Big Data. J'ai commencé dans le monde du web avec PHP avant d'embrasser celui exaltant de la Big Data.",
@@ -142,6 +141,7 @@
             "url": "https://medium.zenika.com/@nastasia.saby",
             "avatar": "https://secure.gravatar.com/avatar/f1e09bf0b41e5559ff4623401378a1f8?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Apache Spark et le machine learning : rêves et réalités",
             "description": "Spark contient un module dédié au machine learning. C'est celui que nous voulons utiliser pour nos traitements de données. Cependant, nous trouvons rapidement des limites. Les algorithmes ne sont pas présents ou pas comme nous les attendions. Soit, mais un algorithme reste un algorithme. Spark est un framework puissant dont nous ne voulons pas nous passer dans notre contexte. Qu'à cela ne tienne, nous allons ruser pour avoir le meilleur des deux mondes.\r\n\r\nCette présentation se base sur quelques cas précis réellement rencontrés.",
@@ -157,7 +157,6 @@
             "distributed-data-processing",
             "🇫🇷"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Philippe Hong",
             "bio": "Data Engineer",
@@ -166,6 +165,7 @@
             "url": "",
             "avatar": "https://secure.gravatar.com/avatar/3d7a342018ef50955b9b244e4de37539?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Apprivoiser Spark avec ZIO",
             "description": "Avec l'arrivée imminente de ZIO v1.0, intéressons-nous plus au nouveau paramètre de type R. Pour rappel, ZIO a trois paramètres de type : R, E et A avec E le type d'échec et A le type de succès de l'IO (ou la Task selon votre préférence). R est un type où nous pouvons passer un environnement, et une question ressort alors, est-il possible de mettre Spark dedans ? Cela nous permettrait de ne pas avoir des implicit de SparkSession partout, de wrapper les appels à des fonctions Spark à effet dans ZIO et aussi de pouvoir créer et utiliser des règles Scalafix intéressantes.\r\nDans ce talk, j'aimerais parler des précédents points ainsi qu'apporter un retour d'expérience sur le refactoring d'un projet existant avec ZIO ayant Spark pour environnement.",
@@ -180,7 +180,6 @@
             "🇬🇧",
             "tooling-and-build-systems"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Kévin Rauscher",
             "bio": "Freelance scala developer, emacs user and raspberry pi tinkerer. I believe in the core functional concept, like using non-mainstream software and solve all kinds of interesting problems.\r\n",
@@ -189,6 +188,7 @@
             "url": "https://blog.tomahna.fr/",
             "avatar": "https://secure.gravatar.com/avatar/b4096197cdee5e677a75eee1be47b80f?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Automate your work",
             "description": "The scala worlds already disposes of quite a lot of tools. In addition, there is a renewed effort to improve the tooling all around the scala ecosystem.\r\n\r\nAs a scala developper, the difficulty is, currently, not so much to automate things but rather to know that the right sbt plugin already exists and make it fits in our process.\r\n\r\nIn this session, we'll set up a coherent continuous integration pipeline using popular sbt plugins and other tools.",
@@ -205,7 +205,6 @@
             "beginners",
             "🇬🇧"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Ayoub Fakir",
             "bio": "I'm a Data Engineer, fan of Distributed Systems and I strongly defend the idea that the future of programming is through the Functional Programming Paradigm. I'm a continuous learner, and a firm believer of the idea that a knowledge that is not shared is worth nothing. I'm a part-time teacher, I love giving my students knowledge that will be useful for them the minute they go out of my class, because I always wanted to become the opposite of some of the professors I had: those who come and talk in front of slides for hours without us knowing the value or the utility of the knowledge that is presented. \r\n\r\nWhy me? Because people often find that I'm a good pedagogue and that I have the ability to simplify hard concepts. Because I truly wish good to people, and that one of the things that makes me profoundly happy is when I share knowledge with people, and that they actually understand it! Finally, it's because my mom always says that I'm a good guy... Really, ask her!",
@@ -214,6 +213,7 @@
             "url": "https://www.linkedin.com/in/afakir/",
             "avatar": "https://secure.gravatar.com/avatar/8b225fa8158f58907e28df978ff6e7a6?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Breaking the entry barriers: making the scary keywords accessible.",
             "description": "Most of the time, developers who decide to start learning Scala, Clojure or any other programming language based on the Functional Programming concepts find themselves frustrated in front of concepts such as Functors, Monads or Monoids to name a few, not knowing from where to begin and how to approach them. Those concepts are often used by the more experienced developers making the unexperienced ones wonder if they are ever going to write a Scala program in their life.\r\n\r\nI believe that those concepts are equally simple and important, and do not have to stop beginners from embracing a language like Scala. This is the reason why I'm submitting this talk: Scala is before all a community of devoted developers, projects and individuals that keep it running and alive, and I truly believe that we need to make sure that the beginners are well welcomed, because some of them are potentially those who will help maintain the language and the ecosystem in the future.",
@@ -231,7 +231,6 @@
             "🇫🇷",
             "deep-learning"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Vincent Brule",
             "bio": "",
@@ -240,6 +239,7 @@
             "url": "",
             "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/51055/Vincent_B.jpg"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Cas pratiques d'utilisation de Scala Tensorflow pour l'analyse d'images",
             "description": "Nous commencerons par découvrir les concepts de base du Machine Learning appliqués à la détection d'objets dans des images. \r\nEnsuite, nous étudierons deux cas pratiques, à l'aide de l'API Tensorflow/Scala, en utilisant des modèles publiés et disponibles dans divers dépôts.\r\nNous verrons comment compléter cette détection avec une phase d'anonymisation par floutage des visages et plaques d'immatriculation.\r\nFinalement, nous découvrirons un algorithme permettant de suivre des objets à travers une vidéo et nous discuterons des projets OpenSource liés à ces exemples.",
@@ -255,7 +255,6 @@
             "Cats",
             "🇬🇧"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Nicolas Francois",
             "bio": "I'm a Software Engineer at mediarithmics with some Ops flavor. I work mainly in Scala on both FP and OOP way.\r\nArchitecture astronaut I love to explore how to construct highly scalable and robust systems from small programming constructs to global infrastructure level.",
@@ -264,6 +263,7 @@
             "url": "",
             "avatar": "https://secure.gravatar.com/avatar/60ce696d34afb6224f06ca29cae9098e?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Cats Retry 101",
             "description": "Through the power of Scala type system and functional programming, manipulating retry policies over effects becomes an easy thing. In this short talk we will explore how Cats Retry make this even easier. We will focus on the features of this micro-library to leverage your programming power to retry in an effectful context.",
@@ -281,7 +281,6 @@
             "fast data",
             "🇬🇧"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Chetan Khatri",
             "bio": "Chetan Khatri is working as a Lead - Technology at Accion labs, he has diverse experience in the field of Data Science and Machine learning. He is an open source contributor at Apache Spark, Apache HBase, Apache Spark - HBase Connector, Elixir Lang and many other open source projects. He has been authored curriculum of Artificial Intelligence, Data Science, Distributed computing at KSKV Kachchh University, Government of Gujarat - INDIA. He has delivered many talks at Apache HBaseConAsia 2018, HKOSCon18, FOSSASIA 2018, PyKutch 2016, Pycon India 2016.",
@@ -290,6 +289,7 @@
             "url": "https://www.linkedin.com/in/chetkhatri",
             "avatar": "https://secure.gravatar.com/avatar/4c0ea55b34c2b6f50c32024b750c7161?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Challenges that everyone struggles while productionizing Apache Spark workloads",
             "description": "1. Primary data structures (RDD, DataSet, Dataframe)\r\n\r\n2. Pragmatic explanation - executors, cores, containers, stage, job, a task in Spark.\r\n\r\n3. Parallel read from JDBC: Challenges and best practices.\r\n\r\n4. Bulk Load API vs JDBC write\r\n\r\n5. An optimization strategy for Joins: SortMergeJoin vs BroadcastHashJoin\r\n\r\n6. Avoid unnecessary shuffle and use of coalesce, repartition, HashPartitioner with use cases. Impact on cache, Disk I/O, Leaking memory, Internal shuffle, spark executor, spark driver.\r\n\r\n7. What to do when spark default sort doesn’t work!, Alternatives.\r\n\r\n8. Why dropDuplicates() doesn’t result consistency, What is alternative.\r\n\r\n9. Optimize Spark stage generation plan: reduce unnecessary repetitive Actions.\r\n\r\n10. Predicate pushdown with partitioning and bucketing.\r\n\r\n11. Why not to use Scala Concurrent ‘Future’ explicitly with Spark jobs.\r\n",
@@ -308,7 +308,6 @@
             "art",
             "🇬🇧"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Einar W. Høst",
             "bio": "Einar W. Høst is a computer at NRK, the Norwegian public broadcaster. His heretic views include thinking before programming and making drawings to understand things better. This arrogant mindset no doubt stems from the idle years spent obtaining a PhD in Computer Science from the University of Oslo.",
@@ -317,6 +316,7 @@
             "url": "https://einarwh.wordpress.com/",
             "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/19750/einarwh-coffee-hat-400x400.jpg"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Composition by Juxtaposition: A PostScript on Functional Geometry",
             "description": "Peter Henderson's \"Functional Geometry\" is a classic paper that shows the beauty and power of functional abstraction and composition. Using functions to represent pictures, Henderson defines a small set of combinators to create a replica of Escher's recursive tessellation \"Square Limit\". It's a nice kata for functional programmers. However, you could also implement Henderson's combinators effectively and elegantly in concatenative languages, where composition is nothing more than juxtaposition. In this talk, we'll look at an implementation in PostScript, a proven and battle-worn concatenative language that has been on the plateau of productivity for decades. It also happens to be rather good for drawing.",
@@ -331,7 +331,6 @@
             "tooling-and-build-systems",
             "🇬🇧"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Krzysztof Romanowski",
             "bio": "Krzysztof is Head of Dev & Scala Tooling @ Virtuslab where he has spent endless hours debugging and fixing Scala IDE, SBT, IntelliJ, and even the Scala compiler itself. For over 5 years he has been creating tooling for projects containing millions of lines of lines of Scala source code.\r\nOrganizer of sphere.it conference and the Kotlin and Scala user groups in Kraków. \r\n",
@@ -340,6 +339,7 @@
             "url": "",
             "avatar": "https://secure.gravatar.com/avatar/f944abd27c97f18a84192dfda8e19903?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Context Buddy: the tool that knows your code better than you",
             "description": "'git blame' is my best friend but I often find it too crude. Meaningful changes can be deeply buried and even with the correct commit in hand it is hard to see it in the proper context. I knew we can do better.\r\n\r\nI started by lifting history to token-level (“who added this parameter to that method?”). Later, the time came for types and implicits and that was just the beginning. \r\n\r\nI will show how the basics of git, scalameta and semanticdb can be used to gather knowledge about code and a project’s history. I will show how to enhance this knowledge by providing information from code reviews and continuous integration. Finally, I will show how this information can be used within Review Buddy and how to configure and use it in your projects and IDEs.\r\n",
@@ -354,7 +354,6 @@
             "distributed-data-processing",
             "🇫🇷"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Harrison Cheng",
             "bio": "",
@@ -363,6 +362,7 @@
             "url": "",
             "avatar": "https://secure.gravatar.com/avatar/d939c82a31accb2df1c0e752f124212d?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Des tests Spark simples et efficaces avec Spark-Test",
             "description": "Les tests unitaires, bien que primordiaux, sont dans la plupart des cas très peu exploités. Spark tout particulièrement ne fournit pas directement d'outils de test. Chaque membre d'une équipe se retrouve ainsi à utiliser sa propre pratique des tests unitaires (c'est-à-dire parfois, rien !), ce qui amène différentes approches de tests dans le projet et donc à une hétérogénéité dans le code.\r\nDans ce talk, nous allons d'abord voir les raisons qui nous ont poussés à créer la librairie Spark-Test. Puis, nous verrons les différentes features de celle-ci, comme l'égalité entre deux dataframes donnant plus de détails sur l'échec des tests.",
@@ -379,7 +379,6 @@
             "🇫🇷",
             "🇬🇧"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Mayleen Lacouture",
             "bio": "",
@@ -388,6 +387,7 @@
             "url": "",
             "avatar": "https://secure.gravatar.com/avatar/1aafc331573ff54d4cc411c4fc40d7a4?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "En route to better code",
             "description": "The objective of this talk is to revisit the clean-code guidelines of the Software Craftsmanship movement, this time with a focus on a functional programming language like Scala. \r\nI will talk from my experience, what practices have worked (or not) to better achieve:\r\n- Readable and maintainable code, because no programmer is an island\r\n- Reusable and modular software components\r\n- Robust and testable programs\r\n  \r\nIn this talk I want to talk This talk aims to show how with good code we can better achieve what is already possible with Scala:\r\n",
@@ -407,15 +407,15 @@
             "🇫🇷",
             "distributed-data-processing"
         ],
-        "co_presenter_profiles": [],
         "profile": {
-            "name": "Julien",
+            "name": "Julien Perro",
             "bio": "Pragmatic programmer, functional enthusiast, interested in building helpful abstractions, slightly obsessed with their composability and testability.\r\n\r\nI've worked in different fields, but somehow always ended up handling huge amounts of sensor data. Currently doing so at [Sqooba.io](https://sqooba.io).\r\n\r\nAnd to be totally open: I largely prefer spaces over tabs, but if you disagree I'd still be happy to see you at my talk :)",
             "twitter": "",
             "company": "Sqooba AG",
             "url": "",
             "avatar": "https://secure.gravatar.com/avatar/585aef3f94c7e63f4df5f71fa0a890a9?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Everything is a time-series. Where are the corresponding abstractions? How to (almost) hide away a heterogeneous reality.",
             "description": "Did you ever have to combine multiple sources of time-series like data that were:\r\n\r\n  - misaligned\r\n  - had different sampling frequencies\r\n  - a lot of missing measures?\r\n\r\nThis kind of situations generated enough frustration for us to come up with an abstraction to hide all this under the rug:\r\n\r\nWe present a small library, [scala-timeseries-lib](https://github.com/Sqooba/scala-timeseries-lib), that abstracts the discreet and flaky nature of \r\ntime-series data away, looking instead at them as functions of time, which can be arbitrarily combined.\r\n\r\nMultiplying, summing, ... over your heterogeneous series is a breeze, while you can build series of any objects and define your own operators between them.\r\n\r\nIn essence, you can do:\r\n\r\n`val externalTemp: TimeSeries[Double] = ...` // load data from your favourite weather service\r\n\r\n`val internalTemp: TimeSeries[Double] = ...` // load data from your indoor sensor\r\n\r\n`val difference = internalTemp - externalTemp` // And very easily compute the difference.\r\n\r\n... and stop worrying about the details once and for all.",
@@ -430,7 +430,6 @@
             "tooling-and-build-systems",
             "🇬🇧"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Jeferson David Ossa",
             "bio": "Soy ingeniero de software y vivo en Medellín, Colombia. Soy un entusiasta de Scala y de los sistemas distribuidos, interesado en FP, arquitectura de software, infraestructura y la JVM. Aspirante a buzo.",
@@ -439,6 +438,7 @@
             "url": "http://s4n.co/",
             "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/19934/jd.jpg"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Exploring Scala Tooling ecosystem",
             "description": "We are going to explore and compare some build tools with special focus on LSP/BSP implementations, IDEs and text editor's support. \r\nFor the sake of empower audience's judgement about the tools that could suit better for their particular needs this talk aims to get attendees familiar with terms like SemanticDB, Metals, Bloop, SBT, Pants, Bazel, Ensime, IntelliJ IDE, Scala IDE, Dotty IDE and other honorific mentions.",
@@ -458,7 +458,6 @@
             "future",
             "scala"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Wiem Zine Elabidine",
             "bio": "Wiem Zine Elabidine is a Scala Backend Engineer at MOIA and a functional programming enthusiastic. Outside of her day job, she loves contributing to Scalaz ZIO projects.",
@@ -467,6 +466,7 @@
             "url": "https://medium.com/@wiemzin",
             "avatar": "https://secure.gravatar.com/avatar/85564454d90062766e0d956d36f30162?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Flying Futures in the same sky can make the moon sun at midnight",
             "description": "Implementing responsive and high-performance applications is the most obvious challenge that we face in our programming life. \r\nIt’s interesting to deeply study concurrency and parallelism on the JVM. \r\nIn this talk you will learn how to describe parallel tasks and the idea behind Futures and the execution context.\r\nI will cover the tricky part of concurrency when the concurrent tasks share and use the same resources and how flying Futures in the same sky can make the moon sun at midnight! At the end I will talk about some possible solutions that you can use to reduce your worries about the pitfalls of concurrency.",
@@ -485,7 +485,6 @@
             "🇬🇧",
             "effect-systems"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Menestret Martin",
             "bio": "Data software engineer and ambassador @Ebiznext, France.\r\nI am a furiously enthusiastic functional programming learner. \r\nI love to teach nearly as much as I love to learn !",
@@ -494,6 +493,7 @@
             "url": "http://geekocephale.com/blog/",
             "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/44432/moi.jpeg"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Functeurs, en theorie et en pratique !",
             "description": "L'idée de ce talk est de faire en parallèle entre la théorie et la pratique et montrer comment les 2 aspects se rejoignent.\r\n\r\n# Intuition\r\n\r\n- Je donnerai des exemples afin de faire toucher du doigt une intuition et un pattern commun\r\n- Nous verrons comment ce pattern, cette abstraction, est encodée en Scala\r\n\r\n# Theorie\r\n\r\n- J'expliquerai progressivement pourquoi les foncteurs sont définis comme un mapping entre deux catégories\r\n    - En expliquant ce qu'est une catégorie et la théorie des catégories\r\n    - En montrant le rapport entre la programmation fonctionnelle en Scala et la théorie des catégories\r\n    - En expliquant ce qu'est un mapping entre deux catégories et les impacts dans en programmation fonctionnelle\r\n\r\n# Pratique\r\n\r\n- Nous résumerons ce que nous apporte les foncteurs dans notre pratique au quotidien\r\n\r\n# Conclusion\r\n\r\nMerci beaucoup !",
@@ -509,7 +509,6 @@
             "frontend",
             "🇬🇧"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Wojtek Pituła",
             "bio": "I solve problems, sometimes with code, if absolutely necessary. In a complicated relationship with Scala for over 4 years. Trying to make laziness an art.",
@@ -518,6 +517,7 @@
             "url": "https://w.pitula.me/",
             "avatar": "https://secure.gravatar.com/avatar/bfec4932bd0fcbbc24be6ffbbbed3968?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Functional Frontend. Practical survival guide for backend engineers.",
             "description": "Sometimes you just HAVE TO create a piece of web UI. To do that you need to leave the comfort of cozy functional backend development and deal with all the dangers of JS wildlife. But man's got to do what a man's got to do, so you start fighting and questions arise. WTH is npm, yarn, webpack and browserify? Should I use JS, TS, Scala. Elm or ReasonML? Angular, React or Vue? What tools play well together? So many questions and so little answers. Let's try to answer them from the perspective of someone who just wants to get things done and bury the memories.",
@@ -536,6 +536,14 @@
             "gadt",
             "workshop"
         ],
+        "profile": {
+            "name": "TANKOUA Stéphane",
+            "bio": "I’m a software engineer who migrated from the Java world almost three years ago and I am currently working at Fabernovel Technologies (formerly Zengularity). In my day to day job, I help building reactive applications using Scala. My main points of interest are lambda calculus, category theory, and typelevel programming.",
+            "twitter": "stefshine",
+            "company": "Fabernovel Technologies (formerly Zengularity)",
+            "url": "https://github.com/stankoua",
+            "avatar": "https://secure.gravatar.com/avatar/978c72020836f92ec03342253000f280?s=500"
+        },
         "co_presenter_profiles": [
             {
                 "name": "Christophe Calves",
@@ -546,14 +554,6 @@
                 "avatar": "https://secure.gravatar.com/avatar/24ef18021486d7d91350b230825513b0?s=500"
             }
         ],
-        "profile": {
-            "name": "TANKOUA Stéphane",
-            "bio": "I’m a software engineer who migrated from the Java world almost three years ago and I am currently working at Fabernovel Technologies (formerly Zengularity). In my day to day job, I help building reactive applications using Scala. My main points of interest are lambda calculus, category theory, and typelevel programming.",
-            "twitter": "stefshine",
-            "company": "Fabernovel Technologies (formerly Zengularity)",
-            "url": "https://github.com/stankoua",
-            "avatar": "https://secure.gravatar.com/avatar/978c72020836f92ec03342253000f280?s=500"
-        },
         "talk": {
             "title": "GADTs by use-cases in Scala",
             "description": "\r\n🇫🇷\r\nTL;DR: Tu aimes le type-system de Scala mais le trouve parfois complexe? Ce workshop est fait pour toi! Viens découvrir les types algébriques généralisés (GADT) par la pratique de nombreux use-cases: prédicats sur les types, raffinement de types, effets, dérivation d'implicits, ...\r\n\r\nLes langages fonctionnels sont souvent appréciés pour la facilité et fiabilité qu’ils offrent à définir et manipuler des structures de données au plus près du métier: `case class`, `sealed trait`, *pattern-matching* (`match-case`), etc... Quelques langages fonctionnels, dont Scala, vont encore plus loin en permettant:\r\n\r\n- d’exprimer des prédicats sur les types comme “le type T est supporté par la base de donnée” ou “les types A et B types sont égaux”.\r\n- de restreindre des fonctions ou `case class` à des familles de types comme “cette fonction est uniquement définie sur les types T supportés par la base de données”.\r\n- d’exprimer des effets algébriques comme “la base de données supporte telle et telle opérations”.\r\n- de dériver des implicits par des fonctions normales qui peuvent inspecter la structure du type concerné.\r\n- et même de la programmation au type-level.\r\nCes structures sont appelées types algébriques généralisés ou GADT.\r\n\r\nIls ont malheureusement la réputation d’être difficile à appréhender et peu utiles. Notre expérience nous a pourtant montré que les GADT offrent des solutions simples et performantes aux challenges cités plus haut. Ce workshop, contrairement aux présentations usuelles, se concentre sur ces usages pratiques. Il vise à faire naître l’intuition de l’auditoire par l’expérimentation dans ces situations du quotidien. Et par là même, leur offrir une trousse à outils concrète pour faire face à ces problématiques.\r\n\r\nCe workshop a été conçu pour s’adapter à un large éventail de participant·e·s, du/de la débutant·e, connaissant déjà `case classes`, `sealed trait` et *pattern-matching* mais n’ayant jamais entendu parler de GADT, aux expert·e·s Scala jouant au type-level.\r\nOn vous attend nombreux.\r\n\r\n🇬🇧\r\nTL;DR: You like the Scala type-system but find it complex sometimes? This workshop is made for you! Come discover Generalized Algebraic Data Types (GADT) through practicing many use-cases: type predicates, type refinement, expressing effects, implicit derivation, type-level programming, …\r\n\r\nFunctional languages are appreciated due to the fact they are easy to use and their reliability to define and handle data structures close to the business: `case class`, `sealed trait`, *pattern-matching* (`match-case`), etc… Some of them, like Scala, go even further by:\r\n\r\n- Expressing predicates on types like “type T is supported by the database” or “types A et B are equals”\r\n- Restraining functions or `case class` to families of types like “this function is defined only on types T supported by the database”\r\n- Expressing algebraic effects like “the database supports only these operations”.\r\n- Deriving implicits with regular functions which can inspect the structure of the type.\r\n- Even type-level programming.\r\nThese structures are called Generalized Algebraic Data Types.\r\n\r\nThey are unfortunately reputed to be difficult to apprehend and not very useful. Our experience shows us you can come up with simple and effective solutions to the problems given above using GADT. This workshop, unlike usual presentations, will be focused on practical use cases. Its aim is to help the assistance develop their insight by practicing on these everyday situations and give them a practical toolkit to deal with these issues.\r\n\r\nThis workshop was designed to fit a large range of attendees, from the beginner, which already knows `case classes`, `sealed trait` et *pattern-matching* but has never heard about GADT, to the Scala type-level expert.\r\nWe are waiting for you.\r\n",
@@ -571,7 +571,6 @@
             "Softwarecraftmanship",
             "🇫🇷"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Caroline GAUDREAU",
             "bio": "<p>Je suis tombée dans les langages fonctionnels il y a quelques années. Depuis, je trouve que ce paradigme répond de nombreuses problématiques dans le génie logiciel que j'ai pu rencontrer au fil de mes années dans l'industrie. Product owner chez SII et professeur de programmation fonctionnelle à Epitech, je rejoins Fretlink en tant que développeur Haskell en octobre 2019. Je continue de partager mes passions et ma vision du génie logiciel au travers du meetup que j'ai co-fondé : Lambda Rennes.</p>",
@@ -580,6 +579,7 @@
             "url": "https://github.com/lambda-rennes",
             "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/46337/caro.png"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Haskell Space Invaders",
             "description": "### C'est un coding dojo s'adressant aux débutants (en Haskell comme en programmation fonctionnelle).\r\n\r\nLe principe est le suivant:\r\n\r\n- Les participants se succèdent au clavier, sur la base du volontariat (<b>un seul ordinateur pour tout le monde</b>).\r\n- L'assistance est le cerveau, repérant les erreurs et formulant des suggestions ; la personne au clavier joue le rôle des mains.\r\n\r\n On part d'une base de code déjà existante. Le dojo commence par environ 30 minutes de présentation du code, afin d'illustrer la syntaxe et les caractéristiques essentielles du langage. Une documentation d'API est mise à disposition.\r\n\r\nLa librairie utilisée (Gloss) permet de contourner les aspects les plus difficiles du langage Haskell (monades & co). La logique du jeu s'intègre dans un framework réactif (rappelant Elm), implémentée sous forme de fonctions pures.\r\n\r\n<b> L'accent est mis sur le génie logiciel et ce qu'apporte Haskell et/ou les langages fonctionnels dans ce sens :</b>\r\n\r\n- la modélisation du domaine métier via les types\r\n- la prévention des erreurs par ce même biais\r\n- la séparation des contraintes\r\n- la réutilisabilité\r\n- la composition\r\n- le refactoring…",
@@ -596,6 +596,14 @@
             "functional programming",
             "🇫🇷"
         ],
+        "profile": {
+            "name": "Loïc Descotte",
+            "bio": "Scala developer since 2012 and trainer since 2016, I'm interested by FP, effect systems and Web architectures.\r\n",
+            "twitter": "loic_d",
+            "company": "kaizen solutions",
+            "url": "http://loicdescotte.github.io/",
+            "avatar": "https://secure.gravatar.com/avatar/84fc2547ce1026dfb6379cc15def4a7d?s=500"
+        },
         "co_presenter_profiles": [
             {
                 "name": "Yohann Mateo",
@@ -606,14 +614,6 @@
                 "avatar": "https://secure.gravatar.com/avatar/60ac8fe46daa7ca794e9aac56a71b8a9?s=500"
             }
         ],
-        "profile": {
-            "name": "Loïc Descotte",
-            "bio": "Scala developer since 2012 and trainer since 2016, I'm interested by FP, effect systems and Web architectures.\r\n",
-            "twitter": "loic_d",
-            "company": "kaizen solutions",
-            "url": "http://loicdescotte.github.io/",
-            "avatar": "https://secure.gravatar.com/avatar/84fc2547ce1026dfb6379cc15def4a7d?s=500"
-        },
         "talk": {
             "title": "How to build a purely functional webapp in Scala with HTTP4S and ZIO",
             "description": "We will build a an HTTP4s app from scratch, then a database connection, write some simple queries using Doobie and wrapping the effects in ZIO Task[A].\r\nThan we will see how to use ZIO IO[E,A] type to manage and compose errors.\r\nFinally we will add another type parameter to use ZIO[R,E,A] . R will represent the runtime environment and we will use it to inject dependencies in our app and write tests easily. \r\nIf we have enough time we will also use streams to read a service response in streaming and mix its data with the database results.",
@@ -630,7 +630,6 @@
             "akka-http",
             "scala"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Maude Cahuet",
             "bio": "Développeuse passionnée avec une expérience Java / Scala. J'ai découvert la programmation fonctionnelle avec Scala et j'ai adoré.",
@@ -639,6 +638,7 @@
             "url": "",
             "avatar": "https://secure.gravatar.com/avatar/fdf6482ae1e9cdf5583089bd677ca8ed?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Introduction à Tensorflow en Scala",
             "description": "Tensorflow s'impose comme une librairie incontournable de deep learning, avec ses applications à l'intelligence artificielle. Tensorflow a l'avantage d'être interfaçable avec différents languages et est orienté vers la mise en production. Son utilisation en Scala est donc assez naturelle. \r\nLe but du workshop est de permettre aux participants de comprendre comment Tensorflow fonctionne (son mode d'exécution et les concepts de base) et d'introduire les modèles utilisés dans la reconnaissance d'image. Le deep-learning est introduit graduellement jusqu'à utiliser des modèles complexes développés et publiés par des équipes de recherche. L'environnement de travail est interactif pour les participants avec le Jupyter notebook en Scala. Les sujets couverts sont:\r\n\r\n- Tensorflow et Machine Learning\r\n- Programmation interactive: Scala dans Jupyter\r\n- Tenseurs, opérateurs, graphe de calcul et sessions Tensorflow\r\n- Analyse d'image: Modèle linéaire et MLP avec exercices pratiques\r\n- Deep networks et bibliothèques de modèles pré-entraînés avec exercices pratiques\r\n- Prediction dans un service akka-http \r\n- Exemple de composition de sous-graphes: anonymisation d'images\r\n- Exemple interactif de tracking video",
@@ -656,7 +656,6 @@
             "TypeDD",
             "🇫🇷"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Florent PELLET",
             "bio": "DDD Addict.  \r\nSoftware crafters freelance in Lyon.  \r\nCo-leader of MUG Lyon, DDD Lyon and Software Crafters Lyon usergroups.",
@@ -665,6 +664,7 @@
             "url": "https://www.florentpellet.fr/",
             "avatar": "https://secure.gravatar.com/avatar/40ecc4b6f07c79f534471e82f021dd0d?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Introduction au T(ype)DD avec F# et web app réactive avec Fable.io",
             "description": "La programmation fonctionnelle est de plus en plus mise en avant, mais pourquoi? Qu’y a-t-il de différent avec la POO?\r\n\r\nNous vous proposons de partir d’un kata bien connu pour illustrer les différences (implémentations en C# existantes) et dédiaboliser la soi-disant complexité de la programmation fonctionnelle. Les différences de notation forment le principal obstacle, une fois passée, la programmation fonctionnelle n’est pas plus compliquée. Nous aborderons le langage F# pas à pas en illustrant notamment le système de type (dit de “types algébriques”) pour avoir un design piloté par les types (TypeDD).\r\n\r\nEn bonus, nous vous montrerons comment créer une web app réactive du kata en F# avec Fable.io (transpiler F# vers JavaScript) et Elmish (oui la référence au langage Elm est fait exprès).",
@@ -680,7 +680,6 @@
             "distributed-data-processing",
             "🇬🇧"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Xavier Tordoir",
             "bio": "Xavier has a scientific background, with several years in academic research relying on massive data processing (physical sciences, genomics and financial markets). He developed distributed storage and processing solutions before becoming BigData and Data science consultant, and then entrepreneur with a Data science platform project. Author of trainings in Spark, Kafka, Machine learning and Tensorflow, Xavier now works at Lunatech on the development of the BigData and AI branch.",
@@ -689,6 +688,7 @@
             "url": "http://www.lunatech.com",
             "avatar": "https://secure.gravatar.com/avatar/f45f19c580c97062b3282d8cfec24863?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Introduction to Spark in the context of a Distributed Pipeline",
             "description": "Scala is the prime language for distributed computing. Scala developers benefit from gaining expertise in BigData and Data Science frameworks, the goal of this session is to kick-start newcomers to these topics. \r\nThe workshop is structured in such a way that the different components of Spark are introduced and used to build a single complete data pipeline, from data collection to serving Machine learning models. We use historical and streaming cryptocurrency price data as a use case. The training covers the following topics:\r\n\r\n- Distributed computing and storage\r\n- Dataframes and Datasets for batch processing, data cleaning\r\n- Working with parquet files, importance of schemas\r\n- Simple ML: training and saving models, ML Pipelines\r\n- Streaming data, collectors and publishing to Kafka\r\n- Spark and Kafka integration\r\n- Predictions with ML models on a data stream\r\n",
@@ -704,7 +704,6 @@
             "FP",
             "🇬🇧"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Sergei Shabanau",
             "bio": "I am a life-long learner. Several years ago I have discovered FP by accident, while attempting to simplify the codebase I have joined to work with. Since then I enjoy learning FP, working with FP and climbing the FP ladder, all with the help of Scala. \r\nI go after the order and correctness as a software craftsman, and search for chaos as a mountain biker.",
@@ -713,6 +712,7 @@
             "url": "https://github.com/sergei-shabanau",
             "avatar": "https://secure.gravatar.com/avatar/ef3fcdb89a9dbc304e1eb48f95a3515a?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Invertible Programs",
             "description": "Parsing functionality is commonly available for many languages. Taking text and converting it to the desired structure is a long solved problem. \r\n\r\nInvertible parsing is (almost) unavailable. Taking text and converting it to structured data or taking structure and presenting it as text in coherent manner using the same program is solved only in theory.\r\n\r\nUntil recently. __Invertible__ simply means __can run in both ways__. With `parserz` parser combinators library in Scala one can do just that: go from program text to abstract syntax tree and print programs back after optimization done on a tree; or express a web server and get a web client for free by simply running the parser logic backwards; or even print the description of the parsing program itself to serve as documentation. \r\n\r\nWelcome version 0.2 of the library with simpler API, new features and, as usual, made with love.",
@@ -730,7 +730,6 @@
             "🇬🇧",
             "Playframework"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Joachim Rousseau",
             "bio": "Développeur de plus de 15 ans d'expérience, consultant chez Xebia puis Publicis Sapient depuis le rachat de Xebia France par le groupe Publicis. Mes sujets favoris sont les architectures Web, le Scala, la programmation fonctionnelle et le principe de typage fort. Et parfois le Java car c'est le langage qui m'a élevé et on ne renie jamais ses parents !\r\n\r\nSéduit par les microservices, j'ai eu l'occasion d'y toucher sur un gros projet et désormais j'en redemande.\r\n\r\nAccessoirement référence vivante du HTTP RESTful et de l'encodage/décodage de caractère auprès de mes collègues. ;)",
@@ -739,6 +738,7 @@
             "url": "",
             "avatar": "https://secure.gravatar.com/avatar/a2e58f072e849b3837396e5041feed1b?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Jouer avec Play JSON",
             "description": "Note: Workshop README is in english, english speaker wellcome !\r\n\r\nCet atelier propose la découverte de Play JSON, ce mapper modèle<-->JSON historiquement extrait de Playframework et désormais indépendant (en terme de dépendances). Il s'adresse à toutes celles et ceux qui veulent un départ-catapulte pour être immédiatement opérationnels, ou pour ceux qui voudraient comparer son usage à celui d'autres bibliothèques.\r\n\r\nLes fonctionnalités classiques exposées par la doc officielle (JSON path, Reads, Writes, Transformers) seront balayées (\"traversées\", devrais-je dire ? ;)), mais les exemples de code vont plus loin. Ces exemples permettront aux débutants en Scala / FP de pouvoir prendre en main Play JSON même dans des cas un peu plus complexes que d'habitude. Il se veut suffisamment complet pour servir par la suite de \"référence\" à celles et ceux qui auraient à l'utiliser au quotidien.",
@@ -752,7 +752,6 @@
         "tags": [
             "🇬🇧"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "John Ⓐ De Goes",
             "bio": "A mathematician by training but a software engineer by vocation, John A. De Goes has been professionally writing software for more than 25 years. John has contributed to dozens of open source projects written in functional programming languages, including ZIO, a library for asynchronous and concurrent programming in functional Scala. In addition to speaking at Strata, OSCON, BigData TechCon, NEScala, ScalaWorld, Scala IO, flatMap, Scalar Conf, LambdaConf, and many other conferences, John also published a variety of books on programming. Currently, John consults at De Goes Consulting, a consultancy committed to solving hard business problems using the power of pure functional programming.",
@@ -761,6 +760,7 @@
             "url": "http://degoes.net",
             "avatar": "https://secure.gravatar.com/avatar/6fbccc0537949767c52dfc210003ec9d?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Learning ZIO through Game Programming",
             "description": "ZIO is one of the fastest-growing libraries in the Scala ecosystem, with a growing number of companies choosing to power their async and concurrent applications with ZIO. Sometimes sold as a better Future, ZIO brings much more to the table, including asynchronous and concurrent structures, software transactional memory, production-grade error and thread management, and incremental testability.\r\n\r\nIn this three hour workshop, you will get a chance to code along with John A. De Goes, as you learn enough about ZIO to build an interactive game! In the process of developing this game, you'll pick up tricks and techniques for working with ZIO and writing functional Scala, and you'll absorb common patterns in building modern applications. Finally, when you're done, you'll see how features built into ZIO make testing code a breeze, without any additional effort or ceremony.",
@@ -780,7 +780,6 @@
             "functionnal programming",
             "🇫🇷"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Kévin Margueritte",
             "bio": "",
@@ -789,6 +788,7 @@
             "url": "",
             "avatar": "https://secure.gravatar.com/avatar/b1dfd128d2330d5838fb85efc64a95bd?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Les structures fonctionnelles incontournables : Functor, Applicative et Traverse ",
             "description": "Je vous propose un aperçu sur les structures fonctionnelles incontournables : Functor/Applicative/Traverse. Le tout en Scala bien évidemment. Je vais vous prouver qu’elles sont partout et qu’elles facilitent la vie des développeurs.\r\nSi vous pensez qu’un Functor est un animal aquatique nocturne, que l’Applicative est un plat asiatique … ou que vous avez simplement besoin de vous rafraîchir la mémoire; ce talk est fait pour vous !!",
@@ -808,7 +808,6 @@
             "effect-systems",
             "scala"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Jonathan Winandy",
             "bio": "Passionné par la data et la programmation qui fonctionne, Jonathan s’est spécialisé dans l'outillage et l’analyse des mouvements de données dans les différentes formes de systèmes d'information.\r\n\r\nDans la vie de tous les jours, c'est un adépte de Kafka, en particulier du procès !",
@@ -817,6 +816,7 @@
             "url": "https://blog.univalence.io",
             "avatar": "https://secure.gravatar.com/avatar/7ea67ef3f68b07232a36102251d91c42?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "L'INCROYABLE EFFICACITÉ DE L'UNIFICATION DES LOGS !",
             "description": "Avez-vous déjà rencontré un bug vraiment prise de tête ? Avez-vous souhaité pouvoir juste faire un ctrl-Z ?\r\n\r\nBien que les micro-services soient plus complexes à exploiter que leurs homologues monolithiques, ils laissent place à des architectures qui nous permettent d'analyser et de corriger les erreurs du passé et nous évitent des surprises dans le futur.\r\n\r\nAprès un rappel rapide sur le tracing distribué, nous verrons comment avec Scala, un Kafka récent et Jaeger on peut construire un système complet avec:\r\n\r\nl'unification et la compression des données, l'analyse de la cause et de la source des bugs et des effets, et le \"\"voyage dans le temps\"\".\r\nAucunes connaissances préalables de \"\"Dapper\"\" et du fonctionnement des cabines téléphoniques sont requises ! 😉",
@@ -833,7 +833,6 @@
             "ide",
             "🇬🇧"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Tomasz Godzik",
             "bio": "Tomasz is one of the main Metals maintainers and works in close cooperation with Scala Center to improve Metals so that it can become a valuable tool for the Scala community. Mainly a Scala developer with a tooling background, he sharpened his skills trying to improve tooling for one of the largest Scala codebases in the world.",
@@ -842,6 +841,7 @@
             "url": "https://github.com/tgodzik",
             "avatar": "https://secure.gravatar.com/avatar/5eb68d1367935801d018e6618fffca91?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Metals - your next IDE? ",
             "description": "Currently, most Scala developers use Intellij IDEA as their main tool to write code. While it is a wholesome and tested solution, it might not suit everybody’s needs. There are a number of other editors available, such as Vim, Emacs and VS Code, that all have their own faithful following. Metals is a Language Server Protocol (LSP) implementation that enables users of these alternative text editors to enjoy rich IDE capabilities such as code completion, rename, diagnostics, goto definition and more. Metals is open source and available at https://github.com/scalameta/metals, where it is maintained by the Scala Center, VirtusLab along with contributors from the Scala community.\r\n\r\nIn this talk, you will learn how Metals builds on top of LSP to provide a productive code editing experience for Scala developers. You will see the newest features that Metals provides and how they can be used for your day-to-day coding. You will also see some cool new features from VS Code such as Life Share or Remote Development that thanks to Metals work out-of-the-box Scala.  Be prepared to take your code editing skills to the next level!\r\n",
@@ -856,7 +856,6 @@
             "🇫🇷",
             "test"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Nicolas Rinaudo",
             "bio": "Scala & FP enthusiast, CTO of [Besedo](https://besedo.com), author and maintainer of a few mildly popular Scala OSS libraries.",
@@ -865,6 +864,7 @@
             "url": "",
             "avatar": "https://secure.gravatar.com/avatar/3d4cd92195bb4a21bed5eade58836f05?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Much ado about testing",
             "description": "Testing is a hard and, to be blunt, often boring task, that most developers do because we must, when we do it at all.\r\n\r\nThis reputation as being something that's neither fun nor cool means that industry developers often miss out on the ideas academia has to alleviate these issues. And academia has lots of ideas!\r\n\r\nThe purpose of this talk is to go through 3 main testing methodologies, from the most common (and worst) to the most esoteric I know of. Along the way, we'll explain and formalise the issues we must solve when testing, and how to tackle them in different scenarios.\r\n\r\nWe intend to focus on two main methodologies:\r\n* property based testing, which is more and more accepted but also very often misused, and how to use it properly\r\n* metamorphic testing, which is basically unknown but very powerful for the scenarios in which it's applicable\r\n\r\nAt the end of the talk, attendants should have learned strategies to write property based tests that are easy to read and maintain, and far more useful then the usual strategy of _let's just rewrite the system under test_.  They should also a good idea of what metamorphic testing is and the knowledge required to start using it in their own code base straight away.\r\n\r\n[CAN BE GIVEN IN FRENCH]",
@@ -882,7 +882,6 @@
             "effect-systems",
             "🇫🇷"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Francois Armand",
             "bio": "[FR] François Armand, papa x3, développeur passionné, est persuadé que les logiciels libres et les développement soutenable sont notre avenir, Scala depuis 2006, fan de FP (je suis tombé dans OCaml et COQ lorsque j'étais petit) et de ZIO, co-fondateur & CTO de Rudder, continuous audit & configuration.\r\n\r\n[En] François Armand, dad x3, passionate dev, convinced that Free Software and sustainable development are our future, Scala since 2006, ZIO and FP fan (I fall into OCaml and COQ when I was a kid), co-founder and CTO of Rudder, the continuous audit & configuration solution.",
@@ -891,6 +890,7 @@
             "url": "https://medium.com/@fanf42/",
             "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/48592/moi.png"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "On a porté Rudder sur ZIO - Stratégie de gestion d’erreurs dans une application complexe",
             "description": "Cette présentation vous montrera ce que nous avons appris lors de la migration de Rudder, une application Scala vieille de 10 ans et forte de 100 000 lignes de code, pas du tout développée en programmation fonctionnelle pure (pas de Tagless Final ni de Free Monad, par exemple), à ZIO.\r\n\r\nBien sûr, je présenterai rapidement ZIO, mais en me concentrant sur la partie qui a motivé l’utilisation de ce framework révolutionnaire dans Rudder: comment gère-t-on des erreurs dans une application complexe, et plus particulièrement une application serveur en Scala ?\r\nNous en profiterons pour aborder des questions que l'on se pose régulièrement en tant que développeurs: quelle est la différence entre erreurs et défauts  ? Est-ce que toutes les parties d’une application, ou même différentes applications réagissent de la même façon à la même erreur ? Et d’ailleurs, nous gérons les erreurs pour qui ? Nous-mêmes, les dev ? Les ops ? Les utilisateurs finaux ?\r\n\r\nEt nous verrons finalement, parce que c’est tout de même le point original de cette présentation comment ZIO peut vous aider à mieux\r\ngérer les erreurs dans vos applications, et quelles sont les bonnes pratiques à mettre en place afin que ZIO puisse réellement vous aider, sans boilerplate ?\r\n",
@@ -908,6 +908,14 @@
             "Akka Actors",
             "Akka Streams"
         ],
+        "profile": {
+            "name": "Melanie Lavabre",
+            "bio": "Adepte du Pilates le mercredi, inscrite au pôle espoir France des siesteurs de hamac orientés Nord-Est, je sais de source sûre que l’élite se cache quelque part dans le forum du 15–18. Le reste du temps je suis Ingénieur Back-End en Scala à TabMo.",
+            "twitter": "febroshka",
+            "company": "Tabmo",
+            "url": "",
+            "avatar": "https://secure.gravatar.com/avatar/bf186e4c4d0d56968ec6873dfdb9f765?s=500"
+        },
         "co_presenter_profiles": [
             {
                 "name": "Paul Leclercq",
@@ -918,14 +926,6 @@
                 "avatar": "https://secure.gravatar.com/avatar/4f385b067da90133f70632c6786e2370?s=500"
             }
         ],
-        "profile": {
-            "name": "Melanie Lavabre",
-            "bio": "Adepte du Pilates le mercredi, inscrite au pôle espoir France des siesteurs de hamac orientés Nord-Est, je sais de source sûre que l’élite se cache quelque part dans le forum du 15–18. Le reste du temps je suis Ingénieur Back-End en Scala à TabMo.",
-            "twitter": "febroshka",
-            "company": "Tabmo",
-            "url": "",
-            "avatar": "https://secure.gravatar.com/avatar/bf186e4c4d0d56968ec6873dfdb9f765?s=500"
-        },
         "talk": {
             "title": "Prête moi ton Scala, je te l’échange contre de la Data",
             "description": "Une Back-End qui se demande d’où viennent ses données, un Data Engineer curieux de leur utilisation ... autrement dit le projet parfait pour monter en compétences ! \r\nDans ce talk, nous vous proposons une réflexion sur les prétendues différences de nos deux métiers -en particulier dans un écosystème Scala- mais aussi sur les clés du succès d’une collaboration (spoiler alert : communication, esprit d’équipe, bienveillance), applicables sans la surveillance d'un manager.",
@@ -941,7 +941,6 @@
             "monad",
             "scala"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Ramiro Sarmiento Calle",
             "bio": "J'ai commencé par du C++, dérivé vers du PHP, continué par du Java, changé de cap vers du C#, exploré du Groovy pour enfin arriver en terre Scala il y a 4 ans.",
@@ -950,6 +949,7 @@
             "url": "",
             "avatar": "https://secure.gravatar.com/avatar/6c34a61046cd64bafdc1e695d97c7fd9?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Railway Oriented Programming - Une approche fonctionnelle pour la gestion d'erreurs",
             "description": "La terminologie en programmation fonctionnelle peut en perdre plus d'un. Nous essayons dans cette présentation de démystifier les Monades et voir comment elles peuvent nous aider à résoudre un problème comme la gestion des erreurs, de façon pragmatique.\r\n\r\nCette présentation s'adresse plutôt à un public débutant. Mais elle peut aussi être utile aux formateurs qui cherchent un moyen didactique de communiquer le concept des Monades. Elle est très fortement inspirée de la présentation pour F#, de Scott Walschin, portant le même titre. C'est d'ailleurs la raison pour laquelle j'ai demandé son autorisation et ai laissé le titre en anglais.\r\n\r\nPour commencer, nous montrons les dysfonctionnements d'une approche \"optimiste\" impérative. Ensuite nous abordons l'idée générale du \"Railway Oriented Programming\". Il s'agit d'une approche fonctionnelle où nous visualisons les branches d'exécution de code comme un réseau ferroviaire. Enfin nous voyons comment porter le concept un peu plus loin avec les \"Monad Transformers\".",
@@ -966,7 +966,6 @@
             "refined",
             "play"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Mohamad Kassir",
             "bio": "",
@@ -975,6 +974,7 @@
             "url": "",
             "avatar": "https://secure.gravatar.com/avatar/853d447258b0cca20a91b1ead5370b84?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Refined, des Types sur mesure",
             "description": "Dans ce talk je présenterai les Refined Types dans Scala: comment ça marche, à quel besoin ça répond, et comment les utiliser.\r\nNous verrons des exemples avec la librairie de base et un retour d'expérience sur l'intégration avec Play dans dans un API REST.\r\n",
@@ -988,7 +988,6 @@
         "tags": [
             "🇫🇷"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Francois Laroche",
             "bio": "Développeur scala depuis plusieurs années, je me passionne pour la performance des applications.\r\n\r\nJe suis actuellement l'architecte de Make.org où je mets en place des applications haute disponibilité.",
@@ -997,6 +996,7 @@
             "url": "https://github.com/larochef/",
             "avatar": "https://secure.gravatar.com/avatar/b5f6b6dad3068533f94d8cf2aff8d660?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Retour d'expérience sur l'utilisation d'Akka en production, pièges et récompenses",
             "description": "En partant de zéro, avec une équipe no connaissant rien des technologies, nous avons monté notre application, centrée sur les patterns Event sourcing et CQRS. Nous utilisons pour ça `akka-persistence` et `akka-cluster-sharding`\r\n\r\nCette atchitecture a pour avantage que tout événement produit par la plateforme est directement utilisable dans les pipeline de traitement de données.\r\n\r\nAprès deux ans de production, nous souhaitons vous présenter les différents pièges que nous avons rencontrés, ainsi que les solutions que nous avons trouvées, notamment sur les points suivants :\r\n\r\n- Déploiement et mise à jour de l'applicatif\r\n- Haute disponibilité, upscaling, downscaling, gestion des crashs\r\n- Monitoring\r\n- Tenue en charge\r\n- Gestion des acteurs\r\n\r\nA la fin, vous devriez avoir une bonne intuition de si votre application devrait ou pas être une application Akka.",
@@ -1012,7 +1012,6 @@
             "documentation",
             "🇬🇧"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Jon Pretty",
             "bio": "Jon has been having fun riding the bleeding edge of Scala for fifteen years, and he's not finished yet! While he's not travelling the world attending Scala conferences, or organising Scala World, Jon spends his time working on a variety of open-source Scala tools and libraries, and providing professional Scala training services.",
@@ -1021,6 +1020,7 @@
             "url": "https://propensive.com/",
             "avatar": "https://secure.gravatar.com/avatar/8cfd5a526d84b6fe7977e91ebbab43de?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Running Amok: Igniting a Documentation Revolution",
             "description": "Why is our ecosystem littered with so much incomplete, out-of-date and inadequate documentation? Why can't we check a library's v1.3.5 docs and read about how it contains a bug that's fixed in v1.3.6? Why can't a humble user contribute an improvement to the docs without involving the project maintainer, and having a new release made? Why does the documentation contain examples which don't compile? Why must we wait longer for a release of a library when only its docs are missing?\r\n\r\nDocumentation needs to evolve faster, and to continue improving even after the software it describes has stopped. We need a documentation revolution!\r\n\r\nThis talk will take a philosophical analysis of the causes of our industry's bad documentation culture and how our incumbent tooling and practises aren't helping. I will introduce Amok, a revolutionary new documentation management tool built upon Fury, for creating, maintaining, evolving, linking, versioning and checking documentation. Amok will take advantage of static build information which is now available thanks to Fury, and provide solutions to all the awkward questions above.",
@@ -1037,7 +1037,6 @@
             "dotty",
             "🇬🇧"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Aggelos Biboudis",
             "bio": "Doing programming language research at LAMP/EPFL, working on the Scala 3 compiler. ",
@@ -1046,6 +1045,7 @@
             "url": "http://biboudis.github.io",
             "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/51072/IMG_20190625_175946_333.jpg"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Safe Code Generation with Scala 3 Macros ",
             "description": "Macros in Scala 3 are built on two well-known fundamental operations: quotation and splicing. Quotation converts program code to data, specifically, a (tree-like) representation of this code. It is expressed as `'{...}` for expressions and as `'[...]` for types. Splicing, expressed as `${ ... }`, goes the other way: it converts a program's representation to program code. With these operations we can build code-generators either at compile- or run-time. In this talk we will focus on the latter to effectively create a code-generator for two well-known libraries. Our goal will be to demonstrate how we can remove various abstractions that incur performance penalties through:\r\n\r\n- Partial evaluation (e.g., inlining) \r\n- Various forms of specialization (e.g., remove boxing) \r\n\r\nOur examples build on top of minispire, a small, self-contained kernel of Spire [presented by Denis Rosset](https://www.scaladays.org/schedule/pick-your-number-type-with-spire) and Shapeless 3 [presented by Miles Shabin](https://www.scaladays.org/schedule/the-shapeless-of-type-class-derivation-in-scala-3).\r\n\r\n",
@@ -1060,7 +1060,6 @@
             "tooling-and-build-systems",
             "🇫🇷"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "François Sarradin",
             "bio": "",
@@ -1069,6 +1068,7 @@
             "url": "",
             "avatar": "https://secure.gravatar.com/avatar/fa3d0249159281beafb1f149889c2dd4?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "SBT, monorepo et livraison",
             "description": "À travers notre vécu chez mes clients et dans mes projets OSS, je vous propose une énumération d'outils et plugins étonnants, ainsi qu'un retour d'expérience sur leur mise en place.\r\n\r\nDans ce talk, nous verrons plus particulièrement :\r\n\r\n* sbt-dynver pour utiliser les tag git pour gérer les numéros de version,\r\n* sbt-release-early pour gérer la livraison dans OSSRH ou JCenter,\r\n* l'intérêt de CircleCI pour les projets OSS,\r\n* l'intérêt de créer ses propres plugins pour avoir des build.sbt plus déclaratifs, notamment chez des clients\r\n* pourquoi faire du monorepo, dans quel cadre et comment configurer sont pour que ça marche",
@@ -1083,7 +1083,6 @@
             "dotty",
             "scala 3"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Jeferson David Ossa",
             "bio": "Soy ingeniero de software y vivo en Medellín, Colombia. Soy un entusiasta de Scala y de los sistemas distribuidos, interesado en FP, arquitectura de software, infraestructura y la JVM. Aspirante a buzo.",
@@ -1092,6 +1091,7 @@
             "url": "http://s4n.co/",
             "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/19934/jd.jpg"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Scala 3 Playground: Get your hands dirty with Dotty's (new) features!",
             "description": "In this workshop attendees will get familiar with Scala 3 (a.k.a Dotty) new features, get some enlightenment about Scala's future by using and experimenting with mentioned features and trying to migragate a few common patterns from Scala 2 to Dotty.",
@@ -1105,6 +1105,14 @@
         "tags": [
             "🇫🇷"
         ],
+        "profile": {
+            "name": "Loïc Knuchel",
+            "bio": "Développeur Scala chez Zeenea et formateur indépendant. Craftsman et fan de programmation fonctionnelle, je m’attache à produire du code utile et maintenable autant que possible.  \r\nMes principaux sujets d’intérêt: programmation fonctionnelle, typage, DDD, UX, event sourcing, tests",
+            "twitter": "loicknuchel",
+            "company": "Zeenea",
+            "url": "",
+            "avatar": "https://secure.gravatar.com/avatar/f755e6e8914df5cbaa74d30dd7de1ae2?s=500"
+        },
         "co_presenter_profiles": [
             {
                 "name": "Badr Baddou",
@@ -1115,14 +1123,6 @@
                 "avatar": "https://secure.gravatar.com/avatar/e1e8b25a51365494e66eaba3d142fdb4?s=500"
             }
         ],
-        "profile": {
-            "name": "Loïc Knuchel",
-            "bio": "Développeur Scala chez Zeenea et formateur indépendant. Craftsman et fan de programmation fonctionnelle, je m’attache à produire du code utile et maintenable autant que possible.  \r\nMes principaux sujets d’intérêt: programmation fonctionnelle, typage, DDD, UX, event sourcing, tests",
-            "twitter": "loicknuchel",
-            "company": "Zeenea",
-            "url": "",
-            "avatar": "https://secure.gravatar.com/avatar/f755e6e8914df5cbaa74d30dd7de1ae2?s=500"
-        },
         "talk": {
             "title": "Scala bad practices ou comment garder son emploi à vie",
             "description": "Avez-vous déjà entendu “Scala c’est compliqué” ?  \r\nPersonnellement ça m’est beaucoup arrivé mais je suis convaincu que c’est avant tout un mauvais usage des fonctionnalités plutôt qu’une complexité obligatoire du langage.  \r\nCe talk sera l’occasion de mettre en lumière certains points qui peuvent rendre du code Scala difficile à comprendre et de proposer des solutions.\r\n",
@@ -1141,7 +1141,6 @@
             "jvm",
             "🇬🇧"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "John Ⓐ De Goes",
             "bio": "A mathematician by training but a software engineer by vocation, John A. De Goes has been professionally writing software for more than 25 years. John has contributed to dozens of open source projects written in functional programming languages, including ZIO, a library for asynchronous and concurrent programming in functional Scala. In addition to speaking at Strata, OSCON, BigData TechCon, NEScala, ScalaWorld, Scala IO, flatMap, Scalar Conf, LambdaConf, and many other conferences, John also published a variety of books on programming. Currently, John consults at De Goes Consulting, a consultancy committed to solving hard business problems using the power of pure functional programming.",
@@ -1150,6 +1149,7 @@
             "url": "http://degoes.net",
             "avatar": "https://secure.gravatar.com/avatar/6fbccc0537949767c52dfc210003ec9d?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Scala vs Kotlin",
             "description": "Kotlin is perhaps the fastest growing language in the history of the JVM, and seems poised to take increasing market share from Java. Kotlin combines a variety of new language features, cross-platform support, and an emphasis on tooling to deliver a compelling package for many commercial software developers.\r\n\r\nIn this presentation, you'll get a chance to learn what all the hype is about, as you explore the Kotlin language, tooling, libraries, and community, all from the perspective of a Scala developer. Learn how Kotlin stacks up against Scala, and in which situations you might choose Kotlin, and which others you might choose Scala.",
@@ -1168,7 +1168,6 @@
             "🇬🇧",
             "🇫🇷"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Himanshu Arora",
             "bio": "Himanshu Arora is a passionate Lead Data Engineer from Paris working at NeoLynk. He has been using Scala, Reactive systems and Big data stack for a few years now in production to help enterprises accelerate digital transformation. He is a Lightbend certified expert on Scala, Play, Akka and FastData and Databricks certified Spark developer. He loves to be a reactive and FP advocate. He contributes time to time in open source community and participates as well as speaks in scala, data and reactive conferences around the globe.",
@@ -1177,6 +1176,7 @@
             "url": "https://github.com/HimanshuArora1234",
             "avatar": "https://secure.gravatar.com/avatar/6ad681b64c09eeeb7b37b7b241d14d34?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "So long untyped actors, make way for Akka-Typed",
             "description": "In this talk we will learn about all new features that have been added in the akka framework to make actors type safe. Learn the difference between untyped and typed actors. Discover the API of Akka-Typed, typed actors' communication patterns, lifecycle and supervision etc.",
@@ -1200,7 +1200,6 @@
             "distributed-data-processing",
             "🇬🇧"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Fabio Tiriticco",
             "bio": "Fabio is a software engineer, conference speaker, and community leader based in Amsterdam. While building his own start-up, he fell in love with Akka, Scala, and Reactive systems, so much so that he founded the 2000-member strong Reactive Amsterdam meetup group. When not in front of a screen, he enjoys long distance bike rides and fingerpicking his guitar.",
@@ -1209,6 +1208,7 @@
             "url": "http://ticofab.io",
             "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/13071/profilepic_ushuaia-650.jpg"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Tame Crypto Events with Scala and Akka Streams",
             "description": "How do you tame the chaotic world of cryptocurrencies, with all that data that doesn't seem to make any sense? \r\n\r\nThe only possible answer is Reactive Systems and controlled streaming. Our goal is to find reliable patterns between events relative to a cryptocurrency (like a conference or a fork) and its relative price fluctuations. We need an always-on system that gathers this data from different sources, and we can't afford missing data because of downtimes. \r\n\r\nThis talk covers all the steps of a reactive data project. We start with domain modeling with DDD and Event-storming, then touch on the implementation side with a backpressured toolkit like Akka Streams, run our services on Google Cloud's Kubernetes and finally look at the data we gathered trying to find patterns.\r\nLambos have never been so close.\r\n",
@@ -1225,7 +1225,6 @@
             "#phantomTypes",
             "🇫🇷"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Damien Gouyette",
             "bio": "Petit producteur de systèmes event sourcés depuis 2014. \r\nIl assure lui même l'opérationnel de ses applications Scala / Akka.\r\nKubernetes l'aide à porter tout cela sur  GCP et AWS",
@@ -1234,6 +1233,7 @@
             "url": "",
             "avatar": "https://secure.gravatar.com/avatar/e5b415661373232ef6462eac70eb7670?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Une API affinée 18 mois",
             "description": "Un langage statiquement typé, c'est bien, mais il est possible de stocker l'oeuvre de Shakespeare dans un String. \r\nIl est frustrant de ne pas pourvoir être plus précis que les types primitifs.\r\n\r\nAvec Refined, vous pourrez  ajouter des contrôles plus stricts sur votre API Scala, celle-ci ne laissera passer que les types définis (valeur numérique positive, liste de taille bornée...)\r\n\r\nIl est également simple d'ajouter des contraintes plus précises sur les types pour obtenir une validation plus fine de votre API REST.\r\n\r\nCerise sur le fromage, se baser sur des types plus précis permettra de générer une documentation Swagger plus précise.",
@@ -1251,7 +1251,6 @@
             "🇬🇧",
             "🇫🇷"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Nicolas SAVOIS",
             "bio": "DEV for more than 20 years .  \r\nCTO for quite some time now, firstly in an internal startup in a big french bank and now for TalanLabs a consulting agency that helps its client transform into tech company.  \r\nElixir fan from the start of the language, and functional programming enthusiast, I thrive to use those in Agile context.  \r\nI am also the leader of the Elixir Meetup in Paris (https://www.meetup.com/fr-FR/elixir/)  \r\nI really think that IT in big company has missed a lot of key turn point, methodologically and technically, and that it's either changing too slowly or not a all.   \r\nI try to change mentality by raising the bar of the quality of what is produced in IT.  ",
@@ -1260,6 +1259,7 @@
             "url": "https://savoisn.github.io/",
             "avatar": "https://secure.gravatar.com/avatar/d05933e204b2e21299876dd4be3221cf?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Using the Actor Pattern in Elixir",
             "description": "Erlang OTP is the foundations of all the awesome properties of Elixir and Erlang, the Actor Pattern is at the core of OTP.  \r\nLet's take a look at how everything is working with Elixir   \r\nFrom spawning simple process to creating a complete supervisor tree we will see how Elixir leverages OTP  \r\n\r\nThe plan of the talk : \r\n\r\n- What's Elixir\r\n- What's the actor pattern - Schema\r\n- Processes\r\n  - Simple Process Spawning\r\n  - Message passing to process - sending and receiving messages\r\n  - Process to store state in Elixir\r\n  - More robust Structures : Agents\r\n  - More robust Structures : Tasks\r\n  - Saving State with Tasks\r\n  - GenServer : Core of concurrency\r\n- Supervision : \r\n  - Supervision - Schema\r\n  - Supervision Strategies\r\n  - Child Specification\r\n  - Dynamic Supervisors\r\n  - Task Supervisor\r\n- Distribution : \r\n  - Communication Between Nodes\r\n  - Distributing Tasks\r\n  - A note on security\r\n- Other Tools worth mentionning : \r\n  - ETS : Erlang built-in term storage\r\n  - GenStage\r\n  - Mnesia\r\n\r\n[Slides for the talk are here - still in construction](https://docs.google.com/presentation/d/1qpo5QlwyMSytxQLKwoN7ZtgixYWv6jNS_UcBvDfCAdo/edit?usp=sharing)\r\n\r\nI Love live coding so most of the examples will be done live and question will be answered with live code if needs be",
@@ -1279,7 +1279,6 @@
             "inspiration",
             "🇬🇧"
         ],
-        "co_presenter_profiles": [],
         "profile": {
             "name": "Mark Moore",
             "bio": "Emigrating to the US from Ireland, Mark has been a Scala developer for over 5 years. After initially teaching himself to program and a few years experience in the industry he earned a Masters in Computer Science from Texas Southern University. He currently works for iOFFICE and attempts to bring the principles of Functional Programming into practical application in their Integrated Workplace Management System.",
@@ -1288,6 +1287,7 @@
             "url": "",
             "avatar": "https://secure.gravatar.com/avatar/9ba5862bd06ed58daef0b0592e2971b9?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "Whirlwind tour of the Scala Functional Programming ecosystem",
             "description": "Let's go on a whirlwind tour of the FP library ecosystem as we implement a text messaging service that mirrors one currently in production at iOFFICE. We will start with the design of the application and abstract over the outside world to create our business logic in a purely functional, easily testable way. We will then utilize the rich library ecosystem to implement the means by which our application will interact with the world whilst retaining its pure nature. Finally, we will wire everything together and have an example of a Strongly Typed Pure Functional Application that is ready to deploy!\r\n\r\nRequired Knowledge\r\nFoundational level of Scala syntax is all that is expected from the attendees\r\n\r\nLearning Objectives\r\nProvide the motivation for designing an application that abstracts over specific effect types\r\nDemonstrate how far the Scala FP ecosystem has come by using the latest and greatest libraries to interact with the outside world.\r\nShow how the power of abstraction has enabled the authors of these libraries to build on a core set of fundamental concepts that allow these libraries to be perfectly composable while having zero dependencies on each other.\r\nSome of the libraries we will encounter are:\r\n\r\nScalaz, which defines a set of foundational type classes and provides purely functional data structures to complement those from the Scala standard library\r\n\r\nZIO, which is a general purpose effect monad, and associated abstractions that provide type-safe, composable concurrency for Scala\r\n\r\nHttp4s, a minimal idiomatic Scala interface for Http Services\r\n\r\nDoobie, a pure functional JDBC layer for Scala\r\n\r\nFS2, a compositional, streaming I/O library for Scala\r\n\r\n",
@@ -1303,15 +1303,15 @@
             "Functional-Programming History Languages",
             "🇫🇷"
         ],
-        "co_presenter_profiles": [],
         "profile": {
-            "name": "Yassine Meherzi",
+            "name": "Yassine MEHERZI",
             "bio": "",
-            "twitter": "",
-            "company": "",
+            "twitter": "yassine_meherzi",
+            "company": "Société Générale",
             "url": "",
             "avatar": "https://secure.gravatar.com/avatar/ece07c4f644a1ec741c47c60913bfa48?s=500"
         },
+        "co_presenter_profiles": [],
         "talk": {
             "title": "λ-Calculus : A Brief History of Functional Programming",
             "description": "λ-Calculus (ou Lambda-Calcul) est un système formel de logique mathématique permettant d'exprimer des calculs sous forme de fonctions.\r\nL'influence de Lambda Calculus sur les différents langages fonctionnels n'est pas seulement due au fait que le formalisme est « Turing-complete », mais également à sa simplicité et à son caractère expressif.\r\nMalheureusement, ce formalisme reste encore peu connu bien qu’il constitue les fondations de plusieurs langages fonctionnels comme Lisp, Haskell et Scala.\r\nDans ce talk, nous allons découvrir ce que c’est le λ-calculus, son histoire et, plus important encore, son application à la programmation fonctionnelle.",

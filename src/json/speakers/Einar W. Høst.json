@@ -1,0 +1,25 @@
+{
+    "name": "Einar W. Høst",
+    "bio": "Einar W. Høst is a computer at NRK, the Norwegian public broadcaster. His heretic views include thinking before programming and making drawings to understand things better. This arrogant mindset no doubt stems from the idle years spent obtaining a PhD in Computer Science from the University of Oslo.",
+    "twitter": "einarwh",
+    "company": "NRK",
+    "url": "https://einarwh.wordpress.com/",
+    "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/19750/einarwh-coffee-hat-400x400.jpg",
+    "talks": [
+        {
+            "title": "Composition by Juxtaposition: A PostScript on Functional Geometry",
+            "description": "Peter Henderson's \"Functional Geometry\" is a classic paper that shows the beauty and power of functional abstraction and composition. Using functions to represent pictures, Henderson defines a small set of combinators to create a replica of Escher's recursive tessellation \"Square Limit\". It's a nice kata for functional programmers. However, you could also implement Henderson's combinators effectively and elegantly in concatenative languages, where composition is nothing more than juxtaposition. In this talk, we'll look at an implementation in PostScript, a proven and battle-worn concatenative language that has been on the plateau of productivity for decades. It also happens to be rather good for drawing.",
+            "abstract": "Can you do functional programming in PostScript? Of course you can! How about recursive art? That too! In this talk you'll see how, by means of a PostScript implementation of Peter Henderson's classic \"Functional Geometry\" paper.",
+            "audience_level": "Intermediate",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "functional-programming",
+                "concatenative-programming",
+                "composition",
+                "recursion",
+                "art",
+                "🇬🇧"
+            ]
+        }
+    ]
+}

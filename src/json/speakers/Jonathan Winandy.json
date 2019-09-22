@@ -1,0 +1,26 @@
+{
+    "name": "Jonathan Winandy",
+    "bio": "Passionné par la data et la programmation qui fonctionne, Jonathan s’est spécialisé dans l'outillage et l’analyse des mouvements de données dans les différentes formes de systèmes d'information.\r\n\r\nDans la vie de tous les jours, c'est un adépte de Kafka, en particulier du procès !",
+    "twitter": "ahoy_jon",
+    "company": "Univalence",
+    "url": "https://blog.univalence.io",
+    "avatar": "https://secure.gravatar.com/avatar/7ea67ef3f68b07232a36102251d91c42?s=500",
+    "talks": [
+        {
+            "title": "L'INCROYABLE EFFICACITÉ DE L'UNIFICATION DES LOGS !",
+            "description": "Avez-vous déjà rencontré un bug vraiment prise de tête ? Avez-vous souhaité pouvoir juste faire un ctrl-Z ?\r\n\r\nBien que les micro-services soient plus complexes à exploiter que leurs homologues monolithiques, ils laissent place à des architectures qui nous permettent d'analyser et de corriger les erreurs du passé et nous évitent des surprises dans le futur.\r\n\r\nAprès un rappel rapide sur le tracing distribué, nous verrons comment avec Scala, un Kafka récent et Jaeger on peut construire un système complet avec:\r\n\r\nl'unification et la compression des données, l'analyse de la cause et de la source des bugs et des effets, et le \"\"voyage dans le temps\"\".\r\nAucunes connaissances préalables de \"\"Dapper\"\" et du fonctionnement des cabines téléphoniques sont requises ! 😉",
+            "abstract": "Les microservices, c'est le futur ! Cela étant dit, le progrès ici ne se fait pas tout à fait dans la simplicité. Dans cette présentation, regardons comment on peut utiliser les dernières innovations en systèmes distribués pour améliorer la capacité de ces architectures.",
+            "audience_level": "Intermediate",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "distributed-data-processing",
+                "🇫🇷",
+                "monitoring",
+                "observabilité",
+                "kafka",
+                "effect-systems",
+                "scala"
+            ]
+        }
+    ]
+}
