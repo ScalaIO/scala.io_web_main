@@ -4,7 +4,7 @@
     "twitter": "florentpellet",
     "company": "KickBanking",
     "url": "https://www.florentpellet.fr/",
-    "avatar": "https://secure.gravatar.com/avatar/40ecc4b6f07c79f534471e82f021dd0d?s=500",
+    "avatar": "https://scala.io/assets/images/speakers/florent-pellet.jpg",
     "talks": [
         {
             "title": "Introduction au T(ype)DD avec F# et web app réactive avec Fable.io",

@@ -1,5 +1,51 @@
 [
     {
+
+        "id": 10000,
+        "tags": [
+            "🇬🇧"
+        ],
+        "profile": {
+            "name": "Daniela Sfregola",
+            "bio": "Daniela Sfregola is a Software Engineer. She is an active contributor to the Scala Community, as well as the maintainer of a few open source projects and organizer of the London Scala User Group meetup. She is writing a book with Manning Publications, titled \"Get Programming with Scala\".",
+            "twitter": "DanielaSfregola",
+            "company": "",
+            "url": "",
+            "avatar": "https://scala.io/assets/images/speakers/daniela-sfregola.jpg"
+        },
+        "co_presenter_profiles": [],
+        "talk": {
+            "title": "FP: The Good, the Bad and the Ugly",
+            "description": "You are about to fall in love with Functional Programming, if not already. You are going to learn the good parts that are going to make your day-to-day life easier. But since nobody is perfect - not even FP -, you are also going to see its bad and ugly parts, and you'll discover how to deal with them: from learning challenges to performance issues on the JVM.",
+            "abstract": "You are about to fall in love with Functional Programming, if not already. You are going to learn the good parts that are going to make your day-to-day life easier. But since nobody is perfect - not even FP -, you are also going to see its bad and ugly parts, and you'll discover how to deal with them: from learning challenges to performance issues on the JVM.",
+            "audience_level": "All",
+            "talk_format": "Keynote"
+        }
+    },
+    {
+
+        "id": 10001,
+        "tags": [
+            "🇬🇧"
+        ],
+        "profile": {
+            "name": "Oli Makhasoeva",
+            "bio": "",
+            "twitter": "oli_kitty",
+            "company": "",
+            "url": "",
+            "avatar": "https://pbs.twimg.com/profile_images/973043600085798912/KVRZo-SY.jpg"
+        },
+        "co_presenter_profiles": [],
+        "talk": {
+            "title": "The art of asking questions",
+            "description": "",
+            "abstract": "",
+            "audience_level": "All",
+            "talk_format": "Keynote"
+        }
+    },
+    {
         "id": 88124,
         "tags": [
             "effect-systems",
@@ -90,7 +136,7 @@
             "twitter": "dead_flowers22",
             "company": "Captify",
             "url": "https://www.linkedin.com/in/roksolanadiachuk/",
-            "avatar": "https://secure.gravatar.com/avatar/c7ea3920ee0fde5f731518a6f69b12dd?s=500"
+            "avatar": "http://pbs.twimg.com/profile_images/1110105885572063234/sRne2mQp.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -211,7 +257,7 @@
             "twitter": "FakirSAyoub",
             "company": "Voodoo",
             "url": "https://www.linkedin.com/in/afakir/",
-            "avatar": "https://secure.gravatar.com/avatar/8b225fa8158f58907e28df978ff6e7a6?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/ayoub-fakir.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -515,7 +561,7 @@
             "twitter": "Krever01",
             "company": "Sony Electornics",
             "url": "https://w.pitula.me/",
-            "avatar": "https://secure.gravatar.com/avatar/bfec4932bd0fcbbc24be6ffbbbed3968?s=500"
+            "avatar": "http://pbs.twimg.com/profile_images/808294168330170368/lWnlkyAd.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -546,7 +592,7 @@
         },
         "co_presenter_profiles": [
             {
-                "name": "Christophe Calves",
+                "name": "Christophe Calvès",
                 "bio": "Christophe is a R&D engineer at MFG Labs. Passionate about solving problems he uses types and functional programming to build fast and reliable software. He likes to share with others experience and knowledge (and beer!). He especially focus on giving new comers the keys to feel comfortable with intimidating concepts.",
                 "twitter": "chrilves",
                 "company": "MFG Labs",
@@ -636,7 +682,7 @@
             "twitter": "maude_cahuet",
             "company": "Lunatech",
             "url": "",
-            "avatar": "https://secure.gravatar.com/avatar/fdf6482ae1e9cdf5583089bd677ca8ed?s=500"
+            "avatar": "http://pbs.twimg.com/profile_images/851826092017102848/IWADAAIC.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -662,7 +708,7 @@
             "twitter": "florentpellet",
             "company": "KickBanking",
             "url": "https://www.florentpellet.fr/",
-            "avatar": "https://secure.gravatar.com/avatar/40ecc4b6f07c79f534471e82f021dd0d?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/florent-pellet.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -710,7 +756,7 @@
             "twitter": "SShabanau",
             "company": "B-Yond",
             "url": "https://github.com/sergei-shabanau",
-            "avatar": "https://secure.gravatar.com/avatar/ef3fcdb89a9dbc304e1eb48f95a3515a?s=500"
+            "avatar": "http://pbs.twimg.com/profile_images/853422810206621696/25fonBs0.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -786,7 +832,7 @@
             "twitter": "KevinMarguo",
             "company": "Teads",
             "url": "",
-            "avatar": "https://secure.gravatar.com/avatar/b1dfd128d2330d5838fb85efc64a95bd?s=500"
+            "avatar": "http://pbs.twimg.com/profile_images/1167117177012596736/ICt2OWPq.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -814,7 +860,7 @@
             "twitter": "ahoy_jon",
             "company": "Univalence",
             "url": "https://blog.univalence.io",
-            "avatar": "https://secure.gravatar.com/avatar/7ea67ef3f68b07232a36102251d91c42?s=500"
+            "avatar": "http://pbs.twimg.com/profile_images/854239741113499648/RQUEBn2Q.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -914,7 +960,7 @@
             "twitter": "febroshka",
             "company": "Tabmo",
             "url": "",
-            "avatar": "https://secure.gravatar.com/avatar/bf186e4c4d0d56968ec6873dfdb9f765?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/melanie-lavabre.jpg"
         },
         "co_presenter_profiles": [
             {
@@ -972,7 +1018,7 @@
             "twitter": "_mhdkassir",
             "company": "Ebiznext",
             "url": "",
-            "avatar": "https://secure.gravatar.com/avatar/853d447258b0cca20a91b1ead5370b84?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/mohamad-kassir.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {

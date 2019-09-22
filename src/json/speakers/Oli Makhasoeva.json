@@ -1,0 +1,20 @@
+{
+    "name": "Oli Makhasoeva",
+    "bio": "",
+    "twitter": "oli_kitty",
+    "company": "",
+    "url": "",
+    "avatar": "https://pbs.twimg.com/profile_images/973043600085798912/KVRZo-SY.jpg",
+    "talks": [
+        {
+            "title": "The art of asking questions",
+            "description": "",
+            "abstract": "",
+            "audience_level": "All",
+            "talk_format": "Keynote",
+            "tags": [
+                "🇬🇧"
+            ]
+        }
+    ]
+}

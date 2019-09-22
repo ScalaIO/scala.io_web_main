@@ -1,5 +1,13 @@
 [
     {
+        "name": "Daniela Sfregola",
+        "avatar": "https://scala.io/assets/images/speakers/daniela-sfregola.jpg"
+    },
+    {
+        "name": "Oli Makhasoeva",
+        "avatar": "https://pbs.twimg.com/profile_images/973043600085798912/KVRZo-SY.jpg"
+    },
+    {
         "name": "Christophe Calvès",
         "avatar": "https://secure.gravatar.com/avatar/24ef18021486d7d91350b230825513b0?s=500"
     },
@@ -13,7 +21,7 @@
     },
     {
         "name": "Roksolana Diachuk",
-        "avatar": "https://secure.gravatar.com/avatar/c7ea3920ee0fde5f731518a6f69b12dd?s=500"
+        "avatar": "http://pbs.twimg.com/profile_images/1110105885572063234/sRne2mQp.jpg"
     },
     {
         "name": "Guillaume Galy",
@@ -33,7 +41,7 @@
     },
     {
         "name": "Ayoub Fakir",
-        "avatar": "https://secure.gravatar.com/avatar/8b225fa8158f58907e28df978ff6e7a6?s=500"
+        "avatar": "https://scala.io/assets/images/speakers/ayoub-fakir.jpg"
     },
     {
         "name": "Vincent Brule",
@@ -81,15 +89,11 @@
     },
     {
         "name": "Wojtek Pituła",
-        "avatar": "https://secure.gravatar.com/avatar/bfec4932bd0fcbbc24be6ffbbbed3968?s=500"
+        "avatar": "http://pbs.twimg.com/profile_images/808294168330170368/lWnlkyAd.jpg"
     },
     {
         "name": "TANKOUA Stéphane",
         "avatar": "https://secure.gravatar.com/avatar/978c72020836f92ec03342253000f280?s=500"
-    },
-    {
-        "name": "Christophe Calves",
-        "avatar": "https://secure.gravatar.com/avatar/24ef18021486d7d91350b230825513b0?s=500"
     },
     {
         "name": "Caroline GAUDREAU",
@@ -105,11 +109,11 @@
     },
     {
         "name": "Maude Cahuet",
-        "avatar": "https://secure.gravatar.com/avatar/fdf6482ae1e9cdf5583089bd677ca8ed?s=500"
+        "avatar": "http://pbs.twimg.com/profile_images/851826092017102848/IWADAAIC.jpg"
     },
     {
         "name": "Florent PELLET",
-        "avatar": "https://secure.gravatar.com/avatar/40ecc4b6f07c79f534471e82f021dd0d?s=500"
+        "avatar": "https://scala.io/assets/images/speakers/florent-pellet.jpg"
     },
     {
         "name": "Xavier Tordoir",
@@ -117,7 +121,7 @@
     },
     {
         "name": "Sergei Shabanau",
-        "avatar": "https://secure.gravatar.com/avatar/ef3fcdb89a9dbc304e1eb48f95a3515a?s=500"
+        "avatar": "http://pbs.twimg.com/profile_images/853422810206621696/25fonBs0.jpg"
     },
     {
         "name": "Joachim Rousseau",
@@ -129,11 +133,11 @@
     },
     {
         "name": "Kévin Margueritte",
-        "avatar": "https://secure.gravatar.com/avatar/b1dfd128d2330d5838fb85efc64a95bd?s=500"
+        "avatar": "http://pbs.twimg.com/profile_images/1167117177012596736/ICt2OWPq.jpg"
     },
     {
         "name": "Jonathan Winandy",
-        "avatar": "https://secure.gravatar.com/avatar/7ea67ef3f68b07232a36102251d91c42?s=500"
+        "avatar": "http://pbs.twimg.com/profile_images/854239741113499648/RQUEBn2Q.jpg"
     },
     {
         "name": "Tomasz Godzik",
@@ -149,7 +153,7 @@
     },
     {
         "name": "Melanie Lavabre",
-        "avatar": "https://secure.gravatar.com/avatar/bf186e4c4d0d56968ec6873dfdb9f765?s=500"
+        "avatar": "https://scala.io/assets/images/speakers/melanie-lavabre.jpg"
     },
     {
         "name": "Paul Leclercq",
@@ -161,7 +165,7 @@
     },
     {
         "name": "Mohamad Kassir",
-        "avatar": "https://secure.gravatar.com/avatar/853d447258b0cca20a91b1ead5370b84?s=500"
+        "avatar": "https://scala.io/assets/images/speakers/mohamad-kassir.jpg"
     },
     {
         "name": "Francois Laroche",
