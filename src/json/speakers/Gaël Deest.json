@@ -1,0 +1,24 @@
+{
+    "name": "Gaël Deest",
+    "bio": "",
+    "twitter": "",
+    "company": "",
+    "url": "",
+    "avatar": "https://scala.io/assets/images/speakers/gael-deest.jpg",
+    "talks": [
+        {
+            "title": "Haskell Space Invaders",
+            "description": "### C'est un coding dojo s'adressant aux débutants (en Haskell comme en programmation fonctionnelle).\r\n\r\nLe principe est le suivant:\r\n\r\n- Les participants se succèdent au clavier, sur la base du volontariat (<b>un seul ordinateur pour tout le monde</b>).\r\n- L'assistance est le cerveau, repérant les erreurs et formulant des suggestions ; la personne au clavier joue le rôle des mains.\r\n\r\n On part d'une base de code déjà existante. Le dojo commence par environ 30 minutes de présentation du code, afin d'illustrer la syntaxe et les caractéristiques essentielles du langage. Une documentation d'API est mise à disposition.\r\n\r\nLa librairie utilisée (Gloss) permet de contourner les aspects les plus difficiles du langage Haskell (monades & co). La logique du jeu s'intègre dans un framework réactif (rappelant Elm), implémentée sous forme de fonctions pures.\r\n\r\n<b> L'accent est mis sur le génie logiciel et ce qu'apporte Haskell et/ou les langages fonctionnels dans ce sens :</b>\r\n\r\n- la modélisation du domaine métier via les types\r\n- la prévention des erreurs par ce même biais\r\n- la séparation des contraintes\r\n- la réutilisabilité\r\n- la composition\r\n- le refactoring…",
+            "abstract": "La terre est menacée par les Ephedbores, ces terribles envahisseurs venus de l'espace ! Pour les combattre, une seule solution: programmer en Haskell. Découvrez la programmation fonctionnelle pure en implémentant un jeu de Space Invaders avec la librairie Gloss. Garanti sans monade !",
+            "audience_level": "Beginner",
+            "talk_format": "Workshop (3 hours)",
+            "tags": [
+                "Haskell",
+                "Functionprogramming",
+                "DomainDrivenDesign",
+                "Softwarecraftmanship",
+                "🇫🇷"
+            ]
+        }
+    ]
+}

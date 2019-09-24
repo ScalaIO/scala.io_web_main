@@ -34,13 +34,13 @@
             "twitter": "oli_kitty",
             "company": "",
             "url": "",
-            "avatar": "https://pbs.twimg.com/profile_images/973043600085798912/KVRZo-SY.jpg"
+            "avatar": "https://scala.io/assets/images/speakers/oli-makhasoeva.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
             "title": "The art of asking questions",
-            "description": "",
-            "abstract": "",
+            "description": "There are specific skills that are crucial for people to utilize in every profession, and without a doubt, one of the most essential skills in a workplace is the ability to ask questions.\n\nIt doesn’t matter what your job title is. Whether you’re a junior developer, a team lead, or an architect; you need to master the art of asking questions. Why is this skill so important? One study shows that curious children ask, on average, 73 questions every day, a practice that helps them learn faster. This practice is also true of students, interns, and new hires. Asking questions is the simplest and most productive way of learning.\n\nHowever, as we become more senior in our fields, we tend to assume we know it all and stop asking as many questions. But do we ever stop wondering, challenging ourselves, doubting things, or searching for answers?\n\nIn this keynote, Oli will share insights she's gained while conducting podcast interviews with individuals from a variety of sectors in the Scala community. She'll also discuss how she's incorporated these principles into asking the right questions, a skill that helps her be an effective technical consultant.",
+            "abstract": "There are specific skills that are crucial for people to utilize in every profession, and without a doubt, one of the most essential skills in a workplace is the ability to ask questions.\n\nIt doesn’t matter what your job title is. Whether you’re a junior developer, a team lead, or an architect; you need to master the art of asking questions. Why is this skill so important? One study shows that curious children ask, on average, 73 questions every day, a practice that helps them learn faster. This practice is also true of students, interns, and new hires. Asking questions is the simplest and most productive way of learning.\n\nHowever, as we become more senior in our fields, we tend to assume we know it all and stop asking as many questions. But do we ever stop wondering, challenging ourselves, doubting things, or searching for answers?\n\nIn this keynote, Oli will share insights she's gained while conducting podcast interviews with individuals from a variety of sectors in the Scala community. She'll also discuss how she's incorporated these principles into asking the right questions, a skill that helps her be an effective technical consultant.",
             "audience_level": "All",
             "talk_format": "Keynote"
         }
@@ -185,7 +185,7 @@
             "twitter": "saby_nastasia",
             "company": "Zenika",
             "url": "https://medium.zenika.com/@nastasia.saby",
-            "avatar": "https://secure.gravatar.com/avatar/f1e09bf0b41e5559ff4623401378a1f8?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/nastasia-saby.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -209,7 +209,7 @@
             "twitter": "h_wki",
             "company": "Univalence",
             "url": "",
-            "avatar": "https://secure.gravatar.com/avatar/3d7a342018ef50955b9b244e4de37539?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/philippe-hong.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -285,7 +285,16 @@
             "url": "",
             "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/51055/Vincent_B.jpg"
         },
-        "co_presenter_profiles": [],
+        "co_presenter_profiles": [
+            {
+                "name": "Xavier Tordoir",
+                "bio": "Xavier has a scientific background, with several years in academic research relying on massive data processing (physical sciences, genomics and financial markets). He developed distributed storage and processing solutions before becoming BigData and Data science consultant, and then entrepreneur with a Data science platform project. Author of trainings in Spark, Kafka, Machine learning and Tensorflow, Xavier now works at Lunatech on the development of the BigData and AI branch.",
+                "twitter": "xtordoir",
+                "company": "Lunatech",
+                "url": "http://www.lunatech.com",
+                "avatar": "https://scala.io/assets/images/speakers/xavier-tordoir.jpg"
+            }
+        ],
         "talk": {
             "title": "Cas pratiques d'utilisation de Scala Tensorflow pour l'analyse d'images",
             "description": "Nous commencerons par découvrir les concepts de base du Machine Learning appliqués à la détection d'objets dans des images. \r\nEnsuite, nous étudierons deux cas pratiques, à l'aide de l'API Tensorflow/Scala, en utilisant des modèles publiés et disponibles dans divers dépôts.\r\nNous verrons comment compléter cette détection avec une phase d'anonymisation par floutage des visages et plaques d'immatriculation.\r\nFinalement, nous découvrirons un algorithme permettant de suivre des objets à travers une vidéo et nous discuterons des projets OpenSource liés à ces exemples.",
@@ -383,7 +392,7 @@
             "twitter": "RomanowskiKr",
             "company": "VirtusLab",
             "url": "",
-            "avatar": "https://secure.gravatar.com/avatar/f944abd27c97f18a84192dfda8e19903?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/krzysztof-romanowski.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -406,7 +415,7 @@
             "twitter": "",
             "company": "Univalence",
             "url": "",
-            "avatar": "https://secure.gravatar.com/avatar/d939c82a31accb2df1c0e752f124212d?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/harrison-cheng.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -510,7 +519,7 @@
             "twitter": "WiemZin",
             "company": "MOIA",
             "url": "https://medium.com/@wiemzin",
-            "avatar": "https://secure.gravatar.com/avatar/85564454d90062766e0d956d36f30162?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/wiem-zine-elabidine.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -537,7 +546,7 @@
             "twitter": "mmenestret",
             "company": "Ebiznext",
             "url": "http://geekocephale.com/blog/",
-            "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/44432/moi.jpeg"
+            "avatar": "https://scala.io/assets/images/speakers/menestret-martin.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -588,7 +597,7 @@
             "twitter": "stefshine",
             "company": "Fabernovel Technologies (formerly Zengularity)",
             "url": "https://github.com/stankoua",
-            "avatar": "https://secure.gravatar.com/avatar/978c72020836f92ec03342253000f280?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/tankoua-stephane.jpg"
         },
         "co_presenter_profiles": [
             {
@@ -625,7 +634,16 @@
             "url": "https://github.com/lambda-rennes",
             "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/46337/caro.png"
         },
-        "co_presenter_profiles": [],
+        "co_presenter_profiles": [
+            {
+                "name": "Gaël Deest",
+                "bio": "",
+                "twitter": "",
+                "company": "",
+                "url": "",
+                "avatar": "https://scala.io/assets/images/speakers/gael-deest.jpg"
+            }
+        ],
         "talk": {
             "title": "Haskell Space Invaders",
             "description": "### C'est un coding dojo s'adressant aux débutants (en Haskell comme en programmation fonctionnelle).\r\n\r\nLe principe est le suivant:\r\n\r\n- Les participants se succèdent au clavier, sur la base du volontariat (<b>un seul ordinateur pour tout le monde</b>).\r\n- L'assistance est le cerveau, repérant les erreurs et formulant des suggestions ; la personne au clavier joue le rôle des mains.\r\n\r\n On part d'une base de code déjà existante. Le dojo commence par environ 30 minutes de présentation du code, afin d'illustrer la syntaxe et les caractéristiques essentielles du langage. Une documentation d'API est mise à disposition.\r\n\r\nLa librairie utilisée (Gloss) permet de contourner les aspects les plus difficiles du langage Haskell (monades & co). La logique du jeu s'intègre dans un framework réactif (rappelant Elm), implémentée sous forme de fonctions pures.\r\n\r\n<b> L'accent est mis sur le génie logiciel et ce qu'apporte Haskell et/ou les langages fonctionnels dans ce sens :</b>\r\n\r\n- la modélisation du domaine métier via les types\r\n- la prévention des erreurs par ce même biais\r\n- la séparation des contraintes\r\n- la réutilisabilité\r\n- la composition\r\n- le refactoring…",
@@ -710,7 +728,16 @@
             "url": "https://www.florentpellet.fr/",
             "avatar": "https://scala.io/assets/images/speakers/florent-pellet.jpg"
         },
-        "co_presenter_profiles": [],
+        "co_presenter_profiles": [
+            {
+                "name": "Clément Bouillier",
+                "bio": "",
+                "twitter": "",
+                "company": "",
+                "url": "",
+                "avatar": "https://scala.io/assets/images/speakers/clement-bouillier.jpg"
+            }
+        ],
         "talk": {
             "title": "Introduction au T(ype)DD avec F# et web app réactive avec Fable.io",
             "description": "La programmation fonctionnelle est de plus en plus mise en avant, mais pourquoi? Qu’y a-t-il de différent avec la POO?\r\n\r\nNous vous proposons de partir d’un kata bien connu pour illustrer les différences (implémentations en C# existantes) et dédiaboliser la soi-disant complexité de la programmation fonctionnelle. Les différences de notation forment le principal obstacle, une fois passée, la programmation fonctionnelle n’est pas plus compliquée. Nous aborderons le langage F# pas à pas en illustrant notamment le système de type (dit de “types algébriques”) pour avoir un design piloté par les types (TypeDD).\r\n\r\nEn bonus, nous vous montrerons comment créer une web app réactive du kata en F# avec Fable.io (transpiler F# vers JavaScript) et Elmish (oui la référence au langage Elm est fait exprès).",
@@ -732,7 +759,7 @@
             "twitter": "xtordoir",
             "company": "Lunatech",
             "url": "http://www.lunatech.com",
-            "avatar": "https://secure.gravatar.com/avatar/f45f19c580c97062b3282d8cfec24863?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/xavier-tordoir.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -885,7 +912,7 @@
             "twitter": "TomekGodzik",
             "company": "VirtusLab",
             "url": "https://github.com/tgodzik",
-            "avatar": "https://secure.gravatar.com/avatar/5eb68d1367935801d018e6618fffca91?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/tomasz-godzik.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -969,7 +996,7 @@
                 "twitter": "LECLERCQ",
                 "company": "1991",
                 "url": "",
-                "avatar": "https://secure.gravatar.com/avatar/4f385b067da90133f70632c6786e2370?s=500"
+                "avatar": "https://scala.io/assets/images/speakers/paul-leclercq.png"
             }
         ],
         "talk": {
@@ -1064,7 +1091,7 @@
             "twitter": "propensive",
             "company": "Propensive",
             "url": "https://propensive.com/",
-            "avatar": "https://secure.gravatar.com/avatar/8cfd5a526d84b6fe7977e91ebbab43de?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/jon-pretty.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -1089,9 +1116,18 @@
             "twitter": "biboudis",
             "company": "EPFL",
             "url": "http://biboudis.github.io",
-            "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/51072/IMG_20190625_175946_333.jpg"
+            "avatar": "https://scala.io/assets/images/speakers/aggelos-biboudis.jpg"
         },
-        "co_presenter_profiles": [],
+        "co_presenter_profiles": [
+            {
+                "name": "Olivier Blanvillain",
+                "bio": "",
+                "twitter": "",
+                "company": "",
+                "url": "",
+                "avatar": "https://scala.io/assets/images/speakers/olivier-blanvillain.jpg"
+            }
+        ],
         "talk": {
             "title": "Safe Code Generation with Scala 3 Macros ",
             "description": "Macros in Scala 3 are built on two well-known fundamental operations: quotation and splicing. Quotation converts program code to data, specifically, a (tree-like) representation of this code. It is expressed as `'{...}` for expressions and as `'[...]` for types. Splicing, expressed as `${ ... }`, goes the other way: it converts a program's representation to program code. With these operations we can build code-generators either at compile- or run-time. In this talk we will focus on the latter to effectively create a code-generator for two well-known libraries. Our goal will be to demonstrate how we can remove various abstractions that incur performance penalties through:\r\n\r\n- Partial evaluation (e.g., inlining) \r\n- Various forms of specialization (e.g., remove boxing) \r\n\r\nOur examples build on top of minispire, a small, self-contained kernel of Spire [presented by Denis Rosset](https://www.scaladays.org/schedule/pick-your-number-type-with-spire) and Shapeless 3 [presented by Miles Shabin](https://www.scaladays.org/schedule/the-shapeless-of-type-class-derivation-in-scala-3).\r\n\r\n",
@@ -1166,7 +1202,7 @@
                 "twitter": "",
                 "company": "Zeenea",
                 "url": "",
-                "avatar": "https://secure.gravatar.com/avatar/e1e8b25a51365494e66eaba3d142fdb4?s=500"
+                "avatar": "https://scala.io/assets/images/speakers/badr-baddou.jpg"
             }
         ],
         "talk": {
@@ -1303,7 +1339,7 @@
             "twitter": "nicosavois",
             "company": "TalanLabs",
             "url": "https://savoisn.github.io/",
-            "avatar": "https://secure.gravatar.com/avatar/d05933e204b2e21299876dd4be3221cf?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/nicolas-savois.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -1355,7 +1391,7 @@
             "twitter": "yassine_meherzi",
             "company": "Société Générale",
             "url": "",
-            "avatar": "https://secure.gravatar.com/avatar/ece07c4f644a1ec741c47c60913bfa48?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/yassine-meherzi.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {

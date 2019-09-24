@@ -4,7 +4,7 @@
     "twitter": "",
     "company": "Univalence",
     "url": "",
-    "avatar": "https://secure.gravatar.com/avatar/d939c82a31accb2df1c0e752f124212d?s=500",
+    "avatar": "https://scala.io/assets/images/speakers/harrison-cheng.jpg",
     "talks": [
         {
             "title": "Des tests Spark simples et efficaces avec Spark-Test",

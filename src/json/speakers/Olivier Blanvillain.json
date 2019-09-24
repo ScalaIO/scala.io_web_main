@@ -1,10 +1,10 @@
 {
-    "name": "Aggelos Biboudis",
-    "bio": "Doing programming language research at LAMP/EPFL, working on the Scala 3 compiler. ",
-    "twitter": "biboudis",
-    "company": "EPFL",
-    "url": "http://biboudis.github.io",
-    "avatar": "https://scala.io/assets/images/speakers/aggelos-biboudis.jpg",
+    "name": "Olivier Blanvillain",
+    "bio": "",
+    "twitter": "",
+    "company": "",
+    "url": "",
+    "avatar": "https://scala.io/assets/images/speakers/olivier-blanvillain.jpg",
     "talks": [
         {
             "title": "Safe Code Generation with Scala 3 Macros ",
