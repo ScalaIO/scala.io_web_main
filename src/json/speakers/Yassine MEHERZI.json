@@ -1,0 +1,22 @@
+{
+    "name": "Yassine MEHERZI",
+    "bio": "",
+    "twitter": "yassine_meherzi",
+    "company": "Société Générale",
+    "url": "",
+    "avatar": "https://secure.gravatar.com/avatar/ece07c4f644a1ec741c47c60913bfa48?s=500",
+    "talks": [
+        {
+            "title": "λ-Calculus : A Brief History of Functional Programming",
+            "description": "λ-Calculus (ou Lambda-Calcul) est un système formel de logique mathématique permettant d'exprimer des calculs sous forme de fonctions.\r\nL'influence de Lambda Calculus sur les différents langages fonctionnels n'est pas seulement due au fait que le formalisme est « Turing-complete », mais également à sa simplicité et à son caractère expressif.\r\nMalheureusement, ce formalisme reste encore peu connu bien qu’il constitue les fondations de plusieurs langages fonctionnels comme Lisp, Haskell et Scala.\r\nDans ce talk, nous allons découvrir ce que c’est le λ-calculus, son histoire et, plus important encore, son application à la programmation fonctionnelle.",
+            "abstract": "λ-Calculus reste peu connu parmi les développeurs bien qu’il constitue les fondations de plusieurs langages fonctionnels comme Lisp, Haskell et Scala. Dans ce talk, nous allons découvrir ce que c'est λ-calculus, son histoire et, plus important encore, son application à la programmation fonctionnelle",
+            "audience_level": "All",
+            "talk_format": "Short Talk (20 minutes)",
+            "tags": [
+                "f",
+                "Functional-Programming History Languages",
+                "🇫🇷"
+            ]
+        }
+    ]
+}

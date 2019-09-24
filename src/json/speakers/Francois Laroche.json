@@ -1,0 +1,20 @@
+{
+    "name": "Francois Laroche",
+    "bio": "Développeur scala depuis plusieurs années, je me passionne pour la performance des applications.\r\n\r\nJe suis actuellement l'architecte de Make.org où je mets en place des applications haute disponibilité.",
+    "twitter": "",
+    "company": "Make.org",
+    "url": "https://github.com/larochef/",
+    "avatar": "https://secure.gravatar.com/avatar/b5f6b6dad3068533f94d8cf2aff8d660?s=500",
+    "talks": [
+        {
+            "title": "Retour d'expérience sur l'utilisation d'Akka en production, pièges et récompenses",
+            "description": "En partant de zéro, avec une équipe no connaissant rien des technologies, nous avons monté notre application, centrée sur les patterns Event sourcing et CQRS. Nous utilisons pour ça `akka-persistence` et `akka-cluster-sharding`\r\n\r\nCette atchitecture a pour avantage que tout événement produit par la plateforme est directement utilisable dans les pipeline de traitement de données.\r\n\r\nAprès deux ans de production, nous souhaitons vous présenter les différents pièges que nous avons rencontrés, ainsi que les solutions que nous avons trouvées, notamment sur les points suivants :\r\n\r\n- Déploiement et mise à jour de l'applicatif\r\n- Haute disponibilité, upscaling, downscaling, gestion des crashs\r\n- Monitoring\r\n- Tenue en charge\r\n- Gestion des acteurs\r\n\r\nA la fin, vous devriez avoir une bonne intuition de si votre application devrait ou pas être une application Akka.",
+            "abstract": "Celà fait maintenant deux ans que nous avons mis en production notre application akka.\n\nNous avons choisi Akka pour :\n\n- Pics de charge pouvant être assez élevés\n- Haute disponibilité\n- Architecture basée sur les données\n- Aisance de développement\n\nAkka a-t-il tenu ses promesses ?",
+            "audience_level": "All",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "🇫🇷"
+            ]
+        }
+    ]
+}

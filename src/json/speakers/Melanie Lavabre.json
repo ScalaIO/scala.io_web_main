@@ -1,0 +1,24 @@
+{
+    "name": "Melanie Lavabre",
+    "bio": "Adepte du Pilates le mercredi, inscrite au pôle espoir France des siesteurs de hamac orientés Nord-Est, je sais de source sûre que l’élite se cache quelque part dans le forum du 15–18. Le reste du temps je suis Ingénieur Back-End en Scala à TabMo.",
+    "twitter": "febroshka",
+    "company": "Tabmo",
+    "url": "",
+    "avatar": "https://scala.io/assets/images/speakers/melanie-lavabre.jpg",
+    "talks": [
+        {
+            "title": "Prête moi ton Scala, je te l’échange contre de la Data",
+            "description": "Une Back-End qui se demande d’où viennent ses données, un Data Engineer curieux de leur utilisation ... autrement dit le projet parfait pour monter en compétences ! \r\nDans ce talk, nous vous proposons une réflexion sur les prétendues différences de nos deux métiers -en particulier dans un écosystème Scala- mais aussi sur les clés du succès d’une collaboration (spoiler alert : communication, esprit d’équipe, bienveillance), applicables sans la surveillance d'un manager.",
+            "abstract": "- “ Allo ? ”\n- “ Ici la dette technique, j’ai ton projet en otage.”\n- “...?!”\n- “ Pour le récupérer vous avez : 3 mois, un readme énigmatique et du café.”\n- “ Sinon quoi ? “\n- “ Les commerciaux, le produit et le support savent où se trouve votre bureau.”\n- “ Challenge accepted.“",
+            "audience_level": "All",
+            "talk_format": "Short Talk (20 minutes)",
+            "tags": [
+                "Scala",
+                "Aerospike",
+                "Kafka",
+                "Akka Actors",
+                "Akka Streams"
+            ]
+        }
+    ]
+}

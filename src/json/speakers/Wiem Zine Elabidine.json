@@ -1,0 +1,26 @@
+{
+    "name": "Wiem Zine Elabidine",
+    "bio": "Wiem Zine Elabidine is a Scala Backend Engineer at MOIA and a functional programming enthusiastic. Outside of her day job, she loves contributing to Scalaz ZIO projects.",
+    "twitter": "WiemZin",
+    "company": "MOIA",
+    "url": "https://medium.com/@wiemzin",
+    "avatar": "https://secure.gravatar.com/avatar/85564454d90062766e0d956d36f30162?s=500",
+    "talks": [
+        {
+            "title": "Flying Futures in the same sky can make the moon sun at midnight",
+            "description": "Implementing responsive and high-performance applications is the most obvious challenge that we face in our programming life. \r\nIt’s interesting to deeply study concurrency and parallelism on the JVM. \r\nIn this talk you will learn how to describe parallel tasks and the idea behind Futures and the execution context.\r\nI will cover the tricky part of concurrency when the concurrent tasks share and use the same resources and how flying Futures in the same sky can make the moon sun at midnight! At the end I will talk about some possible solutions that you can use to reduce your worries about the pitfalls of concurrency.",
+            "abstract": "This talk is about the difference between parallelism and concurrency, and the complex concurrency problems that we can face. At the end I will show some possible solutions.",
+            "audience_level": "Beginner",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "🇬🇧",
+                "concurrency",
+                "parallelism",
+                "jvm",
+                "threads",
+                "future",
+                "scala"
+            ]
+        }
+    ]
+}

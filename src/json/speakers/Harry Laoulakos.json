@@ -1,0 +1,24 @@
+{
+    "name": "Harry Laoulakos",
+    "bio": "Senior software engineer / functional programmer, with solid working experience and a strong educational background. Enjoying programming in Scala, Play framework, Akka, Typelevel stack: cats, shapeless, etc. ",
+    "twitter": "harrylaou",
+    "company": "Talos Software Ltd",
+    "url": "",
+    "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/26379/harry.jpg",
+    "talks": [
+        {
+            "title": "Algebraic Data Types in Scala . Where is the algebra ? What other algebras are there ?",
+            "description": "**Abstract**\r\nTuples (and case classes) and sealed traits are common data structures in Scala. Sometimes called products and coproducts, they define algebraic data types. They are called ADTs in abbreviation. But where is the algebra in them? \r\nIn this talk, I will demonstrate the correspondence of data structures that we use every day in Scala to simple high-school algebra, and you will learn why these are called algebraic.  \r\n\r\n**Required Knowledge**\r\nNone. Even people that know nothing of Scala can follow the talk. \r\n\r\n**Learning Objectives**\r\nTo understand the term algebra in the context of functional programming. ",
+            "abstract": "Functional programming is really easy. But newcomers are facing the problem of a new \"language/terminology\" which sometimes create a barrier to entry. Terms like algebra, algebraic datatypes, product and coproduct should be crystal clear for beginners.",
+            "audience_level": "Beginner",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "Scala",
+                "ADTs",
+                "Beginners",
+                "Algebras",
+                "🇬🇧"
+            ]
+        }
+    ]
+}

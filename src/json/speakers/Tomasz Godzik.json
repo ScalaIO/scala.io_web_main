@@ -1,0 +1,23 @@
+{
+    "name": "Tomasz Godzik",
+    "bio": "Tomasz is one of the main Metals maintainers and works in close cooperation with Scala Center to improve Metals so that it can become a valuable tool for the Scala community. Mainly a Scala developer with a tooling background, he sharpened his skills trying to improve tooling for one of the largest Scala codebases in the world.",
+    "twitter": "TomekGodzik",
+    "company": "VirtusLab",
+    "url": "https://github.com/tgodzik",
+    "avatar": "https://secure.gravatar.com/avatar/5eb68d1367935801d018e6618fffca91?s=500",
+    "talks": [
+        {
+            "title": "Metals - your next IDE? ",
+            "description": "Currently, most Scala developers use Intellij IDEA as their main tool to write code. While it is a wholesome and tested solution, it might not suit everybody’s needs. There are a number of other editors available, such as Vim, Emacs and VS Code, that all have their own faithful following. Metals is a Language Server Protocol (LSP) implementation that enables users of these alternative text editors to enjoy rich IDE capabilities such as code completion, rename, diagnostics, goto definition and more. Metals is open source and available at https://github.com/scalameta/metals, where it is maintained by the Scala Center, VirtusLab along with contributors from the Scala community.\r\n\r\nIn this talk, you will learn how Metals builds on top of LSP to provide a productive code editing experience for Scala developers. You will see the newest features that Metals provides and how they can be used for your day-to-day coding. You will also see some cool new features from VS Code such as Life Share or Remote Development that thanks to Metals work out-of-the-box Scala.  Be prepared to take your code editing skills to the next level!\r\n",
+            "abstract": "Metals is a Scala LSP server that allows us to support a lot of different client editors, so anybody can just use their favourite editor. And implementing a new exciting feature adds value to all of them! Also, we have a lot of ideas, so there will be new features aplenty.",
+            "audience_level": "All",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "tooling-and-build-systems",
+                "lsp",
+                "ide",
+                "🇬🇧"
+            ]
+        }
+    ]
+}

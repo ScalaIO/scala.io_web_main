@@ -4,7 +4,7 @@ scalaio.config(['$routeProvider', '$locationProvider',
         $routeProvider.
         when('/', {
             templateUrl: 'talks-template',
-            controller: 'TalksCtrl',
+            controller: 'SubmissionsCtrl',
             reloadOnSearch: false
         }).
         otherwise({
@@ -19,16 +19,20 @@ scalaio.filter('unsafe', function($sce) {
     };
 });
 var scalaioServices = angular.module('scalaioServices', ['ngResource']);
-scalaioServices.factory('Talks', ['$resource', function($resource) {
+scalaioServices.factory('Submissions', ['$resource', function($resource) {
     return $resource(
-        'https://cfp.scala.io/api/conferences/ScalaIOFR2018/talks/:speakerId', { talkId: '@talkId' }, {}
+        'json/submissions.json', { talkId: '@talkId' }, {}
     );
 }]);
-scalaio.controller('TalksCtrl', ['$scope', '$location', 'Talks', '$anchorScroll', function($scope, $location, Talks, $anchorScroll) {
+scalaio.controller('SubmissionsCtrl', ['$scope', '$location', 'Submissions', '$anchorScroll', function($scope, $location, Talks, $anchorScroll) {
 
     Talks.query(function(data) {
-        $scope.talks = data;
+        $scope.submissions = data;
     });
+    $scope.getLang = function(tags) {
+       if (tags && tags.includes("🇫🇷")) return "fr";
+       return "en";
+    };
     $scope.hasNoCompany = function(speaker) {
         return !speaker ||  !speaker.company || speaker.company.trim() == "" || speaker.company.trim() == "-" || speaker.company.trim() == " -"
     };

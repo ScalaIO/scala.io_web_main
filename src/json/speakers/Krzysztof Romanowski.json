@@ -1,0 +1,21 @@
+{
+    "name": "Krzysztof Romanowski",
+    "bio": "Krzysztof is Head of Dev & Scala Tooling @ Virtuslab where he has spent endless hours debugging and fixing Scala IDE, SBT, IntelliJ, and even the Scala compiler itself. For over 5 years he has been creating tooling for projects containing millions of lines of lines of Scala source code.\r\nOrganizer of sphere.it conference and the Kotlin and Scala user groups in Kraków. \r\n",
+    "twitter": "RomanowskiKr",
+    "company": "VirtusLab",
+    "url": "",
+    "avatar": "https://secure.gravatar.com/avatar/f944abd27c97f18a84192dfda8e19903?s=500",
+    "talks": [
+        {
+            "title": "Context Buddy: the tool that knows your code better than you",
+            "description": "'git blame' is my best friend but I often find it too crude. Meaningful changes can be deeply buried and even with the correct commit in hand it is hard to see it in the proper context. I knew we can do better.\r\n\r\nI started by lifting history to token-level (“who added this parameter to that method?”). Later, the time came for types and implicits and that was just the beginning. \r\n\r\nI will show how the basics of git, scalameta and semanticdb can be used to gather knowledge about code and a project’s history. I will show how to enhance this knowledge by providing information from code reviews and continuous integration. Finally, I will show how this information can be used within Review Buddy and how to configure and use it in your projects and IDEs.\r\n",
+            "abstract": "Meet Context Buddy, the tool that grasps project history and connects it to the code. It lives in your IDE and with few clicks gives you a list of people to talk to, issues and reviews to look at, and more!",
+            "audience_level": "All",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "tooling-and-build-systems",
+                "🇬🇧"
+            ]
+        }
+    ]
+}

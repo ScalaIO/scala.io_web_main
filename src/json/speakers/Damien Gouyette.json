@@ -1,0 +1,23 @@
+{
+    "name": "Damien Gouyette",
+    "bio": "Petit producteur de systèmes event sourcés depuis 2014. \r\nIl assure lui même l'opérationnel de ses applications Scala / Akka.\r\nKubernetes l'aide à porter tout cela sur  GCP et AWS",
+    "twitter": "cestpasdur",
+    "company": "Freelance",
+    "url": "",
+    "avatar": "https://secure.gravatar.com/avatar/e5b415661373232ef6462eac70eb7670?s=500",
+    "talks": [
+        {
+            "title": "Une API affinée 18 mois",
+            "description": "Un langage statiquement typé, c'est bien, mais il est possible de stocker l'oeuvre de Shakespeare dans un String. \r\nIl est frustrant de ne pas pourvoir être plus précis que les types primitifs.\r\n\r\nAvec Refined, vous pourrez  ajouter des contrôles plus stricts sur votre API Scala, celle-ci ne laissera passer que les types définis (valeur numérique positive, liste de taille bornée...)\r\n\r\nIl est également simple d'ajouter des contraintes plus précises sur les types pour obtenir une validation plus fine de votre API REST.\r\n\r\nCerise sur le fromage, se baser sur des types plus précis permettra de générer une documentation Swagger plus précise.",
+            "abstract": "Un langage statiquement typé, c'est bien, mais il est possible de stocker l'oeuvre de Shakespeare dans un String. \n\nDécouvrez comment utiliser Refined pour ajouter des contrôles plus stricts sur votre API Scala,  validation fine des requêtes  REST, ou la documenter automatiquement avec Swagger.",
+            "audience_level": "All",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "#Scala #Refined #",
+                "#TypeSystem",
+                "#phantomTypes",
+                "🇫🇷"
+            ]
+        }
+    ]
+}

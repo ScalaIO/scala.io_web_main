@@ -1,0 +1,24 @@
+{
+    "name": "Nicolas SAVOIS",
+    "bio": "DEV for more than 20 years .  \r\nCTO for quite some time now, firstly in an internal startup in a big french bank and now for TalanLabs a consulting agency that helps its client transform into tech company.  \r\nElixir fan from the start of the language, and functional programming enthusiast, I thrive to use those in Agile context.  \r\nI am also the leader of the Elixir Meetup in Paris (https://www.meetup.com/fr-FR/elixir/)  \r\nI really think that IT in big company has missed a lot of key turn point, methodologically and technically, and that it's either changing too slowly or not a all.   \r\nI try to change mentality by raising the bar of the quality of what is produced in IT.  ",
+    "twitter": "nicosavois",
+    "company": "TalanLabs",
+    "url": "https://savoisn.github.io/",
+    "avatar": "https://secure.gravatar.com/avatar/d05933e204b2e21299876dd4be3221cf?s=500",
+    "talks": [
+        {
+            "title": "Using the Actor Pattern in Elixir",
+            "description": "Erlang OTP is the foundations of all the awesome properties of Elixir and Erlang, the Actor Pattern is at the core of OTP.  \r\nLet's take a look at how everything is working with Elixir   \r\nFrom spawning simple process to creating a complete supervisor tree we will see how Elixir leverages OTP  \r\n\r\nThe plan of the talk : \r\n\r\n- What's Elixir\r\n- What's the actor pattern - Schema\r\n- Processes\r\n  - Simple Process Spawning\r\n  - Message passing to process - sending and receiving messages\r\n  - Process to store state in Elixir\r\n  - More robust Structures : Agents\r\n  - More robust Structures : Tasks\r\n  - Saving State with Tasks\r\n  - GenServer : Core of concurrency\r\n- Supervision : \r\n  - Supervision - Schema\r\n  - Supervision Strategies\r\n  - Child Specification\r\n  - Dynamic Supervisors\r\n  - Task Supervisor\r\n- Distribution : \r\n  - Communication Between Nodes\r\n  - Distributing Tasks\r\n  - A note on security\r\n- Other Tools worth mentionning : \r\n  - ETS : Erlang built-in term storage\r\n  - GenStage\r\n  - Mnesia\r\n\r\n[Slides for the talk are here - still in construction](https://docs.google.com/presentation/d/1qpo5QlwyMSytxQLKwoN7ZtgixYWv6jNS_UcBvDfCAdo/edit?usp=sharing)\r\n\r\nI Love live coding so most of the examples will be done live and question will be answered with live code if needs be",
+            "abstract": "Actor Pattern baked into the BEAM is what gives Elixir and Erlang their great power, High Concurrency, High Scalabilty, HIgh Availability. \nLet's take a moment to look into the Actor Pattern with Elixir.\nFrom Process to Task to Agent to Supervisors to GenStage to GenServer, we will cover the lot.",
+            "audience_level": "Intermediate",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "Elixir",
+                "Actors",
+                "Actor Pattern",
+                "🇬🇧",
+                "🇫🇷"
+            ]
+        }
+    ]
+}

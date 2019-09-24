@@ -1,0 +1,23 @@
+{
+    "name": "Roksolana Diachuk",
+    "bio": "I have been working as a Data Engineer on multiple projects in the Big Data field. I am passionate about Big Data, Scala, and Kubernetes and I always love to learn something new. I am one of the Women Who Code Kyiv leads so I enjoy organizing events as well as speaking at such events. My huge hobby is discovering new cities by traveling",
+    "twitter": "dead_flowers22",
+    "company": "Captify",
+    "url": "https://www.linkedin.com/in/roksolanadiachuk/",
+    "avatar": "http://pbs.twimg.com/profile_images/1110105885572063234/sRne2mQp.jpg",
+    "talks": [
+        {
+            "title": "Alice in the world of pods and higher order functions",
+            "description": "We have many reasons to love functional programming. But have you thought that functional programming can be really close to the containers world?\r\nYou might have heard about Kubernetes, everyone's buzzing about it. Kubernetes may sound complex especially if you’ve never worked with containers. A surprising thing is that you can actually apply your knowledge of functional programming to understand how Kubernetes works. If you want to know more about the bridge between these two worlds follow me on that path.\r\n",
+            "abstract": "I am a huge functional programming and containers enthusiast so I would love to share my knowledge in an interactive way and bring this fresh perspective in the form of paradigm talk. I think that it might be interesting for attendees to connect such different knowledge areas like containers and FP.",
+            "audience_level": "All",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "Scala",
+                "Functional Programming",
+                "Kubernetes",
+                "🇬🇧"
+            ]
+        }
+    ]
+}

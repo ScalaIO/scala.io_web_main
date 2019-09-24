@@ -1,0 +1,23 @@
+{
+    "name": "Ayoub Fakir",
+    "bio": "I'm a Data Engineer, fan of Distributed Systems and I strongly defend the idea that the future of programming is through the Functional Programming Paradigm. I'm a continuous learner, and a firm believer of the idea that a knowledge that is not shared is worth nothing. I'm a part-time teacher, I love giving my students knowledge that will be useful for them the minute they go out of my class, because I always wanted to become the opposite of some of the professors I had: those who come and talk in front of slides for hours without us knowing the value or the utility of the knowledge that is presented. \r\n\r\nWhy me? Because people often find that I'm a good pedagogue and that I have the ability to simplify hard concepts. Because I truly wish good to people, and that one of the things that makes me profoundly happy is when I share knowledge with people, and that they actually understand it! Finally, it's because my mom always says that I'm a good guy... Really, ask her!",
+    "twitter": "FakirSAyoub",
+    "company": "Voodoo",
+    "url": "https://www.linkedin.com/in/afakir/",
+    "avatar": "https://scala.io/assets/images/speakers/ayoub-fakir.jpg",
+    "talks": [
+        {
+            "title": "Breaking the entry barriers: making the scary keywords accessible.",
+            "description": "Most of the time, developers who decide to start learning Scala, Clojure or any other programming language based on the Functional Programming concepts find themselves frustrated in front of concepts such as Functors, Monads or Monoids to name a few, not knowing from where to begin and how to approach them. Those concepts are often used by the more experienced developers making the unexperienced ones wonder if they are ever going to write a Scala program in their life.\r\n\r\nI believe that those concepts are equally simple and important, and do not have to stop beginners from embracing a language like Scala. This is the reason why I'm submitting this talk: Scala is before all a community of devoted developers, projects and individuals that keep it running and alive, and I truly believe that we need to make sure that the beginners are well welcomed, because some of them are potentially those who will help maintain the language and the ecosystem in the future.",
+            "abstract": "How many beginners gave up their Scala / FP learning journey just because they heard concepts like Monoids, Monads, Composition, Functors or Purity? This talk aims to demystify some of these concepts and make them accessible to a wide audience so they can go ahead and embrace Scala and FP paradigms",
+            "audience_level": "Beginner",
+            "talk_format": "Short Talk (20 minutes)",
+            "tags": [
+                "scala",
+                "functional-programming",
+                "beginners",
+                "🇬🇧"
+            ]
+        }
+    ]
+}

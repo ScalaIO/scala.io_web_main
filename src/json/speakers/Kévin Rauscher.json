@@ -1,0 +1,21 @@
+{
+    "name": "Kévin Rauscher",
+    "bio": "Freelance scala developer, emacs user and raspberry pi tinkerer. I believe in the core functional concept, like using non-mainstream software and solve all kinds of interesting problems.\r\n",
+    "twitter": "tomahna",
+    "company": "",
+    "url": "https://blog.tomahna.fr/",
+    "avatar": "https://secure.gravatar.com/avatar/b4096197cdee5e677a75eee1be47b80f?s=500",
+    "talks": [
+        {
+            "title": "Automate your work",
+            "description": "The scala worlds already disposes of quite a lot of tools. In addition, there is a renewed effort to improve the tooling all around the scala ecosystem.\r\n\r\nAs a scala developper, the difficulty is, currently, not so much to automate things but rather to know that the right sbt plugin already exists and make it fits in our process.\r\n\r\nIn this session, we'll set up a coherent continuous integration pipeline using popular sbt plugins and other tools.",
+            "abstract": "As we are expected to deliver increasingly complex products ever faster, automation becomes a key component of our day to day work. Good automation, means we can focus on interesting new problems instead of routine work. Continuous integration solutions are tools of choices to help us.",
+            "audience_level": "Beginner",
+            "talk_format": "Short Talk (20 minutes)",
+            "tags": [
+                "🇬🇧",
+                "tooling-and-build-systems"
+            ]
+        }
+    ]
+}

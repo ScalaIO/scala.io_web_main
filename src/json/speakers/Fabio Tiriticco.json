@@ -1,0 +1,30 @@
+{
+    "name": "Fabio Tiriticco",
+    "bio": "Fabio is a software engineer, conference speaker, and community leader based in Amsterdam. While building his own start-up, he fell in love with Akka, Scala, and Reactive systems, so much so that he founded the 2000-member strong Reactive Amsterdam meetup group. When not in front of a screen, he enjoys long distance bike rides and fingerpicking his guitar.",
+    "twitter": "ticofab",
+    "company": "Fabio",
+    "url": "http://ticofab.io",
+    "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/13071/profilepic_ushuaia-650.jpg",
+    "talks": [
+        {
+            "title": "Tame Crypto Events with Scala and Akka Streams",
+            "description": "How do you tame the chaotic world of cryptocurrencies, with all that data that doesn't seem to make any sense? \r\n\r\nThe only possible answer is Reactive Systems and controlled streaming. Our goal is to find reliable patterns between events relative to a cryptocurrency (like a conference or a fork) and its relative price fluctuations. We need an always-on system that gathers this data from different sources, and we can't afford missing data because of downtimes. \r\n\r\nThis talk covers all the steps of a reactive data project. We start with domain modeling with DDD and Event-storming, then touch on the implementation side with a backpressured toolkit like Akka Streams, run our services on Google Cloud's Kubernetes and finally look at the data we gathered trying to find patterns.\r\nLambos have never been so close.\r\n",
+            "abstract": "There is only one answer to the chaos of the blockchain world: Reactive Systems and controlled streaming. \n\nWe use Akka Streams to model a always-on, resilient system that collects data about cryptocurrency events and their price fluctuations. The goal is to find reliable patterns and buy a lambo.",
+            "audience_level": "Intermediate",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "data",
+                "streaming",
+                "ddd",
+                "event storming",
+                "akka",
+                "akka streams",
+                "kubernetes",
+                "crypto",
+                "scala",
+                "distributed-data-processing",
+                "🇬🇧"
+            ]
+        }
+    ]
+}

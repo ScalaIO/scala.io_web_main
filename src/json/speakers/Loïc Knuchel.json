@@ -1,0 +1,20 @@
+{
+    "name": "Loïc Knuchel",
+    "bio": "Développeur Scala chez Zeenea et formateur indépendant. Craftsman et fan de programmation fonctionnelle, je m’attache à produire du code utile et maintenable autant que possible.  \r\nMes principaux sujets d’intérêt: programmation fonctionnelle, typage, DDD, UX, event sourcing, tests",
+    "twitter": "loicknuchel",
+    "company": "Zeenea",
+    "url": "",
+    "avatar": "https://secure.gravatar.com/avatar/f755e6e8914df5cbaa74d30dd7de1ae2?s=500",
+    "talks": [
+        {
+            "title": "Scala bad practices ou comment garder son emploi à vie",
+            "description": "Avez-vous déjà entendu “Scala c’est compliqué” ?  \r\nPersonnellement ça m’est beaucoup arrivé mais je suis convaincu que c’est avant tout un mauvais usage des fonctionnalités plutôt qu’une complexité obligatoire du langage.  \r\nCe talk sera l’occasion de mettre en lumière certains points qui peuvent rendre du code Scala difficile à comprendre et de proposer des solutions.\r\n",
+            "abstract": "Vous voulez voir du beau code Scala ? Vous vous êtes trompé de salle !  \nCe talk a pour but de mettre en évidence certaines pratiques qui peuvent rendre le code obscur, les comprendre et suggérer des alternatives plus simple à utiliser.",
+            "audience_level": "All",
+            "talk_format": "Short Talk (20 minutes)",
+            "tags": [
+                "🇫🇷"
+            ]
+        }
+    ]
+}

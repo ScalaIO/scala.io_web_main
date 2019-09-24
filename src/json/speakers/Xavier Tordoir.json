@@ -1,0 +1,22 @@
+{
+    "name": "Xavier Tordoir",
+    "bio": "Xavier has a scientific background, with several years in academic research relying on massive data processing (physical sciences, genomics and financial markets). He developed distributed storage and processing solutions before becoming BigData and Data science consultant, and then entrepreneur with a Data science platform project. Author of trainings in Spark, Kafka, Machine learning and Tensorflow, Xavier now works at Lunatech on the development of the BigData and AI branch.",
+    "twitter": "xtordoir",
+    "company": "Lunatech",
+    "url": "http://www.lunatech.com",
+    "avatar": "https://secure.gravatar.com/avatar/f45f19c580c97062b3282d8cfec24863?s=500",
+    "talks": [
+        {
+            "title": "Introduction to Spark in the context of a Distributed Pipeline",
+            "description": "Scala is the prime language for distributed computing. Scala developers benefit from gaining expertise in BigData and Data Science frameworks, the goal of this session is to kick-start newcomers to these topics. \r\nThe workshop is structured in such a way that the different components of Spark are introduced and used to build a single complete data pipeline, from data collection to serving Machine learning models. We use historical and streaming cryptocurrency price data as a use case. The training covers the following topics:\r\n\r\n- Distributed computing and storage\r\n- Dataframes and Datasets for batch processing, data cleaning\r\n- Working with parquet files, importance of schemas\r\n- Simple ML: training and saving models, ML Pipelines\r\n- Streaming data, collectors and publishing to Kafka\r\n- Spark and Kafka integration\r\n- Predictions with ML models on a data stream\r\n",
+            "abstract": "This hands-on session is a comprehensive introduction to Spark. Using interactive notebooks, attendees learn the concepts and APIs. Covered topics are batch processing with DataFrames, simple Machine Learning and processing a Kafka Stream, building from the ground a complete processing pipeline.",
+            "audience_level": "Beginner",
+            "talk_format": "Workshop (3 hours)",
+            "tags": [
+                "Spark",
+                "distributed-data-processing",
+                "🇬🇧"
+            ]
+        }
+    ]
+}

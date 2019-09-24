@@ -1,0 +1,32 @@
+{
+    "name": "Jeferson David Ossa",
+    "bio": "Soy ingeniero de software y vivo en Medellín, Colombia. Soy un entusiasta de Scala y de los sistemas distribuidos, interesado en FP, arquitectura de software, infraestructura y la JVM. Aspirante a buzo.",
+    "twitter": "unyagami",
+    "company": "S4N",
+    "url": "http://s4n.co/",
+    "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/19934/jd.jpg",
+    "talks": [
+        {
+            "title": "Exploring Scala Tooling ecosystem",
+            "description": "We are going to explore and compare some build tools with special focus on LSP/BSP implementations, IDEs and text editor's support. \r\nFor the sake of empower audience's judgement about the tools that could suit better for their particular needs this talk aims to get attendees familiar with terms like SemanticDB, Metals, Bloop, SBT, Pants, Bazel, Ensime, IntelliJ IDE, Scala IDE, Dotty IDE and other honorific mentions.",
+            "abstract": "Scala's tooling experience has improved and now there's an increasing number of tools to choose from. We can feel the hype but might not be fully aware of tools that exists, alternatives, trade offs or even recent efforts such as LSP initiative.\nThis talk's goal is to create such tooling awareness.",
+            "audience_level": "All",
+            "talk_format": "Short Talk (20 minutes)",
+            "tags": [
+                "tooling-and-build-systems",
+                "🇬🇧"
+            ]
+        },
+        {
+            "title": "Scala 3 Playground: Get your hands dirty with Dotty's (new) features!",
+            "description": "In this workshop attendees will get familiar with Scala 3 (a.k.a Dotty) new features, get some enlightenment about Scala's future by using and experimenting with mentioned features and trying to migragate a few common patterns from Scala 2 to Dotty.",
+            "abstract": "Let's play and get familiar with Scala 3 features before they get cool.\nIn this workshop, you are going to have a hands-on experience with Dotty's foundations, new types, context queries, toplevel definitions, implied instances, extension methods, dependent function types and much more.",
+            "audience_level": "Intermediate",
+            "talk_format": "Workshop (3 hours)",
+            "tags": [
+                "dotty",
+                "scala 3"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Nicolas Rinaudo",
+    "bio": "Scala & FP enthusiast, CTO of [Besedo](https://besedo.com), author and maintainer of a few mildly popular Scala OSS libraries.",
+    "twitter": "NicolasRinaudo",
+    "company": "Besedo",
+    "url": "",
+    "avatar": "https://secure.gravatar.com/avatar/3d4cd92195bb4a21bed5eade58836f05?s=500",
+    "talks": [
+        {
+            "title": "Much ado about testing",
+            "description": "Testing is a hard and, to be blunt, often boring task, that most developers do because we must, when we do it at all.\r\n\r\nThis reputation as being something that's neither fun nor cool means that industry developers often miss out on the ideas academia has to alleviate these issues. And academia has lots of ideas!\r\n\r\nThe purpose of this talk is to go through 3 main testing methodologies, from the most common (and worst) to the most esoteric I know of. Along the way, we'll explain and formalise the issues we must solve when testing, and how to tackle them in different scenarios.\r\n\r\nWe intend to focus on two main methodologies:\r\n* property based testing, which is more and more accepted but also very often misused, and how to use it properly\r\n* metamorphic testing, which is basically unknown but very powerful for the scenarios in which it's applicable\r\n\r\nAt the end of the talk, attendants should have learned strategies to write property based tests that are easy to read and maintain, and far more useful then the usual strategy of _let's just rewrite the system under test_.  They should also a good idea of what metamorphic testing is and the knowledge required to start using it in their own code base straight away.\r\n\r\n[CAN BE GIVEN IN FRENCH]",
+            "abstract": "Testing is a wide field, with lots of weird concepts not much discussed in the industry.\n\nThis talk means to introduce:\n\n* example based testing and how it falls short\n* property based testing (PBT) and strategies to identify useful properties\n* metamorphic testing for when PBT is too expensive",
+            "audience_level": "All",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "🇫🇷",
+                "test"
+            ]
+        }
+    ]
+}

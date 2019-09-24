@@ -1,0 +1,22 @@
+{
+    "name": "Ramiro Sarmiento Calle",
+    "bio": "J'ai commencé par du C++, dérivé vers du PHP, continué par du Java, changé de cap vers du C#, exploré du Groovy pour enfin arriver en terre Scala il y a 4 ans.",
+    "twitter": "rrramiro",
+    "company": "MNT",
+    "url": "",
+    "avatar": "https://secure.gravatar.com/avatar/6c34a61046cd64bafdc1e695d97c7fd9?s=500",
+    "talks": [
+        {
+            "title": "Railway Oriented Programming - Une approche fonctionnelle pour la gestion d'erreurs",
+            "description": "La terminologie en programmation fonctionnelle peut en perdre plus d'un. Nous essayons dans cette présentation de démystifier les Monades et voir comment elles peuvent nous aider à résoudre un problème comme la gestion des erreurs, de façon pragmatique.\r\n\r\nCette présentation s'adresse plutôt à un public débutant. Mais elle peut aussi être utile aux formateurs qui cherchent un moyen didactique de communiquer le concept des Monades. Elle est très fortement inspirée de la présentation pour F#, de Scott Walschin, portant le même titre. C'est d'ailleurs la raison pour laquelle j'ai demandé son autorisation et ai laissé le titre en anglais.\r\n\r\nPour commencer, nous montrons les dysfonctionnements d'une approche \"optimiste\" impérative. Ensuite nous abordons l'idée générale du \"Railway Oriented Programming\". Il s'agit d'une approche fonctionnelle où nous visualisons les branches d'exécution de code comme un réseau ferroviaire. Enfin nous voyons comment porter le concept un peu plus loin avec les \"Monad Transformers\".",
+            "abstract": "Avez vous déjà entendu : \"Je n'ai pas besoin de tes %@$! de Monades. Je veux simplement gérer mes erreurs !\". Visualisons les branches d'exécution de code comme un réseau ferroviaire, avec des aiguillages, des voies de garage, des impasses ... finalement la façon fonctionnelle n'est pas si complexe.",
+            "audience_level": "Beginner",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "🇫🇷",
+                "monad",
+                "scala"
+            ]
+        }
+    ]
+}

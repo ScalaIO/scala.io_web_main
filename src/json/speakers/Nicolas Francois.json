@@ -1,0 +1,22 @@
+{
+    "name": "Nicolas Francois",
+    "bio": "I'm a Software Engineer at mediarithmics with some Ops flavor. I work mainly in Scala on both FP and OOP way.\r\nArchitecture astronaut I love to explore how to construct highly scalable and robust systems from small programming constructs to global infrastructure level.",
+    "twitter": "Koisell",
+    "company": "mediarithmics",
+    "url": "",
+    "avatar": "https://secure.gravatar.com/avatar/60ce696d34afb6224f06ca29cae9098e?s=500",
+    "talks": [
+        {
+            "title": "Cats Retry 101",
+            "description": "Through the power of Scala type system and functional programming, manipulating retry policies over effects becomes an easy thing. In this short talk we will explore how Cats Retry make this even easier. We will focus on the features of this micro-library to leverage your programming power to retry in an effectful context.",
+            "abstract": "Through the power of Scala type system and functional programming, manipulating retry policies over effects becomes an easy thing. In this short talk we will explore how Cats Retry make this even easier.",
+            "audience_level": "Intermediate",
+            "talk_format": "Short Talk (20 minutes)",
+            "tags": [
+                "effect-systems",
+                "Cats",
+                "🇬🇧"
+            ]
+        }
+    ]
+}

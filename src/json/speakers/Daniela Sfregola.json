@@ -1,0 +1,20 @@
+{
+    "name": "Daniela Sfregola",
+    "bio": "Daniela Sfregola is a Software Engineer. She is an active contributor to the Scala Community, as well as the maintainer of a few open source projects and organizer of the London Scala User Group meetup. She is writing a book with Manning Publications, titled \"Get Programming with Scala\".",
+    "twitter": "DanielaSfregola",
+    "company": "",
+    "url": "",
+    "avatar": "https://scala.io/assets/images/speakers/daniela-sfregola.jpg",
+    "talks": [
+        {
+            "title": "FP: The Good, the Bad and the Ugly",
+            "description": "You are about to fall in love with Functional Programming, if not already. You are going to learn the good parts that are going to make your day-to-day life easier. But since nobody is perfect - not even FP -, you are also going to see its bad and ugly parts, and you'll discover how to deal with them: from learning challenges to performance issues on the JVM.",
+            "abstract": "You are about to fall in love with Functional Programming, if not already. You are going to learn the good parts that are going to make your day-to-day life easier. But since nobody is perfect - not even FP -, you are also going to see its bad and ugly parts, and you'll discover how to deal with them: from learning challenges to performance issues on the JVM.",
+            "audience_level": "All",
+            "talk_format": "Keynote",
+            "tags": [
+                "🇬🇧"
+            ]
+        }
+    ]
+}

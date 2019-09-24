@@ -1,0 +1,23 @@
+{
+    "name": "Nastasia Saby",
+    "bio": "Développeur, consultante Zenika, je suis membre des Software Crafters de Lyon, fan de craft et de Big Data. J'ai commencé dans le monde du web avec PHP avant d'embrasser celui exaltant de la Big Data.",
+    "twitter": "saby_nastasia",
+    "company": "Zenika",
+    "url": "https://medium.zenika.com/@nastasia.saby",
+    "avatar": "https://secure.gravatar.com/avatar/f1e09bf0b41e5559ff4623401378a1f8?s=500",
+    "talks": [
+        {
+            "title": "Apache Spark et le machine learning : rêves et réalités",
+            "description": "Spark contient un module dédié au machine learning. C'est celui que nous voulons utiliser pour nos traitements de données. Cependant, nous trouvons rapidement des limites. Les algorithmes ne sont pas présents ou pas comme nous les attendions. Soit, mais un algorithme reste un algorithme. Spark est un framework puissant dont nous ne voulons pas nous passer dans notre contexte. Qu'à cela ne tienne, nous allons ruser pour avoir le meilleur des deux mondes.\r\n\r\nCette présentation se base sur quelques cas précis réellement rencontrés.",
+            "abstract": "Spark a fait ses preuves pour bien des projets. La partie machine learning présente cependant des limites.\n\nRetour d’expérience sur des difficultés rencontrées et une solution afin d’avoir le meilleur des deux mondes : un framework puissant et du machine learning customisé qui réponde à nos besoins.",
+            "audience_level": "Beginner",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "machine-deep-learning",
+                "Apache Spark",
+                "🇫🇷",
+                "Big Data"
+            ]
+        }
+    ]
+}

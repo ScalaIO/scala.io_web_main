@@ -1,0 +1,23 @@
+{
+    "name": "Mayleen Lacouture",
+    "bio": "",
+    "twitter": "",
+    "company": "iAdvize",
+    "url": "",
+    "avatar": "https://secure.gravatar.com/avatar/1aafc331573ff54d4cc411c4fc40d7a4?s=500",
+    "talks": [
+        {
+            "title": "En route to better code",
+            "description": "The objective of this talk is to revisit the clean-code guidelines of the Software Craftsmanship movement, this time with a focus on a functional programming language like Scala. \r\nI will talk from my experience, what practices have worked (or not) to better achieve:\r\n- Readable and maintainable code, because no programmer is an island\r\n- Reusable and modular software components\r\n- Robust and testable programs\r\n  \r\nIn this talk I want to talk This talk aims to show how with good code we can better achieve what is already possible with Scala:\r\n",
+            "abstract": "Reduced complexity, enhanced productivity, robust programs. Such are the promises of Functional Programming. But is it automatic? Can we be sure that only by adopting a language like Scala our success is guaranteed?\nLet's revisit well known good practices, focusing on FP and in the Scala language.",
+            "audience_level": "Beginner",
+            "talk_format": "Short Talk (20 minutes)",
+            "tags": [
+                "Craftsmanship",
+                "good-practices",
+                "🇫🇷",
+                "🇬🇧"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Chetan Khatri",
+    "bio": "Chetan Khatri is working as a Lead - Technology at Accion labs, he has diverse experience in the field of Data Science and Machine learning. He is an open source contributor at Apache Spark, Apache HBase, Apache Spark - HBase Connector, Elixir Lang and many other open source projects. He has been authored curriculum of Artificial Intelligence, Data Science, Distributed computing at KSKV Kachchh University, Government of Gujarat - INDIA. He has delivered many talks at Apache HBaseConAsia 2018, HKOSCon18, FOSSASIA 2018, PyKutch 2016, Pycon India 2016.",
+    "twitter": "khatri_chetan",
+    "company": "Accion labs India Private Limited",
+    "url": "https://www.linkedin.com/in/chetkhatri",
+    "avatar": "https://secure.gravatar.com/avatar/4c0ea55b34c2b6f50c32024b750c7161?s=500",
+    "talks": [
+        {
+            "title": "Challenges that everyone struggles while productionizing Apache Spark workloads",
+            "description": "1. Primary data structures (RDD, DataSet, Dataframe)\r\n\r\n2. Pragmatic explanation - executors, cores, containers, stage, job, a task in Spark.\r\n\r\n3. Parallel read from JDBC: Challenges and best practices.\r\n\r\n4. Bulk Load API vs JDBC write\r\n\r\n5. An optimization strategy for Joins: SortMergeJoin vs BroadcastHashJoin\r\n\r\n6. Avoid unnecessary shuffle and use of coalesce, repartition, HashPartitioner with use cases. Impact on cache, Disk I/O, Leaking memory, Internal shuffle, spark executor, spark driver.\r\n\r\n7. What to do when spark default sort doesn’t work!, Alternatives.\r\n\r\n8. Why dropDuplicates() doesn’t result consistency, What is alternative.\r\n\r\n9. Optimize Spark stage generation plan: reduce unnecessary repetitive Actions.\r\n\r\n10. Predicate pushdown with partitioning and bucketing.\r\n\r\n11. Why not to use Scala Concurrent ‘Future’ explicitly with Spark jobs.\r\n",
+            "abstract": "Spark is a good tool for processing large amounts of data,but there are many pitfalls to avoid in order to build large scale systems in production,This talk will help you to understand kind of challenges you get,when you productionize Spark for TB’s of Data. With use cases and best practices.",
+            "audience_level": "All",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "distributed-data-processing",
+                "spark",
+                "scala",
+                "fast data",
+                "🇬🇧"
+            ]
+        }
+    ]
+}

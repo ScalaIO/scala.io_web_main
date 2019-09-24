@@ -1,0 +1,22 @@
+{
+    "name": "Philippe Hong",
+    "bio": "Data Engineer",
+    "twitter": "h_wki",
+    "company": "Univalence",
+    "url": "",
+    "avatar": "https://secure.gravatar.com/avatar/3d7a342018ef50955b9b244e4de37539?s=500",
+    "talks": [
+        {
+            "title": "Apprivoiser Spark avec ZIO",
+            "description": "Avec l'arrivée imminente de ZIO v1.0, intéressons-nous plus au nouveau paramètre de type R. Pour rappel, ZIO a trois paramètres de type : R, E et A avec E le type d'échec et A le type de succès de l'IO (ou la Task selon votre préférence). R est un type où nous pouvons passer un environnement, et une question ressort alors, est-il possible de mettre Spark dedans ? Cela nous permettrait de ne pas avoir des implicit de SparkSession partout, de wrapper les appels à des fonctions Spark à effet dans ZIO et aussi de pouvoir créer et utiliser des règles Scalafix intéressantes.\r\nDans ce talk, j'aimerais parler des précédents points ainsi qu'apporter un retour d'expérience sur le refactoring d'un projet existant avec ZIO ayant Spark pour environnement.",
+            "abstract": "ZIO est une bibliothèque Scala qui a un intérêt croissant, mais dont l'usage n'est pas encore très répandu. Ce n'est pourtant pas un outil difficile à utiliser et vous obtiendrez ensuite la pouvoir d'utiliser des for-comprehension partout avec un coulis de Spark.",
+            "audience_level": "Intermediate",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "effect-systems",
+                "distributed-data-processing",
+                "🇫🇷"
+            ]
+        }
+    ]
+}

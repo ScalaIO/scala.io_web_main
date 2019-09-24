@@ -1,0 +1,22 @@
+{
+    "name": "Wojtek Pituła",
+    "bio": "I solve problems, sometimes with code, if absolutely necessary. In a complicated relationship with Scala for over 4 years. Trying to make laziness an art.",
+    "twitter": "Krever01",
+    "company": "Sony Electornics",
+    "url": "https://w.pitula.me/",
+    "avatar": "http://pbs.twimg.com/profile_images/808294168330170368/lWnlkyAd.jpg",
+    "talks": [
+        {
+            "title": "Functional Frontend. Practical survival guide for backend engineers.",
+            "description": "Sometimes you just HAVE TO create a piece of web UI. To do that you need to leave the comfort of cozy functional backend development and deal with all the dangers of JS wildlife. But man's got to do what a man's got to do, so you start fighting and questions arise. WTH is npm, yarn, webpack and browserify? Should I use JS, TS, Scala. Elm or ReasonML? Angular, React or Vue? What tools play well together? So many questions and so little answers. Let's try to answer them from the perspective of someone who just wants to get things done and bury the memories.",
+            "abstract": "Sometimes, as a backend engineer, you just have to create a piece of web UI. Let's find a way to do this quickly, effectively, functionally and without wasting time on learning things you don't really need. I will share the minimal basics to make it possible.",
+            "audience_level": "Intermediate",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "functional programming",
+                "frontend",
+                "🇬🇧"
+            ]
+        }
+    ]
+}
