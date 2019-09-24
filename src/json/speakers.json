@@ -5,7 +5,7 @@
     },
     {
         "name": "Oli Makhasoeva",
-        "avatar": "https://pbs.twimg.com/profile_images/973043600085798912/KVRZo-SY.jpg"
+        "avatar": "https://scala.io/assets/images/speakers/oli-makhasoeva.jpg"
     },
     {
         "name": "Christophe Calvès",
@@ -29,11 +29,11 @@
     },
     {
         "name": "Nastasia Saby",
-        "avatar": "https://secure.gravatar.com/avatar/f1e09bf0b41e5559ff4623401378a1f8?s=500"
+        "avatar": "https://scala.io/assets/images/speakers/nastasia-saby.jpg"
     },
     {
         "name": "Philippe Hong",
-        "avatar": "https://secure.gravatar.com/avatar/3d7a342018ef50955b9b244e4de37539?s=500"
+        "avatar": "https://scala.io/assets/images/speakers/philippe-hong.jpg"
     },
     {
         "name": "Kévin Rauscher",
@@ -61,11 +61,11 @@
     },
     {
         "name": "Krzysztof Romanowski",
-        "avatar": "https://secure.gravatar.com/avatar/f944abd27c97f18a84192dfda8e19903?s=500"
+        "avatar": "https://scala.io/assets/images/speakers/krzysztof-romanowski.jpg"
     },
     {
         "name": "Harrison Cheng",
-        "avatar": "https://secure.gravatar.com/avatar/d939c82a31accb2df1c0e752f124212d?s=500"
+        "avatar": "https://scala.io/assets/images/speakers/harrison-cheng.jpg"
     },
     {
         "name": "Mayleen Lacouture",
@@ -81,11 +81,11 @@
     },
     {
         "name": "Wiem Zine Elabidine",
-        "avatar": "https://secure.gravatar.com/avatar/85564454d90062766e0d956d36f30162?s=500"
+        "avatar": "https://scala.io/assets/images/speakers/wiem-zine-elabidine.jpg"
     },
     {
         "name": "Menestret Martin",
-        "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/44432/moi.jpeg"
+        "avatar": "https://scala.io/assets/images/speakers/menestret-martin.jpg"
     },
     {
         "name": "Wojtek Pituła",
@@ -93,7 +93,7 @@
     },
     {
         "name": "TANKOUA Stéphane",
-        "avatar": "https://secure.gravatar.com/avatar/978c72020836f92ec03342253000f280?s=500"
+        "avatar": "https://scala.io/assets/images/speakers/tankoua-stephane.jpg"
     },
     {
         "name": "Caroline GAUDREAU",
@@ -117,7 +117,7 @@
     },
     {
         "name": "Xavier Tordoir",
-        "avatar": "https://secure.gravatar.com/avatar/f45f19c580c97062b3282d8cfec24863?s=500"
+        "avatar": "https://scala.io/assets/images/speakers/xavier-tordoir.jpg"
     },
     {
         "name": "Sergei Shabanau",
@@ -141,7 +141,7 @@
     },
     {
         "name": "Tomasz Godzik",
-        "avatar": "https://secure.gravatar.com/avatar/5eb68d1367935801d018e6618fffca91?s=500"
+        "avatar": "https://scala.io/assets/images/speakers/tomasz-godzik.jpg"
     },
     {
         "name": "Nicolas Rinaudo",
@@ -173,11 +173,11 @@
     },
     {
         "name": "Jon Pretty",
-        "avatar": "https://secure.gravatar.com/avatar/8cfd5a526d84b6fe7977e91ebbab43de?s=500"
+        "avatar": "https://scala.io/assets/images/speakers/jon-pretty.jpg"
     },
     {
         "name": "Aggelos Biboudis",
-        "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/51072/IMG_20190625_175946_333.jpg"
+        "avatar": "https://scala.io/assets/images/speakers/aggelos-biboudis.jpg"
     },
     {
         "name": "François Sarradin",
@@ -189,7 +189,7 @@
     },
     {
         "name": "Badr Baddou",
-        "avatar": "https://secure.gravatar.com/avatar/e1e8b25a51365494e66eaba3d142fdb4?s=500"
+        "avatar": "https://scala.io/assets/images/speakers/badr-baddou.jpg"
     },
     {
         "name": "Himanshu Arora",
@@ -205,7 +205,7 @@
     },
     {
         "name": "Nicolas SAVOIS",
-        "avatar": "https://secure.gravatar.com/avatar/d05933e204b2e21299876dd4be3221cf?s=500"
+        "avatar": "https://scala.io/assets/images/speakers/nicolas-savois.jpg"
     },
     {
         "name": "Mark Moore",
@@ -213,6 +213,6 @@
     },
     {
         "name": "Yassine MEHERZI",
-        "avatar": "https://secure.gravatar.com/avatar/ece07c4f644a1ec741c47c60913bfa48?s=500"
+        "avatar": "https://scala.io/assets/images/speakers/yassine-meherzi.jpg"
     }
 ]

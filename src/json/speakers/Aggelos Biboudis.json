@@ -4,7 +4,7 @@
     "twitter": "biboudis",
     "company": "EPFL",
     "url": "http://biboudis.github.io",
-    "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/51072/IMG_20190625_175946_333.jpg",
+    "avatar": "https://scala.io/assets/images/speakers/aggelos-biboudis.jpg",
     "talks": [
         {
             "title": "Safe Code Generation with Scala 3 Macros ",

@@ -34,7 +34,7 @@
             "twitter": "oli_kitty",
             "company": "",
             "url": "",
-            "avatar": "https://pbs.twimg.com/profile_images/973043600085798912/KVRZo-SY.jpg"
+            "avatar": "https://scala.io/assets/images/speakers/oli-makhasoeva.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -185,7 +185,7 @@
             "twitter": "saby_nastasia",
             "company": "Zenika",
             "url": "https://medium.zenika.com/@nastasia.saby",
-            "avatar": "https://secure.gravatar.com/avatar/f1e09bf0b41e5559ff4623401378a1f8?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/nastasia-saby.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -209,7 +209,7 @@
             "twitter": "h_wki",
             "company": "Univalence",
             "url": "",
-            "avatar": "https://secure.gravatar.com/avatar/3d7a342018ef50955b9b244e4de37539?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/philippe-hong.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -383,7 +383,7 @@
             "twitter": "RomanowskiKr",
             "company": "VirtusLab",
             "url": "",
-            "avatar": "https://secure.gravatar.com/avatar/f944abd27c97f18a84192dfda8e19903?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/krzysztof-romanowski.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -406,7 +406,7 @@
             "twitter": "",
             "company": "Univalence",
             "url": "",
-            "avatar": "https://secure.gravatar.com/avatar/d939c82a31accb2df1c0e752f124212d?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/harrison-cheng.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -510,7 +510,7 @@
             "twitter": "WiemZin",
             "company": "MOIA",
             "url": "https://medium.com/@wiemzin",
-            "avatar": "https://secure.gravatar.com/avatar/85564454d90062766e0d956d36f30162?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/wiem-zine-elabidine.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -537,7 +537,7 @@
             "twitter": "mmenestret",
             "company": "Ebiznext",
             "url": "http://geekocephale.com/blog/",
-            "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/44432/moi.jpeg"
+            "avatar": "https://scala.io/assets/images/speakers/menestret-martin.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -588,7 +588,7 @@
             "twitter": "stefshine",
             "company": "Fabernovel Technologies (formerly Zengularity)",
             "url": "https://github.com/stankoua",
-            "avatar": "https://secure.gravatar.com/avatar/978c72020836f92ec03342253000f280?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/tankoua-stephane.jpg"
         },
         "co_presenter_profiles": [
             {
@@ -732,7 +732,7 @@
             "twitter": "xtordoir",
             "company": "Lunatech",
             "url": "http://www.lunatech.com",
-            "avatar": "https://secure.gravatar.com/avatar/f45f19c580c97062b3282d8cfec24863?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/xavier-tordoir.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -885,7 +885,7 @@
             "twitter": "TomekGodzik",
             "company": "VirtusLab",
             "url": "https://github.com/tgodzik",
-            "avatar": "https://secure.gravatar.com/avatar/5eb68d1367935801d018e6618fffca91?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/tomasz-godzik.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -1064,7 +1064,7 @@
             "twitter": "propensive",
             "company": "Propensive",
             "url": "https://propensive.com/",
-            "avatar": "https://secure.gravatar.com/avatar/8cfd5a526d84b6fe7977e91ebbab43de?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/jon-pretty.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -1089,7 +1089,7 @@
             "twitter": "biboudis",
             "company": "EPFL",
             "url": "http://biboudis.github.io",
-            "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/51072/IMG_20190625_175946_333.jpg"
+            "avatar": "https://scala.io/assets/images/speakers/aggelos-biboudis.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -1166,7 +1166,7 @@
                 "twitter": "",
                 "company": "Zeenea",
                 "url": "",
-                "avatar": "https://secure.gravatar.com/avatar/e1e8b25a51365494e66eaba3d142fdb4?s=500"
+                "avatar": "https://scala.io/assets/images/speakers/badr-baddou.jpg"
             }
         ],
         "talk": {
@@ -1303,7 +1303,7 @@
             "twitter": "nicosavois",
             "company": "TalanLabs",
             "url": "https://savoisn.github.io/",
-            "avatar": "https://secure.gravatar.com/avatar/d05933e204b2e21299876dd4be3221cf?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/nicolas-savois.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -1355,7 +1355,7 @@
             "twitter": "yassine_meherzi",
             "company": "Société Générale",
             "url": "",
-            "avatar": "https://secure.gravatar.com/avatar/ece07c4f644a1ec741c47c60913bfa48?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/yassine-meherzi.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {

@@ -4,7 +4,7 @@
     "twitter": "h_wki",
     "company": "Univalence",
     "url": "",
-    "avatar": "https://secure.gravatar.com/avatar/3d7a342018ef50955b9b244e4de37539?s=500",
+    "avatar": "https://scala.io/assets/images/speakers/philippe-hong.jpg",
     "talks": [
         {
             "title": "Apprivoiser Spark avec ZIO",
