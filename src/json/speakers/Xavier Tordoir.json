@@ -17,6 +17,20 @@
                 "distributed-data-processing",
                 "🇬🇧"
             ]
+        },
+        {
+            "title": "Cas pratiques d'utilisation de Scala Tensorflow pour l'analyse d'images",
+            "description": "Nous commencerons par découvrir les concepts de base du Machine Learning appliqués à la détection d'objets dans des images. \r\nEnsuite, nous étudierons deux cas pratiques, à l'aide de l'API Tensorflow/Scala, en utilisant des modèles publiés et disponibles dans divers dépôts.\r\nNous verrons comment compléter cette détection avec une phase d'anonymisation par floutage des visages et plaques d'immatriculation.\r\nFinalement, nous découvrirons un algorithme permettant de suivre des objets à travers une vidéo et nous discuterons des projets OpenSource liés à ces exemples.",
+            "abstract": "Nous présentons l’utilisation de Tensorflow dans des applications d’analyse d’images et de vidéos en Scala. Nous exploitons des modèles de détection d’objets afin d'anonymiser des images et suivre des objets à travers une vidéo.",
+            "audience_level": "All",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "machine-deep-learning",
+                "scala",
+                "tensorflow",
+                "🇫🇷",
+                "deep-learning"
+            ]
         }
     ]
 }

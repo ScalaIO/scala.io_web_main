@@ -157,7 +157,7 @@
     },
     {
         "name": "Paul Leclercq",
-        "avatar": "https://secure.gravatar.com/avatar/4f385b067da90133f70632c6786e2370?s=500"
+        "avatar": "https://scala.io/assets/images/speakers/paul-leclercq.png"
     },
     {
         "name": "Ramiro Sarmiento Calle",
@@ -214,5 +214,17 @@
     {
         "name": "Yassine MEHERZI",
         "avatar": "https://scala.io/assets/images/speakers/yassine-meherzi.jpg"
+    },
+    {
+        "name": "Clément Bouillier",
+        "avatar": "https://scala.io/assets/images/speakers/clement-bouillier.jpg"
+    },
+    {
+        "name": "Olivier Blanvillain",
+        "avatar": "https://scala.io/assets/images/speakers/olivier-blanvillain.jpg"
+    },
+    {
+        "name": "Gaël Deest",
+        "avatar": "https://scala.io/assets/images/speakers/gael-deest.jpg"
     }
 ]
