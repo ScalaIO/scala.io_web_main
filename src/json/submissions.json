@@ -136,7 +136,7 @@
             "twitter": "dead_flowers22",
             "company": "Captify",
             "url": "https://www.linkedin.com/in/roksolanadiachuk/",
-            "avatar": "http://pbs.twimg.com/profile_images/1110105885572063234/sRne2mQp.jpg"
+            "avatar": "https://scala.io/assets/images/speakers/roksolana-diachuk.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -160,7 +160,7 @@
             "twitter": "guilgaly",
             "company": "Fabernovel",
             "url": "",
-            "avatar": "https://secure.gravatar.com/avatar/86bcbfd795cb64ac0a5f10c6ff64758c?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/guillaume-galy.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -316,7 +316,7 @@
             "twitter": "Koisell",
             "company": "mediarithmics",
             "url": "",
-            "avatar": "https://secure.gravatar.com/avatar/60ce696d34afb6224f06ca29cae9098e?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/nicolas-francois.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -440,7 +440,7 @@
             "twitter": "",
             "company": "iAdvize",
             "url": "",
-            "avatar": "https://secure.gravatar.com/avatar/1aafc331573ff54d4cc411c4fc40d7a4?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/mayleen-lacouture.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -468,7 +468,7 @@
             "twitter": "",
             "company": "Sqooba AG",
             "url": "",
-            "avatar": "https://secure.gravatar.com/avatar/585aef3f94c7e63f4df5f71fa0a890a9?s=500"
+            "avatar": "https://scala.io/assets/images/speakers/julien-perro.png"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -491,7 +491,7 @@
             "twitter": "unyagami",
             "company": "S4N",
             "url": "http://s4n.co/",
-            "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/19934/jd.jpg"
+            "avatar": "https://scala.io/assets/images/speakers/jeferson-david-ossa.png"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -961,11 +961,11 @@
             "twitter": "fanf42",
             "company": "rudder.io",
             "url": "https://medium.com/@fanf42/",
-            "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/48592/moi.png"
+            "avatar": "https://scala.io/assets/images/speakers/francois-armand.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
-            "title": "On a porté Rudder sur ZIO - Stratégie de gestion d’erreurs dans une application complexe",
+            "title": "On a porté Rudder sur ZIO - Gestion systématique des erreurs dans vos applications",
             "description": "Cette présentation vous montrera ce que nous avons appris lors de la migration de Rudder, une application Scala vieille de 10 ans et forte de 100 000 lignes de code, pas du tout développée en programmation fonctionnelle pure (pas de Tagless Final ni de Free Monad, par exemple), à ZIO.\r\n\r\nBien sûr, je présenterai rapidement ZIO, mais en me concentrant sur la partie qui a motivé l’utilisation de ce framework révolutionnaire dans Rudder: comment gère-t-on des erreurs dans une application complexe, et plus particulièrement une application serveur en Scala ?\r\nNous en profiterons pour aborder des questions que l'on se pose régulièrement en tant que développeurs: quelle est la différence entre erreurs et défauts  ? Est-ce que toutes les parties d’une application, ou même différentes applications réagissent de la même façon à la même erreur ? Et d’ailleurs, nous gérons les erreurs pour qui ? Nous-mêmes, les dev ? Les ops ? Les utilisateurs finaux ?\r\n\r\nEt nous verrons finalement, parce que c’est tout de même le point original de cette présentation comment ZIO peut vous aider à mieux\r\ngérer les erreurs dans vos applications, et quelles sont les bonnes pratiques à mettre en place afin que ZIO puisse réellement vous aider, sans boilerplate ?\r\n",
             "abstract": "\"Notre métier de développeur consiste essentiellement à anticiper et gérer les cas non nominaux d'une application”.\nCet état d’esprit est central dans le développement de Rudder et c’est aussi la source d'un bon nombre de nos choix techniques, dont le dernier en date: ZIO. Je vous explique pourquoi",
             "audience_level": "All",
@@ -1171,7 +1171,7 @@
             "twitter": "unyagami",
             "company": "S4N",
             "url": "http://s4n.co/",
-            "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/19934/jd.jpg"
+            "avatar": "https://scala.io/assets/images/speakers/jeferson-david-ossa.png"
         },
         "co_presenter_profiles": [],
         "talk": {
