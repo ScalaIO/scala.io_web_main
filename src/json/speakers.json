@@ -226,5 +226,9 @@
     {
         "name": "Gaël Deest",
         "avatar": "https://scala.io/assets/images/speakers/gael-deest.jpg"
+    },
+    {
+        "name": "Vladimir Bodnartchouk",
+        "avatar": "https://scala.io/assets/images/speakers/vladimir-bodnartchouk.jpg"
     }
 ]

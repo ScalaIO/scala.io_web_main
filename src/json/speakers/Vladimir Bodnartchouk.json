@@ -1,0 +1,23 @@
+{
+    "name": "Vladimir Bodnartchouk",
+    "bio": "Java/Scala software engineer. In the past i was the founding member and shareholder of the ActiveEon company. Involved in presales and support for English, Russian and French customers. Numerous years of experience in object-oriented and multi-threaded programming has given me my skills in the design of distributed applications such as the ProActive Scheduler, an open-source middleware that distributes workload across machines in heterogeneous environments.",
+    "twitter": "",
+    "company": "Lunatech",
+    "url": "",
+    "avatar": "http://pbs.twimg.com/profile_images/851826092017102848/IWADAAIC.jpg",
+    "talks": [
+        {
+            "title": "Introduction à Tensorflow en Scala",
+            "description": "Tensorflow s'impose comme une librairie incontournable de deep learning, avec ses applications à l'intelligence artificielle. Tensorflow a l'avantage d'être interfaçable avec différents languages et est orienté vers la mise en production. Son utilisation en Scala est donc assez naturelle. \r\nLe but du workshop est de permettre aux participants de comprendre comment Tensorflow fonctionne (son mode d'exécution et les concepts de base) et d'introduire les modèles utilisés dans la reconnaissance d'image. Le deep-learning est introduit graduellement jusqu'à utiliser des modèles complexes développés et publiés par des équipes de recherche. L'environnement de travail est interactif pour les participants avec le Jupyter notebook en Scala. Les sujets couverts sont:\r\n\r\n- Tensorflow et Machine Learning\r\n- Programmation interactive: Scala dans Jupyter\r\n- Tenseurs, opérateurs, graphe de calcul et sessions Tensorflow\r\n- Analyse d'image: Modèle linéaire et MLP avec exercices pratiques\r\n- Deep networks et bibliothèques de modèles pré-entraînés avec exercices pratiques\r\n- Prediction dans un service akka-http \r\n- Exemple de composition de sous-graphes: anonymisation d'images\r\n- Exemple interactif de tracking video",
+            "abstract": "Ce workshop est une introduction à Tensorflow se basant sur l'API Scala. Les concepts de Machine Learning appliqués à la reconnaissance d'images sont introduits avec des exemples interactifs. L'apprentissage couvre aussi bien l'API et concepts de Tensorflow que la Data Science.",
+            "audience_level": "All",
+            "talk_format": "Workshop (3 hours)",
+            "tags": [
+                "tensorflow",
+                "ML",
+                "akka-http",
+                "scala"
+            ]
+        }
+    ]
+}
