@@ -230,5 +230,21 @@
     {
         "name": "Vladimir Bodnartchouk",
         "avatar": "https://scala.io/assets/images/speakers/vladimir-bodnartchouk.jpg"
+    },
+    {
+        "name": "Cédric Cousseran",
+        "avatar": "https://scala.io/assets/images/speakers/cedric-cousseran.jpg"
+    },
+    {
+        "name": "Thomas Petillot",
+        "avatar": "https://scala.io/assets/images/speakers/thomas-petillot.jpg"
+    },
+    {
+        "name": "Jean Helou",
+        "avatar": "https://pbs.twimg.com/profile_images/553218752930521089/lleATW5J.jpeg"
+    },
+    {
+        "name": "Daniel Lovera",
+        "avatar": "https://pbs.twimg.com/profile_images/925731902337765377/CdJxQeYb.jpg"
     }
 ]

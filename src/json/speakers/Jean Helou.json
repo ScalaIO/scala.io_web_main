@@ -1,0 +1,21 @@
+{
+    "name": "Jean Helou",
+    "bio": "Scala enthousiast, http://scala.io  organizer, software craftsman with a focus on software engineering and automatisation",
+    "twitter": "jeanhelou",
+    "company": "Yupwego",
+    "url": "blog.byjean.eu",
+    "avatar": "https://pbs.twimg.com/profile_images/553218752930521089/lleATW5J.jpeg",
+    "talks": [
+        {
+            "title": "Dans s'cas là",
+            "description": "Lors de cet atelier, nous vous proposons de revenir sur des fondamentaux de Scala en nous intéressant tout particulièrement aux case class, au Pattern Matching, et pour finir aux Collections. L’atelier sera organisé autour d’exercices, mettant en jeu ces différentes notions et leurs subtilités.\n\nPas besoin de connaître les monades, monoïde ou autres, des connaissances en Java vous suffiront !",
+            "abstract": "Lors de cet atelier, nous vous proposons de revenir sur des fondamentaux de Scala en nous intéressant tout particulièrement aux case class, au Pattern Matching, et pour finir aux Collections. L’atelier sera organisé autour d’exercices, mettant en jeu ces différentes notions et leurs subtilités.\n\nPas besoin de connaître les monades, monoïde ou autres, des connaissances en Java vous suffiront !",
+            "audience_level": "All",
+            "talk_format": "Workshop (3 hours)",
+            "tags": [
+                "Learning Scala",
+                "🇫🇷"
+            ]
+        }
+    ]
+}

@@ -1410,5 +1410,70 @@
             "audience_level": "All",
             "talk_format": "Short Talk (20 minutes)"
         }
+    },
+    {
+        "id": 10002,
+        "tags": [
+            "Load testing",
+            "Gatling",
+            "🇫🇷"
+        ],
+        "profile": {
+            "name": "Cédric Cousseran",
+            "bio": "Full Stack Developer",
+            "twitter": "",
+            "company": "Gatling",
+            "url": "",
+            "avatar": "https://scala.io/assets/images/speakers/cedric-cousseran.jpg"
+        },
+        "co_presenter_profiles": [
+            {
+                "name": "Thomas Petillot",
+                "bio": "Full Stack Developer",
+                "twitter": "",
+                "company": "Gatling",
+                "url": "",
+                "avatar": "https://scala.io/assets/images/speakers/thomas-petillot.jpg"
+            }
+        ],
+        "talk": {
+            "title": "Comment faire des tests de charge avec Gatling",
+            "description": "Découvrez la problématique des tests de charge, et apprenez à la résoudre en Scala avec l’outil Open-Source Gatling",
+            "abstract": "Découvrez la problématique des tests de charge, et apprenez à la résoudre en Scala avec l’outil Open-Source Gatling",
+            "audience_level": "All",
+            "talk_format": "Workshop (3 hours)"
+        }
+    },
+    {
+        "id": 10003,
+        "tags": [
+            "Learning Scala",
+            "🇫🇷"
+        ],
+        "profile": {
+            "name": "Jean Helou",
+            "bio": "Scala enthousiast, http://scala.io  organizer, software craftsman with a focus on software engineering and automatisation",
+            "twitter": "jeanhelou",
+            "company": "Yupwego",
+            "url": "blog.byjean.eu",
+            "avatar": "https://pbs.twimg.com/profile_images/553218752930521089/lleATW5J.jpeg"
+        },
+        "co_presenter_profiles": [
+            {
+                "name": "Daniel Lovera",
+                "bio": "Software Architect, passionate about software engineering. ScalaIO co-organizer since 2016, I'm mostly working with Java and actually have no idea what I'm doing here.",
+                "twitter": "dan_lovera",
+                "company": "Dawex",
+                "url": "https://www.dawex.com",
+                "avatar": "https://pbs.twimg.com/profile_images/925731902337765377/CdJxQeYb.jpg"
+            }
+        ],
+        "talk": {
+            "title": "Dans s'cas là",
+            "description": "Lors de cet atelier, nous vous proposons de revenir sur des fondamentaux de Scala en nous intéressant tout particulièrement aux case class, au Pattern Matching, et pour finir aux Collections. L’atelier sera organisé autour d’exercices, mettant en jeu ces différentes notions et leurs subtilités.\n\nPas besoin de connaître les monades, monoïde ou autres, des connaissances en Java vous suffiront !",
+            "abstract": "Lors de cet atelier, nous vous proposons de revenir sur des fondamentaux de Scala en nous intéressant tout particulièrement aux case class, au Pattern Matching, et pour finir aux Collections. L’atelier sera organisé autour d’exercices, mettant en jeu ces différentes notions et leurs subtilités.\n\nPas besoin de connaître les monades, monoïde ou autres, des connaissances en Java vous suffiront !",
+            "audience_level": "All",
+            "talk_format": "Workshop (3 hours)"
+        }
     }
 ]
