@@ -4,7 +4,7 @@
     "twitter": "xtordoir",
     "company": "Lunatech",
     "url": "http://www.lunatech.com",
-    "avatar": "https://scala.io/assets/images/speakers/xavier-tordoir.jpg",
+    "avatar": "/assets/images/speakers/xavier-tordoir.jpg",
     "talks": [
         {
             "title": "Introduction to Spark in the context of a Distributed Pipeline",

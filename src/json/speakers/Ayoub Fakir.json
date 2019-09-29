@@ -4,7 +4,7 @@
     "twitter": "FakirSAyoub",
     "company": "Voodoo",
     "url": "https://www.linkedin.com/in/afakir/",
-    "avatar": "https://scala.io/assets/images/speakers/ayoub-fakir.jpg",
+    "avatar": "/assets/images/speakers/ayoub-fakir.jpg",
     "talks": [
         {
             "title": "Breaking the entry barriers: making the scary keywords accessible.",

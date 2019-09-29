@@ -4,7 +4,7 @@
     "twitter": "stefshine",
     "company": "Fabernovel Technologies (formerly Zengularity)",
     "url": "https://github.com/stankoua",
-    "avatar": "https://scala.io/assets/images/speakers/tankoua-stephane.jpg",
+    "avatar": "/assets/images/speakers/tankoua-stephane.jpg",
     "talks": [
         {
             "title": "GADTs by use-cases in Scala",

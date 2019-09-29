@@ -4,7 +4,7 @@
     "twitter": "guilgaly",
     "company": "Fabernovel",
     "url": "",
-    "avatar": "https://scala.io/assets/images/speakers/guillaume-galy.jpg",
+    "avatar": "/assets/images/speakers/guillaume-galy.jpg",
     "talks": [
         {
             "title": "A live-coding introduction to Mill: finally a build tool we can all understand!",

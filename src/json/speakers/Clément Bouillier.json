@@ -4,7 +4,7 @@
     "twitter": "",
     "company": "",
     "url": "",
-    "avatar": "https://scala.io/assets/images/speakers/clement-bouillier.jpg",
+    "avatar": "/assets/images/speakers/clement-bouillier.jpg",
     "talks": [
         {
             "title": "Introduction au T(ype)DD avec F# et web app réactive avec Fable.io",

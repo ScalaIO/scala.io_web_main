@@ -4,7 +4,7 @@
     "twitter": "LECLERCQ",
     "company": "1991",
     "url": "",
-    "avatar": "https://scala.io/assets/images/speakers/paul-leclercq.png",
+    "avatar": "/assets/images/speakers/paul-leclercq.png",
     "talks": [
         {
             "title": "Prête moi ton Scala, je te l’échange contre de la Data",

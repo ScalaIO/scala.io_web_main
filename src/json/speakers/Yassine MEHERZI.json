@@ -4,7 +4,7 @@
     "twitter": "yassine_meherzi",
     "company": "Société Générale",
     "url": "",
-    "avatar": "https://scala.io/assets/images/speakers/yassine-meherzi.jpg",
+    "avatar": "/assets/images/speakers/yassine-meherzi.jpg",
     "talks": [
         {
             "title": "λ-Calculus : A Brief History of Functional Programming",

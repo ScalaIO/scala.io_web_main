@@ -4,7 +4,7 @@
     "twitter": "",
     "company": "iAdvize",
     "url": "",
-    "avatar": "https://scala.io/assets/images/speakers/mayleen-lacouture.jpg",
+    "avatar": "/assets/images/speakers/mayleen-lacouture.jpg",
     "talks": [
         {
             "title": "En route to better code",

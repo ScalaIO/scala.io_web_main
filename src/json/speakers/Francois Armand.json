@@ -4,7 +4,7 @@
     "twitter": "fanf42",
     "company": "rudder.io",
     "url": "https://medium.com/@fanf42/",
-    "avatar": "https://scala.io/assets/images/speakers/francois-armand.jpg",
+    "avatar": "/assets/images/speakers/francois-armand.jpg",
     "talks": [
         {
             "title": "On a porté Rudder sur ZIO - Gestion systématique des erreurs dans vos applications",

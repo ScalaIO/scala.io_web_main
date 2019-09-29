@@ -4,7 +4,7 @@
     "twitter": "",
     "company": "Zeenea",
     "url": "",
-    "avatar": "https://scala.io/assets/images/speakers/badr-baddou.jpg",
+    "avatar": "/assets/images/speakers/badr-baddou.jpg",
     "talks": [
         {
             "title": "Scala bad practices ou comment garder son emploi à vie",

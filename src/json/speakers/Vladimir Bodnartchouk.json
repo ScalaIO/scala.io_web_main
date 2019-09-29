@@ -4,7 +4,7 @@
     "twitter": "",
     "company": "Lunatech",
     "url": "",
-    "avatar": "https://scala.io/assets/images/speakers/vladimir-bodnartchouk.jpg",
+    "avatar": "/assets/images/speakers/vladimir-bodnartchouk.jpg",
     "talks": [
         {
             "title": "Introduction à Tensorflow en Scala",

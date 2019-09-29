@@ -4,7 +4,7 @@
     "twitter": "",
     "company": "",
     "url": "",
-    "avatar": "https://scala.io/assets/images/speakers/gael-deest.jpg",
+    "avatar": "/assets/images/speakers/gael-deest.jpg",
     "talks": [
         {
             "title": "Haskell Space Invaders",

@@ -4,7 +4,7 @@
     "twitter": "unyagami",
     "company": "S4N",
     "url": "http://s4n.co/",
-    "avatar": "https://scala.io/assets/images/speakers/jeferson-david-ossa.png",
+    "avatar": "/assets/images/speakers/jeferson-david-ossa.png",
     "talks": [
         {
             "title": "Exploring Scala Tooling ecosystem",

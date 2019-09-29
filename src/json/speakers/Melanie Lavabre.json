@@ -4,7 +4,7 @@
     "twitter": "febroshka",
     "company": "Tabmo",
     "url": "",
-    "avatar": "https://scala.io/assets/images/speakers/melanie-lavabre.jpg",
+    "avatar": "/assets/images/speakers/melanie-lavabre.jpg",
     "talks": [
         {
             "title": "Prête moi ton Scala, je te l’échange contre de la Data",

@@ -1,11 +1,11 @@
 [
     {
         "name": "Daniela Sfregola",
-        "avatar": "https://scala.io/assets/images/speakers/daniela-sfregola.jpg"
+        "avatar": "/assets/images/speakers/daniela-sfregola.jpg"
     },
     {
         "name": "Oli Makhasoeva",
-        "avatar": "https://scala.io/assets/images/speakers/oli-makhasoeva.jpg"
+        "avatar": "/assets/images/speakers/oli-makhasoeva.jpg"
     },
     {
         "name": "Christophe Calvès",
@@ -21,19 +21,19 @@
     },
     {
         "name": "Roksolana Diachuk",
-        "avatar": "https://scala.io/assets/images/speakers/roksolana-diachuk.jpg"
+        "avatar": "/assets/images/speakers/roksolana-diachuk.jpg"
     },
     {
         "name": "Guillaume Galy",
-        "avatar": "https://scala.io/assets/images/speakers/guillaume-galy.jpg"
+        "avatar": "/assets/images/speakers/guillaume-galy.jpg"
     },
     {
         "name": "Nastasia Saby",
-        "avatar": "https://scala.io/assets/images/speakers/nastasia-saby.jpg"
+        "avatar": "/assets/images/speakers/nastasia-saby.jpg"
     },
     {
         "name": "Philippe Hong",
-        "avatar": "https://scala.io/assets/images/speakers/philippe-hong.jpg"
+        "avatar": "/assets/images/speakers/philippe-hong.jpg"
     },
     {
         "name": "Kévin Rauscher",
@@ -41,7 +41,7 @@
     },
     {
         "name": "Ayoub Fakir",
-        "avatar": "https://scala.io/assets/images/speakers/ayoub-fakir.jpg"
+        "avatar": "/assets/images/speakers/ayoub-fakir.jpg"
     },
     {
         "name": "Vincent Brule",
@@ -49,7 +49,7 @@
     },
     {
         "name": "Nicolas Francois",
-        "avatar": "https://scala.io/assets/images/speakers/nicolas-francois.jpg"
+        "avatar": "/assets/images/speakers/nicolas-francois.jpg"
     },
     {
         "name": "Chetan Khatri",
@@ -61,31 +61,31 @@
     },
     {
         "name": "Krzysztof Romanowski",
-        "avatar": "https://scala.io/assets/images/speakers/krzysztof-romanowski.jpg"
+        "avatar": "/assets/images/speakers/krzysztof-romanowski.jpg"
     },
     {
         "name": "Harrison Cheng",
-        "avatar": "https://scala.io/assets/images/speakers/harrison-cheng.jpg"
+        "avatar": "/assets/images/speakers/harrison-cheng.jpg"
     },
     {
         "name": "Mayleen Lacouture",
-        "avatar": "https://scala.io/assets/images/speakers/mayleen-lacouture.jpg"
+        "avatar": "/assets/images/speakers/mayleen-lacouture.jpg"
     },
     {
         "name": "Julien Perro",
-        "avatar": "https://scala.io/assets/images/speakers/julien-perro.png"
+        "avatar": "assets/images/speakers/julien-perro.png"
     },
     {
         "name": "Jeferson David Ossa",
-        "avatar": "https://scala.io/assets/images/speakers/jeferson-david-ossa.png"
+        "avatar": "assets/images/speakers/jeferson-david-ossa.png"
     },
     {
         "name": "Wiem Zine Elabidine",
-        "avatar": "https://scala.io/assets/images/speakers/wiem-zine-elabidine.jpg"
+        "avatar": "assets/images/speakers/wiem-zine-elabidine.jpg"
     },
     {
         "name": "Martin Menestret",
-        "avatar": "https://scala.io/assets/images/speakers/martin-menestret.jpg"
+        "avatar": "assets/images/speakers/martin-menestret.jpg"
     },
     {
         "name": "Wojtek Pituła",
@@ -93,7 +93,7 @@
     },
     {
         "name": "TANKOUA Stéphane",
-        "avatar": "https://scala.io/assets/images/speakers/tankoua-stephane.jpg"
+        "avatar": "/assets/images/speakers/tankoua-stephane.jpg"
     },
     {
         "name": "Caroline GAUDREAU",
@@ -113,11 +113,11 @@
     },
     {
         "name": "Florent PELLET",
-        "avatar": "https://scala.io/assets/images/speakers/florent-pellet.jpg"
+        "avatar": "/assets/images/speakers/florent-pellet.jpg"
     },
     {
         "name": "Xavier Tordoir",
-        "avatar": "https://scala.io/assets/images/speakers/xavier-tordoir.jpg"
+        "avatar": "/assets/images/speakers/xavier-tordoir.jpg"
     },
     {
         "name": "Sergei Shabanau",
@@ -141,7 +141,7 @@
     },
     {
         "name": "Tomasz Godzik",
-        "avatar": "https://scala.io/assets/images/speakers/tomasz-godzik.jpg"
+        "avatar": "/assets/images/speakers/tomasz-godzik.jpg"
     },
     {
         "name": "Nicolas Rinaudo",
@@ -149,15 +149,15 @@
     },
     {
         "name": "Francois Armand",
-        "avatar": "https://scala.io/assets/images/speakers/francois-armand.jpg"
+        "avatar": "/assets/images/speakers/francois-armand.jpg"
     },
     {
         "name": "Melanie Lavabre",
-        "avatar": "https://scala.io/assets/images/speakers/melanie-lavabre.jpg"
+        "avatar": "/assets/images/speakers/melanie-lavabre.jpg"
     },
     {
         "name": "Paul Leclercq",
-        "avatar": "https://scala.io/assets/images/speakers/paul-leclercq.png"
+        "avatar": "/assets/images/speakers/paul-leclercq.png"
     },
     {
         "name": "Ramiro Sarmiento Calle",
@@ -165,7 +165,7 @@
     },
     {
         "name": "Mohamad Kassir",
-        "avatar": "https://scala.io/assets/images/speakers/mohamad-kassir.jpg"
+        "avatar": "/assets/images/speakers/mohamad-kassir.jpg"
     },
     {
         "name": "Francois Laroche",
@@ -173,11 +173,11 @@
     },
     {
         "name": "Jon Pretty",
-        "avatar": "https://scala.io/assets/images/speakers/jon-pretty.jpg"
+        "avatar": "/assets/images/speakers/jon-pretty.jpg"
     },
     {
         "name": "Aggelos Biboudis",
-        "avatar": "https://scala.io/assets/images/speakers/aggelos-biboudis.jpg"
+        "avatar": "/assets/images/speakers/aggelos-biboudis.jpg"
     },
     {
         "name": "François Sarradin",
@@ -189,7 +189,7 @@
     },
     {
         "name": "Badr Baddou",
-        "avatar": "https://scala.io/assets/images/speakers/badr-baddou.jpg"
+        "avatar": "/assets/images/speakers/badr-baddou.jpg"
     },
     {
         "name": "Himanshu Arora",
@@ -205,7 +205,7 @@
     },
     {
         "name": "Nicolas SAVOIS",
-        "avatar": "https://scala.io/assets/images/speakers/nicolas-savois.jpg"
+        "avatar": "/assets/images/speakers/nicolas-savois.jpg"
     },
     {
         "name": "Mark Moore",
@@ -213,31 +213,31 @@
     },
     {
         "name": "Yassine MEHERZI",
-        "avatar": "https://scala.io/assets/images/speakers/yassine-meherzi.jpg"
+        "avatar": "/assets/images/speakers/yassine-meherzi.jpg"
     },
     {
         "name": "Clément Bouillier",
-        "avatar": "https://scala.io/assets/images/speakers/clement-bouillier.jpg"
+        "avatar": "/assets/images/speakers/clement-bouillier.jpg"
     },
     {
         "name": "Olivier Blanvillain",
-        "avatar": "https://scala.io/assets/images/speakers/olivier-blanvillain.jpg"
+        "avatar": "/assets/images/speakers/olivier-blanvillain.jpg"
     },
     {
         "name": "Gaël Deest",
-        "avatar": "https://scala.io/assets/images/speakers/gael-deest.jpg"
+        "avatar": "/assets/images/speakers/gael-deest.jpg"
     },
     {
         "name": "Vladimir Bodnartchouk",
-        "avatar": "https://scala.io/assets/images/speakers/vladimir-bodnartchouk.jpg"
+        "avatar": "/assets/images/speakers/vladimir-bodnartchouk.jpg"
     },
     {
         "name": "Cédric Cousseran",
-        "avatar": "https://scala.io/assets/images/speakers/cedric-cousseran.jpg"
+        "avatar": "/assets/images/speakers/cedric-cousseran.jpg"
     },
     {
         "name": "Thomas Petillot",
-        "avatar": "https://scala.io/assets/images/speakers/thomas-petillot.jpg"
+        "avatar": "/assets/images/speakers/thomas-petillot.jpg"
     },
     {
         "name": "Jean Helou",

@@ -4,7 +4,7 @@
     "twitter": "",
     "company": "Gatling",
     "url": "",
-    "avatar": "https://scala.io/assets/images/speakers/thomas-petillot.jpg",
+    "avatar": "/assets/images/speakers/thomas-petillot.jpg",
     "talks": [
         {
             "title": "Comment faire des tests de charge avec Gatling",

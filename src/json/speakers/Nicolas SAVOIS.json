@@ -4,7 +4,7 @@
     "twitter": "nicosavois",
     "company": "TalanLabs",
     "url": "https://savoisn.github.io/",
-    "avatar": "https://scala.io/assets/images/speakers/nicolas-savois.jpg",
+    "avatar": "/assets/images/speakers/nicolas-savois.jpg",
     "talks": [
         {
             "title": "Using the Actor Pattern in Elixir",

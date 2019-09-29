@@ -4,7 +4,7 @@
     "twitter": "mmenestret",
     "company": "Ebiznext",
     "url": "http://geekocephale.com/blog/",
-    "avatar": "https://scala.io/assets/images/speakers/martin-menestret.jpg",
+    "avatar": "/assets/images/speakers/martin-menestret.jpg",
     "talks": [
         {
             "title": "Functeurs, en theorie et en pratique !",

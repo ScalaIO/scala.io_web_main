@@ -4,7 +4,7 @@
     "twitter": "",
     "company": "Sqooba AG",
     "url": "",
-    "avatar": "https://scala.io/assets/images/speakers/julien-perro.png",
+    "avatar": "/assets/images/speakers/julien-perro.png",
     "talks": [
         {
             "title": "Everything is a time-series. Where are the corresponding abstractions? How to (almost) hide away a heterogeneous reality.",

@@ -4,7 +4,7 @@
     "twitter": "",
     "company": "",
     "url": "",
-    "avatar": "https://scala.io/assets/images/speakers/olivier-blanvillain.jpg",
+    "avatar": "/assets/images/speakers/olivier-blanvillain.jpg",
     "talks": [
         {
             "title": "Safe Code Generation with Scala 3 Macros ",

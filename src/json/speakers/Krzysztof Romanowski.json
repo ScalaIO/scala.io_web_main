@@ -4,7 +4,7 @@
     "twitter": "RomanowskiKr",
     "company": "VirtusLab",
     "url": "",
-    "avatar": "https://scala.io/assets/images/speakers/krzysztof-romanowski.jpg",
+    "avatar": "/assets/images/speakers/krzysztof-romanowski.jpg",
     "talks": [
         {
             "title": "Context Buddy: the tool that knows your code better than you",

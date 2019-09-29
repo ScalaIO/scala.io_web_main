@@ -4,7 +4,7 @@
     "twitter": "TomekGodzik",
     "company": "VirtusLab",
     "url": "https://github.com/tgodzik",
-    "avatar": "https://scala.io/assets/images/speakers/tomasz-godzik.jpg",
+    "avatar": "/assets/images/speakers/tomasz-godzik.jpg",
     "talks": [
         {
             "title": "Metals - your next IDE? ",

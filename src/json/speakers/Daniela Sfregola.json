@@ -4,7 +4,7 @@
     "twitter": "DanielaSfregola",
     "company": "",
     "url": "",
-    "avatar": "https://scala.io/assets/images/speakers/daniela-sfregola.jpg",
+    "avatar": "/assets/images/speakers/daniela-sfregola.jpg",
     "talks": [
         {
             "title": "FP: The Good, the Bad and the Ugly",
