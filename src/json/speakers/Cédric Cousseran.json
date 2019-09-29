@@ -1,0 +1,22 @@
+{
+    "name": "Cédric Cousseran",
+    "bio": "Full Stack Developer",
+    "twitter": "",
+    "company": "Gatling",
+    "url": "",
+    "avatar": "https://scala.io/assets/images/speakers/thomas-petillot.jpg",
+    "talks": [
+        {
+            "title": "Comment faire des tests de charge avec Gatling",
+            "description": "Découvrez la problématique des tests de charge, et apprenez à la résoudre en Scala avec l’outil Open-Source Gatling",
+            "abstract": "Découvrez la problématique des tests de charge, et apprenez à la résoudre en Scala avec l’outil Open-Source Gatling",
+            "audience_level": "All",
+            "talk_format": "Workshop (3 hours)",
+            "tags": [
+                "Load testing",
+                "Gatling",
+                "🇫🇷"
+            ]
+        }
+    ]
+}

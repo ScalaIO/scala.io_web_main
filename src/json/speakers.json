@@ -21,11 +21,11 @@
     },
     {
         "name": "Roksolana Diachuk",
-        "avatar": "http://pbs.twimg.com/profile_images/1110105885572063234/sRne2mQp.jpg"
+        "avatar": "https://scala.io/assets/images/speakers/roksolana-diachuk.jpg"
     },
     {
         "name": "Guillaume Galy",
-        "avatar": "https://secure.gravatar.com/avatar/86bcbfd795cb64ac0a5f10c6ff64758c?s=500"
+        "avatar": "https://scala.io/assets/images/speakers/guillaume-galy.jpg"
     },
     {
         "name": "Nastasia Saby",
@@ -49,7 +49,7 @@
     },
     {
         "name": "Nicolas Francois",
-        "avatar": "https://secure.gravatar.com/avatar/60ce696d34afb6224f06ca29cae9098e?s=500"
+        "avatar": "https://scala.io/assets/images/speakers/nicolas-francois.jpg"
     },
     {
         "name": "Chetan Khatri",
@@ -69,23 +69,23 @@
     },
     {
         "name": "Mayleen Lacouture",
-        "avatar": "https://secure.gravatar.com/avatar/1aafc331573ff54d4cc411c4fc40d7a4?s=500"
+        "avatar": "https://scala.io/assets/images/speakers/mayleen-lacouture.jpg"
     },
     {
         "name": "Julien Perro",
-        "avatar": "https://secure.gravatar.com/avatar/585aef3f94c7e63f4df5f71fa0a890a9?s=500"
+        "avatar": "https://scala.io/assets/images/speakers/julien-perro.png"
     },
     {
         "name": "Jeferson David Ossa",
-        "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/19934/jd.jpg"
+        "avatar": "https://scala.io/assets/images/speakers/jeferson-david-ossa.png"
     },
     {
         "name": "Wiem Zine Elabidine",
         "avatar": "https://scala.io/assets/images/speakers/wiem-zine-elabidine.jpg"
     },
     {
-        "name": "Menestret Martin",
-        "avatar": "https://scala.io/assets/images/speakers/menestret-martin.jpg"
+        "name": "Martin Menestret",
+        "avatar": "https://scala.io/assets/images/speakers/martin-menestret.jpg"
     },
     {
         "name": "Wojtek Pituła",
@@ -149,7 +149,7 @@
     },
     {
         "name": "Francois Armand",
-        "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/48592/moi.png"
+        "avatar": "https://scala.io/assets/images/speakers/francois-armand.jpg"
     },
     {
         "name": "Melanie Lavabre",
@@ -226,5 +226,25 @@
     {
         "name": "Gaël Deest",
         "avatar": "https://scala.io/assets/images/speakers/gael-deest.jpg"
+    },
+    {
+        "name": "Vladimir Bodnartchouk",
+        "avatar": "https://scala.io/assets/images/speakers/vladimir-bodnartchouk.jpg"
+    },
+    {
+        "name": "Cédric Cousseran",
+        "avatar": "https://scala.io/assets/images/speakers/cedric-cousseran.jpg"
+    },
+    {
+        "name": "Thomas Petillot",
+        "avatar": "https://scala.io/assets/images/speakers/thomas-petillot.jpg"
+    },
+    {
+        "name": "Jean Helou",
+        "avatar": "https://pbs.twimg.com/profile_images/553218752930521089/lleATW5J.jpeg"
+    },
+    {
+        "name": "Daniel Lovera",
+        "avatar": "https://pbs.twimg.com/profile_images/925731902337765377/CdJxQeYb.jpg"
     }
 ]

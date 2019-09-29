@@ -4,7 +4,7 @@
     "twitter": "Koisell",
     "company": "mediarithmics",
     "url": "",
-    "avatar": "https://secure.gravatar.com/avatar/60ce696d34afb6224f06ca29cae9098e?s=500",
+    "avatar": "https://scala.io/assets/images/speakers/nicolas-francois.jpg",
     "talks": [
         {
             "title": "Cats Retry 101",

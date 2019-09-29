@@ -1,0 +1,21 @@
+{
+    "name": "Daniel Lovera",
+    "bio": "Software Architect, passionate about software engineering. ScalaIO co-organizer since 2016, I'm mostly working with Java and actually have no idea what I'm doing here.",
+    "twitter": "dan_lovera",
+    "company": "Dawex",
+    "url": "https://www.dawex.com",
+    "avatar": "https://pbs.twimg.com/profile_images/925731902337765377/CdJxQeYb.jpg",
+    "talks": [
+        {
+            "title": "Dans s'cas là",
+            "description": "Lors de cet atelier, nous vous proposons de revenir sur des fondamentaux de Scala en nous intéressant tout particulièrement aux case class, au Pattern Matching, et pour finir aux Collections. L’atelier sera organisé autour d’exercices, mettant en jeu ces différentes notions et leurs subtilités.\n\nPas besoin de connaître les monades, monoïde ou autres, des connaissances en Java vous suffiront !",
+            "abstract": "Lors de cet atelier, nous vous proposons de revenir sur des fondamentaux de Scala en nous intéressant tout particulièrement aux case class, au Pattern Matching, et pour finir aux Collections. L’atelier sera organisé autour d’exercices, mettant en jeu ces différentes notions et leurs subtilités.\n\nPas besoin de connaître les monades, monoïde ou autres, des connaissances en Java vous suffiront !",
+            "audience_level": "All",
+            "talk_format": "Workshop (3 hours)",
+            "tags": [
+                "Learning Scala",
+                "🇫🇷"
+            ]
+        }
+    ]
+}
