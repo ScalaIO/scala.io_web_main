@@ -31,6 +31,8 @@ silver:
     url: https://technologies.fabernovel.com/
   - name: kaizen
     url: https://kaizen-solutions.net
+  - name: gatling
+    url: https://gatling.io/
  # - name: carbonit
  #   url: http://carbon-it.fr/
  # - name: colisweb
