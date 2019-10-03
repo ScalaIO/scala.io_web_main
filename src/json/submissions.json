@@ -11,7 +11,7 @@
             "twitter": "DanielaSfregola",
             "company": "",
             "url": "",
-            "avatar": "https://scala.io/assets/images/speakers/daniela-sfregola.jpg"
+            "avatar": "/assets/images/speakers/daniela-sfregola.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -34,7 +34,7 @@
             "twitter": "oli_kitty",
             "company": "",
             "url": "",
-            "avatar": "https://scala.io/assets/images/speakers/oli-makhasoeva.jpg"
+            "avatar": "/assets/images/speakers/oli-makhasoeva.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -136,7 +136,7 @@
             "twitter": "dead_flowers22",
             "company": "Captify",
             "url": "https://www.linkedin.com/in/roksolanadiachuk/",
-            "avatar": "https://scala.io/assets/images/speakers/roksolana-diachuk.jpg"
+            "avatar": "/assets/images/speakers/roksolana-diachuk.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -160,7 +160,7 @@
             "twitter": "guilgaly",
             "company": "Fabernovel",
             "url": "",
-            "avatar": "https://scala.io/assets/images/speakers/guillaume-galy.jpg"
+            "avatar": "/assets/images/speakers/guillaume-galy.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -185,7 +185,7 @@
             "twitter": "saby_nastasia",
             "company": "Zenika",
             "url": "https://medium.zenika.com/@nastasia.saby",
-            "avatar": "https://scala.io/assets/images/speakers/nastasia-saby.jpg"
+            "avatar": "/assets/images/speakers/nastasia-saby.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -209,7 +209,7 @@
             "twitter": "h_wki",
             "company": "Univalence",
             "url": "",
-            "avatar": "https://scala.io/assets/images/speakers/philippe-hong.jpg"
+            "avatar": "/assets/images/speakers/philippe-hong.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -257,7 +257,7 @@
             "twitter": "FakirSAyoub",
             "company": "Voodoo",
             "url": "https://www.linkedin.com/in/afakir/",
-            "avatar": "https://scala.io/assets/images/speakers/ayoub-fakir.jpg"
+            "avatar": "/assets/images/speakers/ayoub-fakir.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -292,7 +292,7 @@
                 "twitter": "xtordoir",
                 "company": "Lunatech",
                 "url": "http://www.lunatech.com",
-                "avatar": "https://scala.io/assets/images/speakers/xavier-tordoir.jpg"
+                "avatar": "/assets/images/speakers/xavier-tordoir.jpg"
             }
         ],
         "talk": {
@@ -316,7 +316,7 @@
             "twitter": "Koisell",
             "company": "mediarithmics",
             "url": "",
-            "avatar": "https://scala.io/assets/images/speakers/nicolas-francois.jpg"
+            "avatar": "/assets/images/speakers/nicolas-francois.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -392,7 +392,7 @@
             "twitter": "RomanowskiKr",
             "company": "VirtusLab",
             "url": "",
-            "avatar": "https://scala.io/assets/images/speakers/krzysztof-romanowski.jpg"
+            "avatar": "/assets/images/speakers/krzysztof-romanowski.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -415,7 +415,7 @@
             "twitter": "",
             "company": "Univalence",
             "url": "",
-            "avatar": "https://scala.io/assets/images/speakers/harrison-cheng.jpg"
+            "avatar": "/assets/images/speakers/harrison-cheng.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -440,7 +440,7 @@
             "twitter": "",
             "company": "iAdvize",
             "url": "",
-            "avatar": "https://scala.io/assets/images/speakers/mayleen-lacouture.jpg"
+            "avatar": "/assets/images/speakers/mayleen-lacouture.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -468,7 +468,7 @@
             "twitter": "",
             "company": "Sqooba AG",
             "url": "",
-            "avatar": "https://scala.io/assets/images/speakers/julien-perro.png"
+            "avatar": "/assets/images/speakers/julien-perro.png"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -491,7 +491,7 @@
             "twitter": "unyagami",
             "company": "S4N",
             "url": "http://s4n.co/",
-            "avatar": "https://scala.io/assets/images/speakers/jeferson-david-ossa.png"
+            "avatar": "/assets/images/speakers/jeferson-david-ossa.png"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -519,7 +519,7 @@
             "twitter": "WiemZin",
             "company": "MOIA",
             "url": "https://medium.com/@wiemzin",
-            "avatar": "https://scala.io/assets/images/speakers/wiem-zine-elabidine.jpg"
+            "avatar": "/assets/images/speakers/wiem-zine-elabidine.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -546,7 +546,7 @@
             "twitter": "mmenestret",
             "company": "Ebiznext",
             "url": "http://geekocephale.com/blog/",
-            "avatar": "https://scala.io/assets/images/speakers/martin-menestret.jpg"
+            "avatar": "/assets/images/speakers/martin-menestret.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -597,7 +597,7 @@
             "twitter": "stefshine",
             "company": "Fabernovel Technologies (formerly Zengularity)",
             "url": "https://github.com/stankoua",
-            "avatar": "https://scala.io/assets/images/speakers/tankoua-stephane.jpg"
+            "avatar": "/assets/images/speakers/tankoua-stephane.jpg"
         },
         "co_presenter_profiles": [
             {
@@ -641,7 +641,7 @@
                 "twitter": "",
                 "company": "",
                 "url": "",
-                "avatar": "https://scala.io/assets/images/speakers/gael-deest.jpg"
+                "avatar": "/assets/images/speakers/gael-deest.jpg"
             }
         ],
         "talk": {
@@ -709,7 +709,7 @@
                 "twitter": "",
                 "company": "Lunatech",
                 "url": "",
-                "avatar": "https://scala.io/assets/images/speakers/vladimir-bodnartchouk.jpg"
+                "avatar": "/assets/images/speakers/vladimir-bodnartchouk.jpg"
             }
         ],
         "talk": {
@@ -735,7 +735,7 @@
             "twitter": "florentpellet",
             "company": "KickBanking",
             "url": "https://www.florentpellet.fr/",
-            "avatar": "https://scala.io/assets/images/speakers/florent-pellet.jpg"
+            "avatar": "/assets/images/speakers/florent-pellet.jpg"
         },
         "co_presenter_profiles": [
             {
@@ -744,7 +744,7 @@
                 "twitter": "",
                 "company": "",
                 "url": "",
-                "avatar": "https://scala.io/assets/images/speakers/clement-bouillier.jpg"
+                "avatar": "/assets/images/speakers/clement-bouillier.jpg"
             }
         ],
         "talk": {
@@ -768,7 +768,7 @@
             "twitter": "xtordoir",
             "company": "Lunatech",
             "url": "http://www.lunatech.com",
-            "avatar": "https://scala.io/assets/images/speakers/xavier-tordoir.jpg"
+            "avatar": "/assets/images/speakers/xavier-tordoir.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -921,7 +921,7 @@
             "twitter": "TomekGodzik",
             "company": "VirtusLab",
             "url": "https://github.com/tgodzik",
-            "avatar": "https://scala.io/assets/images/speakers/tomasz-godzik.jpg"
+            "avatar": "/assets/images/speakers/tomasz-godzik.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -970,7 +970,7 @@
             "twitter": "fanf42",
             "company": "rudder.io",
             "url": "https://medium.com/@fanf42/",
-            "avatar": "https://scala.io/assets/images/speakers/francois-armand.jpg"
+            "avatar": "/assets/images/speakers/francois-armand.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -996,7 +996,7 @@
             "twitter": "febroshka",
             "company": "Tabmo",
             "url": "",
-            "avatar": "https://scala.io/assets/images/speakers/melanie-lavabre.jpg"
+            "avatar": "/assets/images/speakers/melanie-lavabre.jpg"
         },
         "co_presenter_profiles": [
             {
@@ -1005,7 +1005,7 @@
                 "twitter": "LECLERCQ",
                 "company": "1991",
                 "url": "",
-                "avatar": "https://scala.io/assets/images/speakers/paul-leclercq.png"
+                "avatar": "/assets/images/speakers/paul-leclercq.png"
             }
         ],
         "talk": {
@@ -1054,7 +1054,7 @@
             "twitter": "_mhdkassir",
             "company": "Ebiznext",
             "url": "",
-            "avatar": "https://scala.io/assets/images/speakers/mohamad-kassir.jpg"
+            "avatar": "/assets/images/speakers/mohamad-kassir.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -1100,7 +1100,7 @@
             "twitter": "propensive",
             "company": "Propensive",
             "url": "https://propensive.com/",
-            "avatar": "https://scala.io/assets/images/speakers/jon-pretty.jpg"
+            "avatar": "/assets/images/speakers/jon-pretty.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -1125,7 +1125,7 @@
             "twitter": "biboudis",
             "company": "EPFL",
             "url": "http://biboudis.github.io",
-            "avatar": "https://scala.io/assets/images/speakers/aggelos-biboudis.jpg"
+            "avatar": "/assets/images/speakers/aggelos-biboudis.jpg"
         },
         "co_presenter_profiles": [
             {
@@ -1134,7 +1134,7 @@
                 "twitter": "",
                 "company": "",
                 "url": "",
-                "avatar": "https://scala.io/assets/images/speakers/olivier-blanvillain.jpg"
+                "avatar": "/assets/images/speakers/olivier-blanvillain.jpg"
             }
         ],
         "talk": {
@@ -1180,7 +1180,7 @@
             "twitter": "unyagami",
             "company": "S4N",
             "url": "http://s4n.co/",
-            "avatar": "https://scala.io/assets/images/speakers/jeferson-david-ossa.png"
+            "avatar": "/assets/images/speakers/jeferson-david-ossa.png"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -1211,7 +1211,7 @@
                 "twitter": "",
                 "company": "Zeenea",
                 "url": "",
-                "avatar": "https://scala.io/assets/images/speakers/badr-baddou.jpg"
+                "avatar": "/assets/images/speakers/badr-baddou.jpg"
             }
         ],
         "talk": {
@@ -1348,7 +1348,7 @@
             "twitter": "nicosavois",
             "company": "TalanLabs",
             "url": "https://savoisn.github.io/",
-            "avatar": "https://scala.io/assets/images/speakers/nicolas-savois.jpg"
+            "avatar": "/assets/images/speakers/nicolas-savois.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -1400,7 +1400,7 @@
             "twitter": "yassine_meherzi",
             "company": "Société Générale",
             "url": "",
-            "avatar": "https://scala.io/assets/images/speakers/yassine-meherzi.jpg"
+            "avatar": "/assets/images/speakers/yassine-meherzi.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -1424,7 +1424,7 @@
             "twitter": "",
             "company": "Gatling",
             "url": "",
-            "avatar": "https://scala.io/assets/images/speakers/cedric-cousseran.jpg"
+            "avatar": "/assets/images/speakers/cedric-cousseran.jpg"
         },
         "co_presenter_profiles": [
             {
@@ -1433,7 +1433,7 @@
                 "twitter": "",
                 "company": "Gatling",
                 "url": "",
-                "avatar": "https://scala.io/assets/images/speakers/thomas-petillot.jpg"
+                "avatar": "/assets/images/speakers/thomas-petillot.jpg"
             }
         ],
         "talk": {
