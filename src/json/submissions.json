@@ -11,7 +11,7 @@
             "twitter": "DanielaSfregola",
             "company": "",
             "url": "",
-            "avatar": "https://scala.io/assets/images/speakers/daniela-sfregola.jpg"
+            "avatar": "/assets/images/speakers/daniela-sfregola.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -34,7 +34,7 @@
             "twitter": "oli_kitty",
             "company": "",
             "url": "",
-            "avatar": "https://scala.io/assets/images/speakers/oli-makhasoeva.jpg"
+            "avatar": "/assets/images/speakers/oli-makhasoeva.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -136,7 +136,7 @@
             "twitter": "dead_flowers22",
             "company": "Captify",
             "url": "https://www.linkedin.com/in/roksolanadiachuk/",
-            "avatar": "https://scala.io/assets/images/speakers/roksolana-diachuk.jpg"
+            "avatar": "/assets/images/speakers/roksolana-diachuk.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -160,7 +160,7 @@
             "twitter": "guilgaly",
             "company": "Fabernovel",
             "url": "",
-            "avatar": "https://scala.io/assets/images/speakers/guillaume-galy.jpg"
+            "avatar": "/assets/images/speakers/guillaume-galy.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -185,7 +185,7 @@
             "twitter": "saby_nastasia",
             "company": "Zenika",
             "url": "https://medium.zenika.com/@nastasia.saby",
-            "avatar": "https://scala.io/assets/images/speakers/nastasia-saby.jpg"
+            "avatar": "/assets/images/speakers/nastasia-saby.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -209,7 +209,7 @@
             "twitter": "h_wki",
             "company": "Univalence",
             "url": "",
-            "avatar": "https://scala.io/assets/images/speakers/philippe-hong.jpg"
+            "avatar": "/assets/images/speakers/philippe-hong.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -257,7 +257,7 @@
             "twitter": "FakirSAyoub",
             "company": "Voodoo",
             "url": "https://www.linkedin.com/in/afakir/",
-            "avatar": "https://scala.io/assets/images/speakers/ayoub-fakir.jpg"
+            "avatar": "/assets/images/speakers/ayoub-fakir.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -292,7 +292,7 @@
                 "twitter": "xtordoir",
                 "company": "Lunatech",
                 "url": "http://www.lunatech.com",
-                "avatar": "https://scala.io/assets/images/speakers/xavier-tordoir.jpg"
+                "avatar": "/assets/images/speakers/xavier-tordoir.jpg"
             }
         ],
         "talk": {
@@ -316,7 +316,7 @@
             "twitter": "Koisell",
             "company": "mediarithmics",
             "url": "",
-            "avatar": "https://scala.io/assets/images/speakers/nicolas-francois.jpg"
+            "avatar": "/assets/images/speakers/nicolas-francois.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -392,7 +392,7 @@
             "twitter": "RomanowskiKr",
             "company": "VirtusLab",
             "url": "",
-            "avatar": "https://scala.io/assets/images/speakers/krzysztof-romanowski.jpg"
+            "avatar": "/assets/images/speakers/krzysztof-romanowski.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -415,14 +415,14 @@
             "twitter": "",
             "company": "Univalence",
             "url": "",
-            "avatar": "https://scala.io/assets/images/speakers/harrison-cheng.jpg"
+            "avatar": "/assets/images/speakers/harrison-cheng.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
             "title": "Des tests Spark simples et efficaces avec Spark-Test",
             "description": "Les tests unitaires, bien que primordiaux, sont dans la plupart des cas très peu exploités. Spark tout particulièrement ne fournit pas directement d'outils de test. Chaque membre d'une équipe se retrouve ainsi à utiliser sa propre pratique des tests unitaires (c'est-à-dire parfois, rien !), ce qui amène différentes approches de tests dans le projet et donc à une hétérogénéité dans le code.\r\nDans ce talk, nous allons d'abord voir les raisons qui nous ont poussés à créer la librairie Spark-Test. Puis, nous verrons les différentes features de celle-ci, comme l'égalité entre deux dataframes donnant plus de détails sur l'échec des tests.",
             "abstract": "Vous voulez mettre en place des tests Spark en comparant Dataframe/Dataset ? Les erreurs et exceptions ne vous fournissent pas assez de détails en cas d'échec ? Ce talk a pour but de vous faire découvrir Spark-Test, une lib dont l'objectif est d'améliorer et d'encourager la création de tests Spark.",
-            "audience_level": "Intermediate",
+            "audience_level": "Beginner",
             "talk_format": "Short Talk (20 minutes)"
         }
     },
@@ -440,7 +440,7 @@
             "twitter": "",
             "company": "iAdvize",
             "url": "",
-            "avatar": "https://scala.io/assets/images/speakers/mayleen-lacouture.jpg"
+            "avatar": "/assets/images/speakers/mayleen-lacouture.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -468,7 +468,7 @@
             "twitter": "",
             "company": "Sqooba AG",
             "url": "",
-            "avatar": "https://scala.io/assets/images/speakers/julien-perro.png"
+            "avatar": "/assets/images/speakers/julien-perro.png"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -491,7 +491,7 @@
             "twitter": "unyagami",
             "company": "S4N",
             "url": "http://s4n.co/",
-            "avatar": "https://scala.io/assets/images/speakers/jeferson-david-ossa.png"
+            "avatar": "/assets/images/speakers/jeferson-david-ossa.png"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -519,7 +519,7 @@
             "twitter": "WiemZin",
             "company": "MOIA",
             "url": "https://medium.com/@wiemzin",
-            "avatar": "https://scala.io/assets/images/speakers/wiem-zine-elabidine.jpg"
+            "avatar": "/assets/images/speakers/wiem-zine-elabidine.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -546,12 +546,12 @@
             "twitter": "mmenestret",
             "company": "Ebiznext",
             "url": "http://geekocephale.com/blog/",
-            "avatar": "https://scala.io/assets/images/speakers/martin-menestret.jpg"
+            "avatar": "/assets/images/speakers/martin-menestret.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
             "title": "Functeurs, en theorie et en pratique !",
-            "description": "L'idée de ce talk est de faire en parallèle entre la théorie et la pratique et montrer comment les 2 aspects se rejoignent.\r\n\r\n# Intuition\r\n\r\n- Je donnerai des exemples afin de faire toucher du doigt une intuition et un pattern commun\r\n- Nous verrons comment ce pattern, cette abstraction, est encodée en Scala\r\n\r\n# Theorie\r\n\r\n- J'expliquerai progressivement pourquoi les foncteurs sont définis comme un mapping entre deux catégories\r\n    - En expliquant ce qu'est une catégorie et la théorie des catégories\r\n    - En montrant le rapport entre la programmation fonctionnelle en Scala et la théorie des catégories\r\n    - En expliquant ce qu'est un mapping entre deux catégories et les impacts dans en programmation fonctionnelle\r\n\r\n# Pratique\r\n\r\n- Nous résumerons ce que nous apporte les foncteurs dans notre pratique au quotidien\r\n\r\n# Conclusion\r\n\r\nMerci beaucoup !",
+            "description": "Nous allons faire le parallèle entre la théorie et la pratique et montrer comment les 2 aspects se rejoignent ! Je donnerai des exemples afin de donner une intuition de ce que sont les foncteurs puis nous verrons comment cette abstraction est encodée en Scala. Nous verrons pourquoi, en théorie des catégories, les foncteurs sont un mapping entre deux catégories en expliquant les bases de la théorie des catégories. Puis le rapport entre la programmation fonctionnelle en Scala et la théorie des catégories en expliquant ce qu’est un mapping entre deux catégories et les impacts dans notre code du quotidien. Enfin résumerons ce que nous apportent les foncteurs dans notre pratique au quotidien, leur limitations et les réponses à ces limitations.",
             "abstract": "Les foncteurs... au delà d'un factoïd pour briller en société, que sont-ils ?\nIls représentent un concept central de la programmation fonctionnelle, nous verrons ce qu'ils sont en pratique mais également leurs racines théoriques en théorie de catégories puis comment les deux mondes se rejoignent !",
             "audience_level": "Beginner",
             "talk_format": "Talk (45 minutes)"
@@ -597,7 +597,7 @@
             "twitter": "stefshine",
             "company": "Fabernovel Technologies (formerly Zengularity)",
             "url": "https://github.com/stankoua",
-            "avatar": "https://scala.io/assets/images/speakers/tankoua-stephane.jpg"
+            "avatar": "/assets/images/speakers/tankoua-stephane.jpg"
         },
         "co_presenter_profiles": [
             {
@@ -641,7 +641,7 @@
                 "twitter": "",
                 "company": "",
                 "url": "",
-                "avatar": "https://scala.io/assets/images/speakers/gael-deest.jpg"
+                "avatar": "/assets/images/speakers/gael-deest.jpg"
             }
         ],
         "talk": {
@@ -709,7 +709,7 @@
                 "twitter": "",
                 "company": "Lunatech",
                 "url": "",
-                "avatar": "https://scala.io/assets/images/speakers/vladimir-bodnartchouk.jpg"
+                "avatar": "/assets/images/speakers/vladimir-bodnartchouk.jpg"
             }
         ],
         "talk": {
@@ -735,7 +735,7 @@
             "twitter": "florentpellet",
             "company": "KickBanking",
             "url": "https://www.florentpellet.fr/",
-            "avatar": "https://scala.io/assets/images/speakers/florent-pellet.jpg"
+            "avatar": "/assets/images/speakers/florent-pellet.jpg"
         },
         "co_presenter_profiles": [
             {
@@ -744,7 +744,7 @@
                 "twitter": "",
                 "company": "",
                 "url": "",
-                "avatar": "https://scala.io/assets/images/speakers/clement-bouillier.jpg"
+                "avatar": "/assets/images/speakers/clement-bouillier.jpg"
             }
         ],
         "talk": {
@@ -768,9 +768,18 @@
             "twitter": "xtordoir",
             "company": "Lunatech",
             "url": "http://www.lunatech.com",
-            "avatar": "https://scala.io/assets/images/speakers/xavier-tordoir.jpg"
+            "avatar": "/assets/images/speakers/xavier-tordoir.jpg"
         },
-        "co_presenter_profiles": [],
+        "co_presenter_profiles": [
+            {
+                "name": "Maria Dominguez",
+                "bio": "Maria is a developer at Lunatech Labs in the Netherlands, where she works with Scala. These days she is having fun with the SMACK stack and IoT. She believes that knowledge sharing make us grow faster, so she enjoys giving and attending workshops and talks.",
+                "twitter": "",
+                "company": "Lunatech",
+                "url": "http://www.lunatech.com",
+                "avatar": "/assets/images/speakers/maria-dominguez.jpg"
+            }
+        ],
         "talk": {
             "title": "Introduction to Spark in the context of a Distributed Pipeline",
             "description": "Scala is the prime language for distributed computing. Scala developers benefit from gaining expertise in BigData and Data Science frameworks, the goal of this session is to kick-start newcomers to these topics. \r\nThe workshop is structured in such a way that the different components of Spark are introduced and used to build a single complete data pipeline, from data collection to serving Machine learning models. We use historical and streaming cryptocurrency price data as a use case. The training covers the following topics:\r\n\r\n- Distributed computing and storage\r\n- Dataframes and Datasets for batch processing, data cleaning\r\n- Working with parquet files, importance of schemas\r\n- Simple ML: training and saving models, ML Pipelines\r\n- Streaming data, collectors and publishing to Kafka\r\n- Spark and Kafka integration\r\n- Predictions with ML models on a data stream\r\n",
@@ -921,7 +930,7 @@
             "twitter": "TomekGodzik",
             "company": "VirtusLab",
             "url": "https://github.com/tgodzik",
-            "avatar": "https://scala.io/assets/images/speakers/tomasz-godzik.jpg"
+            "avatar": "/assets/images/speakers/tomasz-godzik.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -970,7 +979,7 @@
             "twitter": "fanf42",
             "company": "rudder.io",
             "url": "https://medium.com/@fanf42/",
-            "avatar": "https://scala.io/assets/images/speakers/francois-armand.jpg"
+            "avatar": "/assets/images/speakers/francois-armand.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -996,7 +1005,7 @@
             "twitter": "febroshka",
             "company": "Tabmo",
             "url": "",
-            "avatar": "https://scala.io/assets/images/speakers/melanie-lavabre.jpg"
+            "avatar": "/assets/images/speakers/melanie-lavabre.jpg"
         },
         "co_presenter_profiles": [
             {
@@ -1005,7 +1014,7 @@
                 "twitter": "LECLERCQ",
                 "company": "1991",
                 "url": "",
-                "avatar": "https://scala.io/assets/images/speakers/paul-leclercq.png"
+                "avatar": "/assets/images/speakers/paul-leclercq.png"
             }
         ],
         "talk": {
@@ -1054,7 +1063,7 @@
             "twitter": "_mhdkassir",
             "company": "Ebiznext",
             "url": "",
-            "avatar": "https://scala.io/assets/images/speakers/mohamad-kassir.jpg"
+            "avatar": "/assets/images/speakers/mohamad-kassir.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -1100,7 +1109,7 @@
             "twitter": "propensive",
             "company": "Propensive",
             "url": "https://propensive.com/",
-            "avatar": "https://scala.io/assets/images/speakers/jon-pretty.jpg"
+            "avatar": "/assets/images/speakers/jon-pretty.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -1125,7 +1134,7 @@
             "twitter": "biboudis",
             "company": "EPFL",
             "url": "http://biboudis.github.io",
-            "avatar": "https://scala.io/assets/images/speakers/aggelos-biboudis.jpg"
+            "avatar": "/assets/images/speakers/aggelos-biboudis.jpg"
         },
         "co_presenter_profiles": [
             {
@@ -1134,7 +1143,7 @@
                 "twitter": "",
                 "company": "",
                 "url": "",
-                "avatar": "https://scala.io/assets/images/speakers/olivier-blanvillain.jpg"
+                "avatar": "/assets/images/speakers/olivier-blanvillain.jpg"
             }
         ],
         "talk": {
@@ -1180,7 +1189,7 @@
             "twitter": "unyagami",
             "company": "S4N",
             "url": "http://s4n.co/",
-            "avatar": "https://scala.io/assets/images/speakers/jeferson-david-ossa.png"
+            "avatar": "/assets/images/speakers/jeferson-david-ossa.png"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -1211,7 +1220,7 @@
                 "twitter": "",
                 "company": "Zeenea",
                 "url": "",
-                "avatar": "https://scala.io/assets/images/speakers/badr-baddou.jpg"
+                "avatar": "/assets/images/speakers/badr-baddou.jpg"
             }
         ],
         "talk": {
@@ -1348,7 +1357,7 @@
             "twitter": "nicosavois",
             "company": "TalanLabs",
             "url": "https://savoisn.github.io/",
-            "avatar": "https://scala.io/assets/images/speakers/nicolas-savois.jpg"
+            "avatar": "/assets/images/speakers/nicolas-savois.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -1400,7 +1409,7 @@
             "twitter": "yassine_meherzi",
             "company": "Société Générale",
             "url": "",
-            "avatar": "https://scala.io/assets/images/speakers/yassine-meherzi.jpg"
+            "avatar": "/assets/images/speakers/yassine-meherzi.jpg"
         },
         "co_presenter_profiles": [],
         "talk": {
@@ -1424,7 +1433,7 @@
             "twitter": "",
             "company": "Gatling",
             "url": "",
-            "avatar": "https://scala.io/assets/images/speakers/cedric-cousseran.jpg"
+            "avatar": "/assets/images/speakers/cedric-cousseran.jpg"
         },
         "co_presenter_profiles": [
             {
@@ -1433,7 +1442,7 @@
                 "twitter": "",
                 "company": "Gatling",
                 "url": "",
-                "avatar": "https://scala.io/assets/images/speakers/thomas-petillot.jpg"
+                "avatar": "/assets/images/speakers/thomas-petillot.jpg"
             }
         ],
         "talk": {
