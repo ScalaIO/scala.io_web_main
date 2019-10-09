@@ -1,0 +1,20 @@
+{
+    "name": "Aleksandra A Holubitska",
+    "bio": "",
+    "twitter": "Oleksandra_A",
+    "company": "",
+    "url": "",
+    "avatar": "/assets/images/speakers/aleksandra-holubitska.jpg",
+    "talks": [
+        {
+            "title": "ZIO Chunk: A Fast, Pure Alternative to Arrays",
+            "description": "Arrays are fast and don’t box primitive values, but due to class tag requirements and mutability, they are painful to use and don’t integrate well into functional code. In this presentation, Aleksandra A Holubitska introduces the audience to Chunk, a data type in ZIO that’s designed to be friendly to use, immutable, and high-performance. Learn more about how you can replace usage of arrays in your application with this new high-performance data type that powers ZIO Streams and other libraries in the ZIO ecosystem.",
+            "abstract": "Arrays are fast and don’t box primitive values, but due to class tag requirements and mutability, they are painful to use and don’t integrate well into functional code. In this presentation, Aleksandra A Holubitska introduces the audience to Chunk, a data type in ZIO that’s designed to be friendly to use, immutable, and high-performance. Learn more about how you can replace usage of arrays in your application with this new high-performance data type that powers ZIO Streams and other libraries in the ZIO ecosystem.",
+            "audience_level": "All",
+            "talk_format": "Talk (45 minutes)",
+            "tags": [
+                "🇬🇧"
+            ]
+        }
+    ]
+}
