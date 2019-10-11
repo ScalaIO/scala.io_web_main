@@ -33,6 +33,8 @@ silver:
     url: https://kaizen-solutions.net
   - name: gatling
     url: https://gatling.io/
+  - name: clevercloud
+    url: https://www.clever-cloud.com/
  # - name: carbonit
  #   url: http://carbon-it.fr/
  # - name: colisweb
