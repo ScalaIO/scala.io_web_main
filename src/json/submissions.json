@@ -1232,33 +1232,6 @@
         }
     },
     {
-        "id": 87574,
-        "tags": [
-            "scala",
-            "kotlin",
-            "functional programming",
-            "fp",
-            "jvm",
-            "🇬🇧"
-        ],
-        "profile": {
-            "name": "John Ⓐ De Goes",
-            "bio": "A mathematician by training but a software engineer by vocation, John A. De Goes has been professionally writing software for more than 25 years. John has contributed to dozens of open source projects written in functional programming languages, including ZIO, a library for asynchronous and concurrent programming in functional Scala. In addition to speaking at Strata, OSCON, BigData TechCon, NEScala, ScalaWorld, Scala IO, flatMap, Scalar Conf, LambdaConf, and many other conferences, John also published a variety of books on programming. Currently, John consults at De Goes Consulting, a consultancy committed to solving hard business problems using the power of pure functional programming.",
-            "twitter": "jdegoes",
-            "company": "De Goes Consulting",
-            "url": "http://degoes.net",
-            "avatar": "https://secure.gravatar.com/avatar/6fbccc0537949767c52dfc210003ec9d?s=500"
-        },
-        "co_presenter_profiles": [],
-        "talk": {
-            "title": "Scala vs Kotlin",
-            "description": "Kotlin is perhaps the fastest growing language in the history of the JVM, and seems poised to take increasing market share from Java. Kotlin combines a variety of new language features, cross-platform support, and an emphasis on tooling to deliver a compelling package for many commercial software developers.\r\n\r\nIn this presentation, you'll get a chance to learn what all the hype is about, as you explore the Kotlin language, tooling, libraries, and community, all from the perspective of a Scala developer. Learn how Kotlin stacks up against Scala, and in which situations you might choose Kotlin, and which others you might choose Scala.",
-            "abstract": "Kotlin's meteoric rise has sent shock waves through the JVM ecosystem, and left many teams scrambling to figure out which language to use in which situation. Bring popcorn to watch as Scala and Kotlin battle it out in an epic clash—covering language, tooling, libraries, and community!",
-            "audience_level": "All",
-            "talk_format": "Talk (45 minutes)"
-        }
-    },
-    {
         "id": 81919,
         "tags": [
             "distributed-data-processing",
@@ -1483,6 +1456,28 @@
             "abstract": "Lors de cet atelier, nous vous proposons de revenir sur des fondamentaux de Scala en nous intéressant tout particulièrement aux case class, au Pattern Matching, et pour finir aux Collections. L’atelier sera organisé autour d’exercices, mettant en jeu ces différentes notions et leurs subtilités.\n\nPas besoin de connaître les monades, monoïde ou autres, des connaissances en Java vous suffiront !",
             "audience_level": "All",
             "talk_format": "Workshop (3 hours)"
+        }
+    },
+    {
+        "id": 10004,
+        "tags": [
+            "🇬🇧"
+        ],
+        "profile": {
+            "name": "Aleksandra A Holubitska",
+            "bio": "",
+            "twitter": "Oleksandra_A",
+            "company": "",
+            "url": "",
+            "avatar": "/assets/images/speakers/aleksandra-holubitska.jpg"
+        },
+        "co_presenter_profiles": [],
+        "talk": {
+            "title": "ZIO Chunk: A Fast, Pure Alternative to Arrays",
+            "description": "Arrays are fast and don’t box primitive values, but due to class tag requirements and mutability, they are painful to use and don’t integrate well into functional code. In this presentation, Aleksandra A Holubitska introduces the audience to Chunk, a data type in ZIO that’s designed to be friendly to use, immutable, and high-performance. Learn more about how you can replace usage of arrays in your application with this new high-performance data type that powers ZIO Streams and other libraries in the ZIO ecosystem.",
+            "abstract": "Arrays are fast and don’t box primitive values, but due to class tag requirements and mutability, they are painful to use and don’t integrate well into functional code. In this presentation, Aleksandra A Holubitska introduces the audience to Chunk, a data type in ZIO that’s designed to be friendly to use, immutable, and high-performance. Learn more about how you can replace usage of arrays in your application with this new high-performance data type that powers ZIO Streams and other libraries in the ZIO ecosystem.",
+            "audience_level": "All",
+            "talk_format": "Talk (45 minutes)"
         }
     }
 ]

@@ -15,21 +15,6 @@
             "tags": [
                 "🇬🇧"
             ]
-        },
-        {
-            "title": "Scala vs Kotlin",
-            "description": "Kotlin is perhaps the fastest growing language in the history of the JVM, and seems poised to take increasing market share from Java. Kotlin combines a variety of new language features, cross-platform support, and an emphasis on tooling to deliver a compelling package for many commercial software developers.\r\n\r\nIn this presentation, you'll get a chance to learn what all the hype is about, as you explore the Kotlin language, tooling, libraries, and community, all from the perspective of a Scala developer. Learn how Kotlin stacks up against Scala, and in which situations you might choose Kotlin, and which others you might choose Scala.",
-            "abstract": "Kotlin's meteoric rise has sent shock waves through the JVM ecosystem, and left many teams scrambling to figure out which language to use in which situation. Bring popcorn to watch as Scala and Kotlin battle it out in an epic clash—covering language, tooling, libraries, and community!",
-            "audience_level": "All",
-            "talk_format": "Talk (45 minutes)",
-            "tags": [
-                "scala",
-                "kotlin",
-                "functional programming",
-                "fp",
-                "jvm",
-                "🇬🇧"
-            ]
         }
     ]
 }
