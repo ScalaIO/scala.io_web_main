@@ -39,8 +39,10 @@ Scala.IO 2017
 
 <ul class="donators">
 {% for donator in site.data.donators.ScalaIO2017 %}
-<li>{{donator.name}} <span class="details"> <a href="http://twitter.com/{{donator.twitter}}"><i class="fab fa-twitter"></i></a> <span class="company">{{donator.company}}</span>
-</li>
+  <li>{{donator.name}} <span class="details"> 
+    <a href="http://twitter.com/{{donator.twitter}}"><i class="fab fa-twitter"></i></a>
+    <span class="company">{{donator.company}}</span>
+  </li>
 {% endfor %}
 </ul>
 
@@ -56,6 +58,7 @@ Scala.IO 2016
   </li>
 {% endfor %}
 </ul>
+
 Scala.IO 2014
 ===============
 
