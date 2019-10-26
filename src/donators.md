@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Partners
+title: Hall of fame
 ---
 Buy a "Generous donator" pass to get your name displayed on this page as one of the absolute Scala.IO supporter !
 
