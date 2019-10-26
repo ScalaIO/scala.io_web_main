@@ -33,4 +33,25 @@ ScalaIO2018:
   - name: Karol Chmist
     twitter: karolchmist
     avatar: https://pbs.twimg.com/profile_images/525626555259961345/rO_Q_DkX_400x400.jpeg
-    company: Freelance 
+    company: Freelance
+ScalaIO2019:
+  - name: Olivier CHIROUZE
+    twitter: OlivierChirouze
+    avatar:
+    company: Criteo
+  - name: Brice LAURENCIN
+    twitter:
+    avatar:
+    company: Criteo
+  - name: Rémi LAVOLÉE
+    twitter:
+    avatar:
+    company: Ubilab
+  - name: Guillaume NOIREAUX
+    twitter:
+    avatar:
+    company: Ubilab
+  - name: Guillaume BADIN
+    twitter: guillaumebadin
+    avatar:
+    company: Ubilab
