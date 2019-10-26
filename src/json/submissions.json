@@ -1121,40 +1121,6 @@
         }
     },
     {
-        "id": 87638,
-        "tags": [
-            "performance",
-            "macros",
-            "dotty",
-            "🇬🇧"
-        ],
-        "profile": {
-            "name": "Aggelos Biboudis",
-            "bio": "Doing programming language research at LAMP/EPFL, working on the Scala 3 compiler. ",
-            "twitter": "biboudis",
-            "company": "EPFL",
-            "url": "http://biboudis.github.io",
-            "avatar": "/assets/images/speakers/aggelos-biboudis.jpg"
-        },
-        "co_presenter_profiles": [
-            {
-                "name": "Olivier Blanvillain",
-                "bio": "",
-                "twitter": "",
-                "company": "",
-                "url": "",
-                "avatar": "/assets/images/speakers/olivier-blanvillain.jpg"
-            }
-        ],
-        "talk": {
-            "title": "Safe Code Generation with Scala 3 Macros ",
-            "description": "Macros in Scala 3 are built on two well-known fundamental operations: quotation and splicing. Quotation converts program code to data, specifically, a (tree-like) representation of this code. It is expressed as `'{...}` for expressions and as `'[...]` for types. Splicing, expressed as `${ ... }`, goes the other way: it converts a program's representation to program code. With these operations we can build code-generators either at compile- or run-time. In this talk we will focus on the latter to effectively create a code-generator for two well-known libraries. Our goal will be to demonstrate how we can remove various abstractions that incur performance penalties through:\r\n\r\n- Partial evaluation (e.g., inlining) \r\n- Various forms of specialization (e.g., remove boxing) \r\n\r\nOur examples build on top of minispire, a small, self-contained kernel of Spire [presented by Denis Rosset](https://www.scaladays.org/schedule/pick-your-number-type-with-spire) and Shapeless 3 [presented by Miles Shabin](https://www.scaladays.org/schedule/the-shapeless-of-type-class-derivation-in-scala-3).\r\n\r\n",
-            "abstract": "In this talk we introduce compile-time staging--a mechanism for well-scoped, type-safe, code generation which is part of the new Scala 3 macro system. We show how staging can be used to enhance the runtime performance of existing libraries such as Spire and Shapeless.",
-            "audience_level": "Intermediate",
-            "talk_format": "Talk (45 minutes)"
-        }
-    },
-    {
         "id": 86878,
         "tags": [
             "tooling-and-build-systems",
