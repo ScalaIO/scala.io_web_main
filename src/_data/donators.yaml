@@ -16,21 +16,42 @@ ScalaIO2016:
     twitter: andy1138
     avatar: https://pbs.twimg.com/profile_images/860854453/twitterProfilePhoto.jpg
     company: Freelance
-  - name: Guillaume Badin
+  - name: Guillaume BADIN
     twitter: guillaumebadin
     avatar: https://pbs.twimg.com/profile_images/441972902775103491/P1jBTmCx.png
-    company: ubilab.io
+    company: Ubilab
 ScalaIO2017:
   - name: Emmanuel FELLER
     twitter: moyowi
     avatar: https://pbs.twimg.com/profile_images/440525886916292608/3SvkyrDE.jpeg
     company: innovation-box.fr 
 ScalaIO2018:
-  - name: Francois Armand
+  - name: Francois ARMAND
     twitter: fanf42
     avatar: https://pbs.twimg.com/profile_images/751335882389614592/W4VS4PNe_400x400.jpg
     company: www.normation.com
-  - name: Karol Chmist
+  - name: Karol CHMIST
     twitter: karolchmist
     avatar: https://pbs.twimg.com/profile_images/525626555259961345/rO_Q_DkX_400x400.jpeg
-    company: Freelance 
+    company: Freelance
+ScalaIO2019:
+  - name: Olivier CHIROUZE
+    twitter: OlivierChirouze
+    avatar:
+    company: Criteo
+  - name: Brice LAURENCIN
+    twitter:
+    avatar:
+    company: Criteo
+  - name: Rémi LAVOLÉE
+    twitter:
+    avatar:
+    company: Ubilab
+  - name: Guillaume NOIREAUX
+    twitter:
+    avatar:
+    company: Ubilab
+  - name: Guillaume BADIN
+    twitter: guillaumebadin
+    avatar:
+    company: Ubilab
