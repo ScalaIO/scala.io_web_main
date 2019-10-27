@@ -180,10 +180,6 @@
         "avatar": "/assets/images/speakers/jon-pretty.jpg"
     },
     {
-        "name": "Aggelos Biboudis",
-        "avatar": "/assets/images/speakers/aggelos-biboudis.jpg"
-    },
-    {
         "name": "François Sarradin",
         "avatar": "https://secure.gravatar.com/avatar/fa3d0249159281beafb1f149889c2dd4?s=500"
     },
@@ -222,10 +218,6 @@
     {
         "name": "Clément Bouillier",
         "avatar": "/assets/images/speakers/clement-bouillier.jpg"
-    },
-    {
-        "name": "Olivier Blanvillain",
-        "avatar": "/assets/images/speakers/olivier-blanvillain.jpg"
     },
     {
         "name": "Gaël Deest",
