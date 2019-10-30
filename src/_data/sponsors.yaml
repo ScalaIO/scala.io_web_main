@@ -35,6 +35,8 @@ silver:
     url: https://gatling.io/
   - name: clevercloud
     url: https://www.clever-cloud.com/
+  - name: 47degrees
+    url: https://www.47deg.com/
  # - name: carbonit
  #   url: http://carbon-it.fr/
  # - name: colisweb
